@@ -3,20 +3,19 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-16 11:46 UTC · **1530** deals tracked of 1530 advertised · checks every **3 h**
+**Last check:** 2026-11-16 12:05 UTC · **1530** deals tracked of 1530 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 2 removed deals → [full report](changes/2026-11-16T1146Z.md)
+✅ 1 back in stock → [full report](changes/2026-11-16T1205Z.md)
 
-### ❌ Removed deals (2)
+### ✅ Back in stock (1)
 
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Takamine GC1CE-Nat](https://www.thomann.pl/takamine_gc1ce_nat.htm) | 1 259 zł |  |  | Dostępny w magazynie |  |
-| [Thomann Tongue Drum 12" Lotus M](https://www.thomann.pl/thomann_tongue_drum_12_lotus_m.htm) | 16 218 zł |  |  | Dostępny w magazynie |  |
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [PRS SE Custom 24 S/H VS 2025](https://www.thomann.pl/prs_se_custom_24_s_h_vs_2025.htm) | 3 899 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
 
 <!-- DASHBOARD:END -->
 
