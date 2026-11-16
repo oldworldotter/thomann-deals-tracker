@@ -3,20 +3,33 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-16 16:24 UTC · **1540** deals tracked of 1540 advertised · checks every **3 h**
+**Last check:** 2026-11-16 20:02 CET · **1535** deals tracked of 1535 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 2 removed deals → [full report](changes/2026-11-16T1624Z.md)
+❌ 1 removed deals · 📈 3 price increases · 🏷️ 1 discount changes → [full report](changes/2026-11-16T1902Z.md)
 
-### ❌ Removed deals (2)
+### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Epiphone J-200 All Solid Ag Viper Blue](https://www.thomann.pl/epiphone_j_200_all_solid_ag_viper_blue.htm) | 3 750 zł |  |  | Dostępny w magazynie |  |
-| [ESP Eclipse Custom Tiger Eye SB](https://www.thomann.pl/esp_eclipse_custom_tiger_eye_sb.htm) | 26 290 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha CG102 NT](https://www.thomann.pl/yamaha_cg102_nt.htm) | 898 zł |  |  | Dostępny w magazynie |  |
+
+### 📈 Price increases (3)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Shure SM57 LC](https://www.thomann.pl/shure_sm57_lc.htm) | 479 zł | **485 zł** | +1.3% |  |  | Dostępny w magazynie |
+| [Tannoy Gold 7](https://www.thomann.pl/tannoy_gold_7.htm) | 1 150 zł | **1 155 zł** | +0.4% |  |  | Dostępny w magazynie |
+| [Peli 1535 Air TrekPak Black](https://www.thomann.pl/peli_1535_air_trekpak_black.htm) | 1 966 zł | **1 969 zł** | +0.2% |  |  | Dostępny w magazynie |
+
+### 🏷️ Discount changes (1)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Dixon PSN-9 Drum Throne](https://www.thomann.pl/dixon_psn_9_drum_throne.htm) | 389 zł | -17% | **-18%** |
 
 <!-- DASHBOARD:END -->
 
