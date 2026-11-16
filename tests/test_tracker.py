@@ -34,14 +34,10 @@ def make_catalog(n=95):
 class TrackerTest(unittest.TestCase):
     def setUp(self):
         self.tmp = Path(tempfile.mkdtemp())
-        cfg = yaml.safe_load((REPO / "config.yml").read_text(encoding="utf-8"))
-        cfg["source"]["delay_seconds"] = 0
-        cfg["source"]["concurrency"] = 4
-        cfg["source"]["retry_wait_seconds"] = 0.01
-        cfg["schedule"]["active_from"] = "2026-11-01"
-        cfg["watchlist"]["keywords"] = ["Model 4 ", "Shure"]
-        (self.tmp / "config.yml").write_text(yaml.safe_dump(cfg, allow_unicode=True), encoding="utf-8")
-        shutil.copy(REPO / "README.md", self.tmp / "README.md")
+        # fixed test settings, not the live config.yml (which the owner edits freely)
+        shutil.copy(REPO / "tests" / "config.yml", self.tmp / "config.yml")
+        (self.tmp / "README.md").write_text(
+            "# Test\n\n<!-- DASHBOARD:START -->\n<!-- DASHBOARD:END -->\n\n## Run locally\n", encoding="utf-8")
         self.catalog = self.tmp / "catalog.json"
         os.environ["TRACKER_FAKE_SITE"] = str(self.catalog)
         os.environ.pop("FORCE", None)
@@ -147,7 +143,6 @@ class TrackerTest(unittest.TestCase):
         print("\n----- sample changes report -----\n" + first[:1800])
 
     def test_parallel_matches_sequential_on_full_size_sale(self):
-        import time
         from tracker import scrape as scr
         from tests.fake_site import FakeSession
         cat = make_catalog(1536)
@@ -156,17 +151,15 @@ class TrackerTest(unittest.TestCase):
         results = {}
         for workers in (1, 4):
             cfg["source"]["concurrency"] = workers
-            sess = FakeSession(str(self.catalog), latency=0.3)
-            t = time.time()
-            res = scr.scrape(cfg, session=sess)
-            results[workers] = (res, time.time() - t)
+            sess = FakeSession(str(self.catalog), latency=0.02)
+            results[workers] = (scr.scrape(cfg, session=sess), sess.max_in_flight)
         seq, par = results[1][0], results[4][0]
         self.assertEqual(len(seq.deals), 1537)  # 1536 + SM58 only in "featured"
         self.assertEqual(set(seq.deals), set(par.deals))
         self.assertEqual({k: v.price for k, v in seq.deals.items()}, {k: v.price for k, v in par.deals.items()})
         self.assertFalse(par.errors)
-        print(f"\\n1536 deals / {seq.pages_fetched} pages: sequential {results[1][1]:.1f}s, 4 parallel {results[4][1]:.1f}s")
-        self.assertLess(results[4][1], results[1][1] / 2)
+        self.assertEqual(results[1][1], 1)                 # one request at a time
+        self.assertTrue(2 <= results[4][1] <= 4, results)  # really in parallel, never more than asked
 
     def test_parallel_page_failure_marks_partial(self):
         from tracker import scrape as scr
@@ -181,9 +174,6 @@ class TrackerTest(unittest.TestCase):
 
     def test_discord_message_for_new_deals(self):
         from unittest import mock
-        cfg = yaml.safe_load((self.tmp / "config.yml").read_text())
-        cfg["alerts"]["discord"]["enabled"] = True  # off in the live config; this test needs it on
-        (self.tmp / "config.yml").write_text(yaml.safe_dump(cfg, allow_unicode=True))
         sent = []
         fake_post = lambda url, json=None, timeout=None, **kw: sent.append((url, json)) or mock.Mock(status_code=204, text="")
         os.environ.update(DISCORD_WEBHOOK_URL="https://discord.example/webhook", GITHUB_REPOSITORY="me/tracker")
@@ -268,6 +258,158 @@ class TrackerTest(unittest.TestCase):
         cat["deals"][3]["price"] = 180  # later real changes are reported again
         st = self.run_at("2026-11-16T16:10:00+00:00", cat)
         self.assertEqual(st["last_result"]["counts"], {"price_down": 1})
+
+    def test_short_wait_stock_label_is_recognised(self):
+        from tracker.scrape import Parser
+        p = Parser("https://www.thomann.pl/special_cyber-deals.html", "zł|zl|PLN")
+        html = ('<html><body><h2>Przegląd wszystkich 1535 ofert</h2><div><a href="ableton_move.htm">Ableton Move</a>'
+                '<div><span>1 699 zł</span></div><div>-21%</div><div>najlepsza cena z 30-dni: 2 155 zł</div>'
+                '<div>Krótki czas oczekiwania (zazwyczaj 2-5 dni)</div></div></body></html>')
+        d = p.parse(html)[0][0]
+        self.assertEqual((d.price, d.ref_price, d.stock_state), (1699, 2155, "delayed"))
+        self.assertEqual(d.stock, "Krótki czas oczekiwania (zazwyczaj 2-5 dni)")
+        self.assertEqual(d.sections, ["Przegląd wszystkich ofert"])  # no deal count in the name
+        self.assertFalse(hasattr(d, "old_price"))
+
+    def test_sections_do_not_pile_up_between_checks(self):
+        cat = make_catalog()
+        self.run_at("2026-11-16T10:00:00+00:00", cat)
+        before = self.snap()["product_001.htm"]["sections"]
+        for i, when in enumerate(("13:05", "16:10", "19:15")):
+            cat["advertised"] = 95 + i + 1  # the heading's count changes on every check
+            self.run_at(f"2026-11-16T{when}:00+00:00", cat)
+        after = self.snap()["product_001.htm"]["sections"]
+        self.assertEqual(before, after)
+        self.assertEqual(after, ["Przegląd wszystkich ofert", "Wyróżnione okazje"])
+        self.assertNotIn("old_price", self.snap()["product_001.htm"])
+
+    def test_removed_deal_that_comes_back_is_reported_as_returned(self):
+        cat = make_catalog()
+        self.run_at("2026-11-16T10:00:00+00:00", cat)
+        gone = cat["deals"].pop(10)
+        self.run_at("2026-11-16T13:05:00+00:00", cat)
+        st = self.run_at("2026-11-16T16:10:00+00:00", cat)
+        self.assertEqual(st["last_result"]["counts"], {"removed": 1})
+        removed = json.loads((self.tmp / "data" / "removed.json").read_text())
+        self.assertEqual(removed[gone["slug"]]["price"], gone["price"])
+        cat["deals"].append(dict(gone, price=gone["price"] - 40))
+        st = self.run_at("2026-11-16T19:15:00+00:00", cat)
+        self.assertEqual(st["last_result"]["counts"], {"returned": 1})
+        report = (self.tmp / "changes" / "2026-11-16T1915Z.md").read_text()
+        self.assertIn("Returned deals (1)", report)
+        self.assertIn("2026\u201111\u201116\u00a017:10", report)  # when it was removed, in Polish time
+        self.assertEqual(json.loads((self.tmp / "data" / "removed.json").read_text()), {})
+        self.assertIn(",returned,", (self.tmp / "data" / "price_history.csv").read_text())
+
+    def test_manual_check_does_not_shift_the_schedule(self):
+        cat = make_catalog()
+        self.run_at("2026-11-16T10:00:00+00:00", cat)                      # scheduled
+        st = self.run_at("2026-11-16T11:30:00+00:00", cat, force=True)     # manual extra
+        self.assertEqual(st["runs"], 2)
+        st = self.run_at("2026-11-16T12:59:00+00:00", cat)                 # 3 h after the scheduled one
+        self.assertEqual(st["runs"], 3)
+        st = self.run_at("2026-11-16T13:59:00+00:00", cat)                 # too early: skipped
+        self.assertEqual(st["runs"], 3)
+        st = self.run_at("2026-11-16T15:59:00+00:00", cat)
+        self.assertEqual(st["runs"], 4)
+
+    def test_small_price_moves_are_ignored_but_cannot_creep(self):
+        cfg = yaml.safe_load((self.tmp / "config.yml").read_text())
+        cfg["diff"]["min_price_change_pct"] = 1
+        (self.tmp / "config.yml").write_text(yaml.safe_dump(cfg, allow_unicode=True))
+        cat = make_catalog()
+        cat["deals"][20]["price"] = 1000
+        self.run_at("2026-11-16T10:00:00+00:00", cat)
+        cat["deals"][20]["price"] = 1006                                   # +0.6 %: ignored
+        st = self.run_at("2026-11-16T13:05:00+00:00", cat)
+        self.assertEqual(st["last_result"]["counts"], {})
+        self.assertEqual(self.snap()["product_020.htm"]["price"], 1006)    # deals.md still shows the real price
+        cat["deals"][20]["price"] = 1012                                   # +0.6 % again, +1.2 % in total: reported
+        st = self.run_at("2026-11-16T16:10:00+00:00", cat)
+        self.assertEqual(st["last_result"]["counts"], {"price_up": 1})
+        self.assertIn("1\u00a0000\u00a0zł | **1\u00a0012\u00a0zł**", (self.tmp / "changes" / "2026-11-16T1610Z.md").read_text())
+
+    def test_live_config_is_usable(self):
+        """Catches a typo made while editing config.yml on github.com."""
+        from zoneinfo import ZoneInfo
+        cfg = yaml.safe_load((REPO / "config.yml").read_text(encoding="utf-8"))
+        self.assertTrue(cfg["source"]["url"].startswith("https://"))
+        self.assertGreater(float(cfg["schedule"]["check_every_hours"]), 0)
+        self.assertGreaterEqual(float(cfg["diff"]["min_price_change_pct"]), 0)
+        self.assertGreaterEqual(int(cfg["diff"]["removal_grace_runs"]), 1)
+        self.assertTrue(1 <= int(cfg["source"]["concurrency"]) <= 10)
+        self.assertIn(cfg["report"]["deals_sort"], ["newest", "discount", "price", "name", "savings"])
+        ZoneInfo(cfg["display_timezone"])
+        for section in ("source", "schedule", "diff", "report", "watchlist", "alerts"):
+            self.assertIsInstance(cfg[section], dict, section)
+        for key in ("keywords", "ids"):
+            self.assertIsInstance(cfg["watchlist"][key], list, key)
+
+    def test_fewer_deals_than_advertised_counts_as_incomplete(self):
+        cat = make_catalog()
+        self.run_at("2026-11-16T10:00:00+00:00", cat)
+        cat["advertised"] = 95
+        del cat["deals"][85:]            # the shop says 95 but only 85 could be read
+        st = self.run_at("2026-11-16T13:05:00+00:00", cat)
+        self.assertTrue(st["last_result"]["partial"])
+        st = self.run_at("2026-11-16T16:10:00+00:00", cat)
+        self.assertNotIn("removed", st["last_result"]["counts"])
+        self.assertIn("product_090.htm", self.snap())
+
+    def test_unchanged_deals_are_not_rewritten(self):
+        cat = make_catalog()
+        self.run_at("2026-11-16T10:00:00+00:00", cat)
+        self.run_at("2026-11-16T13:05:00+00:00", cat)
+        first = (self.tmp / "data" / "snapshot.json").read_text()
+        gone = cat["deals"].pop(10)["slug"]
+        self.run_at("2026-11-16T16:10:00+00:00", cat)
+        second = (self.tmp / "data" / "snapshot.json").read_text()
+        changed = set(first.splitlines()) ^ set(second.splitlines())
+        self.assertLess(len(changed), 6, changed)                     # only the missing deal's lines
+        self.assertEqual(self.snap()[gone]["last_seen"], "2026-11-16T13:05Z")
+
+    def test_throttled_single_requests_keep_slowing_down(self):
+        from tracker import scrape as scr
+        from tests.fake_site import FakeSession
+        cat = make_catalog(200)
+        cat["per_page"] = 20
+        cat["throttle_pages"] = [3, 6]
+        self.catalog.write_text(json.dumps(cat))
+        cfg = yaml.safe_load((self.tmp / "config.yml").read_text())
+        cfg["source"].update(concurrency=1, delay_seconds=0.01, throttled_delay_seconds=0.02)
+        with self.assertLogs("tracker.scrape", level="WARNING") as logs:
+            res = scr.scrape(cfg, session=FakeSession(str(self.catalog)))
+        self.assertEqual(len(res.deals), 201)
+        self.assertEqual(sum("slowing down" in l for l in logs.output), 2)
+
+    def test_trigger_timing_gives_one_check_per_interval(self):
+        """Replays triggers with realistic lateness through the schedule rule itself."""
+        from datetime import datetime, timedelta, timezone
+        cfg = yaml.safe_load((self.tmp / "config.yml").read_text())
+
+        def replay(tick_hours, every, lateness_minutes, n=40):
+            cfg["schedule"]["check_every_hours"] = every
+            state, ran = {}, []
+            t0 = datetime(2026, 11, 17, 0, 59, tzinfo=timezone.utc)
+            for i in range(n):
+                start = t0 + timedelta(hours=tick_hours * i, minutes=lateness_minutes[i % len(lateness_minutes)])
+                ok, _ = self.m.should_run(cfg, state, start)
+                if ok:  # what main() records when a scheduled check starts
+                    state["last_scheduled_run"] = state["last_run"] = start.isoformat()
+                    ran.append(start)
+            return [round((b - a).total_seconds() / 3600, 1) for a, b in zip(ran, ran[1:])]
+
+        # a trigger every 3 h, check every 3 h: every trigger checks, even when one starts
+        # 20 or 40 minutes late and the next one is on time
+        gaps = replay(3, 3, [0, 1, 0, 20, 0, 40, 0, 2])
+        self.assertEqual(len(gaps), 39)
+        self.assertTrue(all(2.3 <= g <= 3.7 for g in gaps), gaps)
+        # a trigger every hour, check every 3 h: exactly every third trigger checks
+        gaps = replay(1, 3, [0, 3, 1, 8, 0])
+        self.assertTrue(all(2.8 <= g <= 3.2 for g in gaps), gaps)
+        # a trigger every hour, check every hour
+        gaps = replay(1, 1, [0, 3, 1, 8, 0])
+        self.assertTrue(all(0.8 <= g <= 1.2 for g in gaps), gaps)
 
     def test_zero_deals_fails_and_saves_debug(self):
         cat = {"per_page": 40, "deals": [], "featured": []}

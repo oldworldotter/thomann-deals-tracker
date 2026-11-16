@@ -8,6 +8,7 @@ from pathlib import Path
 
 ICONS = {
     "added": ("🆕", "New deals"),
+    "returned": ("🔁", "Returned deals"),
     "removed": ("❌", "Removed deals"),
     "price_down": ("💸", "Price drops"),
     "price_up": ("📈", "Price increases"),
@@ -147,6 +148,12 @@ def change_rows(t, items, cfg):
         for c in items:
             d = c["deal"]
             lines.append(f"| {link(d)} | {money(d.get('price'), cfg)} | {esc(str(c['old']))} | **{esc(str(c['new']))}** |")
+    elif t == "returned":
+        lines = ["| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |", "|---|--:|--:|--:|--:|---|---|"]
+        items = sorted(items, key=lambda c: -(c["deal"].get("discount") or 0))
+        for c in items:
+            d = c["deal"]
+            lines.append(f"| {link(d)} | **{money(d.get('price'), cfg)}** | {money(c['old'], cfg) if c.get('old') else ''} | {disc(d)} | {money(d.get('ref_price'), cfg) if d.get('ref_price') else ''} | {esc(d.get('stock'))} | {nowrap(human_ts(c.get('removed_at') or '', label=False))} |")
     else:  # added / removed
         lines = ["| Product | Price | Discount | 30-day best | Stock | Badge |", "|---|--:|--:|--:|---|---|"]
         items = sorted(items, key=lambda c: -(c["deal"].get("discount") or 0))

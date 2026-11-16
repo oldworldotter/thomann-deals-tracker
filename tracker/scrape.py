@@ -7,6 +7,7 @@ exactly one product and a price. That element is treated as the tile.
 """
 from __future__ import annotations
 
+import bisect
 import json
 import logging
 import re
@@ -41,6 +42,7 @@ STOCK_PATTERNS = [
     (r"dost[eę]pn\w*\s+w\s+magazynie|dost[eę]pn\w*\s+natychmiast|auf lager|in stock", "in_stock"),
     (r"pobierz licencj\w*|download|licencja", "download"),
     (r"dost[eę]pn\w*\s+za\s+[^\d]*\d+(?:\s*[–-]\s*\d+)?\s*\w+|lieferbar in|available in", "delayed"),
+    (r"kr[oó]tki czas oczekiwania(?:\s*\([^)]{0,40}\))?|kurzfristig lieferbar|available shortly", "delayed"),
     (r"wkr[oó]tce|na zam[oó]wienie|zam[oó]wion\w*", "delayed"),
     (r"brak w magazynie|niedost[eę]pn\w*|nicht verf[uü]gbar|out of stock|wyprzedan\w*", "out"),
 ]
@@ -55,7 +57,6 @@ class Deal:
     name: str
     price: float | None = None
     ref_price: float | None = None  # "best price of the last 30 days"
-    old_price: float | None = None  # struck-through price, if shown
     discount: int | None = None
     stock: str = ""
     stock_state: str = "unknown"
@@ -89,6 +90,9 @@ class Parser:
         # not continue across a boundary (so a review count "751" in the element before
         # "599 zł" can't merge into "751 599 zł"), but the currency may sit in its own element.
         self.price_sep_re = re.compile(rf"({NUM})\s*{SEP}?\s*(?:{currency_regex})", re.I)
+        self.unknown_stock: list[str] = []  # a few samples of tiles whose stock text wasn't recognised
+        self._ids_cache: dict[int, frozenset] = {}
+        self._headings: list[tuple[tuple[int, int], str]] = []
 
     # ---------- helpers ----------
     def product_id(self, href: str) -> str | None:
@@ -105,13 +109,19 @@ class Parser:
             return None
         return path.rsplit("/", 1)[-1].lower()
 
-    def _distinct_ids(self, el: Tag) -> set[str]:
-        ids = set()
-        for a in el.find_all("a", href=True):
-            pid = self.product_id(a["href"])
-            if pid:
-                ids.add(pid)
-        return ids
+    def _distinct_ids(self, el: Tag) -> frozenset:
+        """Product ids linked inside `el`. Cached per page: every tile climbs through the same
+        ancestors, and without the cache a 400-tile page costs seconds instead of milliseconds."""
+        key = id(el)
+        hit = self._ids_cache.get(key)
+        if hit is None:
+            ids = set()
+            for a in el.find_all("a", href=True):
+                pid = self.product_id(a["href"])
+                if pid:
+                    ids.add(pid)
+            hit = self._ids_cache[key] = frozenset(ids)
+        return hit
 
     def _find_tile(self, a: Tag, pid: str) -> Tag | None:
         best = None
@@ -130,11 +140,28 @@ class Parser:
         return best
 
     @staticmethod
-    def _section_of(tile: Tag) -> str:
+    def _heading_text(h: Tag) -> str:
+        """Section name without counts: "Przegląd wszystkich 1535 ofert" changes with every
+        check, so the number is dropped to keep the name stable."""
+        t = re.sub(r"\s+", " ", h.get_text(" ", strip=True))
+        return re.sub(r"\s+", " ", re.sub(r"\d[\d .\u00a0\u202f\u2009]*", " ", t)).strip()[:80]
+
+    def _index_headings(self, soup: BeautifulSoup):
+        self._headings = []
+        for h in soup.find_all(["h1", "h2", "h3"]):
+            if h.sourceline is None:
+                self._headings = []  # parser gave no positions: fall back to searching per tile
+                return
+            self._headings.append(((h.sourceline, h.sourcepos or 0), self._heading_text(h)))
+        self._headings.sort(key=lambda x: x[0])
+
+    def _section_of(self, tile: Tag) -> str:
+        """The nearest heading before the tile (looked up by position in the page source)."""
+        if self._headings and tile.sourceline is not None:
+            i = bisect.bisect_left(self._headings, ((tile.sourceline, tile.sourcepos or 0), "")) - 1
+            return self._headings[i][1] if i >= 0 else ""
         h = tile.find_previous(["h1", "h2", "h3"])
-        if not h:
-            return ""
-        return re.sub(r"\s+", " ", h.get_text(" ", strip=True))[:80]
+        return self._heading_text(h) if h else ""
 
     def _sep_text(self, el: Tag) -> str:
         return re.sub(r"[ \t\r\n]+", " ", el.get_text(SEP, strip=True))
@@ -149,6 +176,8 @@ class Parser:
             t = self._sep_text(el)
             if self.price_sep_re.search(t) and len(t) < 40:
                 struck.append(t)
+        # On thomann.pl this ends up matching the normal price element, so it isn't stored;
+        # it is still used below exactly as before, to keep price selection unchanged.
         old_price = None
         for t in struck:
             m = self.price_sep_re.search(t)
@@ -168,7 +197,7 @@ class Parser:
             matches = matches[:ref_idx] + matches[ref_idx + 1 :]
         remaining = [v for _, v in matches if v != old_price] or [v for _, v in matches]
         price = remaining[0] if remaining else None
-        return price, ref_price, old_price
+        return price, ref_price
 
     @staticmethod
     def _stock(tile: Tag, text: str):
@@ -200,6 +229,8 @@ class Parser:
     # ---------- main ----------
     def parse(self, html: str) -> tuple[list[Deal], int | None]:
         soup = BeautifulSoup(html, "html.parser")
+        self._ids_cache = {}
+        self._index_headings(soup)
         expected = None
         m = re.search(r"wszystkich\s+([\d\s .]+)\s+ofert|all\s+([\d,.]+)\s+(?:deals|offers)",
                       soup.get_text(" "), re.I)
@@ -223,17 +254,18 @@ class Parser:
                 continue
             text = re.sub(r"\s+", " ", tile.get_text(" ", strip=True))
             anchors = [x for x in tile.find_all("a", href=True) if self.product_id(x["href"]) == pid]
-            price, ref_price, old_price = self._prices(tile, text)
+            price, ref_price = self._prices(tile, text)
             dm = DISCOUNT_RE.search(text)
             bm = BADGE_RE.search(text)
             stock, state = self._stock(tile, text)
+            if state == "unknown" and len(self.unknown_stock) < 5:
+                self.unknown_stock.append(f"{pid}: …{text[-140:]}")
             deals[pid] = Deal(
                 id=pid,
                 url=urljoin(self.base_url, urlparse(urljoin(self.base_url, a["href"])).path),
                 name=self._name(tile, anchors),
                 price=price,
                 ref_price=ref_price,
-                old_price=old_price,
                 discount=int(dm.group(1)) if dm else None,
                 stock=stock,
                 stock_state=state,
@@ -335,7 +367,7 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
     """Fetch pages in batches of parallel requests, then process them in order.
 
     Polite by design: if the shop answers 429 (Too Many Requests), the batch size is
-    halved (down to 1) and the pause between batches doubled for the rest of the run.
+    halved (down to 1) and the pause between batches doubled (up to 30 s) for the rest of the run.
     Pages that still fail are retried one by one at the end, so a throttled run
     doesn't lose deals. Stops when `stop_after_empty_pages` consecutive pages bring
     no new deals, or at `max_pages`.
@@ -401,9 +433,10 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
                 if exp and len(all_deals) >= exp + int(src.get("extra_tiles_allowance", 80)):
                     stop = True
                     break
-            if throttle.hit and workers > 1:
+            if throttle.hit:
+                # also when already down to one request at a time: keep lengthening the pause
                 workers = max(1, workers // 2)
-                delay = max(delay * 2, 2.0)
+                delay = min(max(delay * 2, float(src.get("throttled_delay_seconds", 2.0))), 30.0)
                 log.warning("shop is throttling: slowing down to %s parallel request(s), %.0fs pause", workers, delay)
             if len(failed) >= 10:
                 errors.append(f"too many failed pages ({len(failed)}), giving up early")
@@ -415,7 +448,7 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
     for page in sorted(failed):
         if page > state["last_page"] and state["empty_streak"] >= stop_after:
             continue  # past the end of the list anyway
-        time.sleep(max(delay, 3.0))
+        time.sleep(max(delay, float(src.get("second_pass_delay_seconds", 3.0))))
         html = _fetch(s, src, page, extra, page_param, throttle)
         if html is None:
             errors.append(f"page {page}: failed after retries")
@@ -424,6 +457,9 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
 
     log.info("fetched %s pages; %s parallel request(s) at the end; %s page(s) needed a second pass",
              state["last_page"], workers, len(failed))
+    unknown = sum(1 for d in all_deals.values() if d.stock_state == "unknown")
+    if unknown:
+        log.warning("%s deal(s) with an unrecognised stock label, e.g. %s", unknown, " | ".join(parser.unknown_stock))
     return ScrapeResult(all_deals, state["expected"], state["last_page"], errors, first_html)
 
 

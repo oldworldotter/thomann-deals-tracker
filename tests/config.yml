@@ -1,0 +1,80 @@
+# Fixed settings for the tests. The live settings are in ../config.yml;
+# changing those must never change what the tests check.
+title: Thomann Black Friday / Cyber Deals tracker
+display_timezone: Europe/Warsaw
+source:
+  url: https://www.thomann.pl/special_cyber-deals.html
+  currency_label: zł
+  currency_regex: zł|zl|PLN
+  page_param: pg
+  extra_params: {}
+  max_pages: 150
+  concurrency: 4
+  delay_seconds: 0
+  retry_attempts: 5
+  stop_after_empty_pages: 2
+  retry_wait_seconds: 0.01
+  throttled_delay_seconds: 0
+  second_pass_delay_seconds: 0
+schedule:
+  enabled: true
+  check_every_hours: 3
+  active_from: '2026-11-01'
+  active_until: '2026-12-02'
+diff:
+  removal_grace_runs: 2
+  min_price_change_pct: 0
+  partial_scrape_threshold: 0.8
+report:
+  show:
+    added: true
+    returned: true
+    removed: true
+    price_down: true
+    price_up: true
+    discount: true
+    back_in_stock: true
+    stock: true
+  filters:
+    min_discount: 0
+    min_price: null
+    max_price: null
+    include_keywords: []
+    exclude_keywords: []
+    sections: []
+    stock_states: []
+  deals_sort: newest
+watchlist:
+  keywords:
+  - 'Model 4 '
+  - Shure
+  ids: []
+  max_price: null
+  min_discount: null
+alerts:
+  github_issue: false
+  ntfy_topic: ''
+  ntfy_server: https://ntfy.sh
+  true:
+  - added
+  - returned
+  - price_down
+  - back_in_stock
+  only_watchlist: true
+  min_drop_pct: 0
+  filters: {}
+  discord:
+    enabled: true
+    'on':
+    - added
+    - returned
+    only_watchlist: false
+    min_drop_pct: 0
+    filters: {}
+    max_items: 15
+    username: Thomann deals
+  'on':
+  - added
+  - returned
+  - price_down
+  - back_in_stock

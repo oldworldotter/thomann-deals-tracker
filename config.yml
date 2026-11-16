@@ -13,27 +13,33 @@ source:
   page_param: pg                # ?pg=2, ?pg=3 ... (what "Pokaż więcej" loads)
   extra_params: {}              # extra query parameters, if ever needed
   max_pages: 150                # safety cap
-  concurrency: 2                # pages fetched in parallel (1 = one by one; max 10).
-                                # If Thomann answers "429 Too Many Requests", the run
-                                # automatically halves this and slows down.
-  delay_seconds: 1.0            # pause between each batch of parallel requests
+  concurrency: 1                # pages fetched in parallel (1 = one by one; max 10)
+  delay_seconds: 2.0            # pause between requests. One page every ~3 s is the fastest pace
+                                # that never got "429 Too Many Requests" from Thomann in the run
+                                # logs; 2 in parallel with a 1 s pause got throttled every time.
+                                # If a 429 still happens, the run slows itself down further.
   retry_attempts: 5             # per page; waits 5, 10, 20, 40 s (or what Thomann asks)
   stop_after_empty_pages: 2     # stop once 2 pages in a row bring no new deals
 
 schedule:
   enabled: true
-  check_every_hours: 3          # 1, 2, 3, 6, 12, 24 ... (GitHub wakes up hourly; minimum 1)
+  check_every_hours: 3          # a check runs when the workflow is started and this many hours
+                                # have passed since the last scheduled check. Whatever starts the
+                                # workflow (see README → "What starts a check") must fire at least
+                                # this often. Manual "Run workflow" checks are extra and don't
+                                # shift the rhythm.
   active_from: 2026-11-05       # no checks before this date
   active_until: 2026-12-02      # no checks after this date (sale ends 30.11)
 
 diff:
   removal_grace_runs: 2         # a deal must be missing 2 checks in a row before it's "removed"
-  min_price_change_pct: 0       # ignore price moves smaller than this (%)
+  min_price_change_pct: 1       # ignore price moves smaller than this (%); 0 = report every change
   partial_scrape_threshold: 0.8 # if a check finds <80% of last time's deals, don't report removals
 
 report:
   show:                         # which change types appear in README / changes/ / CHANGELOG
     added: true
+    returned: true              # a deal that was removed earlier and is back
     removed: true
     price_down: true
     price_up: true
@@ -57,18 +63,20 @@ watchlist:                      # your personal shortlist → watchlist.md and a
   min_discount: null
 
 alerts:
-  github_issue: false            # opens an issue → GitHub emails you / pushes to the GitHub app
+  github_issue: false           # opens an issue → GitHub emails you / pushes to the GitHub app.
+                                # Also needs `issues: write` under `permissions:` in
+                                # .github/workflows/track.yml (removed while this is off).
   ntfy_topic: ""                # optional free phone push: install the ntfy app, subscribe to a
                                 # long random topic name, and paste it here
   ntfy_server: https://ntfy.sh
-  on: [added, price_down, back_in_stock]
+  on: [added, returned, price_down, back_in_stock]
   only_watchlist: true          # false → alert on every matching change (noisy!)
   min_drop_pct: 0               # only alert on price drops of at least this %
   filters: {}                   # same keys as report.filters, applied to alerts only
 
   discord:                      # one message per check to a Discord channel
     enabled: false              # also needs the DISCORD_WEBHOOK_URL secret (see README)
-    on: [added]                 # add price_down, back_in_stock, discount, ... if you like
+    on: [added, returned]       # add price_down, back_in_stock, discount, ... if you like
     only_watchlist: false       # true → only deals matching `watchlist`
     min_drop_pct: 0             # for price_down: only drops of at least this %
     filters: {}                 # e.g. {min_discount: 20, max_price: 3000}

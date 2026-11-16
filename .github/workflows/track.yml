@@ -1,8 +1,14 @@
 name: Track deals
 
+# Title of each run in the Actions list, so you can see what started it.
+run-name: >-
+  ${{ github.event_name == 'schedule' && 'Scheduled check (GitHub cron)'
+  || (inputs.force && 'Manual check' || 'Scheduled check (started by Claude)') }}
+
 on:
   schedule:
-    # Wakes up every hour; config.yml → schedule.check_every_hours decides whether to actually check.
+    # GitHub's own timer. config.yml → schedule.check_every_hours decides whether a wake-up
+    # actually checks. (On this repo GitHub has not been firing it; see README.)
     - cron: "30 * * * *"
   workflow_dispatch:
     inputs:
@@ -12,8 +18,8 @@ on:
         default: true
 
 permissions:
-  contents: write
-  issues: write
+  contents: write   # commit the results
+  # issues: write   # add back if you turn on alerts.github_issue in config.yml
 
 concurrency:
   group: track-deals
@@ -24,9 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -42,7 +48,7 @@ jobs:
 
       - name: Upload page HTML for debugging
         if: failure()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: debug-html
           path: debug/
