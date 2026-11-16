@@ -3,36 +3,28 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-16 20:34 CET · **1534** deals tracked of 1534 advertised · checks every **3 h**
+**Last check:** 2026-11-16 21:22 CET · **1533** deals tracked of 1533 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 5 removed deals · 🏷️ 2 discount changes · 📦 1 stock changes → [full report](changes/2026-11-16T1934Z.md)
+❌ 1 removed deals · 📦 4 stock changes → [full report](changes/2026-11-16T2022Z.md)
 
-### ❌ Removed deals (5)
+### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Blackstar Carry On Digital Flute, white](https://www.thomann.pl/blackstar_carry_on_digital_flute_white.htm) | 172 zł | ‑56% | 389 zł | Dostępny w magazynie |  |
-| [Cort MR500E Open Pore Brown](https://www.thomann.pl/cort_mr500e_open_pore_brown.htm) | 869 zł | ‑47% | 1 639 zł | Dostępny w magazynie |  |
-| [Walrus Audio Slö Multi Texture Reverb](https://www.thomann.pl/walrus_audio_sloe_multi_texture_reverb.htm) | 777 zł | ‑14% | 899 zł | Dostępny w magazynie |  |
-| [Litecraft BeamX.12](https://www.thomann.pl/litecraft_beamx.12.htm) | 1 299 zł | ‑13% | 1 499 zł | Dostępny w magazynie |  |
-| [Yamaha EZ-310](https://www.thomann.pl/yamaha_ez_310.htm) | 715 zł |  |  | Dostępny w magazynie |  |
+| [Numark Mixstream Pro+ Bag Bundle](https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm) | 2 599 zł | ‑13% | 2 990 zł | Dostępny w magazynie |  |
 
-### 🏷️ Discount changes (2)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Harley Benton DNAfx GiT Core Bag Bundle](https://www.thomann.pl/harley_benton_dnafx_git_core_bag_bundle.htm) | 344 zł | -17% | **none** |
-| [Rhodes Wurlitzer](https://www.thomann.pl/rhodes_wurli.htm) | 144 zł | -65% | **none** |
-
-### 📦 Stock changes (1)
+### 📦 Stock changes (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 698 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **wyprzedany** |
+| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 649 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

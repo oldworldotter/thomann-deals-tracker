@@ -5761,7 +5761,7 @@
   "discount": 27,
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_echolocator.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-16T20:22Z",
   "max_price": 1777.0,
   "min_price": 1777.0,
   "missing_runs": 0,
@@ -5772,8 +5772,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "wyprzedany",
+  "stock_state": "out",
   "url": "https://www.thomann.pl/erica_synths_echolocator.htm"
  },
  "erica_synths_nightverb.htm": {
@@ -9883,11 +9883,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_dnafx_git_core_bag_bundle.htm",
   "last_change": "2026-11-16T19:34Z",
-  "max_price": 344.0,
+  "max_price": 345.0,
   "min_price": 344.0,
   "missing_runs": 0,
   "name": "Harley Benton DNAfx GiT Core Bag Bundle",
-  "price": 344.0,
+  "price": 345.0,
   "ref_price": null,
   "reported_price": 344.0,
   "sections": [
@@ -10022,7 +10022,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hss_roasted_fbb.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-16T20:22Z",
   "max_price": 1439.0,
   "min_price": 1439.0,
   "missing_runs": 0,
@@ -10033,8 +10033,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_w_safe.htm": {
@@ -10042,7 +10042,7 @@
   "discount": 11,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hss_roasted_w_safe.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-16T20:22Z",
   "max_price": 1649.0,
   "min_price": 1649.0,
   "missing_runs": 0,
@@ -10053,8 +10053,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm"
  },
  "harley_benton_fxl8_pro.htm": {
@@ -10742,7 +10742,7 @@
   "discount": 8,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_w_marshall_mg10g.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-16T20:22Z",
   "max_price": 698.0,
   "min_price": 698.0,
   "missing_runs": 0,
@@ -10753,8 +10753,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm"
  },
  "harley_benton_rg_junior_w_soran_tiny_stomp.htm": {
@@ -11543,11 +11543,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "headrush_frfr_12_cab.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 1869.0,
+  "max_price": 1875.0,
   "min_price": 1869.0,
   "missing_runs": 0,
   "name": "Headrush FRFR-12 Cab",
-  "price": 1869.0,
+  "price": 1875.0,
   "ref_price": null,
   "reported_price": 1869.0,
   "sections": [
@@ -11563,11 +11563,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "headrush_frfr_8_cab.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 1435.0,
+  "max_price": 1438.0,
   "min_price": 1435.0,
   "missing_runs": 0,
   "name": "Headrush FRFR-8 Cab",
-  "price": 1435.0,
+  "price": 1438.0,
   "ref_price": null,
   "reported_price": 1435.0,
   "sections": [
@@ -19064,26 +19064,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/novation_mininova.htm"
  },
- "numark_mixstream_pro_bag_bundle.htm": {
-  "badge": "",
-  "discount": 13,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "numark_mixstream_pro_bag_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-16T19:02Z",
-  "max_price": 2599.0,
-  "min_price": 2599.0,
-  "missing_runs": 1,
-  "name": "Numark Mixstream Pro+ Bag Bundle",
-  "price": 2599.0,
-  "ref_price": 2990.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm"
- },
  "nuvo_band_flute_black.htm": {
   "badge": "",
   "discount": null,
@@ -19311,9 +19291,10 @@
   "first_seen": "2026-11-16T15:32Z",
   "id": "one_control_honey_bee_od_overdrive_624367.htm",
   "last_change": "2026-11-16T15:32Z",
+  "last_seen": "2026-11-16T19:34Z",
   "max_price": 433.0,
   "min_price": 433.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Honey Bee OD - Overdrive",
   "price": 433.0,
   "ref_price": 990.0,
