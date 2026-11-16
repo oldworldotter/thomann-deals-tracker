@@ -9,6 +9,7 @@ source:
   page_param: pg
   extra_params: {}
   max_pages: 150
+  cumulative_pages: 20
   concurrency: 4
   delay_seconds: 0
   retry_attempts: 5

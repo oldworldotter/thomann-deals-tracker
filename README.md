@@ -84,6 +84,7 @@ Everything is in **[config.yml](config.yml)**. You can edit it on github.com or 
 | `alerts` | GitHub issue and/or ntfy push, which events, minimum drop % |
 | `alerts.discord` | Discord message on new deals (or other change types) |
 | `source.concurrency`, `source.delay_seconds` | How fast pages are fetched (default: one page every ~3 s, which Thomann doesn't throttle) |
+| `source.cumulative_pages` | Shortcut: page 20 repeats pages 1–19, so those are skipped (checked on every run; 0 turns it off) |
 | `source.url` | Track a different Thomann shop or deals page |
 
 ## Discord alerts

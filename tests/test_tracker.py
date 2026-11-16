@@ -411,6 +411,60 @@ class TrackerTest(unittest.TestCase):
         gaps = replay(1, 1, [0, 3, 1, 8, 0])
         self.assertTrue(all(0.8 <= g <= 1.2 for g in gaps), gaps)
 
+    # ----- the "page 20 repeats pages 1-19" shortcut -----
+    def _crawl(self, cat, **source):
+        from tracker import scrape as scr
+        from tests.fake_site import FakeSession
+        self.catalog.write_text(json.dumps(cat))
+        cfg = yaml.safe_load((self.tmp / "config.yml").read_text())
+        cfg["source"].update(concurrency=1, **source)
+        sess = FakeSession(str(self.catalog))
+        return scr.scrape(cfg, session=sess), sess.calls
+
+    def test_cumulative_page_lets_the_crawl_skip_pages(self):
+        cat = make_catalog(1536)
+        cat.update(per_page=20, cumulative_upto=20)
+        res, calls = self._crawl(cat)
+        self.assertEqual(len(res.deals), 1537)
+        self.assertFalse(res.errors)
+        self.assertEqual(calls[:3], [1, 20, 21])
+        self.assertFalse(set(range(2, 20)) & set(calls))
+        self.assertEqual(len(calls), 79 - 18)
+        same, calls_all = self._crawl(cat, cumulative_pages=0)      # switched off: same deals, more requests
+        self.assertEqual({k: v.to_dict() for k, v in same.deals.items()}, {k: v.to_dict() for k, v in res.deals.items()})
+        self.assertEqual(len(calls_all), 79)
+
+    def test_shortcut_falls_back_when_the_shop_stops_repeating_pages(self):
+        cat = make_catalog(1536)
+        cat.update(per_page=20)                                      # page 20 is an ordinary page
+        with self.assertLogs("tracker.scrape", level="WARNING") as logs:
+            res, calls = self._crawl(cat)
+        self.assertEqual(len(res.deals), 1537)
+        self.assertTrue(any("no longer repeats" in l for l in logs.output))
+        self.assertEqual(calls.count(20), 1)                         # the test request is reused, not repeated
+        self.assertEqual(sorted(calls), list(range(1, 80)))
+        cat.update(cumulative_upto=20, cumulative_from=11)           # page 20 repeats only pages 11-20
+        res, calls = self._crawl(cat)
+        self.assertEqual(len(res.deals), 1537)
+        self.assertTrue(set(range(2, 20)) <= set(calls))
+
+    def test_shortcut_is_not_tried_on_a_short_list(self):
+        cat = make_catalog(300)
+        cat.update(per_page=20, cumulative_upto=20)                  # 15 pages only
+        res, calls = self._crawl(cat)
+        self.assertEqual(len(res.deals), 301)
+        self.assertNotIn(20, calls)
+
+    def test_shortcut_gap_is_repaired_in_the_same_check(self):
+        cat = make_catalog(600)
+        cat.update(per_page=20, cumulative_upto=20,
+                   cumulative_missing=[f"product_{i:03d}.htm" for i in range(100, 130)])
+        with self.assertLogs("tracker.scrape", level="WARNING") as logs:
+            res, calls = self._crawl(cat)
+        self.assertEqual(len(res.deals), 601)                        # nothing lost
+        self.assertTrue(any("fetching pages 2-19 as well" in l for l in logs.output))
+        self.assertFalse(res.errors)
+
     def test_zero_deals_fails_and_saves_debug(self):
         cat = {"per_page": 40, "deals": [], "featured": []}
         self.catalog.write_text(json.dumps(cat))

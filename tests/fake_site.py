@@ -48,7 +48,13 @@ def page_html(cat, pg):
     deals = cat["deals"]
     last = max(1, -(-len(deals) // per))
     pg = min(pg, last)  # like many shops: past the end you get the last page again
-    chunk = deals[(pg - 1) * per : pg * per]
+    start = (pg - 1) * per
+    upto = cat.get("cumulative_upto", 0)  # thomann: ?pg=N (N <= 20) repeats pages 1..N
+    if upto and 1 < pg <= upto:
+        start = (min(cat.get("cumulative_from", 1), pg) - 1) * per
+    chunk = deals[start : pg * per]
+    hidden = set(cat.get("cumulative_missing", [])) if (upto and pg == upto) else set()  # only the last one
+    chunk = [d for d in chunk if d["slug"] not in hidden]
     featured = "".join(tile(d, 0) for d in cat.get("featured", []))
     grid = "".join(tile(d, i % 2) for i, d in enumerate(chunk))
     return f"""<!doctype html><html><body>

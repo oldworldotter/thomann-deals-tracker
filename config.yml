@@ -13,6 +13,9 @@ source:
   page_param: pg                # ?pg=2, ?pg=3 ... (what "Pokaż więcej" loads)
   extra_params: {}              # extra query parameters, if ever needed
   max_pages: 150                # safety cap
+  cumulative_pages: 20          # shortcut: on thomann, ?pg=20 repeats everything from pages 1-19,
+                                # so pages 2-19 are skipped. Verified on every check; if Thomann
+                                # changes this, all pages are fetched as before. 0 = never skip.
   concurrency: 1                # pages fetched in parallel (1 = one by one; max 10)
   delay_seconds: 2.0            # pause between requests. One page every ~3 s is the fastest pace
                                 # that never got "429 Too Many Requests" from Thomann in the run

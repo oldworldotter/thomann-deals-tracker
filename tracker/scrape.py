@@ -46,6 +46,7 @@ STOCK_PATTERNS = [
     (r"wkr[oó]tce|na zam[oó]wienie|zam[oó]wion\w*", "delayed"),
     (r"brak w magazynie|niedost[eę]pn\w*|nicht verf[uü]gbar|out of stock|wyprzedan\w*", "out"),
 ]
+COUNT_RE = re.compile(r"wszystkich\s+[\d\s .\u00a0]+\s+ofert|all\s+[\d,.]+\s+(?:deals|offers)|alle\s+[\d.]+\s+(?:deals|angebote)", re.I)
 SEP = "\x1f"  # marks HTML element boundaries in tile text used for price parsing
 STRIKE_CLASS_RE = re.compile(r"strike|crossed|old|was|before|rrp|uvp", re.I)
 
@@ -93,6 +94,7 @@ class Parser:
         self.unknown_stock: list[str] = []  # a few samples of tiles whose stock text wasn't recognised
         self._ids_cache: dict[int, frozenset] = {}
         self._headings: list[tuple[tuple[int, int], str]] = []
+        self.count_section = ""  # name of the main list ("Przegląd wszystkich ofert"), once seen
 
     # ---------- helpers ----------
     def product_id(self, href: str) -> str | None:
@@ -149,6 +151,8 @@ class Parser:
     def _index_headings(self, soup: BeautifulSoup):
         self._headings = []
         for h in soup.find_all(["h1", "h2", "h3"]):
+            if COUNT_RE.search(h.get_text(" ", strip=True)):
+                self.count_section = self._heading_text(h)
             if h.sourceline is None:
                 self._headings = []  # parser gave no positions: fall back to searching per tile
                 return
@@ -393,11 +397,11 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
     state = {"expected": None, "empty_streak": 0, "last_page": 0}
     failed: list[int] = []
 
-    def absorb(page, html):
+    def absorb(page, html, parsed=None):
         nonlocal first_html
         if page == 1:
             first_html = html
-        deals, exp = parser.parse(html)
+        deals, exp = parsed or parser.parse(html)
         state["expected"] = state["expected"] or exp
         new = 0
         for d in deals:
@@ -412,14 +416,70 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
         log.info("page %s: %s tiles, %s new (total %s)", page, len(deals), new, len(all_deals))
         return new
 
+    def slow_down():
+        # also when already down to one request at a time: keep lengthening the pause
+        nonlocal workers, delay
+        workers = max(1, workers // 2)
+        delay = min(max(delay * 2, float(src.get("throttled_delay_seconds", 2.0))), 30.0)
+        log.warning("shop is throttling: slowing down to %s parallel request(s), %.0fs pause", workers, delay)
+
     next_page = 1
     stop = False
+    requests_made = 0
+    prefetched: dict[int, str] = {}
+    jumped_to = 0
+
+    # Shortcut. On thomann the first N listing pages are cumulative: ?pg=20 repeats everything
+    # from pages 1-19 (it is what "Pokaż więcej" rebuilds after a reload). So page 1 and page N
+    # are enough, and pages 2..N-1 can be skipped. This is not documented behaviour, so page N
+    # is only trusted if it really holds about as many deals as pages 1..N would; otherwise
+    # every page is fetched as before.
+    jump = int(src.get("cumulative_pages", 0) or 0)
+    if 2 < jump <= max_pages:
+        html1 = _fetch(s, src, 1, extra, page_param, throttle)
+        requests_made += 1
+        if html1 is None:
+            failed.append(1)
+        else:
+            p1 = parser.parse(html1)
+            absorb(1, html1, p1)
+            ids1 = {d.id for d in p1[0]}
+            per_page = sum(1 for d in p1[0] if parser.count_section and parser.count_section in d.sections)
+            exp = state["expected"]
+            if per_page and exp and exp >= jump * per_page:  # the list really is longer than N pages
+                time.sleep(delay)
+                html_n = _fetch(s, src, jump, extra, page_param, throttle)
+                requests_made += 1
+                if html_n is not None:
+                    pn = parser.parse(html_n)
+                    ids_n = {d.id for d in pn[0]}
+                    need = len(ids1) + (jump - 1) * per_page * 0.85
+                    if len(ids_n) >= need:
+                        absorb(jump, html_n, pn)
+                        jumped_to = jump
+                        log.info("page %s repeats pages 1-%s (%s deals): skipped pages 2-%s",
+                                 jump, jump, len(ids_n), jump - 1)
+                    else:
+                        prefetched[jump] = html_n  # reused when the normal crawl gets there
+                        log.warning("page %s no longer repeats the earlier pages (%s deals, expected at least %.0f): "
+                                    "fetching every page instead", jump, len(ids_n), need)
+        if throttle.hit:
+            slow_down()
+        next_page = jumped_to + 1 if jumped_to else 2
+        time.sleep(delay)
+
+    def fetch_page(pg):
+        if pg in prefetched:
+            return prefetched.pop(pg)
+        return _fetch(s, src, pg, extra, page_param, throttle)
+
     with ThreadPoolExecutor(max_workers=workers) as pool:
         while not stop and next_page <= max_pages:
             batch = list(range(next_page, min(next_page + workers, max_pages + 1)))
             next_page = batch[-1] + 1
             throttle.hit = False
-            results = list(pool.map(lambda pg: _fetch(s, src, pg, extra, page_param, throttle), batch))
+            requests_made += sum(1 for pg in batch if pg not in prefetched)
+            results = list(pool.map(fetch_page, batch))
             for page, html in zip(batch, results):
                 if html is None:
                     failed.append(page)  # retried at the end; doesn't count as "empty"
@@ -434,15 +494,27 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
                     stop = True
                     break
             if throttle.hit:
-                # also when already down to one request at a time: keep lengthening the pause
-                workers = max(1, workers // 2)
-                delay = min(max(delay * 2, float(src.get("throttled_delay_seconds", 2.0))), 30.0)
-                log.warning("shop is throttling: slowing down to %s parallel request(s), %.0fs pause", workers, delay)
+                slow_down()
             if len(failed) >= 10:
                 errors.append(f"too many failed pages ({len(failed)}), giving up early")
                 stop = True
             if not stop:
                 time.sleep(delay)
+
+    # If the shortcut was used and deals are missing compared with what the shop advertises,
+    # the skipped pages are fetched after all, so the shortcut can never cost completeness.
+    exp = state["expected"]
+    if jumped_to and exp and len(all_deals) < 0.98 * exp and not errors:
+        log.warning("only %s of %s advertised deals after the shortcut: fetching pages 2-%s as well",
+                    len(all_deals), exp, jumped_to - 1)
+        for page in range(2, jumped_to):
+            time.sleep(delay)
+            html = _fetch(s, src, page, extra, page_param, throttle)
+            requests_made += 1
+            if html is None:
+                failed.append(page)
+            else:
+                absorb(page, html)
 
     # second chance for pages that failed, one at a time and slower
     for page in sorted(failed):
@@ -450,13 +522,14 @@ def scrape(cfg: dict, session: requests.Session | None = None) -> ScrapeResult:
             continue  # past the end of the list anyway
         time.sleep(max(delay, float(src.get("second_pass_delay_seconds", 3.0))))
         html = _fetch(s, src, page, extra, page_param, throttle)
+        requests_made += 1
         if html is None:
             errors.append(f"page {page}: failed after retries")
         else:
             absorb(page, html)
 
-    log.info("fetched %s pages; %s parallel request(s) at the end; %s page(s) needed a second pass",
-             state["last_page"], workers, len(failed))
+    log.info("read %s pages with %s requests; %s parallel request(s) at the end; %s page(s) needed a second pass",
+             state["last_page"], requests_made, workers, len(failed))
     unknown = sum(1 for d in all_deals.values() if d.stock_state == "unknown")
     if unknown:
         log.warning("%s deal(s) with an unrecognised stock label, e.g. %s", unknown, " | ".join(parser.unknown_stock))
