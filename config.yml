@@ -1,0 +1,75 @@
+# ⚙️ Settings for the Thomann deals tracker.
+# Edit this file right on github.com (pencil icon) or in the GitHub mobile app.
+# Changes apply from the next scheduled check, no restart needed.
+
+title: Thomann Black Friday / Cyber Deals tracker
+
+source:
+  url: https://www.thomann.pl/special_cyber-deals.html
+  # Works for other Thomann shops too, e.g. https://www.thomann.de/de/special_cyber-deals.html
+  currency_label: zł            # shown in the reports
+  currency_regex: "zł|zl|PLN"   # how prices appear on the page (use "€|EUR" for .de)
+  page_param: pg                # ?pg=2, ?pg=3 ... (what "Pokaż więcej" loads)
+  extra_params: {}              # extra query parameters, if ever needed
+  max_pages: 150                # safety cap
+  concurrency: 2                # pages fetched in parallel (1 = one by one; max 10).
+                                # If Thomann answers "429 Too Many Requests", the run
+                                # automatically halves this and slows down.
+  delay_seconds: 1.0            # pause between each batch of parallel requests
+  retry_attempts: 5             # per page; waits 5, 10, 20, 40 s (or what Thomann asks)
+  stop_after_empty_pages: 2     # stop once 2 pages in a row bring no new deals
+
+schedule:
+  enabled: true
+  check_every_hours: 3          # 1, 2, 3, 6, 12, 24 ... (GitHub wakes up hourly; minimum 1)
+  active_from: 2026-11-05       # no checks before this date
+  active_until: 2026-12-02      # no checks after this date (sale ends 30.11)
+
+diff:
+  removal_grace_runs: 2         # a deal must be missing 2 checks in a row before it's "removed"
+  min_price_change_pct: 0       # ignore price moves smaller than this (%)
+  partial_scrape_threshold: 0.8 # if a check finds <80% of last time's deals, don't report removals
+
+report:
+  show:                         # which change types appear in README / changes/ / CHANGELOG
+    added: true
+    removed: true
+    price_down: true
+    price_up: true
+    discount: true
+    back_in_stock: true
+    stock: true
+  filters:                      # applied to reports and deals.md (tracking always covers everything)
+    min_discount: 0             # e.g. 20 → only deals at -20% or more
+    min_price: null
+    max_price: null             # e.g. 2000
+    include_keywords: []        # e.g. ["Fender", "Gibson"] → only names containing one of these
+    exclude_keywords: []        # e.g. ["cable", "kabel", "strings"]
+    sections: []                # e.g. ["Przegląd wszystkich"] → only the main list
+    stock_states: []            # any of: in_stock, delayed, download, out
+  deals_sort: newest            # newest (First seen ↓, then discount ↓) | discount | price | name | savings
+
+watchlist:                      # your personal shortlist → watchlist.md and alerts
+  keywords: []                  # e.g. ["SM7B", "Katana", "Kemper", "Nord"]
+  ids: []                       # exact product pages, e.g. ["shure_sm58.htm"]
+  max_price: null
+  min_discount: null
+
+alerts:
+  github_issue: false            # opens an issue → GitHub emails you / pushes to the GitHub app
+  ntfy_topic: ""                # optional free phone push: install the ntfy app, subscribe to a
+                                # long random topic name, and paste it here
+  ntfy_server: https://ntfy.sh
+  on: [added, price_down, back_in_stock]
+  only_watchlist: true          # false → alert on every matching change (noisy!)
+  min_drop_pct: 0               # only alert on price drops of at least this %
+  filters: {}                   # same keys as report.filters, applied to alerts only
+
+  discord:                      # one message per check to a Discord channel
+    enabled: false              # also needs the DISCORD_WEBHOOK_URL secret (see README)
+    on: [added]                 # add price_down, back_in_stock, discount, ... if you like
+    only_watchlist: false       # true → only deals matching `watchlist`
+    min_drop_pct: 0             # for price_down: only drops of at least this %
+    filters: {}                 # e.g. {min_discount: 20, max_price: 3000}
+    max_items: 15               # deals listed in the message; the rest are linked
+    username: Thomann deals
