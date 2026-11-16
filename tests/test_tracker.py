@@ -181,6 +181,9 @@ class TrackerTest(unittest.TestCase):
 
     def test_discord_message_for_new_deals(self):
         from unittest import mock
+        cfg = yaml.safe_load((self.tmp / "config.yml").read_text())
+        cfg["alerts"]["discord"]["enabled"] = True  # off in the live config; this test needs it on
+        (self.tmp / "config.yml").write_text(yaml.safe_dump(cfg, allow_unicode=True))
         sent = []
         fake_post = lambda url, json=None, timeout=None, **kw: sent.append((url, json)) or mock.Mock(status_code=204, text="")
         os.environ.update(DISCORD_WEBHOOK_URL="https://discord.example/webhook", GITHUB_REPOSITORY="me/tracker")

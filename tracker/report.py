@@ -52,8 +52,32 @@ def disc(d):
     return nowrap(f"-{d['discount']}%") if d.get("discount") else ""
 
 
-def human_ts(ts: str) -> str:
-    return ts.replace("T", " ").replace("Z", " UTC")
+DISPLAY_TZ = "Europe/Warsaw"  # overridden by config.yml → display_timezone
+
+
+def set_display_tz(cfg):
+    global DISPLAY_TZ
+    DISPLAY_TZ = cfg.get("display_timezone") or DISPLAY_TZ
+
+
+def human_ts(ts: str, label: bool = True) -> str:
+    """Stored times are UTC ("2026-11-16T15:32Z"); show them in the display time zone.
+
+    Every time shown for a run comes from the same stored value (taken when the
+    check started), so "Last check", "First seen", change reports and the commit
+    message always agree.
+    """
+    if not ts:
+        return ""
+    try:
+        from datetime import datetime, timezone
+        from zoneinfo import ZoneInfo
+        dt = datetime.strptime(ts, "%Y-%m-%dT%H:%MZ").replace(tzinfo=timezone.utc)
+        dt = dt.astimezone(ZoneInfo(DISPLAY_TZ))
+    except Exception:
+        return ts.replace("T", " ").replace("Z", " UTC")
+    out = dt.strftime("%Y-%m-%d %H:%M")
+    return f"{out} {dt.strftime('%Z')}" if label else out
 
 
 # ---------- filtering ----------
@@ -179,13 +203,14 @@ def deals_table(cfg, deals):
         lines.append(
             f"| {i} | {link(d)} | {money(d.get('price'), cfg)} | {disc(d)} | "
             f"{money(d.get('ref_price'), cfg) if d.get('ref_price') else ''} | {low_s} | {esc(d.get('stock'))} | "
-            f"{esc(d.get('badge'))} | {nowrap(human_ts(d.get('first_seen') or '').replace(' UTC', ''))} |"
+            f"{esc(d.get('badge'))} | {nowrap(human_ts(d.get('first_seen') or '', label=False))} |"
         )
     return "\n".join(lines)
 
 
 # ---------- writers ----------
 def write_all(root: Path, cfg, snap, changes, run):
+    set_display_tz(cfg)
     live = [d for d in snap.values() if d.get("missing_runs", 0) == 0]
     f = cfg.get("report", {}).get("filters", {})
     shown = [d for d in live if matches(d, f)]

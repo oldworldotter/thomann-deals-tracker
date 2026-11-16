@@ -6,7 +6,7 @@ import os
 
 import requests
 
-from .report import ICONS, money, watch_match, matches
+from .report import ICONS, money, watch_match, matches, human_ts, set_display_tz
 
 log = logging.getLogger(__name__)
 
@@ -48,7 +48,8 @@ def _line(c, cfg):
 
 def send(cfg, hits, run):
     a = cfg.get("alerts", {})
-    title = f"{len(hits)} deal alert(s) at {run['ts'].replace('T', ' ').replace('Z', ' UTC')}"
+    set_display_tz(cfg)
+    title = f"{len(hits)} deal alert(s) at {human_ts(run['ts'])}"
     if a.get("github_issue"):
         _github_issue(cfg, hits, title)
     if a.get("ntfy_topic"):
@@ -138,7 +139,7 @@ def discord(cfg, changes, run):
 
     payload = {
         "username": dc.get("username", "Thomann deals"),
-        "content": f"**{summary}** at {run['ts'].replace('T', ' ').replace('Z', ' UTC')}",
+        "content": f"**{summary}** at {human_ts(run['ts'])}",
         "embeds": [{
             "title": cfg.get("title", "Thomann deals"),
             "url": f"{base}/deals.md" if base else cfg["source"]["url"],

@@ -3,6 +3,7 @@
 # Changes apply from the next scheduled check, no restart needed.
 
 title: Thomann Black Friday / Cyber Deals tracker
+display_timezone: Europe/Warsaw   # all times in reports are shown in this zone
 
 source:
   url: https://www.thomann.pl/special_cyber-deals.html
