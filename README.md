@@ -3,19 +3,30 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-16 12:05 UTC · **1530** deals tracked of 1530 advertised · checks every **3 h**
+**Last check:** 2026-11-16 15:32 UTC · **1541** deals tracked of 1543 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 1 back in stock → [full report](changes/2026-11-16T1205Z.md)
+🆕 13 new deals → [full report](changes/2026-11-16T1532Z.md)
 
-### ✅ Back in stock (1)
+### 🆕 New deals (13)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [PRS SE Custom 24 S/H VS 2025](https://www.thomann.pl/prs_se_custom_24_s_h_vs_2025.htm) | 3 899 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Sonor 13"x07" Kompressor Snare Beech](https://www.thomann.pl/sonor_13_x07_kompressor_snare_beech.htm) | 1 322 zł | -57% | 3 059 zł | Dostępny w magazynie |  |
+| [Blackstar Carry On Digital Flute, white](https://www.thomann.pl/blackstar_carry_on_digital_flute_white.htm) | 172 zł | -56% | 389 zł | Dostępny w magazynie |  |
+| [One Control Honey Bee OD - Overdrive](https://www.thomann.pl/one_control_honey_bee_od_overdrive_624367.htm) | 433 zł | -56% | 990 zł | Dostępny w magazynie |  |
+| [Cort MR500E Open Pore Brown](https://www.thomann.pl/cort_mr500e_open_pore_brown.htm) | 869 zł | -47% | 1 639 zł | Dostępny w magazynie |  |
+| [One Control Jubilee Red AIAB](https://www.thomann.pl/one_control_jubilee_red_aiab.htm) | 258 zł | -33% | 385 zł | Dostępny w magazynie |  |
+| [Harley Benton TE-20HH SBK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_sbk_w_soran_dual_stomp.htm) | 698 zł | -29% | 990 zł | Dostępny w magazynie |  |
+| [Warm Audio Foxy Tone Box Werewolf Fuzz](https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm) | 433 zł | -22% | 555 zł | Dostępny w magazynie |  |
+| [Walrus Audio Slö Multi Texture Reverb](https://www.thomann.pl/walrus_audio_sloe_multi_texture_reverb.htm) | 777 zł | -14% | 899 zł | Dostępny w magazynie |  |
+| [Yamaha B3 SC3 PEC](https://www.thomann.pl/yamaha_b3_sc3_pec.htm) | 31 490 zł | -12% | 35 590 zł | Dostępny w magazynie |  |
+| [Yamaha CG102 NT](https://www.thomann.pl/yamaha_cg102_nt.htm) | 898 zł |  |  | Dostępny w magazynie |  |
+
+…and 3 more in the full report.
 
 <!-- DASHBOARD:END -->
 
