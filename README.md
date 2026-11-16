@@ -3,33 +3,36 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-16 20:02 CET · **1535** deals tracked of 1535 advertised · checks every **3 h**
+**Last check:** 2026-11-16 20:34 CET · **1534** deals tracked of 1534 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · 📈 3 price increases · 🏷️ 1 discount changes → [full report](changes/2026-11-16T1902Z.md)
+❌ 5 removed deals · 🏷️ 2 discount changes · 📦 1 stock changes → [full report](changes/2026-11-16T1934Z.md)
 
-### ❌ Removed deals (1)
+### ❌ Removed deals (5)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Yamaha CG102 NT](https://www.thomann.pl/yamaha_cg102_nt.htm) | 898 zł |  |  | Dostępny w magazynie |  |
+| [Blackstar Carry On Digital Flute, white](https://www.thomann.pl/blackstar_carry_on_digital_flute_white.htm) | 172 zł | ‑56% | 389 zł | Dostępny w magazynie |  |
+| [Cort MR500E Open Pore Brown](https://www.thomann.pl/cort_mr500e_open_pore_brown.htm) | 869 zł | ‑47% | 1 639 zł | Dostępny w magazynie |  |
+| [Walrus Audio Slö Multi Texture Reverb](https://www.thomann.pl/walrus_audio_sloe_multi_texture_reverb.htm) | 777 zł | ‑14% | 899 zł | Dostępny w magazynie |  |
+| [Litecraft BeamX.12](https://www.thomann.pl/litecraft_beamx.12.htm) | 1 299 zł | ‑13% | 1 499 zł | Dostępny w magazynie |  |
+| [Yamaha EZ-310](https://www.thomann.pl/yamaha_ez_310.htm) | 715 zł |  |  | Dostępny w magazynie |  |
 
-### 📈 Price increases (3)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Shure SM57 LC](https://www.thomann.pl/shure_sm57_lc.htm) | 479 zł | **485 zł** | +1.3% |  |  | Dostępny w magazynie |
-| [Tannoy Gold 7](https://www.thomann.pl/tannoy_gold_7.htm) | 1 150 zł | **1 155 zł** | +0.4% |  |  | Dostępny w magazynie |
-| [Peli 1535 Air TrekPak Black](https://www.thomann.pl/peli_1535_air_trekpak_black.htm) | 1 966 zł | **1 969 zł** | +0.2% |  |  | Dostępny w magazynie |
-
-### 🏷️ Discount changes (1)
+### 🏷️ Discount changes (2)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [Dixon PSN-9 Drum Throne](https://www.thomann.pl/dixon_psn_9_drum_throne.htm) | 389 zł | -17% | **-18%** |
+| [Harley Benton DNAfx GiT Core Bag Bundle](https://www.thomann.pl/harley_benton_dnafx_git_core_bag_bundle.htm) | 344 zł | -17% | **none** |
+| [Rhodes Wurlitzer](https://www.thomann.pl/rhodes_wurli.htm) | 144 zł | -65% | **none** |
+
+### 📦 Stock changes (1)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
