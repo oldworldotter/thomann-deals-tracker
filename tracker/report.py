@@ -24,12 +24,20 @@ def count_types(changes):
 
 
 # ---------- formatting ----------
+NBSP, NBHY = "\u00a0", "\u2011"  # non-breaking space / hyphen: keep table cells on one line
+
+
+def nowrap(s: str) -> str:
+    """GitHub tables can't be given column widths, but cells without break points stay on one line."""
+    return (s or "").replace(" ", NBSP).replace("-", NBHY)
+
+
 def money(v, cfg):
     if v is None:
         return "–"
     cur = cfg.get("source", {}).get("currency_label", "zł")
     s = f"{v:,.0f}" if float(v).is_integer() else f"{v:,.2f}"
-    return f"{s.replace(',', ' ')} {cur}"
+    return f"{s.replace(',', NBSP)}{NBSP}{cur}"
 
 
 def esc(s: str) -> str:
@@ -41,7 +49,7 @@ def link(d):
 
 
 def disc(d):
-    return f"-{d['discount']}%" if d.get("discount") else ""
+    return nowrap(f"-{d['discount']}%") if d.get("discount") else ""
 
 
 def human_ts(ts: str) -> str:
@@ -171,7 +179,7 @@ def deals_table(cfg, deals):
         lines.append(
             f"| {i} | {link(d)} | {money(d.get('price'), cfg)} | {disc(d)} | "
             f"{money(d.get('ref_price'), cfg) if d.get('ref_price') else ''} | {low_s} | {esc(d.get('stock'))} | "
-            f"{esc(d.get('badge'))} | {human_ts(d.get('first_seen') or '').replace(' UTC', '')} |"
+            f"{esc(d.get('badge'))} | {nowrap(human_ts(d.get('first_seen') or '').replace(' UTC', ''))} |"
         )
     return "\n".join(lines)
 
