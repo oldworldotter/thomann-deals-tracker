@@ -15,6 +15,9 @@ from . import report
 from . import alerts
 
 ROOT = Path(os.environ.get("TRACKER_ROOT", Path(__file__).resolve().parent.parent))
+# Bump when a parser fix changes how prices are read. The first check after an upgrade
+# then corrects stored prices quietly instead of reporting them as price changes.
+PARSER_VERSION = 2
 log = logging.getLogger("tracker")
 
 
@@ -65,7 +68,7 @@ def pct(a, b):
     return round((b - a) / a * 100, 1)
 
 
-def diff(prev: dict, cur: dict, partial: bool, cfg: dict, ts: str):
+def diff(prev: dict, cur: dict, partial: bool, cfg: dict, ts: str, quiet_prices: bool = False):
     """Returns (new_snapshot, changes). changes is a list of dicts with a 'type'."""
     grace = int(cfg.get("diff", {}).get("removal_grace_runs", 2))
     min_pct = float(cfg.get("diff", {}).get("min_price_change_pct", 0))
@@ -89,6 +92,16 @@ def diff(prev: dict, cur: dict, partial: bool, cfg: dict, ts: str):
         rec["missing_runs"] = 0
         changed = False
         op, np_ = old.get("price"), d["price"]
+        if quiet_prices:
+            # parser upgrade: take the newly read price/discount as correct, report nothing
+            rec["min_price"] = rec["max_price"] = np_
+            rec["missing_runs"] = 0
+            snap[pid] = rec
+            os_, ns = old.get("stock_state"), d["stock_state"]
+            if os_ != ns and "unknown" not in (os_, ns):
+                kind = "back_in_stock" if ns == "in_stock" else "stock"
+                changes.append({"type": kind, "deal": rec, "old": old.get("stock") or os_, "new": d["stock"] or ns})
+            continue
         if op is not None and np_ is not None and op != np_:
             p = pct(op, np_)
             if p is None or abs(p) >= min_pct:
@@ -153,7 +166,11 @@ def main() -> int:
                     len(res.deals), len(prev_live), res.errors)
 
     first_run = not prev
-    snap, changes = diff(prev, res.deals, partial, cfg, ts)
+    quiet = bool(prev) and state.get("parser_version", 1) < PARSER_VERSION
+    if quiet:
+        log.warning("Parser upgraded to v%s: correcting stored prices without reporting them as changes",
+                    PARSER_VERSION)
+    snap, changes = diff(prev, res.deals, partial, cfg, ts, quiet_prices=quiet)
     if first_run:
         changes = []  # first snapshot is a baseline, not 1500 "new" deals
 
@@ -166,7 +183,7 @@ def main() -> int:
         "baseline": first_run,
         "counts": report.count_types(changes),
     }
-    state.update(last_run=now.isoformat(), last_result=run)
+    state.update(last_run=now.isoformat(), last_result=run, parser_version=PARSER_VERSION)
     state.setdefault("runs", 0)
     state["runs"] += 1
 

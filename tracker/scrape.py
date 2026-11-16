@@ -44,6 +44,7 @@ STOCK_PATTERNS = [
     (r"wkr[oó]tce|na zam[oó]wienie|zam[oó]wion\w*", "delayed"),
     (r"brak w magazynie|niedost[eę]pn\w*|nicht verf[uü]gbar|out of stock|wyprzedan\w*", "out"),
 ]
+SEP = "\x1f"  # marks HTML element boundaries in tile text used for price parsing
 STRIKE_CLASS_RE = re.compile(r"strike|crossed|old|was|before|rrp|uvp", re.I)
 
 
@@ -84,6 +85,10 @@ class Parser:
         self.base_url = base_url
         self.host = urlparse(base_url).netloc
         self.price_re = re.compile(rf"({NUM})\s*(?:{currency_regex})", re.I)
+        # Same, for text where HTML element boundaries are marked with SEP: a number may
+        # not continue across a boundary (so a review count "751" in the element before
+        # "599 zł" can't merge into "751 599 zł"), but the currency may sit in its own element.
+        self.price_sep_re = re.compile(rf"({NUM})\s*{SEP}?\s*(?:{currency_regex})", re.I)
 
     # ---------- helpers ----------
     def product_id(self, href: str) -> str | None:
@@ -131,27 +136,31 @@ class Parser:
             return ""
         return re.sub(r"\s+", " ", h.get_text(" ", strip=True))[:80]
 
+    def _sep_text(self, el: Tag) -> str:
+        return re.sub(r"[ \t\r\n]+", " ", el.get_text(SEP, strip=True))
+
     def _prices(self, tile: Tag, text: str):
         struck = []
         for el in tile.find_all(["s", "del", "strike"]):
-            struck.append(el.get_text(" ", strip=True))
+            struck.append(self._sep_text(el))
         for el in tile.find_all(class_=STRIKE_CLASS_RE):
             if el.name in ("s", "del", "strike"):
                 continue
-            t = el.get_text(" ", strip=True)
-            if self.price_re.search(t) and len(t) < 40:
+            t = self._sep_text(el)
+            if self.price_sep_re.search(t) and len(t) < 40:
                 struck.append(t)
         old_price = None
         for t in struck:
-            m = self.price_re.search(t)
+            m = self.price_sep_re.search(t)
             if m:
                 old_price = parse_number(m.group(1))
                 break
 
-        matches = [(m.start(), parse_number(m.group(1))) for m in self.price_re.finditer(text)]
+        ptext = self._sep_text(tile)
+        matches = [(m.start(), parse_number(m.group(1))) for m in self.price_sep_re.finditer(ptext)]
         matches = [(pos, v) for pos, v in matches if v is not None]
         ref_price = None
-        label = REF_LABEL_RE.search(text)
+        label = REF_LABEL_RE.search(ptext)
         if label and len(matches) >= 2:
             # the price closest to the "30-day best price" label is the reference price
             ref_idx = min(range(len(matches)), key=lambda i: abs(matches[i][0] - label.end()))

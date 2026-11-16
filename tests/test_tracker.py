@@ -237,6 +237,35 @@ class TrackerTest(unittest.TestCase):
         self.assertFalse(res.errors, res.errors)       # rescued in the second pass
         self.assertEqual(len(res.deals), 301)          # nothing lost, pages after 4 too
 
+    def test_review_count_before_price_is_not_merged(self):
+        from tracker.scrape import Parser
+        p = Parser("https://www.thomann.pl/special_cyber-deals.html", "zł|zl|PLN")
+        html = ('<html><body><div><a href="adam_audio_t5v.htm">ADAM Audio T5V</a>'
+                '<div><span>751</span></div><div><span>599</span><sup>zł</sup></div><div>-23%</div>'
+                '<div>najlepsza cena z 30-dni: 775\u00a0zł</div></div></body></html>')
+        d = p.parse(html)[0][0]
+        self.assertEqual((d.price, d.ref_price, d.discount), (599, 775, 23))
+
+    def test_parser_upgrade_corrects_prices_quietly(self):
+        cat = make_catalog()
+        self.run_at("2026-11-16T10:00:00+00:00", cat)
+        # simulate a snapshot written by the old, buggy parser
+        snap = self.snap()
+        snap["product_003.htm"].update(price=751211.0, min_price=751211.0, max_price=751211.0)
+        (self.tmp / "data" / "snapshot.json").write_text(json.dumps(snap))
+        st = json.loads((self.tmp / "data" / "state.json").read_text())
+        st.pop("parser_version")
+        (self.tmp / "data" / "state.json").write_text(json.dumps(st))
+        cat["deals"].append({"slug": "new_q.htm", "name": "Newbrand Q", "price": 500, "stock": STOCKS[0]})
+        st = self.run_at("2026-11-16T13:05:00+00:00", cat)
+        self.assertEqual(st["last_result"]["counts"], {"added": 1})  # no fake price drop
+        self.assertEqual(self.snap()["product_003.htm"]["price"], 211)
+        self.assertEqual(self.snap()["product_003.htm"]["min_price"], 211)
+        self.assertEqual(st["parser_version"], 2)
+        cat["deals"][3]["price"] = 180  # later real changes are reported again
+        st = self.run_at("2026-11-16T16:10:00+00:00", cat)
+        self.assertEqual(st["last_result"]["counts"], {"price_down": 1})
+
     def test_zero_deals_fails_and_saves_debug(self):
         cat = {"per_page": 40, "deals": [], "featured": []}
         self.catalog.write_text(json.dumps(cat))

@@ -27,8 +27,8 @@ def tile(d, variant):
   <a href="{d['slug']}"><img src="placeholder.svg" alt="{d['name']}"></a>
   <span class="xB">{badge}</span>
   <a href="{d['slug']}" class="xN"><span>{maker}</span> <span>{model}</span></a>
-  <div class="xR">4.7 (123)</div>
-  <div class="xP"><span>{fmt(d['price'])}</span></div>
+  <div class="xR"><span>★★★★★</span><span>{d.get('reviews', 751)}</span></div>
+  <div class="xP"><span>{fmt(d['price']).replace(NB + 'zł', '')}</span><sup>zł</sup></div>
   {ref}
   <div class="product-availability">{d['stock']}</div>
 </article>"""
