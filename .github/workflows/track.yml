@@ -3,7 +3,7 @@ name: Track deals
 on:
   schedule:
     # Wakes up every hour; config.yml → schedule.check_every_hours decides whether to actually check.
-    - cron: "23 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       force:
