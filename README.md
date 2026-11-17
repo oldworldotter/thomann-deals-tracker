@@ -3,31 +3,62 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-17 07:59 CET · **1547** deals tracked of 1549 advertised · checks every **3 h**
+**Last check:** 2026-11-17 10:59 CET · **1538** deals tracked of 1541 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 6 back in stock · 📦 2 stock changes → [full report](changes/2026-11-17T0659Z.md)
+🆕 2 new deals · ❌ 5 removed deals · 💸 2 price drops · 📈 1 price increases · 🏷️ 4 discount changes · ✅ 5 back in stock → [full report](changes/2026-11-17T0959Z.md)
 
-### ✅ Back in stock (6)
+### 🆕 New deals (2)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Pearl HWP-934 Hardware Set](https://www.thomann.pl/pearl_hwp_934_hardware_set.htm) | 1 990 zł | ‑23% | 2 599 zł | Dostępny w magazynie |  |
+| [Ultimate Ears UE 150](https://www.thomann.pl/ultimate_ears_ue_150.htm) | 958 zł |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
+
+### ❌ Removed deals (5)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Bulldog Phoenix Zebrano](https://www.thomann.pl/bulldog_phoenix_zebrano.htm) | 299 zł | ‑45% | 539 zł | Dostępny w magazynie |  |
+| [PRS SE Santana SY 2025](https://www.thomann.pl/prs_se_santana_sy_2025.htm) | 2 599 zł | ‑40% | 4 333 zł | Dostępny w magazynie | GIVEAWAY |
+| [Zoom V6 SP](https://www.thomann.pl/zoom_v6_sp.htm) | 879 zł | ‑34% | 1 333 zł | Dostępny w magazynie |  |
+| [Numark Mixstream Pro+ Bag Bundle](https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm) | 2 599 zł | ‑13% | 2 990 zł | Dostępny w magazynie |  |
+| [Yamaha HS 8 MP](https://www.thomann.pl/yamaha_hs_8_mp.htm) | 1 999 zł |  |  | Dostępny w magazynie |  |
+
+### 💸 Price drops (2)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Gibson Hummingbird Studio EC TBS](https://www.thomann.pl/gibson_hummingbird_studio_ec_tbs.htm) | 10 990 zł | **10 555 zł** | -4.0% |  |  | Dostępny w magazynie |
+| [FabFilter Pro-Q 4](https://www.thomann.pl/fabfilter_pro_q_4.htm) | 444 zł | **439 zł** | -1.1% |  |  | Pobierz licencję |
+
+### 📈 Price increases (1)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [FabFilter Total Bundle](https://www.thomann.pl/fabfilter_total_bundle.htm) | 2 333 zł | **2 358 zł** | +1.1% |  |  | Pobierz licencję |
+
+### 🏷️ Discount changes (4)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Gibson Hummingbird Studio EC TBS](https://www.thomann.pl/gibson_hummingbird_studio_ec_tbs.htm) | 10 555 zł | -10% | **none** |
+| [FabFilter Pro-Q 4](https://www.thomann.pl/fabfilter_pro_q_4.htm) | 439 zł | -30% | **none** |
+| [FabFilter Total Bundle](https://www.thomann.pl/fabfilter_total_bundle.htm) | 2 358 zł | -33% | **none** |
+| [FabFilter Pro Bundle](https://www.thomann.pl/fabfilter_pro_bundle.htm) | 1 733 zł | -40% | **none** |
+
+### ✅ Back in stock (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 698 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [the t.bone free solo 823 HeadmikeD Bundle](https://www.thomann.pl/the_t.bone_free_solo_823_headmiked_bundle.htm) | 888 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Daddario XSE0942-3P](https://www.thomann.pl/daddario_xse0942_3p.htm) | 169 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 199 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton RG-Junior w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton RG-Junior BK Set](https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-### 📦 Stock changes (2)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 735 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 259 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Behringer X Air XR18](https://www.thomann.pl/behringer_x_air_xr18.htm) | 1 699 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Hils Next HN5 Met. Emerald Green](https://www.thomann.pl/hils_next_hn5_met._emerald_green.htm) | 1 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Daddario XPND 1 Pedalboard Bundle](https://www.thomann.pl/daddario_xpnd_1_pedalboard_bundle.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Focal Alpha Twin Evo](https://www.thomann.pl/focal_alpha_twin_evo.htm) | 1 666 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [NANO Modules ST-FONT](https://www.thomann.pl/nano_modules_st_font.htm) | 633 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
 <!-- DASHBOARD:END -->
 

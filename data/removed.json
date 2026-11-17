@@ -3,6 +3,10 @@
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "bulldog_phoenix_zebrano.htm": {
+  "price": 299.0,
+  "removed_at": "2026-11-17T09:59Z"
+ },
  "cort_mr500e_open_pore_brown.htm": {
   "price": 869.0,
   "removed_at": "2026-11-16T19:34Z"
@@ -19,9 +23,17 @@
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "numark_mixstream_pro_bag_bundle.htm": {
+  "price": 2599.0,
+  "removed_at": "2026-11-17T09:59Z"
+ },
  "one_control_honey_bee_od_overdrive_624367.htm": {
   "price": 433.0,
   "removed_at": "2026-11-16T22:05Z"
+ },
+ "prs_se_santana_sy_2025.htm": {
+  "price": 2599.0,
+  "removed_at": "2026-11-17T09:59Z"
  },
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
@@ -50,5 +62,13 @@
  "yamaha_ez_310.htm": {
   "price": 715.0,
   "removed_at": "2026-11-16T19:34Z"
+ },
+ "yamaha_hs_8_mp.htm": {
+  "price": 1999.0,
+  "removed_at": "2026-11-17T09:59Z"
+ },
+ "zoom_v6_sp.htm": {
+  "price": 879.0,
+  "removed_at": "2026-11-17T09:59Z"
  }
 }
