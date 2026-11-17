@@ -3,26 +3,62 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-16 23:05 CET · **1532** deals tracked of 1532 advertised · checks every **3 h**
+**Last check:** 2026-11-17 02:00 CET · **1533** deals tracked of 1533 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · ✅ 2 back in stock → [full report](changes/2026-11-16T2205Z.md)
+🆕 1 new deals · 🔁 1 returned deals · ❌ 1 removed deals · ✅ 14 back in stock · 📦 9 stock changes → [full report](changes/2026-11-17T0100Z.md)
+
+### 🆕 New deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Yamaha Reface CP](https://www.thomann.pl/yamaha_reface_cp.htm) | 1 333 zł | ‑21% | 1 690 zł | Dostępny w magazynie |  |
+
+### 🔁 Returned deals (1)
+
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Numark Mixstream Pro+ Bag Bundle](https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm) | **2 599 zł** | 2 599 zł | ‑13% | 2 990 zł | Dostępny w magazynie | 2026‑11‑16 21:22 |
 
 ### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [One Control Honey Bee OD - Overdrive](https://www.thomann.pl/one_control_honey_bee_od_overdrive_624367.htm) | 433 zł | ‑56% | 990 zł | Dostępny w magazynie |  |
+| [Sonor 13"x07" Kompressor Snare Beech](https://www.thomann.pl/sonor_13_x07_kompressor_snare_beech.htm) | 1 322 zł | ‑57% | 3 059 zł | Dostępny w magazynie |  |
 
-### ✅ Back in stock (2)
+### ✅ Back in stock (14)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 649 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Markbass CMD JB Players School Combo](https://www.thomann.pl/markbass_cmd_jb_players_school_combo.htm) | 1 699 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Markbass Little Mark 250 Black Line](https://www.thomann.pl/markbass_little_mark_250_black_line.htm) | 969 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Markbass Nano Mark II Head](https://www.thomann.pl/markbass_nano_mark_ii_head.htm) | 1 069 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Markbass Little Mark Tube 800](https://www.thomann.pl/markbass_little_mark_tube_800.htm) | 1 899 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [ESP LTD Arrow QM Dark Brown Burst](https://www.thomann.pl/esp_ltd_arrow_qm_dark_brown_burst.htm) | 5 199 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Stairville BEL4 Battery Event Ligh Bundle](https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm) | 968 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Daddario XSAPB1253-3P](https://www.thomann.pl/daddario_xsapb1253_3p.htm) | 198 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Kala Ukadelic Bamboo Ukulele Sop.](https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm) | 96 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Yamaha TAS1 C Sand Burst](https://www.thomann.pl/yamaha_tas1_c_sand_burst.htm) | 4 499 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [ESP LTD Arrow-1000 CARS Fluence](https://www.thomann.pl/esp_ltd_arrow_1000_cars_fluence.htm) | 5 199 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+
+…and 4 more in the full report.
+
+### 📦 Stock changes (9)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Daddario XSAPB1047-3P](https://www.thomann.pl/daddario_xsapb1047_3p.htm) | 191 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Daddario XSE0942-3P](https://www.thomann.pl/daddario_xse0942_3p.htm) | 169 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Daddario XPND 1 Pedalboard Bundle](https://www.thomann.pl/daddario_xpnd_1_pedalboard_bundle.htm) | 599 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Gewa DP 510 White Set](https://www.thomann.pl/gewa_dp_510_white_set.htm) | 3 059 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Daddario XSAPB1152-3P](https://www.thomann.pl/daddario_xsapb1152_3p.htm) | 195 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Mooer F15i Li Modeling Guitar PB](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_pb.htm) | 539 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Laserworld CUBE 1](https://www.thomann.pl/laserworld_cube_1.htm) | 1 599 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Kala Ukadelic Soprano Uku BL](https://www.thomann.pl/kala_ukadelic_soprano_uku_bl.htm) | 87 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
