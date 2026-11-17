@@ -3,42 +3,31 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-17 04:59 CET · **1553** deals tracked of 1553 advertised · checks every **3 h**
+**Last check:** 2026-11-17 07:59 CET · **1547** deals tracked of 1549 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 20 new deals · ❌ 1 removed deals · 📦 1 stock changes → [full report](changes/2026-11-17T0359Z.md)
+✅ 6 back in stock · 📦 2 stock changes → [full report](changes/2026-11-17T0659Z.md)
 
-### 🆕 New deals (20)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Eurolite LED Z-20](https://www.thomann.pl/eurolite_led_z_20.htm) | 172 zł | ‑53% | 363 zł | Dostępny w magazynie |  |
-| [Sela SE 241 Kalimba Black 10](https://www.thomann.pl/sela_se_241_kalimba_black_10.htm) | 39 zł | ‑52% | 82 zł | Dostępny w magazynie |  |
-| [Bulldog Phoenix Zebrano](https://www.thomann.pl/bulldog_phoenix_zebrano.htm) | 299 zł | ‑45% | 539 zł | Dostępny w magazynie |  |
-| [Cort CM15-R Dark Blue](https://www.thomann.pl/cort_cm15_r_dark_blue.htm) | 299 zł | ‑42% | 515 zł | Dostępny w magazynie |  |
-| [Hils HNB5 Sunburst](https://www.thomann.pl/hils_hnb5_sunburst.htm) | 1 739 zł | ‑42% | 2 990 zł | Dostępny w magazynie |  |
-| [PRS SE Santana SY 2025](https://www.thomann.pl/prs_se_santana_sy_2025.htm) | 2 599 zł | ‑40% | 4 333 zł | Dostępny w magazynie | GIVEAWAY |
-| [Mooer GTRS Guitars Standard 801 SP](https://www.thomann.pl/mooer_gtrs_guitars_standard_801_sp.htm) | 899 zł | ‑38% | 1 444 zł | Dostępny w magazynie |  |
-| [Cort X-700 Triality OP VB](https://www.thomann.pl/cort_x_700_triality_op_vb.htm) | 3 490 zł | ‑38% | 5 599 zł | Dostępny w magazynie |  |
-| [Martin Guitar D Jr E StreetMaster New](https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm) | 2 999 zł | ‑36% | 4 699 zł | Dostępny w magazynie |  |
-| [Sela Seed Shaker Mixed](https://www.thomann.pl/sela_seed_shaker_mixed.htm) | 83 zł | ‑34% | 125 zł | Dostępny w magazynie |  |
-
-…and 10 more in the full report.
-
-### ❌ Removed deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Suzuki Omnichord OM-108](https://www.thomann.pl/suzuki_omnichord_om_108.htm) | 2 999 zł | ‑13% | 3 444 zł | Dostępny w magazynie |  |
-
-### 📦 Stock changes (1)
+### ✅ Back in stock (6)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Midas DL32](https://www.thomann.pl/midas_dl32.htm) | 4 499 zł | Dostępny w magazynie | **Dostępny za 4–5 tygodnie** |
+| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 698 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [the t.bone free solo 823 HeadmikeD Bundle](https://www.thomann.pl/the_t.bone_free_solo_823_headmiked_bundle.htm) | 888 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Daddario XSE0942-3P](https://www.thomann.pl/daddario_xse0942_3p.htm) | 169 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 199 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton RG-Junior w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton RG-Junior BK Set](https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (2)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 735 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 259 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

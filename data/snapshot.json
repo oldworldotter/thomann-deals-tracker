@@ -3461,9 +3461,10 @@
   "first_seen": "2026-11-17T03:59Z",
   "id": "bulldog_phoenix_zebrano.htm",
   "last_change": "2026-11-17T03:59Z",
+  "last_seen": "2026-11-17T03:59Z",
   "max_price": 299.0,
   "min_price": 299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Bulldog Phoenix Zebrano",
   "price": 299.0,
   "ref_price": 539.0,
@@ -4140,7 +4141,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xse0942_3p.htm",
-  "last_change": "2026-11-17T01:00Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 169.0,
   "min_price": 169.0,
   "missing_runs": 0,
@@ -4151,8 +4152,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xse0942_3p.htm"
  },
  "daddario_xse1046_3p.htm": {
@@ -10383,9 +10384,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbv_990skl_4_4_electric_violin.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-17T03:59Z",
   "max_price": 555.0,
   "min_price": 555.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Harley Benton HBV 990SKL 4/4 Electric Violin",
   "price": 555.0,
   "ref_price": 645.0,
@@ -10862,7 +10864,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_bundle_2.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -10873,8 +10875,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm"
  },
  "harley_benton_rg_junior_bk_w_marshall_mg10g.htm": {
@@ -10882,7 +10884,7 @@
   "discount": 8,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_w_marshall_mg10g.htm",
-  "last_change": "2026-11-16T20:22Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 698.0,
   "min_price": 698.0,
   "missing_runs": 0,
@@ -10893,8 +10895,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm"
  },
  "harley_benton_rg_junior_w_soran_tiny_stomp.htm": {
@@ -10902,7 +10904,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -10913,8 +10915,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm"
  },
  "harley_benton_s_620_w_soran_dual_lite.htm": {
@@ -11082,7 +11084,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_quilt_midnight.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 1199.0,
   "min_price": 1199.0,
   "missing_runs": 0,
@@ -11093,8 +11095,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm"
  },
  "harley_benton_spaceship_power_40_b.htm": {
@@ -11142,7 +11144,7 @@
   "discount": 14,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_active_sbk_bundle_package.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 735.0,
   "min_price": 735.0,
   "missing_runs": 0,
@@ -11153,8 +11155,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm"
  },
  "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm": {
@@ -11162,7 +11164,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 1259.0,
   "min_price": 1259.0,
   "missing_runs": 0,
@@ -11173,8 +11175,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_st_20hss_ca_w_marshall_mg15gfx.htm": {
@@ -19310,9 +19312,10 @@
   "first_seen": "2026-11-17T01:00Z",
   "id": "numark_mixstream_pro_bag_bundle.htm",
   "last_change": "2026-11-17T01:00Z",
+  "last_seen": "2026-11-17T03:59Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Numark Mixstream Pro+ Bag Bundle",
   "price": 2599.0,
   "ref_price": 2990.0,
@@ -20632,9 +20635,10 @@
   "first_seen": "2026-11-17T03:59Z",
   "id": "prs_se_santana_sy_2025.htm",
   "last_change": "2026-11-17T03:59Z",
+  "last_seen": "2026-11-17T03:59Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "PRS SE Santana SY 2025",
   "price": 2599.0,
   "ref_price": 4333.0,
@@ -20662,7 +20666,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 2–3 tygodnie",
+  "stock": "Dostępny za 7–9 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/prs_se_special_semi_hollow_lb_2025.htm"
  },
@@ -26340,7 +26344,7 @@
   "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "the_t.bone_free_solo_823_headmiked_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-17T06:59Z",
   "max_price": 888.0,
   "min_price": 888.0,
   "missing_runs": 0,
@@ -26351,8 +26355,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/the_t.bone_free_solo_823_headmiked_bundle.htm"
  },
  "the_t.bone_freeu_twin_ht_863.htm": {
@@ -30144,9 +30148,10 @@
   "first_seen": "2026-11-17T03:59Z",
   "id": "yamaha_hs_8_mp.htm",
   "last_change": "2026-11-17T03:59Z",
+  "last_seen": "2026-11-17T03:59Z",
   "max_price": 1999.0,
   "min_price": 1999.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Yamaha HS 8 MP",
   "price": 1999.0,
   "ref_price": null,
@@ -31066,9 +31071,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "zoom_v6_sp.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-17T03:59Z",
   "max_price": 879.0,
   "min_price": 879.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Zoom V6 SP",
   "price": 879.0,
   "ref_price": 1333.0,
