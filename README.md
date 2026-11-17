@@ -3,65 +3,67 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-17 13:59 CET · **1531** deals tracked of 1532 advertised · checks every **3 h**
+**Last check:** 2026-11-17 16:59 CET · **1527** deals tracked of 1529 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 1 new deals · ❌ 10 removed deals · 💸 1 price drops · ✅ 17 back in stock · 📦 3 stock changes → [full report](changes/2026-11-17T1259Z.md)
+🆕 6 new deals · 🔁 1 returned deals · ❌ 9 removed deals · ✅ 4 back in stock · 📦 9 stock changes → [full report](changes/2026-11-17T1559Z.md)
 
-### 🆕 New deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Fun Generation Magic Sky LED Bundle](https://www.thomann.pl/fun_generation_magic_sky_led_bundle.htm) | 98 zł | ‑12% | 111 zł | Dostępny w magazynie |  |
-
-### ❌ Removed deals (10)
+### 🆕 New deals (6)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Sela SE 241 Kalimba Black 10](https://www.thomann.pl/sela_se_241_kalimba_black_10.htm) | 39 zł | ‑52% | 82 zł | Dostępny w magazynie |  |
-| [Cort CM15-R Dark Blue](https://www.thomann.pl/cort_cm15_r_dark_blue.htm) | 299 zł | ‑42% | 515 zł | Dostępny w magazynie |  |
-| [Cort X-700 Triality OP VB](https://www.thomann.pl/cort_x_700_triality_op_vb.htm) | 3 490 zł | ‑38% | 5 599 zł | Dostępny w magazynie |  |
-| [Martin Guitar D Jr E StreetMaster New](https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm) | 2 999 zł | ‑36% | 4 699 zł | Dostępny w magazynie |  |
-| [One Control Jubilee Red AIAB](https://www.thomann.pl/one_control_jubilee_red_aiab.htm) | 258 zł | ‑33% | 385 zł | Dostępny w magazynie |  |
-| [JBL 308P MKII](https://www.thomann.pl/jbl_308p_mkii.htm) | 777 zł | ‑28% | 1 077 zł | Dostępny w magazynie |  |
-| [Midas DL32](https://www.thomann.pl/midas_dl32.htm) | 4 499 zł | ‑21% | 5 699 zł | Dostępny za 4–5 tygodnie |  |
-| [Guild Starfire I DC Cherry](https://www.thomann.pl/guild_starfire_i_dc_cherry.htm) | 1 959 zł | ‑18% | 2 399 zł | Dostępny w magazynie |  |
-| [Alto TrueMix 600](https://www.thomann.pl/alto_truemix_600.htm) | 389 zł | ‑17% | 468 zł | Dostępny w magazynie |  |
-| [Music Man Luke IV SSS Redburst](https://www.thomann.pl/music_man_luke_iv_sss_redburst.htm) | 12 666 zł |  |  | Dostępny w magazynie |  |
+| [One Control Pale Blue Compressor - EQ](https://www.thomann.pl/one_control_pale_blue_compressor_eq.htm) | 433 zł | ‑60% | 1 077 zł | Dostępny w magazynie |  |
+| [Strandberg Boden Bass Standard 4 NA](https://www.thomann.pl/strandberg_boden_bass_standard_4_na.htm) | 7 290 zł | ‑33% | 10 890 zł | Dostępny w magazynie |  |
+| [Recording King RM-994E-AC Cutaway](https://www.thomann.pl/recording_king_rm_994e_ac_cutaway.htm) | 2 899 zł | ‑31% | 4 222 zł | Dostępny w magazynie |  |
+| [Allen & Heath SQ7](https://www.thomann.pl/allen_heath_sq7.htm) | 15 190 zł | ‑27% | 20 790 zł | Dostępny w magazynie |  |
+| [Behringer TD-3-TG](https://www.thomann.pl/behringer_td_3_tg.htm) | 359 zł | ‑16% | 429 zł | Dostępny w magazynie |  |
+| [Heritage Guitar H-150 Custom Core LB](https://www.thomann.pl/heritage_guitar_h_150_custom_core_dlb.htm) | 14 990 zł |  |  | dostępny w magazynie |  |
 
-### 💸 Price drops (1)
+### 🔁 Returned deals (1)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Soundcraft EFX12](https://www.thomann.pl/soundcraft_efx12_mkii.htm) | 1 877 zł | **1 799 zł** | -4.2% |  |  | Dostępny w magazynie |
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Walrus Audio Slö Multi Texture Reverb](https://www.thomann.pl/walrus_audio_sloe_multi_texture_reverb.htm) | **777 zł** | 777 zł | ‑14% | 899 zł | Dostępny w magazynie | 2026‑11‑16 20:34 |
 
-### ✅ Back in stock (17)
+### ❌ Removed deals (9)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 735 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 869 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Recording King RM-995E-BN](https://www.thomann.pl/recording_king_rm_995e_bn.htm) | 2 899 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [ESP Eclipse Custom DB Black Satin](https://www.thomann.pl/esp_eclipse_custom_db_black_satin.htm) | 20 990 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
-| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 259 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 390 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 177 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [One Control Dyna Red Distortion 4K NG](https://www.thomann.pl/one_control_dyna_red_distortion_4k_ng.htm) | 433 zł | ‑53% | 929 zł | Dostępny w magazynie |  |
+| [Mooer GTRS Guitars Standard 801 SP](https://www.thomann.pl/mooer_gtrs_guitars_standard_801_sp.htm) | 899 zł | ‑38% | 1 444 zł | Dostępny w magazynie |  |
+| [Sela Seed Shaker Mixed](https://www.thomann.pl/sela_seed_shaker_mixed.htm) | 83 zł | ‑34% | 125 zł | Dostępny w magazynie |  |
+| [Hils Next HN3 Metallic Coral Orange](https://www.thomann.pl/hils_next_hn3_metallic_coral_orange.htm) | 1 444 zł | ‑30% | 2 075 zł | Dostępny za 14–18 tygodnie |  |
+| [PRS SE Special Semi-Hollow LB 2025](https://www.thomann.pl/prs_se_special_semi_hollow_lb_2025.htm) | 3 059 zł | ‑29% | 4 299 zł | Dostępny za 7–9 tygodnie | GIVEAWAY |
+| [Black Swamp Percussion LGTC2 Tambourine](https://www.thomann.pl/black_swamp_percussion_lgtc2_tambourine.htm) | 1 045 zł | ‑19% | 1 290 zł | Dostępny w magazynie |  |
+| [Friedman Runt-20 Head](https://www.thomann.pl/friedman_amplification_runt_20_head.htm) | 5 799 zł | ‑10% | 6 444 zł | Dostępny w magazynie |  |
+| [Lakland Skyline 55-02 Deluxe 5 HBG](https://www.thomann.pl/lakland_skyline_55_02_deluxe_5_hbg.htm) | 5 666 zł |  |  | Dostępny w magazynie |  |
+| [Thomann GP 160 E/P Grand Piano](https://www.thomann.pl/thomann_gp_160_e_p_grand_piano.htm) | 26 690 zł |  |  | Dostępny w magazynie |  |
 
-…and 7 more in the full report.
-
-### 📦 Stock changes (3)
+### ✅ Back in stock (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 777 zł | wyprzedany | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN4 Summer Sand](https://www.thomann.pl/hils_next_hn4_summer_sand.htm) | 1 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [RF Venue RF-PA-4PACK](https://www.thomann.pl/rf_venue_rf_pa_4pack.htm) | 9 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (9)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton TE-20HH LH w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_lh_w_soran_dual_stomp.htm) | 698 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [HK Audio L5 LTS](https://www.thomann.pl/hk_audio_l5_lts.htm) | 3 890 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Midas Legend L10](https://www.thomann.pl/midas_legend_l10.htm) | 899 zł | Dostępny w magazynie | **Dostępny za 7–9 tygodnie** |
+| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Nuvo Band Flute Black](https://www.thomann.pl/nuvo_band_flute_black.htm) | 866 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [PRS SE Custom 24 S/H CA 2025](https://www.thomann.pl/prs_se_custom_24_s_h_ca_2025.htm) | 3 899 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
+| [Expert Sleepers Disting NT](https://www.thomann.pl/expert_sleepers_disting_nt.htm) | 2 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

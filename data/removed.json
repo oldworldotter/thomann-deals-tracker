@@ -3,6 +3,10 @@
   "price": 389.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "black_swamp_percussion_lgtc2_tambourine.htm": {
+  "price": 1045.0,
+  "removed_at": "2026-11-17T15:59Z"
+ },
  "blackstar_carry_on_digital_flute_white.htm": {
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
@@ -31,13 +35,25 @@
   "price": 26290.0,
   "removed_at": "2026-11-16T16:24Z"
  },
+ "friedman_amplification_runt_20_head.htm": {
+  "price": 5799.0,
+  "removed_at": "2026-11-17T15:59Z"
+ },
  "guild_starfire_i_dc_cherry.htm": {
   "price": 1959.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "hils_next_hn3_metallic_coral_orange.htm": {
+  "price": 1444.0,
+  "removed_at": "2026-11-17T15:59Z"
+ },
  "jbl_308p_mkii.htm": {
   "price": 777.0,
   "removed_at": "2026-11-17T12:59Z"
+ },
+ "lakland_skyline_55_02_deluxe_5_hbg.htm": {
+  "price": 5666.0,
+  "removed_at": "2026-11-17T15:59Z"
  },
  "litecraft_beamx.12.htm": {
   "price": 1299.0,
@@ -51,6 +67,10 @@
   "price": 4499.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "mooer_gtrs_guitars_standard_801_sp.htm": {
+  "price": 899.0,
+  "removed_at": "2026-11-17T15:59Z"
+ },
  "music_man_luke_iv_sss_redburst.htm": {
   "price": 12666.0,
   "removed_at": "2026-11-17T12:59Z"
@@ -58,6 +78,10 @@
  "numark_mixstream_pro_bag_bundle.htm": {
   "price": 2599.0,
   "removed_at": "2026-11-17T09:59Z"
+ },
+ "one_control_dyna_red_distortion_4k_ng.htm": {
+  "price": 433.0,
+  "removed_at": "2026-11-17T15:59Z"
  },
  "one_control_honey_bee_od_overdrive_624367.htm": {
   "price": 433.0,
@@ -71,9 +95,17 @@
   "price": 2599.0,
   "removed_at": "2026-11-17T09:59Z"
  },
+ "prs_se_special_semi_hollow_lb_2025.htm": {
+  "price": 3059.0,
+  "removed_at": "2026-11-17T15:59Z"
+ },
  "sela_se_241_kalimba_black_10.htm": {
   "price": 39.0,
   "removed_at": "2026-11-17T12:59Z"
+ },
+ "sela_seed_shaker_mixed.htm": {
+  "price": 83.0,
+  "removed_at": "2026-11-17T15:59Z"
  },
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
@@ -87,13 +119,13 @@
   "price": 1259.0,
   "removed_at": "2026-11-16T11:46Z"
  },
+ "thomann_gp_160_e_p_grand_piano.htm": {
+  "price": 26690.0,
+  "removed_at": "2026-11-17T15:59Z"
+ },
  "thomann_tongue_drum_12_lotus_m.htm": {
   "price": 218.0,
   "removed_at": "2026-11-16T11:46Z"
- },
- "walrus_audio_sloe_multi_texture_reverb.htm": {
-  "price": 777.0,
-  "removed_at": "2026-11-16T19:34Z"
  },
  "yamaha_cg102_nt.htm": {
   "price": 898.0,
