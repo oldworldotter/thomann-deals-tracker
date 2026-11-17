@@ -1,4 +1,8 @@
 {
+ "alto_truemix_600.htm": {
+  "price": 389.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
  "blackstar_carry_on_digital_flute_white.htm": {
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
@@ -7,9 +11,17 @@
   "price": 299.0,
   "removed_at": "2026-11-17T09:59Z"
  },
+ "cort_cm15_r_dark_blue.htm": {
+  "price": 299.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
  "cort_mr500e_open_pore_brown.htm": {
   "price": 869.0,
   "removed_at": "2026-11-16T19:34Z"
+ },
+ "cort_x_700_triality_op_vb.htm": {
+  "price": 3490.0,
+  "removed_at": "2026-11-17T12:59Z"
  },
  "epiphone_j_200_all_solid_ag_viper_blue.htm": {
   "price": 3750.0,
@@ -19,9 +31,29 @@
   "price": 26290.0,
   "removed_at": "2026-11-16T16:24Z"
  },
+ "guild_starfire_i_dc_cherry.htm": {
+  "price": 1959.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
+ "jbl_308p_mkii.htm": {
+  "price": 777.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
  "litecraft_beamx.12.htm": {
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
+ },
+ "martin_guitar_d_jr_e_streetmaster.htm": {
+  "price": 2999.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
+ "midas_dl32.htm": {
+  "price": 4499.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
+ "music_man_luke_iv_sss_redburst.htm": {
+  "price": 12666.0,
+  "removed_at": "2026-11-17T12:59Z"
  },
  "numark_mixstream_pro_bag_bundle.htm": {
   "price": 2599.0,
@@ -31,9 +63,17 @@
   "price": 433.0,
   "removed_at": "2026-11-16T22:05Z"
  },
+ "one_control_jubilee_red_aiab.htm": {
+  "price": 258.0,
+  "removed_at": "2026-11-17T12:59Z"
+ },
  "prs_se_santana_sy_2025.htm": {
   "price": 2599.0,
   "removed_at": "2026-11-17T09:59Z"
+ },
+ "sela_se_241_kalimba_black_10.htm": {
+  "price": 39.0,
+  "removed_at": "2026-11-17T12:59Z"
  },
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
