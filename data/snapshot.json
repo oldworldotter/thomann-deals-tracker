@@ -10342,7 +10342,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_jb_62cc_ow.htm",
-  "last_change": "2026-11-18T00:59Z",
+  "last_change": "2026-11-18T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -10353,8 +10353,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_jb_62cc_ow.htm"
  },
  "harley_benton_kahuna_clu_32c.htm": {
@@ -19111,9 +19111,10 @@
   "first_seen": "2026-11-18T03:59Z",
   "id": "one_control_cranberry_overdrive_boost_568489.htm",
   "last_change": "2026-11-18T03:59Z",
+  "last_seen": "2026-11-18T03:59Z",
   "max_price": 214.0,
   "min_price": 214.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Cranberry OverDrive - Boost",
   "price": 214.0,
   "ref_price": 555.0,
@@ -23240,7 +23241,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_bel4_battery_event_ligh_bundle.htm",
-  "last_change": "2026-11-17T01:00Z",
+  "last_change": "2026-11-18T06:59Z",
   "max_price": 968.0,
   "min_price": 968.0,
   "missing_runs": 0,
@@ -23251,8 +23252,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm"
  },
  "stairville_bel4_battery_event_light_4x15w.htm": {

@@ -3,22 +3,25 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-18 04:59 CET · **1525** deals tracked of 1525 advertised · checks every **3 h**
+**Last check:** 2026-11-18 07:59 CET · **1524** deals tracked of 1524 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 4 new deals → [full report](changes/2026-11-18T0359Z.md)
+✅ 1 back in stock · 📦 1 stock changes → [full report](changes/2026-11-18T0659Z.md)
 
-### 🆕 New deals (4)
+### ✅ Back in stock (1)
 
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [One Control Cranberry OverDrive - Boost](https://www.thomann.pl/one_control_cranberry_overdrive_boost_568489.htm) | 214 zł | ‑61% | 555 zł | Dostępny w magazynie |  |
-| [Strandberg Boden Original N2.6T BK Denim](https://www.thomann.pl/strandberg_boden_original_n26t_bk_denim.htm) | 7 499 zł | ‑41% | 12 690 zł | Dostępny w magazynie |  |
-| [Lakland Skyline 44-60 Custom 4 IBM](https://www.thomann.pl/lakland_skyline_44_60_custom_4_ibm.htm) | 4 333 zł | ‑41% | 7 299 zł | Dostępny w magazynie |  |
-| [Two Notes ReVolt Guitar Preamp](https://www.thomann.pl/two_notes_revolt_guitar_preamp.htm) | 879 zł | ‑16% | 1 045 zł | Dostępny w magazynie |  |
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton JB-62CC OW](https://www.thomann.pl/harley_benton_jb_62cc_ow.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (1)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Stairville BEL4 Battery Event Ligh Bundle](https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm) | 968 zł | dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
 
 <!-- DASHBOARD:END -->
 
