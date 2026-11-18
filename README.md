@@ -3,85 +3,74 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-18 19:17 CET · **1787** deals tracked of 1787 advertised · checks every **3 h**
+**Last check:** 2026-11-18 22:59 CET · **1802** deals tracked of 1802 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 199 new deals · ❌ 4 removed deals · 📈 11 price increases · 🏷️ 19 discount changes · ✅ 1 back in stock · 📦 1 stock changes → [full report](changes/2026-11-18T1817Z.md)
+🆕 16 new deals · ❌ 6 removed deals · 💸 1 price drops · 📈 1 price increases · 🏷️ 7 discount changes · 📦 4 stock changes → [full report](changes/2026-11-18T2159Z.md)
 
-### 🆕 New deals (199)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Sela Kalimba 21 Solid Maple](https://www.thomann.pl/sela_kalimba_21_solid_maple.htm) | 169 zł | ‑54% | 368 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
-| [Sela Noah Bell 10 D5](https://www.thomann.pl/sela_noah_bell_10_d5.htm) | 77 zł | ‑49% | 151 zł | Dostępny w magazynie |  |
-| [Terre Shaman Drum Goat Skin 50cm](https://www.thomann.pl/terre_shaman_drum_goat_skin.htm) | 299 zł | ‑46% | 555 zł | Dostępny w magazynie |  |
-| [Terre Djembe Carved Dragon 40cm](https://www.thomann.pl/terre_djembe_carved_dragon_40cm.htm) | 169 zł | ‑43% | 298 zł | Dostępny w magazynie |  |
-| [Terre Shaman Drum Goat Skin Shorn 50](https://www.thomann.pl/terre_schamanentrommel_50cm.htm) | 257 zł | ‑40% | 428 zł | Dostępny w magazynie |  |
-| [Alfred Stingl by Höfner AS185 V1/4 Violin Set A.S.](https://www.thomann.pl/alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm) | 432 zł | ‑37% | 685 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
-| [The Loar LM-110E-BRB](https://www.thomann.pl/the_loar_lm_110e_brb.htm) | 1 090 zł | ‑36% | 1 699 zł | Dostępny w magazynie |  |
-| [Mapex 13"x5,5" DL Cherry Bomb NSW](https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm) | 1 299 zł | ‑35% | 1 990 zł | Dostępny w magazynie |  |
-| [Ludwig 13"x07" Universal Brass Chrome](https://www.thomann.pl/ludwig_13_x07_universal_brass_chrome.htm) | 1 299 zł | ‑32% | 1 899 zł | Dostępny za 2–3 tygodnie |  |
-| [Zultan Alaris Cymbal Set](https://www.thomann.pl/zultan_alaris_cymbal_set.htm) | 2 175 zł | ‑32% | 3 222 zł | Dostępny w magazynie |  |
-
-…and 189 more in the full report.
-
-### ❌ Removed deals (4)
+### 🆕 New deals (16)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Citadel Bus Driver](https://www.thomann.pl/citadel_bus_driver.htm) | 389 zł | ‑44% | 689 zł | Dostępny w magazynie |  |
-| [Recording King RM-994E-AC Cutaway](https://www.thomann.pl/recording_king_rm_994e_ac_cutaway.htm) | 2 899 zł | ‑31% | 4 222 zł | Dostępny w magazynie |  |
-| [Electro Harmonix Triangle Big Muff Fuzz](https://www.thomann.pl/electro_harmonix_triangle_big_muff_fuzz.htm) | 308 zł | ‑21% | 392 zł | Dostępny w magazynie |  |
-| [Millenium Focus Junior Drum Set Black](https://www.thomann.pl/millenium_focus_junior_drum_set_black.htm) | 699 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha NP-15 Piaggero Black](https://www.thomann.pl/yamaha_np_15_piaggero_black.htm) | 649 zł | ‑21% | 825 zł | Dostępny w magazynie |  |
+| [Yamaha NP-15 Piaggero White](https://www.thomann.pl/yamaha_np_15_piaggero_white.htm) | 649 zł | ‑21% | 825 zł | Dostępny w magazynie |  |
+| [Yamaha NP-35 Piaggero Black](https://www.thomann.pl/yamaha_np_35_piaggero_black.htm) | 1 029 zł | ‑17% | 1 245 zł | Dostępny w magazynie |  |
+| [Yamaha YDP-S36 B Arius Set](https://www.thomann.pl/yamaha_ydp_s36_b_arius_set.htm) | 3 999 zł | ‑17% | 4 799 zł | Dostępny w magazynie |  |
+| [Yamaha YDP-S36 WB Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wb_arius_set.htm) | 3 999 zł | ‑17% | 4 799 zł | Dostępny w magazynie |  |
+| [Yamaha NP-35 Piaggero White](https://www.thomann.pl/yamaha_np_35_piaggero_white.htm) | 1 029 zł | ‑16% | 1 222 zł | Dostępny w magazynie |  |
+| [Yamaha P-225 B](https://www.thomann.pl/yamaha_p_225_b.htm) | 2 199 zł | ‑14% | 2 545 zł | Dostępny w magazynie |  |
+| [Yamaha YDP-146 R Arius Set](https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm) | 3 890 zł | ‑14% | 4 499 zł | Dostępny w magazynie |  |
+| [Yamaha YDP-146 WH Arius Set](https://www.thomann.pl/yamaha_ydp_146_wh_arius_set.htm) | 3 890 zł | ‑14% | 4 499 zł | Dostępny w magazynie |  |
+| [Yamaha PSR-E283](https://www.thomann.pl/yamaha_psr_e283.htm) | 499 zł | ‑13% | 575 zł | Dostępny w magazynie |  |
 
-### 📈 Price increases (11)
+…and 6 more in the full report.
+
+### ❌ Removed deals (6)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Sela Kalimba 10 Green](https://www.thomann.pl/sela_kalimba_10_green.htm) | 39 zł | ‑68% | 121 zł | Dostępny w magazynie |  |
+| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | 214 zł | ‑61% | 555 zł | Dostępny w magazynie |  |
+| [One Control Persian Green Screamer](https://www.thomann.pl/one_control_persian_green_screamer.htm) | 258 zł | ‑54% | 555 zł | Dostępny w magazynie |  |
+| [Sela SE 241 Kalimba Black 10](https://www.thomann.pl/sela_se_241_kalimba_black_10.htm) | 39 zł | ‑52% | 82 zł | Dostępny w magazynie |  |
+| [Tone City Holy Aura - Distortion / Boost](https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm) | 258 zł | ‑40% | 429 zł | Dostępny w magazynie |  |
+| [Höfner Vintage 500/1 62 Mersey](https://www.thomann.pl/hoefner_vintage_62_beatles_bass.htm) | 10 890 zł | ‑16% | 12 890 zł | Dostępny w magazynie |  |
+
+### 💸 Price drops (1)
 
 | Product | Was | Now | Change | Discount | 30-day best | Stock |
 |---|--:|--:|--:|--:|--:|---|
-| [Laserworld CUBE 1](https://www.thomann.pl/laserworld_cube_1.htm) | 1 599 zł | **1 639 zł** | +2.5% |  |  | Dostępny w magazynie |
-| [the t.bone MB85 Wireless Mic Bundle](https://www.thomann.pl/the_t.bone_mb85_wireless_mic_bundle.htm) | 391 zł | **398 zł** | +1.8% |  |  | Dostępny w magazynie |
-| [Nux B-7 Pro In-Ear-Monitoring](https://www.thomann.pl/nux_b_7_pro_in_ear_monitoring.htm) | 1 111 zł | **1 129 zł** | +1.6% |  |  | Dostępny w magazynie |
-| [Millenium DI300-P](https://www.thomann.pl/millenium_di300_p.htm) | 146 zł | **148 zł** | +1.4% |  |  | Dostępny w magazynie |
-| [Millenium DI600-A](https://www.thomann.pl/millenium_di600_a.htm) | 173 zł | **175 zł** | +1.2% |  |  | Dostępny w magazynie |
-| [Mackie MR824](https://www.thomann.pl/mackie_mr824.htm) | 1 077 zł | **1 090 zł** | +1.2% |  |  | Dostępny w magazynie |
-| [DAS Audio Vantec-20A](https://www.thomann.pl/das_audio_vantec_20a.htm) | 8 199 zł | **8 290 zł** | +1.1% |  |  | Dostępny w magazynie |
-| [DAS Audio Vantec-118A](https://www.thomann.pl/das_audio_vantec_118a.htm) | 8 199 zł | **8 290 zł** | +1.1% |  |  | Dostępny w magazynie |
-| [Thomann UP 121 E/P Piano](https://www.thomann.pl/thomann_up_121_e_p_piano.htm) | 13 190 zł | **13 333 zł** | +1.1% |  |  | Dostępny w magazynie |
-| [Ape Labs Neon Tube TourBox 6 PIX](https://www.thomann.pl/ape_labs_neon_tube_tourbox_6_pix.htm) | 9 699 zł | **9 799 zł** | +1.0% |  |  | Dostępny w magazynie |
+| [Zildjian S Series Performer Cymbal Set](https://www.thomann.pl/zildjian_s_series_performer_cymbal_set_621594.htm) | 2 635 zł | **2 599 zł** | -1.4% |  |  | Dostępny w magazynie |
 
-…and 1 more in the full report.
+### 📈 Price increases (1)
 
-### 🏷️ Discount changes (19)
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [iriz PTC-TN Bundle](https://www.thomann.pl/iriz_ptc_tn_bundle.htm) | 3 799 zł | **3 890 zł** | +2.4% |  |  | Dostępny w magazynie |
+
+### 🏷️ Discount changes (7)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [LAB Gruppen PDX3000](https://www.thomann.pl/lab_gruppen_pdx3000.htm) | 2 175 zł | -16% | **none** |
-| [Nux B-7 Pro In-Ear-Monitoring](https://www.thomann.pl/nux_b_7_pro_in_ear_monitoring.htm) | 1 129 zł | -12% | **none** |
-| [the t.bone MB85 Wireless Mic Bundle](https://www.thomann.pl/the_t.bone_mb85_wireless_mic_bundle.htm) | 398 zł | -11% | **none** |
-| [Millenium DI300-P](https://www.thomann.pl/millenium_di300_p.htm) | 148 zł | -6% | **none** |
-| [Millenium DI600-A](https://www.thomann.pl/millenium_di600_a.htm) | 175 zł | -29% | **none** |
-| [iriz PTC-TN Bundle](https://www.thomann.pl/iriz_ptc_tn_bundle.htm) | 3 799 zł | -5% | **none** |
-| [Stairville Adjustable Moving Head Tower](https://www.thomann.pl/stairville_adjustable_moving_head_tower.htm) | 1 099 zł | -7% | **none** |
-| [Syrincs D115SP](https://www.thomann.pl/syrincs_d115sp.htm) | 969 zł | -23% | **none** |
-| [DAS Audio Vantec-20A](https://www.thomann.pl/das_audio_vantec_20a.htm) | 8 290 zł | -20% | **none** |
-| [Sennheiser XSW IEM Set E-Band](https://www.thomann.pl/sennheiser_xsw_iem_set_e_band.htm) | 1 959 zł | -22% | **none** |
+| [Mapex 12"x5,5" DL Warbird Snare Drum](https://www.thomann.pl/mapex_12_x55_dl_warbird_snare_drum.htm) | 2 175 zł | -27% | **none** |
+| [Harley Benton DNAfx GiT Pro](https://www.thomann.pl/harley_benton_dnafx_git_pro.htm) | 738 zł | -14% | **none** |
+| [Harley Benton G112Plus LTD V30UK](https://www.thomann.pl/harley_benton_g112plus_ltd_v30uk.htm) | 869 zł | -20% | **none** |
+| [Zildjian S Series Performer Cymbal Set](https://www.thomann.pl/zildjian_s_series_performer_cymbal_set_621594.htm) | 2 599 zł | -15% | **none** |
+| [Gretsch Drums Catalina Bubinga Maple Studio](https://www.thomann.pl/gretsch_drums_catalina_bubinga_maple_studio.htm) | 5 590 zł | -22% | **none** |
+| [Harley Benton TravelMate-E](https://www.thomann.pl/harley_benton_travelmate_e.htm) | 869 zł | -20% | **none** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | -14% | **none** |
 
-…and 9 more in the full report.
-
-### ✅ Back in stock (1)
+### 📦 Stock changes (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-### 📦 Stock changes (1)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Pearl Midtown Matte Red](https://www.thomann.pl/pearl_midtown_matte_red.htm) | 2 269 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
+| [Harley Benton HBV 990BCF 4/4 Electric Violin](https://www.thomann.pl/harley_benton_hbv_990bcf_4_4_electric_violin.htm) | 579 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [the box pro DSP 18 Sub](https://www.thomann.pl/the_box_pro_dsp_18_sub.htm) | 1 699 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 649 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

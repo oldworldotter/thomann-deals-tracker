@@ -1573,11 +1573,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 7390.0,
+  "max_price": 7399.0,
   "min_price": 7390.0,
   "missing_runs": 0,
   "name": "Ape Labs ApeLight Maxi V2 VV TP 6 SB G",
-  "price": 7390.0,
+  "price": 7399.0,
   "ref_price": null,
   "reported_price": 7390.0,
   "sections": [
@@ -1858,7 +1858,7 @@
   "missing_runs": 0,
   "name": "Aston Microphones Swift",
   "price": 88.0,
-  "ref_price": 259.0,
+  "ref_price": 261.0,
   "reported_price": 88.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -10679,16 +10679,16 @@
  },
  "gretsch_drums_catalina_bubinga_maple_studio.htm": {
   "badge": "",
-  "discount": 22,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "gretsch_drums_catalina_bubinga_maple_studio.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 5555.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 5590.0,
   "min_price": 5555.0,
   "missing_runs": 0,
   "name": "Gretsch Drums Catalina Bubinga Maple Studio",
-  "price": 5555.0,
-  "ref_price": 7099.0,
+  "price": 5590.0,
+  "ref_price": null,
   "reported_price": 5555.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -10882,7 +10882,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_bm_75_trans_red.htm",
-  "last_change": "2026-11-17T12:59Z",
+  "last_change": "2026-11-18T21:59Z",
   "max_price": 1177.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -10893,8 +10893,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_bm_75_trans_red.htm"
  },
  "harley_benton_cld_60smce_nt_bundle.htm": {
@@ -11239,16 +11239,16 @@
  },
  "harley_benton_dnafx_git_pro.htm": {
   "badge": "",
-  "discount": 14,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_dnafx_git_pro.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 735.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 738.0,
   "min_price": 735.0,
   "missing_runs": 0,
   "name": "Harley Benton DNAfx GiT Pro",
-  "price": 735.0,
-  "ref_price": 858.0,
+  "price": 738.0,
+  "ref_price": null,
   "reported_price": 735.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -11283,11 +11283,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_electric_guitar_kit_lpstyle.htm",
   "last_change": "2026-11-18T18:17Z",
-  "max_price": 388.0,
+  "max_price": 389.0,
   "min_price": 388.0,
   "missing_runs": 0,
   "name": "Harley Benton Electric Guitar Kit Single Cut",
-  "price": 388.0,
+  "price": 389.0,
   "ref_price": null,
   "reported_price": 388.0,
   "sections": [
@@ -11419,16 +11419,16 @@
  },
  "harley_benton_g112plus_ltd_v30uk.htm": {
   "badge": "",
-  "discount": 20,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_g112plus_ltd_v30uk.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 868.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 869.0,
   "min_price": 868.0,
   "missing_runs": 0,
   "name": "Harley Benton G112Plus LTD V30UK",
-  "price": 868.0,
-  "ref_price": 1079.0,
+  "price": 869.0,
+  "ref_price": null,
   "reported_price": 868.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -11622,7 +11622,7 @@
   "discount": 16,
   "first_seen": "2026-11-18T18:17Z",
   "id": "harley_benton_hbv_990bcf_4_4_electric_violin.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-18T21:59Z",
   "max_price": 579.0,
   "min_price": 579.0,
   "missing_runs": 0,
@@ -11633,8 +11633,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbv_990bcf_4_4_electric_violin.htm"
  },
  "harley_benton_hbv_990skl_4_4_electric_violin.htm": {
@@ -11662,7 +11662,7 @@
   "discount": 24,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-17T12:59Z",
+  "last_change": "2026-11-18T21:59Z",
   "max_price": 649.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -11673,8 +11673,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm"
  },
  "harley_benton_hbz2004.htm": {
@@ -12419,16 +12419,16 @@
  },
  "harley_benton_st_20hh_active_sbk_bundle_package.htm": {
   "badge": "",
-  "discount": 14,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_active_sbk_bundle_package.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "max_price": 735.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 738.0,
   "min_price": 735.0,
   "missing_runs": 0,
   "name": "Harley Benton ST-20HH Active SBK Bundle",
-  "price": 735.0,
-  "ref_price": 859.0,
+  "price": 738.0,
+  "ref_price": null,
   "reported_price": 735.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -12779,16 +12779,16 @@
  },
  "harley_benton_travelmate_e.htm": {
   "badge": "",
-  "discount": 20,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_travelmate_e.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 868.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 869.0,
   "min_price": 868.0,
   "missing_runs": 0,
   "name": "Harley Benton TravelMate-E",
-  "price": 868.0,
-  "ref_price": 1079.0,
+  "price": 869.0,
+  "ref_price": null,
   "reported_price": 868.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -13691,7 +13691,6 @@
   "ref_price": 8499.0,
   "reported_price": 7399.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -14057,27 +14056,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hoefner_verythin_ct_special_brunette.htm"
- },
- "hoefner_vintage_62_beatles_bass.htm": {
-  "badge": "",
-  "discount": 16,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "hoefner_vintage_62_beatles_bass.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-18T15:59Z",
-  "max_price": 10890.0,
-  "min_price": 10890.0,
-  "missing_runs": 1,
-  "name": "Höfner Vintage 500/1 62 Mersey",
-  "price": 10890.0,
-  "ref_price": 12890.0,
-  "reported_price": 10890.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/hoefner_vintage_62_beatles_bass.htm"
  },
  "hoefner_violin_bass_500_1_relic_61_lh.htm": {
   "badge": "",
@@ -14873,7 +14851,6 @@
   "ref_price": null,
   "reported_price": 866.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -15015,7 +14992,6 @@
   "ref_price": 699.0,
   "reported_price": 485.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -15127,14 +15103,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "iriz_ptc_tn_bundle.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "max_price": 3799.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 3890.0,
   "min_price": 3799.0,
   "missing_runs": 0,
   "name": "iriz PTC-TN Bundle",
-  "price": 3799.0,
+  "price": 3890.0,
   "ref_price": null,
-  "reported_price": 3799.0,
+  "reported_price": 3890.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -15248,11 +15224,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "jbl_305p_mkiii.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 848.0,
+  "max_price": 849.0,
   "min_price": 848.0,
   "missing_runs": 0,
   "name": "JBL 305P MKIII",
-  "price": 848.0,
+  "price": 849.0,
   "ref_price": null,
   "reported_price": 848.0,
   "sections": [
@@ -18766,16 +18742,16 @@
  },
  "mapex_12_x55_dl_warbird_snare_drum.htm": {
   "badge": "",
-  "discount": 27,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "mapex_12_x55_dl_warbird_snare_drum.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 2169.0,
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 2175.0,
   "min_price": 2169.0,
   "missing_runs": 0,
   "name": "Mapex 12\"x5,5\" DL Warbird Snare Drum",
-  "price": 2169.0,
-  "ref_price": 2990.0,
+  "price": 2175.0,
+  "ref_price": null,
   "reported_price": 2169.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -22410,27 +22386,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_octave_up_fuzz.htm"
  },
- "one_control_persian_green_screamer.htm": {
-  "badge": "",
-  "discount": 54,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "one_control_persian_green_screamer.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "last_seen": "2026-11-18T15:59Z",
-  "max_price": 258.0,
-  "min_price": 258.0,
-  "missing_runs": 1,
-  "name": "One Control Persian Green Screamer",
-  "price": 258.0,
-  "ref_price": 555.0,
-  "reported_price": 258.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/one_control_persian_green_screamer.htm"
- },
  "one_control_raspberry_booster_overdrive.htm": {
   "badge": "",
   "discount": 22,
@@ -22450,27 +22405,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_raspberry_booster_overdrive.htm"
- },
- "one_control_super_apricot_od_overdrive_624366.htm": {
-  "badge": "",
-  "discount": 61,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "one_control_super_apricot_od_overdrive_624366.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "last_seen": "2026-11-18T15:59Z",
-  "max_price": 214.0,
-  "min_price": 214.0,
-  "missing_runs": 1,
-  "name": "One Control Super Apricot OD - Overdrive",
-  "price": 214.0,
-  "ref_price": 555.0,
-  "reported_price": 214.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm"
  },
  "oneodio_fusion_a70_black.htm": {
   "badge": "",
@@ -23093,7 +23027,7 @@
   "url": "https://www.thomann.pl/positive_grid_bias_x.htm"
  },
  "positive_grid_reactor_100.htm": {
-  "badge": "Deal",
+  "badge": "",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "positive_grid_reactor_100.htm",
@@ -23106,7 +23040,6 @@
   "ref_price": null,
   "reported_price": 1658.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -23168,7 +23101,6 @@
   "ref_price": null,
   "reported_price": 859.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -23189,7 +23121,6 @@
   "ref_price": 585.0,
   "reported_price": 333.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -23572,7 +23503,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/prs_se_custom_24_s_h_vs_2025.htm"
  },
@@ -24786,9 +24717,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "schecter_synyster_std_plus_fr_tdr.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-18T18:17Z",
   "max_price": 5444.0,
   "min_price": 5444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Schecter Synyster Std Plus FR TDR",
   "price": 5444.0,
   "ref_price": 5799.0,
@@ -25060,27 +24992,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_harmony_chimes_9_dark.htm"
  },
- "sela_kalimba_10_green.htm": {
-  "badge": "",
-  "discount": 68,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "sela_kalimba_10_green.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "last_seen": "2026-11-18T15:59Z",
-  "max_price": 39.0,
-  "min_price": 39.0,
-  "missing_runs": 1,
-  "name": "Sela Kalimba 10 Green",
-  "price": 39.0,
-  "ref_price": 121.0,
-  "reported_price": 39.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sela_kalimba_10_green.htm"
- },
  "sela_kalimba_21_solid_maple.htm": {
   "badge": "",
   "discount": 54,
@@ -25200,27 +25111,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_se_060_varios_bundle_red.htm"
- },
- "sela_se_241_kalimba_black_10.htm": {
-  "badge": "",
-  "discount": 52,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "sela_se_241_kalimba_black_10.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "last_seen": "2026-11-18T15:59Z",
-  "max_price": 39.0,
-  "min_price": 39.0,
-  "missing_runs": 1,
-  "name": "Sela SE 241 Kalimba Black 10",
-  "price": 39.0,
-  "ref_price": 82.0,
-  "reported_price": 39.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sela_se_241_kalimba_black_10.htm"
  },
  "sela_seed_chime_kenari_xl.htm": {
   "badge": "",
@@ -27753,11 +27643,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_lb_3_lighting_stand_set_bundle.htm",
   "last_change": "2026-11-18T18:17Z",
-  "max_price": 868.0,
+  "max_price": 869.0,
   "min_price": 868.0,
   "missing_runs": 0,
   "name": "Stageworx LB-3 Lighting Stand Set Bundle",
-  "price": 868.0,
+  "price": 869.0,
   "ref_price": null,
   "reported_price": 868.0,
   "sections": [
@@ -28821,7 +28711,6 @@
   "ref_price": 3590.0,
   "reported_price": 2499.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -29228,6 +29117,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/swissonic_ha660_headphone_amp.htm"
+ },
+ "swissonic_hdbaset_hdmi2.0_extender_100m.htm": {
+  "badge": "",
+  "discount": 9,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "swissonic_hdbaset_hdmi2.0_extender_100m.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 798.0,
+  "min_price": 798.0,
+  "missing_runs": 0,
+  "name": "Swissonic HDbaseT HDMI2.0 Extender 100m",
+  "price": 798.0,
+  "ref_price": 879.0,
+  "reported_price": 798.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/swissonic_hdbaset_hdmi2.0_extender_100m.htm"
  },
  "swissonic_headamp_8.htm": {
   "badge": "",
@@ -30314,7 +30223,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "the_box_pro_dsp_18_sub.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T21:59Z",
   "max_price": 1699.0,
   "min_price": 1699.0,
   "missing_runs": 0,
@@ -30325,8 +30234,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/the_box_pro_dsp_18_sub.htm"
  },
  "the_box_pro_dsx_112_m.htm": {
@@ -30523,7 +30432,6 @@
   "ref_price": 1699.0,
   "reported_price": 1090.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -32469,27 +32377,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/tone_city_black_tea_distortion.htm"
- },
- "tone_city_holy_aura_distortion_boost.htm": {
-  "badge": "",
-  "discount": 40,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "tone_city_holy_aura_distortion_boost.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-18T15:59Z",
-  "max_price": 258.0,
-  "min_price": 258.0,
-  "missing_runs": 1,
-  "name": "Tone City Holy Aura - Distortion / Boost",
-  "price": 258.0,
-  "ref_price": 429.0,
-  "reported_price": 258.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm"
  },
  "tone_city_nobleman_overdrive.htm": {
   "badge": "",
@@ -34835,6 +34722,86 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_my16_dante_aud2.htm"
  },
+ "yamaha_np_15_piaggero_black.htm": {
+  "badge": "",
+  "discount": 21,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_np_15_piaggero_black.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 649.0,
+  "min_price": 649.0,
+  "missing_runs": 0,
+  "name": "Yamaha NP-15 Piaggero Black",
+  "price": 649.0,
+  "ref_price": 825.0,
+  "reported_price": 649.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_np_15_piaggero_black.htm"
+ },
+ "yamaha_np_15_piaggero_white.htm": {
+  "badge": "",
+  "discount": 21,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_np_15_piaggero_white.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 649.0,
+  "min_price": 649.0,
+  "missing_runs": 0,
+  "name": "Yamaha NP-15 Piaggero White",
+  "price": 649.0,
+  "ref_price": 825.0,
+  "reported_price": 649.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_np_15_piaggero_white.htm"
+ },
+ "yamaha_np_35_piaggero_black.htm": {
+  "badge": "",
+  "discount": 17,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_np_35_piaggero_black.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 1029.0,
+  "min_price": 1029.0,
+  "missing_runs": 0,
+  "name": "Yamaha NP-35 Piaggero Black",
+  "price": 1029.0,
+  "ref_price": 1245.0,
+  "reported_price": 1029.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_np_35_piaggero_black.htm"
+ },
+ "yamaha_np_35_piaggero_white.htm": {
+  "badge": "",
+  "discount": 16,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_np_35_piaggero_white.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 1029.0,
+  "min_price": 1029.0,
+  "missing_runs": 0,
+  "name": "Yamaha NP-35 Piaggero White",
+  "price": 1029.0,
+  "ref_price": 1222.0,
+  "reported_price": 1029.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_np_35_piaggero_white.htm"
+ },
  "yamaha_p_116_m_pe_upright_piano.htm": {
   "badge": "",
   "discount": 11,
@@ -34854,6 +34821,66 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_p_116_m_pe_upright_piano.htm"
+ },
+ "yamaha_p_145_b_bt.htm": {
+  "badge": "",
+  "discount": 12,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_p_145_b_bt.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 1550.0,
+  "min_price": 1550.0,
+  "missing_runs": 0,
+  "name": "Yamaha P-145 B BT",
+  "price": 1550.0,
+  "ref_price": 1759.0,
+  "reported_price": 1550.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_p_145_b_bt.htm"
+ },
+ "yamaha_p_225_b.htm": {
+  "badge": "",
+  "discount": 14,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_p_225_b.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 2199.0,
+  "min_price": 2199.0,
+  "missing_runs": 0,
+  "name": "Yamaha P-225 B",
+  "price": 2199.0,
+  "ref_price": 2545.0,
+  "reported_price": 2199.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_p_225_b.htm"
+ },
+ "yamaha_p_225_wh.htm": {
+  "badge": "",
+  "discount": 12,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_p_225_wh.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 2199.0,
+  "min_price": 2199.0,
+  "missing_runs": 0,
+  "name": "Yamaha P-225 WH",
+  "price": 2199.0,
+  "ref_price": 2499.0,
+  "reported_price": 2199.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_p_225_wh.htm"
  },
  "yamaha_p_45_b.htm": {
   "badge": "",
@@ -34875,6 +34902,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_p_45_b.htm"
+ },
+ "yamaha_psr_e283.htm": {
+  "badge": "",
+  "discount": 13,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_psr_e283.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 499.0,
+  "min_price": 499.0,
+  "missing_runs": 0,
+  "name": "Yamaha PSR-E283",
+  "price": 499.0,
+  "ref_price": 575.0,
+  "reported_price": 499.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_psr_e283.htm"
  },
  "yamaha_psr_e383.htm": {
   "badge": "Deal",
@@ -35016,6 +35063,46 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_psr_sx920_sub_bundle.htm"
+ },
+ "yamaha_pss_e30.htm": {
+  "badge": "",
+  "discount": 9,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_pss_e30.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 222.0,
+  "min_price": 222.0,
+  "missing_runs": 0,
+  "name": "Yamaha PSS-E30",
+  "price": 222.0,
+  "ref_price": 245.0,
+  "reported_price": 222.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_pss_e30.htm"
+ },
+ "yamaha_pss_f30.htm": {
+  "badge": "",
+  "discount": 12,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_pss_f30.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 222.0,
+  "min_price": 222.0,
+  "missing_runs": 0,
+  "name": "Yamaha PSS-F30",
+  "price": 222.0,
+  "ref_price": 252.0,
+  "reported_price": 222.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_pss_f30.htm"
  },
  "yamaha_ql1.htm": {
   "badge": "",
@@ -35437,6 +35524,106 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_ycl_255_s_bb_clarinet.htm"
  },
+ "yamaha_ydp_146_b_arius_set.htm": {
+  "badge": "",
+  "discount": 10,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_ydp_146_b_arius_set.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 3890.0,
+  "min_price": 3890.0,
+  "missing_runs": 0,
+  "name": "Yamaha YDP-146 B Arius Set",
+  "price": 3890.0,
+  "ref_price": 4299.0,
+  "reported_price": 3890.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/yamaha_ydp_146_b_arius_set.htm"
+ },
+ "yamaha_ydp_146_r_arius_set.htm": {
+  "badge": "",
+  "discount": 14,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_ydp_146_r_arius_set.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 3890.0,
+  "min_price": 3890.0,
+  "missing_runs": 0,
+  "name": "Yamaha YDP-146 R Arius Set",
+  "price": 3890.0,
+  "ref_price": 4499.0,
+  "reported_price": 3890.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm"
+ },
+ "yamaha_ydp_146_wh_arius_set.htm": {
+  "badge": "",
+  "discount": 14,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_ydp_146_wh_arius_set.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 3890.0,
+  "min_price": 3890.0,
+  "missing_runs": 0,
+  "name": "Yamaha YDP-146 WH Arius Set",
+  "price": 3890.0,
+  "ref_price": 4499.0,
+  "reported_price": 3890.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ydp_146_wh_arius_set.htm"
+ },
+ "yamaha_ydp_s36_b_arius_set.htm": {
+  "badge": "",
+  "discount": 17,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_ydp_s36_b_arius_set.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 3999.0,
+  "min_price": 3999.0,
+  "missing_runs": 0,
+  "name": "Yamaha YDP-S36 B Arius Set",
+  "price": 3999.0,
+  "ref_price": 4799.0,
+  "reported_price": 3999.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ydp_s36_b_arius_set.htm"
+ },
+ "yamaha_ydp_s36_wb_arius_set.htm": {
+  "badge": "",
+  "discount": 17,
+  "first_seen": "2026-11-18T21:59Z",
+  "id": "yamaha_ydp_s36_wb_arius_set.htm",
+  "last_change": "2026-11-18T21:59Z",
+  "max_price": 3999.0,
+  "min_price": 3999.0,
+  "missing_runs": 0,
+  "name": "Yamaha YDP-S36 WB Arius Set",
+  "price": 3999.0,
+  "ref_price": 4799.0,
+  "reported_price": 3999.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ydp_s36_wb_arius_set.htm"
+ },
  "yamaha_ydp_s55_b_arius.htm": {
   "badge": "",
   "discount": null,
@@ -35699,17 +35886,17 @@
  },
  "zildjian_s_series_performer_cymbal_set_621594.htm": {
   "badge": "",
-  "discount": 15,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "zildjian_s_series_performer_cymbal_set_621594.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T21:59Z",
   "max_price": 2635.0,
-  "min_price": 2635.0,
+  "min_price": 2599.0,
   "missing_runs": 0,
   "name": "Zildjian S Series Performer Cymbal Set",
-  "price": 2635.0,
-  "ref_price": 3111.0,
-  "reported_price": 2635.0,
+  "price": 2599.0,
+  "ref_price": null,
+  "reported_price": 2599.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
