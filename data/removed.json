@@ -7,6 +7,10 @@
   "price": 1799.0,
   "removed_at": "2026-11-18T12:59Z"
  },
+ "behringer_td_3_tg.htm": {
+  "price": 359.0,
+  "removed_at": "2026-11-18T15:59Z"
+ },
  "black_swamp_percussion_lgtc2_tambourine.htm": {
   "price": 1045.0,
   "removed_at": "2026-11-17T15:59Z"
@@ -55,6 +59,10 @@
   "price": 172.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "focusrite_scarlett_solo_3rd_gen.htm": {
+  "price": 388.0,
+  "removed_at": "2026-11-18T15:59Z"
+ },
  "friedman_amplification_runt_20_head.htm": {
   "price": 5799.0,
   "removed_at": "2026-11-17T15:59Z"
@@ -67,9 +75,17 @@
   "price": 13190.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "gibson_sj_200_standard_tri_burst.htm": {
+  "price": 17190.0,
+  "removed_at": "2026-11-18T15:59Z"
+ },
  "guild_starfire_i_dc_cherry.htm": {
   "price": 1959.0,
   "removed_at": "2026-11-17T12:59Z"
+ },
+ "harley_benton_st_20hss_sbk_standard_series.htm": {
+  "price": 485.0,
+  "removed_at": "2026-11-18T15:59Z"
  },
  "hils_hnb5_sunburst.htm": {
   "price": 1739.0,
@@ -79,9 +95,17 @@
   "price": 1444.0,
   "removed_at": "2026-11-17T15:59Z"
  },
+ "hils_next_hn5_met._emerald_green.htm": {
+  "price": 1599.0,
+  "removed_at": "2026-11-18T15:59Z"
+ },
  "jbl_308p_mkii.htm": {
   "price": 777.0,
   "removed_at": "2026-11-17T12:59Z"
+ },
+ "kala_ka_15_c_mahogany_concert.htm": {
+  "price": 239.0,
+  "removed_at": "2026-11-18T15:59Z"
  },
  "lakland_skyline_44_01_deluxe_4_nat.htm": {
   "price": 3490.0,
@@ -139,10 +163,6 @@
   "price": 433.0,
   "removed_at": "2026-11-16T22:05Z"
  },
- "one_control_jubilee_red_aiab.htm": {
-  "price": 258.0,
-  "removed_at": "2026-11-17T12:59Z"
- },
  "one_control_pale_blue_compressor_eq.htm": {
   "price": 433.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -155,6 +175,10 @@
   "price": 3059.0,
   "removed_at": "2026-11-17T15:59Z"
  },
+ "rane_system_one_thon_case_bundle.htm": {
+  "price": 10890.0,
+  "removed_at": "2026-11-18T15:59Z"
+ },
  "recording_king_rm_995e_bn.htm": {
   "price": 2899.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -162,10 +186,6 @@
  "schecter_damien_platinum_6_fr_s_sbk.htm": {
   "price": 4333.0,
   "removed_at": "2026-11-17T18:59Z"
- },
- "sela_se_241_kalimba_black_10.htm": {
-  "price": 39.0,
-  "removed_at": "2026-11-17T12:59Z"
  },
  "sela_seed_shaker_mixed.htm": {
   "price": 83.0,
@@ -199,6 +219,10 @@
   "price": 218.0,
   "removed_at": "2026-11-16T11:46Z"
  },
+ "two_notes_revolt_guitar_preamp.htm": {
+  "price": 879.0,
+  "removed_at": "2026-11-18T15:59Z"
+ },
  "walrus_audio_sloe_multi_texture_reverb.htm": {
   "price": 777.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -206,6 +230,10 @@
  "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
   "price": 433.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "yamaha_b3_sc3_pec.htm": {
+  "price": 31490.0,
+  "removed_at": "2026-11-18T15:59Z"
  },
  "yamaha_bbne2_nathan_east_black.htm": {
   "price": 17990.0,
