@@ -135,6 +135,10 @@
   "price": 258.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "one_control_pale_blue_compressor_eq.htm": {
+  "price": 433.0,
+  "removed_at": "2026-11-18T00:59Z"
+ },
  "prs_se_santana_sy_2025.htm": {
   "price": 2599.0,
   "removed_at": "2026-11-17T09:59Z"
@@ -163,6 +167,10 @@
   "price": 1322.0,
   "removed_at": "2026-11-17T01:00Z"
  },
+ "strandberg_boden_bass_standard_4_na.htm": {
+  "price": 7290.0,
+  "removed_at": "2026-11-18T00:59Z"
+ },
  "suzuki_omnichord_om_108.htm": {
   "price": 2999.0,
   "removed_at": "2026-11-17T03:59Z"
@@ -179,6 +187,14 @@
   "price": 218.0,
   "removed_at": "2026-11-16T11:46Z"
  },
+ "walrus_audio_sloe_multi_texture_reverb.htm": {
+  "price": 777.0,
+  "removed_at": "2026-11-18T00:59Z"
+ },
+ "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
+  "price": 433.0,
+  "removed_at": "2026-11-18T00:59Z"
+ },
  "yamaha_cg102_nt.htm": {
   "price": 898.0,
   "removed_at": "2026-11-16T19:02Z"
@@ -190,6 +206,10 @@
  "yamaha_hs_8_mp.htm": {
   "price": 1999.0,
   "removed_at": "2026-11-17T09:59Z"
+ },
+ "zoom_g_11_guitar_multi_effect.htm": {
+  "price": 1699.0,
+  "removed_at": "2026-11-18T00:59Z"
  },
  "zoom_v6_sp.htm": {
   "price": 879.0,

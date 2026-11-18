@@ -2133,10 +2133,9 @@
   "first_seen": "2026-11-17T15:59Z",
   "id": "behringer_td_3_tg.htm",
   "last_change": "2026-11-17T15:59Z",
-  "last_seen": "2026-11-17T18:59Z",
   "max_price": 359.0,
   "min_price": 359.0,
-  "missing_runs": 1,
+  "missing_runs": 0,
   "name": "Behringer TD-3-TG",
   "price": 359.0,
   "ref_price": 429.0,
@@ -5722,7 +5721,7 @@
   "discount": 27,
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_echolocator.htm",
-  "last_change": "2026-11-17T12:59Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 1777.0,
   "min_price": 1777.0,
   "missing_runs": 0,
@@ -5733,8 +5732,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/erica_synths_echolocator.htm"
  },
  "erica_synths_nightverb.htm": {
@@ -8212,7 +8211,7 @@
   "ref_price": 111.0,
   "reported_price": 98.0,
   "sections": [
-   "Przegląd wszystkich ofert"
+   "Wyróżnione okazje"
   ],
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
@@ -10343,7 +10342,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_jb_62cc_ow.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -10354,8 +10353,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_jb_62cc_ow.htm"
  },
  "harley_benton_kahuna_clu_32c.htm": {
@@ -10763,7 +10762,7 @@
   "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400_gt_w_soran_dual_lite.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 869.0,
   "min_price": 869.0,
   "missing_runs": 0,
@@ -10774,8 +10773,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm"
  },
  "harley_benton_sc_400gt_w_marshall_mg15g.htm": {
@@ -10783,7 +10782,7 @@
   "discount": 6,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400gt_w_marshall_mg15g.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 1069.0,
   "min_price": 1069.0,
   "missing_runs": 0,
@@ -10794,8 +10793,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm"
  },
  "harley_benton_sc_500_bk_w_soran_dual_stomp.htm": {
@@ -19166,27 +19165,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_octave_up_fuzz.htm"
  },
- "one_control_pale_blue_compressor_eq.htm": {
-  "badge": "",
-  "discount": 60,
-  "first_seen": "2026-11-17T15:59Z",
-  "id": "one_control_pale_blue_compressor_eq.htm",
-  "last_change": "2026-11-17T15:59Z",
-  "last_seen": "2026-11-17T18:59Z",
-  "max_price": 433.0,
-  "min_price": 433.0,
-  "missing_runs": 1,
-  "name": "One Control Pale Blue Compressor - EQ",
-  "price": 433.0,
-  "ref_price": 1077.0,
-  "reported_price": 433.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/one_control_pale_blue_compressor_eq.htm"
- },
  "one_control_raspberry_booster_overdrive.htm": {
   "badge": "",
   "discount": 22,
@@ -21738,7 +21716,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "sennheiser_ie_200.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 435.0,
   "min_price": 435.0,
   "missing_runs": 0,
@@ -21749,8 +21727,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sennheiser_ie_200.htm"
  },
  "sennheiser_momentum_4_80th_anniversary.htm": {
@@ -24377,27 +24355,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/steven_slate_audio_vsx_immersion_one.htm"
  },
- "strandberg_boden_bass_standard_4_na.htm": {
-  "badge": "",
-  "discount": 33,
-  "first_seen": "2026-11-17T15:59Z",
-  "id": "strandberg_boden_bass_standard_4_na.htm",
-  "last_change": "2026-11-17T15:59Z",
-  "last_seen": "2026-11-17T18:59Z",
-  "max_price": 7290.0,
-  "min_price": 7290.0,
-  "missing_runs": 1,
-  "name": "Strandberg Boden Bass Standard 4 NA",
-  "price": 7290.0,
-  "ref_price": 10890.0,
-  "reported_price": 7290.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/strandberg_boden_bass_standard_4_na.htm"
- },
  "strandberg_boden_metal_nx_6_tremolo_bk.htm": {
   "badge": "",
   "discount": 22,
@@ -26823,7 +26780,7 @@
   "discount": 5,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_tas_180_matt_alto_sax.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 1666.0,
   "min_price": 1666.0,
   "missing_runs": 0,
@@ -26834,8 +26791,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/thomann_tas_180_matt_alto_sax.htm"
  },
  "thomann_tibetan_zen_singing_bowl_1200g.htm": {
@@ -28576,7 +28533,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 10–13 tygodnie",
+  "stock": "Dostępny za 9–12 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/varytec_led_profile_mini_ip65_5600k_wh.htm"
  },
@@ -28960,27 +28917,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/walrus_audio_canvas_stereo.htm"
  },
- "walrus_audio_sloe_multi_texture_reverb.htm": {
-  "badge": "",
-  "discount": 14,
-  "first_seen": "2026-11-17T15:59Z",
-  "id": "walrus_audio_sloe_multi_texture_reverb.htm",
-  "last_change": "2026-11-17T15:59Z",
-  "last_seen": "2026-11-17T18:59Z",
-  "max_price": 777.0,
-  "min_price": 777.0,
-  "missing_runs": 1,
-  "name": "Walrus Audio Slö Multi Texture Reverb",
-  "price": 777.0,
-  "ref_price": 899.0,
-  "reported_price": 777.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/walrus_audio_sloe_multi_texture_reverb.htm"
- },
  "wampler_tcd_overdrive.htm": {
   "badge": "",
   "discount": 18,
@@ -29080,27 +29016,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/warm_audio_fluff_drive_limited_ed_white.htm"
- },
- "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
-  "badge": "",
-  "discount": 22,
-  "first_seen": "2026-11-16T15:32Z",
-  "id": "warm_audio_foxy_tone_box_werewolf_fuzz.htm",
-  "last_change": "2026-11-16T15:32Z",
-  "last_seen": "2026-11-17T18:59Z",
-  "max_price": 433.0,
-  "min_price": 433.0,
-  "missing_runs": 1,
-  "name": "Warm Audio Foxy Tone Box Werewolf Fuzz",
-  "price": 433.0,
-  "ref_price": 555.0,
-  "reported_price": 433.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm"
  },
  "warm_audio_pedal76_fet_ltd_compressor.htm": {
   "badge": "",
@@ -29247,7 +29162,7 @@
   "discount": 25,
   "first_seen": "2026-11-16T10:55Z",
   "id": "waves_emotion_lv1_full_access_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 48090.0,
   "min_price": 48090.0,
   "missing_runs": 0,
@@ -29258,8 +29173,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/waves_emotion_lv1_full_access_bundle.htm"
  },
  "way_huge_pork_pickle_bass_overdrive.htm": {
@@ -29981,7 +29896,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_tag1_c_natural.htm"
  },
@@ -30021,7 +29936,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_tag1_e_natural.htm"
  },
@@ -30121,7 +30036,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_tas1_e_natural.htm"
  },
@@ -30141,7 +30056,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_tas3_c_natural.htm"
  },
@@ -30150,7 +30065,7 @@
   "discount": 18,
   "first_seen": "2026-11-17T03:59Z",
   "id": "yamaha_tas3_c_sand_burst.htm",
-  "last_change": "2026-11-17T03:59Z",
+  "last_change": "2026-11-18T00:59Z",
   "max_price": 5799.0,
   "min_price": 5799.0,
   "missing_runs": 0,
@@ -30161,8 +30076,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm"
  },
  "yamaha_yas_280_alto_sax.htm": {
@@ -30404,27 +30319,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/zoom_g2_four_guitar_multi_effect.htm"
- },
- "zoom_g_11_guitar_multi_effect.htm": {
-  "badge": "",
-  "discount": 7,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "zoom_g_11_guitar_multi_effect.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-17T18:59Z",
-  "max_price": 1699.0,
-  "min_price": 1699.0,
-  "missing_runs": 1,
-  "name": "Zoom G 11 Guitar Multi Effect",
-  "price": 1699.0,
-  "ref_price": 1835.0,
-  "reported_price": 1699.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/zoom_g_11_guitar_multi_effect.htm"
  },
  "zoom_livetrak_l_20.htm": {
   "badge": "",

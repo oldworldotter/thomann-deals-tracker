@@ -3,50 +3,41 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-17 22:59 CET · **1520** deals tracked of 1520 advertised · checks every **3 h**
+**Last check:** 2026-11-18 01:59 CET · **1521** deals tracked of 1521 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · 💸 1 price drops · 📈 4 price increases · 🏷️ 4 discount changes · 📦 2 stock changes → [full report](changes/2026-11-17T2159Z.md)
+❌ 5 removed deals · ✅ 4 back in stock · 📦 4 stock changes → [full report](changes/2026-11-18T0059Z.md)
 
-### ❌ Removed deals (1)
+### ❌ Removed deals (5)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Epiphone Wilshire P-90 Ebony](https://www.thomann.pl/epiphone_wilshire_p_90_ebony.htm) | 1 469 zł | ‑22% | 1 890 zł | Dostępny w magazynie |  |
+| [One Control Pale Blue Compressor - EQ](https://www.thomann.pl/one_control_pale_blue_compressor_eq.htm) | 433 zł | ‑60% | 1 077 zł | Dostępny w magazynie |  |
+| [Strandberg Boden Bass Standard 4 NA](https://www.thomann.pl/strandberg_boden_bass_standard_4_na.htm) | 7 290 zł | ‑33% | 10 890 zł | Dostępny w magazynie |  |
+| [Warm Audio Foxy Tone Box Werewolf Fuzz](https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm) | 433 zł | ‑22% | 555 zł | Dostępny w magazynie |  |
+| [Walrus Audio Slö Multi Texture Reverb](https://www.thomann.pl/walrus_audio_sloe_multi_texture_reverb.htm) | 777 zł | ‑14% | 899 zł | Dostępny w magazynie |  |
+| [Zoom G 11 Guitar Multi Effect](https://www.thomann.pl/zoom_g_11_guitar_multi_effect.htm) | 1 699 zł | ‑7% | 1 835 zł | Dostępny w magazynie |  |
 
-### 💸 Price drops (1)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Daddario XSAPB1047-3P](https://www.thomann.pl/daddario_xsapb1047_3p.htm) | 191 zł | **189 zł** | -1.0% |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |
-
-### 📈 Price increases (4)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Pangolin FB3QS with QuickShow](https://www.thomann.pl/pangolin_fb3qs_with_quickshow.htm) | 1 999 zł | **2 048 zł** | +2.5% |  |  | Dostępny w magazynie |
-| [Hughes & Kettner era C Wood](https://www.thomann.pl/hughes_kettner_era_c_wood.htm) | 1 699 zł | **1 739 zł** | +2.4% |  |  | Dostępny w magazynie |
-| [Ableton Live 12 Intro](https://www.thomann.pl/ableton_live_12_intro.htm) | 269 zł | **275 zł** | +2.2% |  |  | Pobierz licencję |
-| [Ableton Push 3 Upgrade Kit](https://www.thomann.pl/ableton_push_3_upgrade_kit.htm) | 3 444 zł | **3 490 zł** | +1.3% |  |  | Dostępny w magazynie |
-
-### 🏷️ Discount changes (4)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł | -11% | **none** |
-| [Ableton Push 3 - Live Standard Bundle](https://www.thomann.pl/ableton_push_3_live_standard_bundle.htm) | 3 999 zł | -20% | **none** |
-| [Ableton Push 3 Upgrade Kit](https://www.thomann.pl/ableton_push_3_upgrade_kit.htm) | 3 490 zł | -20% | **none** |
-| [Ableton Live 12 Intro](https://www.thomann.pl/ableton_live_12_intro.htm) | 275 zł | -21% | **none** |
-
-### 📦 Stock changes (2)
+### ✅ Back in stock (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton PJ-5 SBK Deluxe Series](https://www.thomann.pl/harley_benton_pj_5_sbk_deluxe_series.htm) | 555 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-200 BK Student Serie Bundle](https://www.thomann.pl/harley_benton_sc_200_bk_student_serie_bundle.htm) | 698 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Waves eMotion LV1 Full Access Bundle](https://www.thomann.pl/waves_emotion_lv1_full_access_bundle.htm) | 48 090 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 777 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 799 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Sennheiser IE 200](https://www.thomann.pl/sennheiser_ie_200.htm) | 435 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+
+### 📦 Stock changes (4)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 069 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton JB-62CC OW](https://www.thomann.pl/harley_benton_jb_62cc_ow.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Thomann TAS-180 Matt Alto Sax](https://www.thomann.pl/thomann_tas_180_matt_alto_sax.htm) | 1 666 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
