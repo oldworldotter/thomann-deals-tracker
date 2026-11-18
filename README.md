@@ -3,25 +3,53 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-18 07:59 CET · **1524** deals tracked of 1524 advertised · checks every **3 h**
+**Last check:** 2026-11-18 10:59 CET · **1529** deals tracked of 1524 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 1 back in stock · 📦 1 stock changes → [full report](changes/2026-11-18T0659Z.md)
+🆕 8 new deals · ❌ 1 removed deals · ✅ 5 back in stock · 📦 6 stock changes → [full report](changes/2026-11-18T0959Z.md)
 
-### ✅ Back in stock (1)
+### 🆕 New deals (8)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Steinberg SpectraLayers Pro 13](https://www.thomann.pl/steinberg_spectralayers_pro_13.htm) | 666 zł | ‑13% | 764 zł | Pobierz licencję |  |
+| [Steinberg WaveLab Pro 13](https://www.thomann.pl/steinberg_wavelab_pro_13.htm) | 939 zł | ‑10% | 1 044 zł | Pobierz licencję |  |
+| [Steinberg Absolute 7](https://www.thomann.pl/steinberg_absolute_7.htm) | 939 zł | ‑10% | 1 044 zł | Pobierz licencję |  |
+| [XLN Audio AD 2 Custom Collection](https://www.thomann.pl/xln_audio_addictive_drums_2_custom.htm) | 333 zł |  |  | Pobierz licencję |  |
+| [Focusrite Scarlett Solo 3rd Gen](https://www.thomann.pl/focusrite_scarlett_solo_3rd_gen.htm) | 388 zł |  |  | Dostępny w magazynie | Deal |
+| [Harley Benton ST-20HSS SBK Standard Series](https://www.thomann.pl/harley_benton_st_20hss_sbk_standard_series.htm) | 485 zł |  |  | Dostępny w magazynie | Deal |
+| [XLN Audio DB-30 Drum Butter](https://www.thomann.pl/xln_audio_db_30_drum_butter.htm) | 239 zł |  |  | Pobierz licencję |  |
+| [XLN Audio AD 2 Custom XXL Collection](https://www.thomann.pl/xln_audio_addictive_drums_2_custom_xxl_collection.htm) | 1 044 zł |  |  | Pobierz licencję |  |
+
+### ❌ Removed deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [One Control Cranberry OverDrive - Boost](https://www.thomann.pl/one_control_cranberry_overdrive_boost_568489.htm) | 214 zł | ‑61% | 555 zł | Dostępny w magazynie |  |
+
+### ✅ Back in stock (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton JB-62CC OW](https://www.thomann.pl/harley_benton_jb_62cc_ow.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Kawai ES-120 B Bag Bundle](https://www.thomann.pl/kawai_es_120_b_bag_bundle.htm) | 2 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [HK Audio L5 LTS](https://www.thomann.pl/hk_audio_l5_lts.htm) | 3 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Harley Benton DC-200 CH w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_dc_200_ch_w_soran_tiny_stomp.htm) | 649 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton DC-200CH w/Marshall MG10G](https://www.thomann.pl/harley_benton_dc_200ch_w_marshall_mg10g.htm) | 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Thomann TAS-180 Matt Alto Sax](https://www.thomann.pl/thomann_tas_180_matt_alto_sax.htm) | 1 666 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (1)
+### 📦 Stock changes (6)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Stairville BEL4 Battery Event Ligh Bundle](https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm) | 968 zł | dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [ESP Eclipse Custom DB Black Satin](https://www.thomann.pl/esp_eclipse_custom_db_black_satin.htm) | 20 990 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Radial Engineering Power-1](https://www.thomann.pl/radial_engineering_power_1.htm) | 555 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Sennheiser IE 200](https://www.thomann.pl/sennheiser_ie_200.htm) | 435 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Startone SCL- 65 Bb- Clarinet](https://www.thomann.pl/startone_scl_65_bb_clarinet.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
