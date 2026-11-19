@@ -27,6 +27,10 @@
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "breedlove_pursuit_ex_s_concert_te_lh_ce.htm": {
+  "price": 1299.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
  "bulldog_phoenix_zebrano.htm": {
   "price": 299.0,
   "removed_at": "2026-11-17T09:59Z"
@@ -83,17 +87,9 @@
   "price": 172.0,
   "removed_at": "2026-11-17T18:59Z"
  },
- "eve_audio_sc204.htm": {
-  "price": 1044.0,
-  "removed_at": "2026-11-19T03:59Z"
- },
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
   "removed_at": "2026-11-18T15:59Z"
- },
- "friedman_amplification_runt_20_head.htm": {
-  "price": 5799.0,
-  "removed_at": "2026-11-17T15:59Z"
  },
  "gibson_hummingbird_standard.htm": {
   "price": 11890.0,
@@ -143,9 +139,17 @@
   "price": 3490.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "lakland_skyline_44_02_deluxe_4_chb.htm": {
+  "price": 5199.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
  "lakland_skyline_44_02_deluxe_4_smt_vib.htm": {
   "price": 5199.0,
   "removed_at": "2026-11-19T12:59Z"
+ },
+ "lakland_skyline_44_60_custom_4_ibm.htm": {
+  "price": 4333.0,
+  "removed_at": "2026-11-19T16:00Z"
  },
  "lakland_skyline_55_02_deluxe_5_hbg.htm": {
   "price": 5666.0,
@@ -159,9 +163,21 @@
   "price": 4333.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "laserworld_cube_15_bundle.htm": {
+  "price": 4666.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
+ "laserworld_cube_7_bundle.htm": {
+  "price": 9999.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
  "litecraft_beamx.12.htm": {
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
+ },
+ "marcus_miller_u7_4_sgm.htm": {
+  "price": 1739.0,
+  "removed_at": "2026-11-19T16:00Z"
  },
  "markbass_little_mark_tube_800.htm": {
   "price": 1899.0,
@@ -191,6 +207,10 @@
   "price": 2599.0,
   "removed_at": "2026-11-17T09:59Z"
  },
+ "numark_party_mix_mkiii.htm": {
+  "price": 485.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
  "one_control_cranberry_overdrive_boost_568489.htm": {
   "price": 214.0,
   "removed_at": "2026-11-18T09:59Z"
@@ -198,6 +218,10 @@
  "one_control_dyna_red_distortion_4k_ng.htm": {
   "price": 433.0,
   "removed_at": "2026-11-17T15:59Z"
+ },
+ "one_control_granith_grey_booster_574721.htm": {
+  "price": 214.0,
+  "removed_at": "2026-11-19T16:00Z"
  },
  "one_control_honey_bee_od_overdrive_624367.htm": {
   "price": 433.0,
@@ -223,6 +247,10 @@
   "price": 2599.0,
   "removed_at": "2026-11-17T09:59Z"
  },
+ "prs_se_silver_sky_moon_white.htm": {
+  "price": 2599.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
  "prs_se_special_semi_hollow_lb_2025.htm": {
   "price": 3059.0,
   "removed_at": "2026-11-17T15:59Z"
@@ -231,10 +259,6 @@
   "price": 9099.0,
   "removed_at": "2026-11-19T12:59Z"
  },
- "rane_system_one_thon_case_bundle.htm": {
-  "price": 10890.0,
-  "removed_at": "2026-11-18T15:59Z"
- },
  "recording_king_rm_994e_ac_cutaway.htm": {
   "price": 2899.0,
   "removed_at": "2026-11-18T18:17Z"
@@ -242,6 +266,10 @@
  "recording_king_rm_995e_bn.htm": {
   "price": 2899.0,
   "removed_at": "2026-11-17T18:59Z"
+ },
+ "recording_king_ros_7_ts.htm": {
+  "price": 433.0,
+  "removed_at": "2026-11-19T16:00Z"
  },
  "schecter_damien_platinum_6_fr_s_sbk.htm": {
   "price": 4333.0,
@@ -262,6 +290,10 @@
  "sela_seed_shaker_mixed.htm": {
   "price": 83.0,
   "removed_at": "2026-11-17T15:59Z"
+ },
+ "shure_glxd24_beta58.htm": {
+  "price": 2890.0,
+  "removed_at": "2026-11-19T16:00Z"
  },
  "shure_slxd15_g59_643372.htm": {
   "price": 1745.0,
@@ -307,6 +339,10 @@
   "price": 879.0,
   "removed_at": "2026-11-18T15:59Z"
  },
+ "varytec_hero_wash_300_fc.htm": {
+  "price": 2190.0,
+  "removed_at": "2026-11-19T16:00Z"
+ },
  "walrus_audio_sloe_multi_texture_reverb.htm": {
   "price": 777.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -342,9 +378,5 @@
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,
   "removed_at": "2026-11-18T00:59Z"
- },
- "zoom_v6_sp.htm": {
-  "price": 879.0,
-  "removed_at": "2026-11-17T09:59Z"
  }
 }
