@@ -3,40 +3,47 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-19 01:37 CET · **1806** deals tracked of 1806 advertised · checks every **3 h**
+**Last check:** 2026-11-19 04:59 CET · **1815** deals tracked of 1815 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 8 new deals · ❌ 1 removed deals · 📦 3 stock changes → [full report](changes/2026-11-19T0037Z.md)
+🆕 6 new deals · 🔁 3 returned deals · ❌ 4 removed deals · 📦 1 stock changes → [full report](changes/2026-11-19T0359Z.md)
 
-### 🆕 New deals (8)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Native Instruments Noire](https://www.thomann.pl/native_instruments_noire.htm) | 289 zł | ‑56% | 659 zł | Pobierz licencję |  |
-| [Native Instruments Reaktor 6](https://www.thomann.pl/native_instruments_reaktor_6.htm) | 398 zł | ‑55% | 879 zł | Pobierz licencję |  |
-| [Native Instruments Session Horns](https://www.thomann.pl/native_instruments_session_horns.htm) | 198 zł | ‑55% | 438 zł | Pobierz licencję |  |
-| [Native Instruments Battery 4](https://www.thomann.pl/native_instruments_battery_4.htm) | 398 zł | ‑55% | 879 zł | Pobierz licencję |  |
-| [Native Instruments Absynth 6](https://www.thomann.pl/native_instruments_absynth_6.htm) | 398 zł | ‑54% | 863 zł | Pobierz licencję |  |
-| [Native Instruments Guitar Rig 7 Pro](https://www.thomann.pl/native_instruments_guitar_rig_7_pro.htm) | 398 zł | ‑52% | 835 zł | Pobierz licencję |  |
-| [Native Instruments SessionGuitarist Electric Mint](https://www.thomann.pl/native_instruments_sessionguitarist_electric_mint.htm) | 198 zł | ‑50% | 393 zł | Pobierz licencję |  |
-| [Native Instruments Traktor Pro 4](https://www.thomann.pl/native_instruments_traktor_pro_4.htm) | 289 zł | ‑49% | 569 zł | Pobierz licencję |  |
-
-### ❌ Removed deals (1)
+### 🆕 New deals (6)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Schecter Synyster Std Plus FR TDR](https://www.thomann.pl/schecter_synyster_std_plus_fr_tdr.htm) | 5 444 zł | ‑6% | 5 799 zł | Dostępny w magazynie |  |
+| [DAngelico Excel Style B Dark Iced Tea](https://www.thomann.pl/dangelico_excel_style_b_dark_iced_tea.htm) | 3 699 zł | ‑46% | 6 899 zł | Dostępny w magazynie |  |
+| [DAngelico Excel EXL1 Dark Iced Tea](https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea.htm) | 3 699 zł | ‑46% | 6 799 zł | Dostępny w magazynie |  |
+| [DAngelico Excel Style B Amber](https://www.thomann.pl/dangelico_excel_style_b_amber.htm) | 3 699 zł | ‑43% | 6 490 zł | Dostępny w magazynie |  |
+| [Heritage Musical Spoon Medium Blue](https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm) | 126 zł | ‑25% | 168 zł | dostępny w magazynie |  |
+| [Breedlove Pursuit EX S Concert TE LH CE](https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm) | 1 299 zł | ‑24% | 1 699 zł | Dostępny w magazynie |  |
+| [Yamaha YDP-S36 WH Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wh_set.htm) | 3 999 zł | ‑22% | 5 099 zł | Dostępny w magazynie |  |
 
-### 📦 Stock changes (3)
+### 🔁 Returned deals (3)
+
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Martin Guitar D Jr E StreetMaster New](https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm) | **2 999 zł** | 2 999 zł | ‑36% | 4 699 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
+| [JBL 308P MKII](https://www.thomann.pl/jbl_308p_mkii.htm) | **777 zł** | 777 zł | ‑28% | 1 077 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
+| [Guild Starfire I DC Cherry](https://www.thomann.pl/guild_starfire_i_dc_cherry.htm) | **1 959 zł** | 1 959 zł | ‑18% | 2 399 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
+
+### ❌ Removed deals (4)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Solar Guitars E1.6AAN Aged Natural Matte](https://www.thomann.pl/solar_guitars_e1.6aan_aged_natural_matte.htm) | 5 499 zł | ‑21% | 6 999 zł | Dostępny w magazynie |  |
+| [DrumCraft 14"x5" Concert Snare BB](https://www.thomann.pl/drumcraft_14_x5_concert_snare_bb.htm) | 1 699 zł |  |  | Dostępny w magazynie |  |
+| [EVE Audio SC204](https://www.thomann.pl/eve_audio_sc204.htm) | 1 044 zł |  |  | Dostępny w magazynie |  |
+| [Wolfmix W1 Mk3](https://www.thomann.pl/wolfmix_w1_mk3.htm) | 3 490 zł |  |  | Dostępny w magazynie | GIVEAWAY |
+
+### 📦 Stock changes (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 390 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton WL-20BK Rock Series Set 1](https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm) | 969 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

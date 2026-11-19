@@ -3634,6 +3634,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/breedlove_pursuit_ex_s_companion_te_ce.htm"
  },
+ "breedlove_pursuit_ex_s_concert_te_lh_ce.htm": {
+  "badge": "",
+  "discount": 24,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "breedlove_pursuit_ex_s_concert_te_lh_ce.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 1299.0,
+  "min_price": 1299.0,
+  "missing_runs": 0,
+  "name": "Breedlove Pursuit EX S Concert TE LH CE",
+  "price": 1299.0,
+  "ref_price": 1699.0,
+  "reported_price": 1299.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm"
+ },
  "breedlove_rainforest_s_concert_bg_lh_ce.htm": {
   "badge": "",
   "discount": null,
@@ -4635,6 +4655,66 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/dan_clark_audio_aeon_2_open_back.htm"
  },
+ "dangelico_excel_exl1_dark_iced_tea.htm": {
+  "badge": "",
+  "discount": 46,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "dangelico_excel_exl1_dark_iced_tea.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 3699.0,
+  "min_price": 3699.0,
+  "missing_runs": 0,
+  "name": "DAngelico Excel EXL1 Dark Iced Tea",
+  "price": 3699.0,
+  "ref_price": 6799.0,
+  "reported_price": 3699.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea.htm"
+ },
+ "dangelico_excel_style_b_amber.htm": {
+  "badge": "",
+  "discount": 43,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "dangelico_excel_style_b_amber.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 3699.0,
+  "min_price": 3699.0,
+  "missing_runs": 0,
+  "name": "DAngelico Excel Style B Amber",
+  "price": 3699.0,
+  "ref_price": 6490.0,
+  "reported_price": 3699.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/dangelico_excel_style_b_amber.htm"
+ },
+ "dangelico_excel_style_b_dark_iced_tea.htm": {
+  "badge": "",
+  "discount": 46,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "dangelico_excel_style_b_dark_iced_tea.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 3699.0,
+  "min_price": 3699.0,
+  "missing_runs": 0,
+  "name": "DAngelico Excel Style B Dark Iced Tea",
+  "price": 3699.0,
+  "ref_price": 6899.0,
+  "reported_price": 3699.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/dangelico_excel_style_b_dark_iced_tea.htm"
+ },
  "darkglass_anagram.htm": {
   "badge": "",
   "discount": null,
@@ -5214,27 +5294,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/drumcraft_14_x55_vanguard_snare_alu.htm"
- },
- "drumcraft_14_x5_concert_snare_bb.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "drumcraft_14_x5_concert_snare_bb.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-18T21:59Z",
-  "max_price": 1699.0,
-  "min_price": 1699.0,
-  "missing_runs": 1,
-  "name": "DrumCraft 14\"x5\" Concert Snare BB",
-  "price": 1699.0,
-  "ref_price": null,
-  "reported_price": 1699.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/drumcraft_14_x5_concert_snare_bb.htm"
  },
  "drumcraft_14_x5_concert_snare_yb.htm": {
   "badge": "",
@@ -7376,27 +7435,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/evans_hybrid_sensory_e_kit_bundle.htm"
- },
- "eve_audio_sc204.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "eve_audio_sc204.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-18T21:59Z",
-  "max_price": 1044.0,
-  "min_price": 1039.0,
-  "missing_runs": 1,
-  "name": "EVE Audio SC204",
-  "price": 1044.0,
-  "ref_price": null,
-  "reported_price": 1039.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/eve_audio_sc204.htm"
  },
  "eventide_h9_harmonizer_gen_2.htm": {
   "badge": "",
@@ -10779,6 +10817,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gretsch_us_custom_rock_set_white_glass.htm"
  },
+ "guild_starfire_i_dc_cherry.htm": {
+  "badge": "",
+  "discount": 18,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "guild_starfire_i_dc_cherry.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 1959.0,
+  "min_price": 1959.0,
+  "missing_runs": 0,
+  "name": "Guild Starfire I DC Cherry",
+  "price": 1959.0,
+  "ref_price": 2399.0,
+  "reported_price": 1959.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/guild_starfire_i_dc_cherry.htm"
+ },
  "hanika_8_meister_concertguitar.htm": {
   "badge": "",
   "discount": 13,
@@ -12864,7 +12922,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_wl_20bk_rock_series_set_1.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T03:59Z",
   "max_price": 969.0,
   "min_price": 969.0,
   "missing_runs": 0,
@@ -12875,8 +12933,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm"
  },
  "harley_benton_wood_multi_guitarstand.htm": {
@@ -13118,6 +13176,26 @@
   "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/heritage_guitar_h_150_custom_core_tsb.htm"
+ },
+ "heritage_musical_spoon_medium_blue.htm": {
+  "badge": "",
+  "discount": 25,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "heritage_musical_spoon_medium_blue.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 126.0,
+  "min_price": 126.0,
+  "missing_runs": 0,
+  "name": "Heritage Musical Spoon Medium Blue",
+  "price": 126.0,
+  "ref_price": 168.0,
+  "reported_price": 126.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm"
  },
  "hils_hnb3_black.htm": {
   "badge": "",
@@ -15259,6 +15337,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/jbl_306p_mkii.htm"
+ },
+ "jbl_308p_mkii.htm": {
+  "badge": "",
+  "discount": 28,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "jbl_308p_mkii.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 777.0,
+  "min_price": 777.0,
+  "missing_runs": 0,
+  "name": "JBL 308P MKII",
+  "price": 777.0,
+  "ref_price": 1077.0,
+  "reported_price": 777.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/jbl_308p_mkii.htm"
  },
  "jbl_bandbox_trio_bag_bundle.htm": {
   "badge": "",
@@ -19442,6 +19540,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitar_d35_sunburst.htm"
+ },
+ "martin_guitar_d_jr_e_streetmaster.htm": {
+  "badge": "",
+  "discount": 36,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "martin_guitar_d_jr_e_streetmaster.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 2999.0,
+  "min_price": 2999.0,
+  "missing_runs": 0,
+  "name": "Martin Guitar D Jr E StreetMaster New",
+  "price": 2999.0,
+  "ref_price": 4699.0,
+  "reported_price": 2999.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm"
  },
  "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
   "badge": "",
@@ -26337,27 +26455,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/solar_guitars_ab2.7red_burst_thomann_ltd.htm"
- },
- "solar_guitars_e1.6aan_aged_natural_matte.htm": {
-  "badge": "",
-  "discount": 21,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "solar_guitars_e1.6aan_aged_natural_matte.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-18T21:59Z",
-  "max_price": 5499.0,
-  "min_price": 5499.0,
-  "missing_runs": 1,
-  "name": "Solar Guitars E1.6AAN Aged Natural Matte",
-  "price": 5499.0,
-  "ref_price": 6999.0,
-  "reported_price": 5499.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/solar_guitars_e1.6aan_aged_natural_matte.htm"
  },
  "solar_guitars_e2.4canibalismo.htm": {
   "badge": "",
@@ -34463,27 +34560,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/wild_dog_bunyip.htm"
  },
- "wolfmix_w1_mk3.htm": {
-  "badge": "GIVEAWAY",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "wolfmix_w1_mk3.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-18T21:59Z",
-  "max_price": 3490.0,
-  "min_price": 3490.0,
-  "missing_runs": 1,
-  "name": "Wolfmix W1 Mk3",
-  "price": 3490.0,
-  "ref_price": null,
-  "reported_price": 3490.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/wolfmix_w1_mk3.htm"
- },
  "xln_audio_addictive_drums_2_custom.htm": {
   "badge": "",
   "discount": null,
@@ -35766,6 +35842,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_ydp_s36_wb_arius_set.htm"
+ },
+ "yamaha_ydp_s36_wh_set.htm": {
+  "badge": "",
+  "discount": 22,
+  "first_seen": "2026-11-19T03:59Z",
+  "id": "yamaha_ydp_s36_wh_set.htm",
+  "last_change": "2026-11-19T03:59Z",
+  "max_price": 3999.0,
+  "min_price": 3999.0,
+  "missing_runs": 0,
+  "name": "Yamaha YDP-S36 WH Arius Set",
+  "price": 3999.0,
+  "ref_price": 5099.0,
+  "reported_price": 3999.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ydp_s36_wh_set.htm"
  },
  "yamaha_ydp_s55_b_arius.htm": {
   "badge": "",

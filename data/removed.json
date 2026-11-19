@@ -39,6 +39,10 @@
   "price": 3490.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "drumcraft_14_x5_concert_snare_bb.htm": {
+  "price": 1699.0,
+  "removed_at": "2026-11-19T03:59Z"
+ },
  "electro_harmonix_triangle_big_muff_fuzz.htm": {
   "price": 308.0,
   "removed_at": "2026-11-18T18:17Z"
@@ -67,6 +71,10 @@
   "price": 172.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "eve_audio_sc204.htm": {
+  "price": 1044.0,
+  "removed_at": "2026-11-19T03:59Z"
+ },
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
   "removed_at": "2026-11-18T15:59Z"
@@ -87,10 +95,6 @@
   "price": 17190.0,
   "removed_at": "2026-11-18T15:59Z"
  },
- "guild_starfire_i_dc_cherry.htm": {
-  "price": 1959.0,
-  "removed_at": "2026-11-17T12:59Z"
- },
  "harley_benton_st_20hss_sbk_standard_series.htm": {
   "price": 485.0,
   "removed_at": "2026-11-18T15:59Z"
@@ -110,10 +114,6 @@
  "hoefner_vintage_62_beatles_bass.htm": {
   "price": 10890.0,
   "removed_at": "2026-11-18T21:59Z"
- },
- "jbl_308p_mkii.htm": {
-  "price": 777.0,
-  "removed_at": "2026-11-17T12:59Z"
  },
  "kala_ka_15_c_mahogany_concert.htm": {
   "price": 239.0,
@@ -142,10 +142,6 @@
  "markbass_little_mark_tube_800.htm": {
   "price": 1899.0,
   "removed_at": "2026-11-17T18:59Z"
- },
- "martin_guitar_d_jr_e_streetmaster.htm": {
-  "price": 2999.0,
-  "removed_at": "2026-11-17T12:59Z"
  },
  "midas_dl32.htm": {
   "price": 4499.0,
@@ -231,6 +227,10 @@
   "price": 83.0,
   "removed_at": "2026-11-17T15:59Z"
  },
+ "solar_guitars_e1.6aan_aged_natural_matte.htm": {
+  "price": 5499.0,
+  "removed_at": "2026-11-19T03:59Z"
+ },
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
   "removed_at": "2026-11-17T01:00Z"
@@ -274,6 +274,10 @@
  "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
   "price": 433.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "wolfmix_w1_mk3.htm": {
+  "price": 3490.0,
+  "removed_at": "2026-11-19T03:59Z"
  },
  "yamaha_b3_sc3_pec.htm": {
   "price": 31490.0,
