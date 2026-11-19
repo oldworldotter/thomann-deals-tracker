@@ -3,82 +3,39 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-19 17:00 CET · **1817** deals tracked of 1818 advertised · checks every **3 h**
+**Last check:** 2026-11-19 19:27 CET · **1816** deals tracked of 1816 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 6 new deals · 🔁 4 returned deals · ❌ 12 removed deals · 💸 1 price drops · 🏷️ 1 discount changes · ✅ 7 back in stock · 📦 3 stock changes → [full report](changes/2026-11-19T1600Z.md)
+❌ 5 removed deals · ✅ 3 back in stock · 📦 3 stock changes → [full report](changes/2026-11-19T1827Z.md)
 
-### 🆕 New deals (6)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Electro Harmonix LPB-3 Boost & EQ](https://www.thomann.pl/electro_harmonix_lpb_3_boost_eq.htm) | 444 zł | ‑33% | 658 zł | Dostępny w magazynie |  |
-| [Alto TS 408 Cover Bundle](https://www.thomann.pl/alto_ts_408_cover_bundle.htm) | 999 zł | ‑23% | 1 290 zł | Dostępny w magazynie |  |
-| [Harley Benton Fusion-IV HH MN OTC](https://www.thomann.pl/harley_benton_fusion_iv_hh_mn_otc.htm) | 1 499 zł | ‑21% | 1 899 zł | Dostępny w magazynie |  |
-| [Alto TS 412 Cover Bundle](https://www.thomann.pl/alto_ts_412_cover_bundle.htm) | 1 359 zł | ‑17% | 1 639 zł | Dostępny w magazynie |  |
-| [Thomann Phoenix S F-Tuba](https://www.thomann.pl/thomann_phoenix_s_f_tuba.htm) | 17 790 zł | ‑10% | 19 790 zł | Dostępny w magazynie |  |
-| [Gibson Les Paul Custom AW](https://www.thomann.pl/gibson_les_paul_custom_aw.htm) | 20 690 zł |  |  | Dostępny w magazynie |  |
-
-### 🔁 Returned deals (4)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Zoom V6 SP](https://www.thomann.pl/zoom_v6_sp.htm) | **879 zł** | 879 zł | ‑34% | 1 333 zł | Dostępny w magazynie | 2026‑11‑17 10:59 |
-| [Friedman Runt-20 Head](https://www.thomann.pl/friedman_amplification_runt_20_head.htm) | **5 799 zł** | 5 799 zł | ‑10% | 6 444 zł | Dostępny w magazynie | 2026‑11‑17 16:59 |
-| [EVE Audio SC204](https://www.thomann.pl/eve_audio_sc204.htm) | **1 045 zł** | 1 044 zł |  |  | Dostępny w magazynie | 2026‑11‑19 04:59 |
-| [Rane System One Thon Case Bundle](https://www.thomann.pl/rane_system_one_thon_case_bundle.htm) | **10 490 zł** | 10 890 zł |  |  | Dostępny w magazynie | 2026‑11‑18 16:59 |
-
-### ❌ Removed deals (12)
+### ❌ Removed deals (5)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [One Control Granith Grey Booster](https://www.thomann.pl/one_control_granith_grey_booster_574721.htm) | 214 zł | ‑57% | 498 zł | Dostępny w magazynie |  |
-| [Lakland Skyline 44-60 Custom 4 IBM](https://www.thomann.pl/lakland_skyline_44_60_custom_4_ibm.htm) | 4 333 zł | ‑41% | 7 299 zł | Dostępny w magazynie |  |
-| [Recording King ROS-7-TS](https://www.thomann.pl/recording_king_ros_7_ts.htm) | 433 zł | ‑26% | 589 zł | Dostępny w magazynie |  |
-| [Breedlove Pursuit EX S Concert TE LH CE](https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm) | 1 299 zł | ‑24% | 1 699 zł | Dostępny w magazynie |  |
-| [Numark Party Mix MKIII](https://www.thomann.pl/numark_party_mix_mkiii.htm) | 485 zł | ‑13% | 555 zł | Dostępny w magazynie |  |
-| [Laserworld CUBE 7 Bundle](https://www.thomann.pl/laserworld_cube_7_bundle.htm) | 9 999 zł | ‑11% | 11 190 zł | Dostępny w magazynie |  |
-| [Laserworld CUBE 1.5 Bundle](https://www.thomann.pl/laserworld_cube_15_bundle.htm) | 4 666 zł | ‑10% | 5 199 zł | Dostępny w magazynie |  |
-| [PRS SE Silver Sky Moon White](https://www.thomann.pl/prs_se_silver_sky_moon_white.htm) | 2 599 zł | ‑7% | 2 799 zł | Dostępny za 2–3 tygodnie |  |
-| [Lakland Skyline 44-02 Deluxe 4 CHB](https://www.thomann.pl/lakland_skyline_44_02_deluxe_4_chb.htm) | 5 199 zł |  |  | Dostępny w magazynie |  |
-| [Marcus Miller U7-4 SGM](https://www.thomann.pl/marcus_miller_u7_4_sgm.htm) | 1 739 zł |  |  | Dostępny w magazynie |  |
+| [DAngelico Excel Style B Dark Iced Tea](https://www.thomann.pl/dangelico_excel_style_b_dark_iced_tea.htm) | 3 699 zł | ‑46% | 6 899 zł | Dostępny w magazynie |  |
+| [Hils HNT1R Ivory](https://www.thomann.pl/hils_hnt1r_ivory.htm) | 1 444 zł | ‑27% | 1 990 zł | Dostępny w magazynie |  |
+| [Gretsch Drums US Custom Rock Set White Glass](https://www.thomann.pl/gretsch_us_custom_rock_set_white_glass.htm) | 32 690 zł | ‑14% | 38 090 zł | Dostępny w magazynie |  |
+| [Gibson Kirk Hammett "Greeny" LP Std.](https://www.thomann.pl/gibson_kirk_hammett_greeny_lp_std.htm) | 10 590 zł | ‑10% | 11 790 zł | Dostępny w magazynie |  |
+| [Thon Mike's Joker Case](https://www.thomann.pl/thon_mikes_joker_case.htm) | 245 zł |  |  | Dostępny w magazynie |  |
 
-…and 2 more in the full report.
-
-### 💸 Price drops (1)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Eurolite LED SCY-500 QCL Beam Effect](https://www.thomann.pl/eurolite_led_scy_500_qcl_beam_effect.htm) | 835 zł | **748 zł** | -10.4% | ‑10% | 835 zł | Dostępny w magazynie |
-
-### 🏷️ Discount changes (1)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Eurolite LED SCY-500 QCL Beam Effect](https://www.thomann.pl/eurolite_led_scy_500_qcl_beam_effect.htm) | 748 zł | -32% | **-10%** |
-
-### ✅ Back in stock (7)
+### ✅ Back in stock (3)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Marcus Miller M6 Headless 5 TS](https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm) | 3 055 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Ludwig 13"x07" Universal Brass Chrome](https://www.thomann.pl/ludwig_13_x07_universal_brass_chrome.htm) | 1 299 zł | Dostępny za 2–3 tygodnie | **dostępny w magazynie** |
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 259 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Ludwig NeuSonic Fab 3pc Blue Sparkle](https://www.thomann.pl/ludwig_neusonic_fab_3pc_blue_sparkle.htm) | 9 599 zł | Dostępny za 2–3 tygodnie | **dostępny w magazynie** |
-| [Ludwig 13"x07" Universal Brass Snare](https://www.thomann.pl/ludwig_13_x07_universal_brass_snare.htm) | 1 655 zł | Dostępny za 2–3 tygodnie | **dostępny w magazynie** |
-| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 177 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Yamaha PSR-SX720+ Bench Bundle](https://www.thomann.pl/yamaha_psr_sx720_bench_bundle.htm) | 5 799 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+| [Hils Next HN6 Ultra Gold](https://www.thomann.pl/hils_next_hn6_ultra_gold.htm) | 2 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Yamaha YDP-146 B Arius Set](https://www.thomann.pl/yamaha_ydp_146_b_arius_set.htm) | 3 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
 ### 📦 Stock changes (3)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [DAS Audio Vantec-12A](https://www.thomann.pl/das_audio_vantec_12a.htm) | 4 333 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 777 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 069 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 649 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

@@ -565,10 +565,9 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "adj_quad_phase_hp_32_watt_quad_led.htm",
   "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T12:59Z",
   "max_price": 798.0,
   "min_price": 798.0,
-  "missing_runs": 1,
+  "missing_runs": 0,
   "name": "ADJ Quad Phase HP 32-Watt Quad-LED",
   "price": 798.0,
   "ref_price": 869.0,
@@ -4655,27 +4654,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea.htm"
- },
- "dangelico_excel_style_b_dark_iced_tea.htm": {
-  "badge": "",
-  "discount": 46,
-  "first_seen": "2026-11-19T03:59Z",
-  "id": "dangelico_excel_style_b_dark_iced_tea.htm",
-  "last_change": "2026-11-19T03:59Z",
-  "last_seen": "2026-11-19T12:59Z",
-  "max_price": 3699.0,
-  "min_price": 3699.0,
-  "missing_runs": 1,
-  "name": "DAngelico Excel Style B Dark Iced Tea",
-  "price": 3699.0,
-  "ref_price": 6899.0,
-  "reported_price": 3699.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/dangelico_excel_style_b_dark_iced_tea.htm"
  },
  "darkglass_anagram.htm": {
   "badge": "",
@@ -10100,27 +10078,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_johnny_cash_sj_200_vcs.htm"
  },
- "gibson_kirk_hammett_greeny_lp_std.htm": {
-  "badge": "",
-  "discount": 10,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "gibson_kirk_hammett_greeny_lp_std.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T12:59Z",
-  "max_price": 10590.0,
-  "min_price": 10590.0,
-  "missing_runs": 1,
-  "name": "Gibson Kirk Hammett \"Greeny\" LP Std.",
-  "price": 10590.0,
-  "ref_price": 11790.0,
-  "reported_price": 10590.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gibson_kirk_hammett_greeny_lp_std.htm"
- },
  "gibson_l_00_special_satin_natural.htm": {
   "badge": "",
   "discount": null,
@@ -10861,27 +10818,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gretsch_strml_jet_clb_agd_wht.htm"
  },
- "gretsch_us_custom_rock_set_white_glass.htm": {
-  "badge": "",
-  "discount": 14,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "gretsch_us_custom_rock_set_white_glass.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-19T12:59Z",
-  "max_price": 32690.0,
-  "min_price": 32690.0,
-  "missing_runs": 1,
-  "name": "Gretsch Drums US Custom Rock Set White Glass",
-  "price": 32690.0,
-  "ref_price": 38090.0,
-  "reported_price": 32690.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gretsch_us_custom_rock_set_white_glass.htm"
- },
  "guild_starfire_i_dc_cherry.htm": {
   "badge": "",
   "discount": 18,
@@ -11528,9 +11464,10 @@
   "first_seen": "2026-11-19T16:00Z",
   "id": "harley_benton_fusion_iv_hh_mn_otc.htm",
   "last_change": "2026-11-19T16:00Z",
+  "last_seen": "2026-11-19T16:00Z",
   "max_price": 1499.0,
   "min_price": 1499.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Harley Benton Fusion-IV HH MN OTC",
   "price": 1499.0,
   "ref_price": 1899.0,
@@ -11807,7 +11744,7 @@
   "discount": 24,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-19T12:59Z",
+  "last_change": "2026-11-19T18:27Z",
   "max_price": 649.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -11818,8 +11755,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm"
  },
  "harley_benton_hbz2004.htm": {
@@ -12367,7 +12304,7 @@
   "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400_gt_w_soran_dual_lite.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-19T18:27Z",
   "max_price": 869.0,
   "min_price": 869.0,
   "missing_runs": 0,
@@ -12378,8 +12315,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm"
  },
  "harley_benton_sc_400gt_w_marshall_mg15g.htm": {
@@ -12387,7 +12324,7 @@
   "discount": 6,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400gt_w_marshall_mg15g.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-19T18:27Z",
   "max_price": 1069.0,
   "min_price": 1069.0,
   "missing_runs": 0,
@@ -12398,8 +12335,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm"
  },
  "harley_benton_sc_500_bk_w_soran_dual_stomp.htm": {
@@ -13422,27 +13359,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_hnt1r_black.htm"
  },
- "hils_hnt1r_ivory.htm": {
-  "badge": "",
-  "discount": 27,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "hils_hnt1r_ivory.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T12:59Z",
-  "max_price": 1444.0,
-  "min_price": 1444.0,
-  "missing_runs": 1,
-  "name": "Hils HNT1R Ivory",
-  "price": 1444.0,
-  "ref_price": 1990.0,
-  "reported_price": 1444.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/hils_hnt1r_ivory.htm"
- },
  "hils_hnt1r_metallic_ocean_blue.htm": {
   "badge": "",
   "discount": 27,
@@ -13688,7 +13604,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn6_ultra_gold.htm",
-  "last_change": "2026-11-19T09:59Z",
+  "last_change": "2026-11-19T18:27Z",
   "max_price": 2999.0,
   "min_price": 2999.0,
   "missing_runs": 0,
@@ -13699,8 +13615,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_next_hn6_ultra_gold.htm"
  },
  "hitnmix_ripx_daw.htm": {
@@ -18530,11 +18446,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "mackie_mr524.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 655.0,
+  "max_price": 659.0,
   "min_price": 655.0,
   "missing_runs": 0,
   "name": "Mackie MR524",
-  "price": 655.0,
+  "price": 659.0,
   "ref_price": null,
   "reported_price": 655.0,
   "sections": [
@@ -20008,7 +19924,7 @@
   "url": "https://www.thomann.pl/millenium_go_kart_truck_xl.htm"
  },
  "millenium_hd_120_e_drum_set.htm": {
-  "badge": "Deal",
+  "badge": "",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "millenium_hd_120_e_drum_set.htm",
@@ -20021,7 +19937,6 @@
   "ref_price": null,
   "reported_price": 888.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -20163,6 +20078,7 @@
   "ref_price": null,
   "reported_price": 2666.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -32463,27 +32379,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/thon_keyboard_case_nord_stage_4_88.htm"
  },
- "thon_mikes_joker_case.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "thon_mikes_joker_case.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T12:59Z",
-  "max_price": 245.0,
-  "min_price": 245.0,
-  "missing_runs": 1,
-  "name": "Thon Mike's Joker Case",
-  "price": 245.0,
-  "ref_price": null,
-  "reported_price": 245.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/thon_mikes_joker_case.htm"
- },
  "thon_mixercase_behringer_wing_comp.htm": {
   "badge": "",
   "discount": 9,
@@ -35375,7 +35270,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_psr_sx720_bench_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T18:27Z",
   "max_price": 5799.0,
   "min_price": 5799.0,
   "missing_runs": 0,
@@ -35386,8 +35281,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_psr_sx720_bench_bundle.htm"
  },
  "yamaha_psr_sx920_sub_bundle.htm": {
@@ -35895,7 +35790,7 @@
   "discount": 10,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_ydp_146_b_arius_set.htm",
-  "last_change": "2026-11-18T21:59Z",
+  "last_change": "2026-11-19T18:27Z",
   "max_price": 3890.0,
   "min_price": 3890.0,
   "missing_runs": 0,
@@ -35906,8 +35801,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_ydp_146_b_arius_set.htm"
  },
  "yamaha_ydp_146_r_arius_set.htm": {
@@ -36456,9 +36351,10 @@
   "first_seen": "2026-11-19T16:00Z",
   "id": "zoom_v6_sp.htm",
   "last_change": "2026-11-19T16:00Z",
+  "last_seen": "2026-11-19T16:00Z",
   "max_price": 879.0,
   "min_price": 879.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Zoom V6 SP",
   "price": 879.0,
   "ref_price": 1333.0,
