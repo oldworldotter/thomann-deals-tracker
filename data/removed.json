@@ -115,6 +115,10 @@
   "price": 32690.0,
   "removed_at": "2026-11-19T18:27Z"
  },
+ "harley_benton_fusion_iv_hh_mn_otc.htm": {
+  "price": 1499.0,
+  "removed_at": "2026-11-19T21:59Z"
+ },
  "harley_benton_st_20hss_sbk_standard_series.htm": {
   "price": 485.0,
   "removed_at": "2026-11-18T15:59Z"
@@ -398,5 +402,9 @@
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "zoom_v6_sp.htm": {
+  "price": 879.0,
+  "removed_at": "2026-11-19T21:59Z"
  }
 }

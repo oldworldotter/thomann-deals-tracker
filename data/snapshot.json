@@ -4421,11 +4421,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_pw_irmm_01_micro_mute_sensor.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 388.0,
+  "max_price": 389.0,
   "min_price": 388.0,
   "missing_runs": 0,
   "name": "Daddario PW-IRMM-01 Micro Mute Sensor",
-  "price": 388.0,
+  "price": 389.0,
   "ref_price": null,
   "reported_price": 388.0,
   "sections": [
@@ -5862,9 +5862,10 @@
   "first_seen": "2026-11-19T16:00Z",
   "id": "electro_harmonix_lpb_3_boost_eq.htm",
   "last_change": "2026-11-19T16:00Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 444.0,
   "min_price": 444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Electro Harmonix LPB-3 Boost & EQ",
   "price": 444.0,
   "ref_price": 658.0,
@@ -5962,9 +5963,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "electro_harmonix_silencer.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 289.0,
   "min_price": 289.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Electro Harmonix Silencer",
   "price": 289.0,
   "ref_price": null,
@@ -7182,11 +7184,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "ev_everse_8.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 3199.0,
+  "max_price": 3222.0,
   "min_price": 3199.0,
   "missing_runs": 0,
   "name": "EV Everse 8",
-  "price": 3199.0,
+  "price": 3222.0,
   "ref_price": null,
   "reported_price": 3199.0,
   "sections": [
@@ -8042,9 +8044,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "fender_rumble_40_v3_ivory.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 1499.0,
   "min_price": 1499.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Fender Rumble 40 V3 Ivory",
   "price": 1499.0,
   "ref_price": 1990.0,
@@ -10663,14 +10666,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "gravity_ms_tba_01.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 255.0,
+  "last_change": "2026-11-19T21:59Z",
+  "max_price": 258.0,
   "min_price": 255.0,
   "missing_runs": 0,
   "name": "Gravity MS TBA 01",
-  "price": 255.0,
+  "price": 258.0,
   "ref_price": null,
-  "reported_price": 255.0,
+  "reported_price": 258.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -10923,7 +10926,7 @@
   "discount": 14,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_blues_guitar_set_2.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 369.0,
   "min_price": 369.0,
   "missing_runs": 0,
@@ -10934,8 +10937,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_blues_guitar_set_2.htm"
  },
  "harley_benton_bm_75_trans_red.htm": {
@@ -11458,27 +11461,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm"
  },
- "harley_benton_fusion_iv_hh_mn_otc.htm": {
-  "badge": "",
-  "discount": 21,
-  "first_seen": "2026-11-19T16:00Z",
-  "id": "harley_benton_fusion_iv_hh_mn_otc.htm",
-  "last_change": "2026-11-19T16:00Z",
-  "last_seen": "2026-11-19T16:00Z",
-  "max_price": 1499.0,
-  "min_price": 1499.0,
-  "missing_runs": 1,
-  "name": "Harley Benton Fusion-IV HH MN OTC",
-  "price": 1499.0,
-  "ref_price": 1899.0,
-  "reported_price": 1499.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/harley_benton_fusion_iv_hh_mn_otc.htm"
- },
  "harley_benton_fxl8_pro.htm": {
   "badge": "",
   "discount": 16,
@@ -11744,7 +11726,7 @@
   "discount": 24,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-19T18:27Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 649.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -11755,8 +11737,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm"
  },
  "harley_benton_hbz2004.htm": {
@@ -11804,7 +11786,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_het_550_bk.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 1177.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11815,8 +11797,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_het_550_bk.htm"
  },
  "harley_benton_hj_45e_sbk.htm": {
@@ -12304,7 +12286,7 @@
   "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400_gt_w_soran_dual_lite.htm",
-  "last_change": "2026-11-19T18:27Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 869.0,
   "min_price": 869.0,
   "missing_runs": 0,
@@ -12315,8 +12297,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm"
  },
  "harley_benton_sc_400gt_w_marshall_mg15g.htm": {
@@ -12324,7 +12306,7 @@
   "discount": 6,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400gt_w_marshall_mg15g.htm",
-  "last_change": "2026-11-19T18:27Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 1069.0,
   "min_price": 1069.0,
   "missing_runs": 0,
@@ -12335,8 +12317,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm"
  },
  "harley_benton_sc_500_bk_w_soran_dual_stomp.htm": {
@@ -13484,7 +13466,7 @@
   "discount": 28,
   "first_seen": "2026-11-18T18:17Z",
   "id": "hils_next_hn3_met._emerald_green.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
   "missing_runs": 0,
@@ -13495,8 +13477,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm"
  },
  "hils_next_hn4_black.htm": {
@@ -13504,7 +13486,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn4_black.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 1745.0,
   "min_price": 1745.0,
   "missing_runs": 0,
@@ -13515,8 +13497,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_next_hn4_black.htm"
  },
  "hils_next_hn4_ivory.htm": {
@@ -13545,9 +13527,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn4_summer_sand.htm",
   "last_change": "2026-11-17T15:59Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 1599.0,
   "min_price": 1599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Hils Next HN4 Summer Sand",
   "price": 1599.0,
   "ref_price": 2444.0,
@@ -14685,11 +14668,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "ifi_audio_go_link_2_max.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 388.0,
+  "max_price": 389.0,
   "min_price": 388.0,
   "missing_runs": 0,
   "name": "ifi Audio GO link 2 Max",
-  "price": 388.0,
+  "price": 389.0,
   "ref_price": null,
   "reported_price": 388.0,
   "sections": [
@@ -14705,11 +14688,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "ifi_audio_idsd_gr_2.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 2390.0,
+  "max_price": 2399.0,
   "min_price": 2390.0,
   "missing_runs": 0,
   "name": "ifi Audio iDSD GR 2",
-  "price": 2390.0,
+  "price": 2399.0,
   "ref_price": null,
   "reported_price": 2390.0,
   "sections": [
@@ -15325,7 +15308,7 @@
   "discount": 7,
   "first_seen": "2026-11-16T10:55Z",
   "id": "jbl_bandbox_trio_bag_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
   "missing_runs": 0,
@@ -15336,8 +15319,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm"
  },
  "jbl_eon715.htm": {
@@ -16096,7 +16079,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm"
  },
@@ -16636,7 +16619,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/korg_kronos_73_609233.htm"
  },
@@ -18606,9 +18589,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "mackie_thump_215.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Mackie Thump 215",
   "price": 1299.0,
   "ref_price": null,
@@ -18886,7 +18870,7 @@
   "discount": 21,
   "first_seen": "2026-11-18T18:17Z",
   "id": "marcus_miller_m6_headless_5_ts.htm",
-  "last_change": "2026-11-19T16:00Z",
+  "last_change": "2026-11-19T21:59Z",
   "max_price": 3055.0,
   "min_price": 3055.0,
   "missing_runs": 0,
@@ -18897,8 +18881,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm"
  },
  "marcus_miller_v3_4_new_gen_antique_white.htm": {
@@ -22353,9 +22337,10 @@
   "first_seen": "2026-11-18T15:59Z",
   "id": "one_control_hookers_green_bass_machine_4k.htm",
   "last_change": "2026-11-18T15:59Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 258.0,
   "min_price": 258.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Hooker's Green Bass Machine 4K",
   "price": 258.0,
   "ref_price": 599.0,
@@ -22673,11 +22658,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "otamatone_deluxe_black.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 344.0,
+  "max_price": 345.0,
   "min_price": 344.0,
   "missing_runs": 0,
   "name": "Otamatone Deluxe Black",
-  "price": 344.0,
+  "price": 345.0,
   "ref_price": null,
   "reported_price": 344.0,
   "sections": [
@@ -23684,7 +23669,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/pur_ptc_01_travel_compact_cajon.htm"
  },
@@ -26060,16 +26045,16 @@
  },
  "slate_digital_ml_2a.htm": {
   "badge": "",
-  "discount": 30,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "slate_digital_ml_2a.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1169.0,
+  "last_change": "2026-11-19T21:59Z",
+  "max_price": 1177.0,
   "min_price": 1169.0,
   "missing_runs": 0,
   "name": "Slate Digital ML-2A",
-  "price": 1169.0,
-  "ref_price": 1666.0,
+  "price": 1177.0,
+  "ref_price": null,
   "reported_price": 1169.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -29004,9 +28989,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "strandberg_boden_original_n26_sunset.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-19T18:27Z",
   "max_price": 8799.0,
   "min_price": 8799.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Strandberg Boden Original N2.6 Sunset",
   "price": 8799.0,
   "ref_price": 11333.0,
@@ -31424,14 +31410,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_fls_querfloete.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 699.0,
+  "last_change": "2026-11-19T21:59Z",
+  "max_price": 711.0,
   "min_price": 699.0,
   "missing_runs": 0,
   "name": "Thomann FL-200 Flute",
-  "price": 699.0,
+  "price": 711.0,
   "ref_price": null,
-  "reported_price": 699.0,
+  "reported_price": 711.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -33168,11 +33154,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "universal_audio_volt_276.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 968.0,
+  "max_price": 969.0,
   "min_price": 968.0,
   "missing_runs": 0,
   "name": "Universal Audio Volt 276 USB Recording Studio",
-  "price": 968.0,
+  "price": 969.0,
   "ref_price": null,
   "reported_price": 968.0,
   "sections": [
@@ -35730,14 +35716,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_yas_280_alto_sax.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 4333.0,
+  "last_change": "2026-11-19T21:59Z",
+  "max_price": 4390.0,
   "min_price": 4333.0,
   "missing_runs": 0,
   "name": "Yamaha YAS-280 Alto Sax",
-  "price": 4333.0,
+  "price": 4390.0,
   "ref_price": null,
-  "reported_price": 4333.0,
+  "reported_price": 4390.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -36030,14 +36016,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_ytr_4335_gii.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 3444.0,
+  "last_change": "2026-11-19T21:59Z",
+  "max_price": 3490.0,
   "min_price": 3444.0,
   "missing_runs": 0,
   "name": "Yamaha YTR-4335 GII Bb- Trumpet",
-  "price": 3444.0,
+  "price": 3490.0,
   "ref_price": null,
-  "reported_price": 3444.0,
+  "reported_price": 3490.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -36344,27 +36330,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/zoom_podtrak_p2.htm"
- },
- "zoom_v6_sp.htm": {
-  "badge": "",
-  "discount": 34,
-  "first_seen": "2026-11-19T16:00Z",
-  "id": "zoom_v6_sp.htm",
-  "last_change": "2026-11-19T16:00Z",
-  "last_seen": "2026-11-19T16:00Z",
-  "max_price": 879.0,
-  "min_price": 879.0,
-  "missing_runs": 1,
-  "name": "Zoom V6 SP",
-  "price": 879.0,
-  "ref_price": 1333.0,
-  "reported_price": 879.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/zoom_v6_sp.htm"
  },
  "zultan_aja_blaze_cymbal_set.htm": {
   "badge": "",
