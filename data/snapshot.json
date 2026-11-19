@@ -615,7 +615,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/ahead_aa5048w_hardware_armor_case.htm"
  },
@@ -1252,9 +1252,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "alto_ts_408.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 999.0,
   "min_price": 999.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Alto TS 408",
   "price": 999.0,
   "ref_price": 1190.0,
@@ -1272,9 +1273,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "alto_ts_412.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Alto TS 412",
   "price": 1299.0,
   "ref_price": 1499.0,
@@ -4681,9 +4683,10 @@
   "first_seen": "2026-11-19T03:59Z",
   "id": "dangelico_excel_style_b_amber.htm",
   "last_change": "2026-11-19T03:59Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 3699.0,
   "min_price": 3699.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "DAngelico Excel Style B Amber",
   "price": 3699.0,
   "ref_price": 6490.0,
@@ -7401,7 +7404,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "evans_g2_fusion_2_set_clear.htm",
-  "last_change": "2026-11-17T18:59Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 229.0,
   "min_price": 229.0,
   "missing_runs": 0,
@@ -7412,8 +7415,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/evans_g2_fusion_2_set_clear.htm"
  },
  "evans_hybrid_sensory_e_kit_bundle.htm": {
@@ -11102,7 +11105,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_custom_line_king_12_ce_nt.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 1177.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11113,8 +11116,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm"
  },
  "harley_benton_db01_bk_electric_double_bass.htm": {
@@ -11762,7 +11765,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2005.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11773,8 +11776,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_hbz2005.htm"
  },
  "harley_benton_het_550_bk.htm": {
@@ -13143,9 +13146,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "heritage_guitar_h_150_custom_core_gold_top.htm",
   "last_change": "2026-11-18T12:59Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 14490.0,
   "min_price": 14490.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Heritage Guitar H-150 Custom Core Gold Top",
   "price": 14490.0,
   "ref_price": null,
@@ -13202,7 +13206,7 @@
   "discount": 33,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb3_black.htm",
-  "last_change": "2026-11-19T06:59Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
   "missing_runs": 0,
@@ -13213,8 +13217,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_hnb3_black.htm"
  },
  "hils_hnb3_ivory.htm": {
@@ -13622,7 +13626,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn6_ultra_gold.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 2999.0,
   "min_price": 2999.0,
   "missing_runs": 0,
@@ -13633,8 +13637,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_next_hn6_ultra_gold.htm"
  },
  "hitnmix_ripx_daw.htm": {
@@ -15344,9 +15348,10 @@
   "first_seen": "2026-11-19T03:59Z",
   "id": "jbl_308p_mkii.htm",
   "last_change": "2026-11-19T03:59Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 777.0,
   "min_price": 777.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "JBL 308P MKII",
   "price": 777.0,
   "ref_price": 1077.0,
@@ -16964,9 +16969,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "lakland_skyline_44_02_deluxe_4_smt_vib.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 5199.0,
   "min_price": 5199.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Lakland Skyline 44-02 Deluxe 4 SMT VIB",
   "price": 5199.0,
   "ref_price": null,
@@ -18865,7 +18871,7 @@
   "discount": 35,
   "first_seen": "2026-11-18T18:17Z",
   "id": "mapex_13_x55_dl_cherry_bomb_nsw.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -18876,8 +18882,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm"
  },
  "mapex_saturn_evo_maple_stage_pt.htm": {
@@ -19045,7 +19051,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "marcus_miller_u7_4_sgm.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 1739.0,
   "min_price": 1739.0,
   "missing_runs": 0,
@@ -19056,8 +19062,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/marcus_miller_u7_4_sgm.htm"
  },
  "marcus_miller_v3_4_new_gen_antique_white.htm": {
@@ -19540,27 +19546,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitar_d35_sunburst.htm"
- },
- "martin_guitar_d_jr_e_streetmaster.htm": {
-  "badge": "",
-  "discount": 36,
-  "first_seen": "2026-11-19T03:59Z",
-  "id": "martin_guitar_d_jr_e_streetmaster.htm",
-  "last_change": "2026-11-19T03:59Z",
-  "last_seen": "2026-11-19T03:59Z",
-  "max_price": 2999.0,
-  "min_price": 2999.0,
-  "missing_runs": 1,
-  "name": "Martin Guitar D Jr E StreetMaster New",
-  "price": 2999.0,
-  "ref_price": 4699.0,
-  "reported_price": 2999.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm"
  },
  "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
   "badge": "",
@@ -23774,9 +23759,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "prs_se_custom_24_s_h_vs_2025.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 3899.0,
   "min_price": 3899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "PRS SE Custom 24 S/H VS 2025",
   "price": 3899.0,
   "ref_price": 5190.0,
@@ -24014,9 +24000,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "rane_system_one.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 9099.0,
   "min_price": 9099.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Rane System One",
   "price": 9099.0,
   "ref_price": 10390.0,
@@ -25257,7 +25244,7 @@
   "discount": 54,
   "first_seen": "2026-11-18T18:17Z",
   "id": "sela_kalimba_21_solid_maple.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-19T09:59Z",
   "max_price": 169.0,
   "min_price": 169.0,
   "missing_runs": 0,
@@ -25268,8 +25255,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_kalimba_21_solid_maple.htm"
  },
  "sela_noah_bell_10_d5.htm": {
@@ -25753,6 +25740,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sheeran_loopers_looper.htm"
  },
+ "shure_beta_52.htm": {
+  "badge": "GIVEAWAY",
+  "discount": null,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "shure_beta_52.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 899.0,
+  "min_price": 899.0,
+  "missing_runs": 0,
+  "name": "Shure Beta 52A",
+  "price": 899.0,
+  "ref_price": null,
+  "reported_price": 899.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/shure_beta_52.htm"
+ },
  "shure_blx24sm58_s8.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -25879,9 +25886,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "shure_slxd15_g59_643372.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T06:59Z",
   "max_price": 1745.0,
   "min_price": 1745.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Shure SLXD15 G59",
   "price": 1745.0,
   "ref_price": null,
@@ -27096,6 +27104,126 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/soundcraft_ui24.htm"
+ },
+ "soundtoys_decapitator.htm": {
+  "badge": "",
+  "discount": 74,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "soundtoys_decapitator.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 205.0,
+  "min_price": 205.0,
+  "missing_runs": 0,
+  "name": "Soundtoys Decapitator",
+  "price": 205.0,
+  "ref_price": 777.0,
+  "reported_price": 205.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/soundtoys_decapitator.htm"
+ },
+ "soundtoys_echoboy.htm": {
+  "badge": "",
+  "discount": 74,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "soundtoys_echoboy.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 205.0,
+  "min_price": 205.0,
+  "missing_runs": 0,
+  "name": "Soundtoys EchoBoy",
+  "price": 205.0,
+  "ref_price": 777.0,
+  "reported_price": 205.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/soundtoys_echoboy.htm"
+ },
+ "soundtoys_effekt_rack.htm": {
+  "badge": "",
+  "discount": 64,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "soundtoys_effekt_rack.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 433.0,
+  "min_price": 433.0,
+  "missing_runs": 0,
+  "name": "Soundtoys Effekt Rack",
+  "price": 433.0,
+  "ref_price": 1199.0,
+  "reported_price": 433.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/soundtoys_effekt_rack.htm"
+ },
+ "soundtoys_little_alterboy.htm": {
+  "badge": "",
+  "discount": 58,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "soundtoys_little_alterboy.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 169.0,
+  "min_price": 169.0,
+  "missing_runs": 0,
+  "name": "Soundtoys Little AlterBoy",
+  "price": 169.0,
+  "ref_price": 399.0,
+  "reported_price": 169.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/soundtoys_little_alterboy.htm"
+ },
+ "soundtoys_soundtoys_5.htm": {
+  "badge": "",
+  "discount": 56,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "soundtoys_soundtoys_5.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 1045.0,
+  "min_price": 1045.0,
+  "missing_runs": 0,
+  "name": "Soundtoys Soundtoys 5",
+  "price": 1045.0,
+  "ref_price": 2399.0,
+  "reported_price": 1045.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/soundtoys_soundtoys_5.htm"
+ },
+ "soundtoys_soundtoys_5_edu.htm": {
+  "badge": "",
+  "discount": 58,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "soundtoys_soundtoys_5_edu.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 519.0,
+  "min_price": 519.0,
+  "missing_runs": 0,
+  "name": "Soundtoys Soundtoys 5 EDU",
+  "price": 519.0,
+  "ref_price": 1249.0,
+  "reported_price": 519.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/soundtoys_soundtoys_5_edu.htm"
  },
  "soundwear_performer_accordion_96_bass.htm": {
   "badge": "",
@@ -34447,11 +34575,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "warm_audio_wa76_d.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 2790.0,
+  "max_price": 2799.0,
   "min_price": 2790.0,
   "missing_runs": 0,
   "name": "Warm Audio WA76-D",
-  "price": 2790.0,
+  "price": 2799.0,
   "ref_price": null,
   "reported_price": 2790.0,
   "sections": [
@@ -35260,7 +35388,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_psr_sx720_bench_bundle.htm"
  },
@@ -35283,6 +35411,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_psr_sx920_sub_bundle.htm"
+ },
+ "yamaha_pss_a50.htm": {
+  "badge": "",
+  "discount": 13,
+  "first_seen": "2026-11-19T09:59Z",
+  "id": "yamaha_pss_a50.htm",
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 298.0,
+  "min_price": 298.0,
+  "missing_runs": 0,
+  "name": "Yamaha PSS-A50",
+  "price": 298.0,
+  "ref_price": 344.0,
+  "reported_price": 298.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_pss_a50.htm"
  },
  "yamaha_pss_e30.htm": {
   "badge": "",
@@ -36066,17 +36214,17 @@
  },
  "zildjian_k_country_pack.htm": {
   "badge": "",
-  "discount": 5,
+  "discount": null,
   "first_seen": "2026-11-18T18:17Z",
   "id": "zildjian_k_country_pack.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "max_price": 5699.0,
+  "last_change": "2026-11-19T09:59Z",
+  "max_price": 5999.0,
   "min_price": 5699.0,
   "missing_runs": 0,
   "name": "Zildjian K Country Pack",
-  "price": 5699.0,
-  "ref_price": 5999.0,
-  "reported_price": 5699.0,
+  "price": 5999.0,
+  "ref_price": null,
+  "reported_price": 5999.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],

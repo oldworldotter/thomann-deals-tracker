@@ -3,30 +3,62 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-19 07:59 CET · **1814** deals tracked of 1814 advertised · checks every **3 h**
+**Last check:** 2026-11-19 10:59 CET · **1813** deals tracked of 1813 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 4 back in stock · 📦 3 stock changes → [full report](changes/2026-11-19T0659Z.md)
+🆕 8 new deals · ❌ 1 removed deals · 📈 1 price increases · 🏷️ 1 discount changes · ✅ 5 back in stock · 📦 3 stock changes → [full report](changes/2026-11-19T0959Z.md)
 
-### ✅ Back in stock (4)
+### 🆕 New deals (8)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Soundtoys Decapitator](https://www.thomann.pl/soundtoys_decapitator.htm) | 205 zł | ‑74% | 777 zł | Pobierz licencję |  |
+| [Soundtoys EchoBoy](https://www.thomann.pl/soundtoys_echoboy.htm) | 205 zł | ‑74% | 777 zł | Pobierz licencję |  |
+| [Soundtoys Effekt Rack](https://www.thomann.pl/soundtoys_effekt_rack.htm) | 433 zł | ‑64% | 1 199 zł | Pobierz licencję |  |
+| [Soundtoys Soundtoys 5 EDU](https://www.thomann.pl/soundtoys_soundtoys_5_edu.htm) | 519 zł | ‑58% | 1 249 zł | Pobierz licencję |  |
+| [Soundtoys Little AlterBoy](https://www.thomann.pl/soundtoys_little_alterboy.htm) | 169 zł | ‑58% | 399 zł | Pobierz licencję |  |
+| [Soundtoys Soundtoys 5](https://www.thomann.pl/soundtoys_soundtoys_5.htm) | 1 045 zł | ‑56% | 2 399 zł | Pobierz licencję |  |
+| [Yamaha PSS-A50](https://www.thomann.pl/yamaha_pss_a50.htm) | 298 zł | ‑13% | 344 zł | Dostępny w magazynie |  |
+| [Shure Beta 52A](https://www.thomann.pl/shure_beta_52.htm) | 899 zł |  |  | Dostępny w magazynie | GIVEAWAY |
+
+### ❌ Removed deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Martin Guitar D Jr E StreetMaster New](https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm) | 2 999 zł | ‑36% | 4 699 zł | Dostępny w magazynie |  |
+
+### 📈 Price increases (1)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Zildjian K Country Pack](https://www.thomann.pl/zildjian_k_country_pack.htm) | 5 699 zł | **5 999 zł** | +5.3% |  |  | Dostępny w magazynie |
+
+### 🏷️ Discount changes (1)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Zildjian K Country Pack](https://www.thomann.pl/zildjian_k_country_pack.htm) | 5 999 zł | -5% | **none** |
+
+### ✅ Back in stock (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton WL-20BK Rock Series Set 1](https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm) | 969 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Sennheiser IE 200](https://www.thomann.pl/sennheiser_ie_200.htm) | 435 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Nuvo Band Flute Black](https://www.thomann.pl/nuvo_band_flute_black.htm) | 866 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-200 BK Student Serie Bundle](https://www.thomann.pl/harley_benton_sc_200_bk_student_serie_bundle.htm) | 698 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Sela Kalimba 21 Solid Maple](https://www.thomann.pl/sela_kalimba_21_solid_maple.htm) | 169 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Marcus Miller U7-4 SGM](https://www.thomann.pl/marcus_miller_u7_4_sgm.htm) | 1 739 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Evans G2 Fusion 2 Set clear](https://www.thomann.pl/evans_g2_fusion_2_set_clear.htm) | 229 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Hils HNB3 Black](https://www.thomann.pl/hils_hnb3_black.htm) | 1 444 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
 ### 📦 Stock changes (3)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Hils HNB3 Black](https://www.thomann.pl/hils_hnb3_black.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Karl Höfner H4/2A-C Cello 4/4](https://www.thomann.pl/karl_hoefner_h4_2e_c_cello_4_4.htm) | 9 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Mapex 13"x5,5" DL Cherry Bomb NSW](https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN6 Ultra Gold](https://www.thomann.pl/hils_next_hn6_ultra_gold.htm) | 2 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Custom Line King-12 CE NT](https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
