@@ -3,74 +3,40 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-18 22:59 CET · **1802** deals tracked of 1802 advertised · checks every **3 h**
+**Last check:** 2026-11-19 01:37 CET · **1806** deals tracked of 1806 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 16 new deals · ❌ 6 removed deals · 💸 1 price drops · 📈 1 price increases · 🏷️ 7 discount changes · 📦 4 stock changes → [full report](changes/2026-11-18T2159Z.md)
+🆕 8 new deals · ❌ 1 removed deals · 📦 3 stock changes → [full report](changes/2026-11-19T0037Z.md)
 
-### 🆕 New deals (16)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Yamaha NP-15 Piaggero Black](https://www.thomann.pl/yamaha_np_15_piaggero_black.htm) | 649 zł | ‑21% | 825 zł | Dostępny w magazynie |  |
-| [Yamaha NP-15 Piaggero White](https://www.thomann.pl/yamaha_np_15_piaggero_white.htm) | 649 zł | ‑21% | 825 zł | Dostępny w magazynie |  |
-| [Yamaha NP-35 Piaggero Black](https://www.thomann.pl/yamaha_np_35_piaggero_black.htm) | 1 029 zł | ‑17% | 1 245 zł | Dostępny w magazynie |  |
-| [Yamaha YDP-S36 B Arius Set](https://www.thomann.pl/yamaha_ydp_s36_b_arius_set.htm) | 3 999 zł | ‑17% | 4 799 zł | Dostępny w magazynie |  |
-| [Yamaha YDP-S36 WB Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wb_arius_set.htm) | 3 999 zł | ‑17% | 4 799 zł | Dostępny w magazynie |  |
-| [Yamaha NP-35 Piaggero White](https://www.thomann.pl/yamaha_np_35_piaggero_white.htm) | 1 029 zł | ‑16% | 1 222 zł | Dostępny w magazynie |  |
-| [Yamaha P-225 B](https://www.thomann.pl/yamaha_p_225_b.htm) | 2 199 zł | ‑14% | 2 545 zł | Dostępny w magazynie |  |
-| [Yamaha YDP-146 R Arius Set](https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm) | 3 890 zł | ‑14% | 4 499 zł | Dostępny w magazynie |  |
-| [Yamaha YDP-146 WH Arius Set](https://www.thomann.pl/yamaha_ydp_146_wh_arius_set.htm) | 3 890 zł | ‑14% | 4 499 zł | Dostępny w magazynie |  |
-| [Yamaha PSR-E283](https://www.thomann.pl/yamaha_psr_e283.htm) | 499 zł | ‑13% | 575 zł | Dostępny w magazynie |  |
-
-…and 6 more in the full report.
-
-### ❌ Removed deals (6)
+### 🆕 New deals (8)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Sela Kalimba 10 Green](https://www.thomann.pl/sela_kalimba_10_green.htm) | 39 zł | ‑68% | 121 zł | Dostępny w magazynie |  |
-| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | 214 zł | ‑61% | 555 zł | Dostępny w magazynie |  |
-| [One Control Persian Green Screamer](https://www.thomann.pl/one_control_persian_green_screamer.htm) | 258 zł | ‑54% | 555 zł | Dostępny w magazynie |  |
-| [Sela SE 241 Kalimba Black 10](https://www.thomann.pl/sela_se_241_kalimba_black_10.htm) | 39 zł | ‑52% | 82 zł | Dostępny w magazynie |  |
-| [Tone City Holy Aura - Distortion / Boost](https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm) | 258 zł | ‑40% | 429 zł | Dostępny w magazynie |  |
-| [Höfner Vintage 500/1 62 Mersey](https://www.thomann.pl/hoefner_vintage_62_beatles_bass.htm) | 10 890 zł | ‑16% | 12 890 zł | Dostępny w magazynie |  |
+| [Native Instruments Noire](https://www.thomann.pl/native_instruments_noire.htm) | 289 zł | ‑56% | 659 zł | Pobierz licencję |  |
+| [Native Instruments Reaktor 6](https://www.thomann.pl/native_instruments_reaktor_6.htm) | 398 zł | ‑55% | 879 zł | Pobierz licencję |  |
+| [Native Instruments Session Horns](https://www.thomann.pl/native_instruments_session_horns.htm) | 198 zł | ‑55% | 438 zł | Pobierz licencję |  |
+| [Native Instruments Battery 4](https://www.thomann.pl/native_instruments_battery_4.htm) | 398 zł | ‑55% | 879 zł | Pobierz licencję |  |
+| [Native Instruments Absynth 6](https://www.thomann.pl/native_instruments_absynth_6.htm) | 398 zł | ‑54% | 863 zł | Pobierz licencję |  |
+| [Native Instruments Guitar Rig 7 Pro](https://www.thomann.pl/native_instruments_guitar_rig_7_pro.htm) | 398 zł | ‑52% | 835 zł | Pobierz licencję |  |
+| [Native Instruments SessionGuitarist Electric Mint](https://www.thomann.pl/native_instruments_sessionguitarist_electric_mint.htm) | 198 zł | ‑50% | 393 zł | Pobierz licencję |  |
+| [Native Instruments Traktor Pro 4](https://www.thomann.pl/native_instruments_traktor_pro_4.htm) | 289 zł | ‑49% | 569 zł | Pobierz licencję |  |
 
-### 💸 Price drops (1)
+### ❌ Removed deals (1)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Zildjian S Series Performer Cymbal Set](https://www.thomann.pl/zildjian_s_series_performer_cymbal_set_621594.htm) | 2 635 zł | **2 599 zł** | -1.4% |  |  | Dostępny w magazynie |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Schecter Synyster Std Plus FR TDR](https://www.thomann.pl/schecter_synyster_std_plus_fr_tdr.htm) | 5 444 zł | ‑6% | 5 799 zł | Dostępny w magazynie |  |
 
-### 📈 Price increases (1)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [iriz PTC-TN Bundle](https://www.thomann.pl/iriz_ptc_tn_bundle.htm) | 3 799 zł | **3 890 zł** | +2.4% |  |  | Dostępny w magazynie |
-
-### 🏷️ Discount changes (7)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Mapex 12"x5,5" DL Warbird Snare Drum](https://www.thomann.pl/mapex_12_x55_dl_warbird_snare_drum.htm) | 2 175 zł | -27% | **none** |
-| [Harley Benton DNAfx GiT Pro](https://www.thomann.pl/harley_benton_dnafx_git_pro.htm) | 738 zł | -14% | **none** |
-| [Harley Benton G112Plus LTD V30UK](https://www.thomann.pl/harley_benton_g112plus_ltd_v30uk.htm) | 869 zł | -20% | **none** |
-| [Zildjian S Series Performer Cymbal Set](https://www.thomann.pl/zildjian_s_series_performer_cymbal_set_621594.htm) | 2 599 zł | -15% | **none** |
-| [Gretsch Drums Catalina Bubinga Maple Studio](https://www.thomann.pl/gretsch_drums_catalina_bubinga_maple_studio.htm) | 5 590 zł | -22% | **none** |
-| [Harley Benton TravelMate-E](https://www.thomann.pl/harley_benton_travelmate_e.htm) | 869 zł | -20% | **none** |
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | -14% | **none** |
-
-### 📦 Stock changes (4)
+### 📦 Stock changes (3)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton HBV 990BCF 4/4 Electric Violin](https://www.thomann.pl/harley_benton_hbv_990bcf_4_4_electric_violin.htm) | 579 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [the box pro DSP 18 Sub](https://www.thomann.pl/the_box_pro_dsp_18_sub.htm) | 1 699 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 649 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 390 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

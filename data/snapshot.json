@@ -615,7 +615,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 2–3 tygodnie",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/ahead_aa5048w_hardware_armor_case.htm"
  },
@@ -5221,9 +5221,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "drumcraft_14_x5_concert_snare_bb.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-18T21:59Z",
   "max_price": 1699.0,
   "min_price": 1699.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "DrumCraft 14\"x5\" Concert Snare BB",
   "price": 1699.0,
   "ref_price": null,
@@ -7382,9 +7383,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "eve_audio_sc204.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-18T21:59Z",
   "max_price": 1044.0,
   "min_price": 1039.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "EVE Audio SC204",
   "price": 1044.0,
   "ref_price": null,
@@ -11342,7 +11344,7 @@
   "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_roasted_fblb.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-19T00:37Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11353,8 +11355,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_fbb.htm": {
@@ -12262,7 +12264,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_500_bk_w_soran_dual_stomp.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-19T00:37Z",
   "max_price": 999.0,
   "min_price": 999.0,
   "missing_runs": 0,
@@ -12273,8 +12275,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm"
  },
  "harley_benton_sc_500bk_w_marshall_mg15gfx.htm": {
@@ -12282,7 +12284,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_500bk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-19T00:37Z",
   "max_price": 1390.0,
   "min_price": 1390.0,
   "missing_runs": 0,
@@ -12293,8 +12295,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_sc_custom_iii_baritone_ab.htm": {
@@ -19798,7 +19800,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 7–9 tygodnie",
+  "stock": "Dostępny za 6–8 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/midas_legend_l10.htm"
  },
@@ -21264,6 +21266,66 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/native_instruments_a25.htm"
  },
+ "native_instruments_absynth_6.htm": {
+  "badge": "",
+  "discount": 54,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_absynth_6.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 398.0,
+  "min_price": 398.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Absynth 6",
+  "price": 398.0,
+  "ref_price": 863.0,
+  "reported_price": 398.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_absynth_6.htm"
+ },
+ "native_instruments_battery_4.htm": {
+  "badge": "",
+  "discount": 55,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_battery_4.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 398.0,
+  "min_price": 398.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Battery 4",
+  "price": 398.0,
+  "ref_price": 879.0,
+  "reported_price": 398.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_battery_4.htm"
+ },
+ "native_instruments_guitar_rig_7_pro.htm": {
+  "badge": "",
+  "discount": 52,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_guitar_rig_7_pro.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 398.0,
+  "min_price": 398.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Guitar Rig 7 Pro",
+  "price": 398.0,
+  "ref_price": 835.0,
+  "reported_price": 398.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_guitar_rig_7_pro.htm"
+ },
  "native_instruments_komplete_kontrol_m32.htm": {
   "badge": "",
   "discount": 24,
@@ -21323,6 +21385,106 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/native_instruments_maschine_501389.htm"
+ },
+ "native_instruments_noire.htm": {
+  "badge": "",
+  "discount": 56,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_noire.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 289.0,
+  "min_price": 289.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Noire",
+  "price": 289.0,
+  "ref_price": 659.0,
+  "reported_price": 289.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_noire.htm"
+ },
+ "native_instruments_reaktor_6.htm": {
+  "badge": "",
+  "discount": 55,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_reaktor_6.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 398.0,
+  "min_price": 398.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Reaktor 6",
+  "price": 398.0,
+  "ref_price": 879.0,
+  "reported_price": 398.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_reaktor_6.htm"
+ },
+ "native_instruments_session_horns.htm": {
+  "badge": "",
+  "discount": 55,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_session_horns.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 198.0,
+  "min_price": 198.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Session Horns",
+  "price": 198.0,
+  "ref_price": 438.0,
+  "reported_price": 198.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_session_horns.htm"
+ },
+ "native_instruments_sessionguitarist_electric_mint.htm": {
+  "badge": "",
+  "discount": 50,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_sessionguitarist_electric_mint.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 198.0,
+  "min_price": 198.0,
+  "missing_runs": 0,
+  "name": "Native Instruments SessionGuitarist Electric Mint",
+  "price": 198.0,
+  "ref_price": 393.0,
+  "reported_price": 198.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_sessionguitarist_electric_mint.htm"
+ },
+ "native_instruments_traktor_pro_4.htm": {
+  "badge": "",
+  "discount": 49,
+  "first_seen": "2026-11-19T00:37Z",
+  "id": "native_instruments_traktor_pro_4.htm",
+  "last_change": "2026-11-19T00:37Z",
+  "max_price": 289.0,
+  "min_price": 289.0,
+  "missing_runs": 0,
+  "name": "Native Instruments Traktor Pro 4",
+  "price": 289.0,
+  "ref_price": 569.0,
+  "reported_price": 289.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/native_instruments_traktor_pro_4.htm"
  },
  "neotone_mutant_digital_handpan_ash.htm": {
   "badge": "",
@@ -24711,27 +24873,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/schecter_pt_fastback_ii_b_deg.htm"
  },
- "schecter_synyster_std_plus_fr_tdr.htm": {
-  "badge": "",
-  "discount": 6,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "schecter_synyster_std_plus_fr_tdr.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-18T18:17Z",
-  "max_price": 5444.0,
-  "min_price": 5444.0,
-  "missing_runs": 1,
-  "name": "Schecter Synyster Std Plus FR TDR",
-  "price": 5444.0,
-  "ref_price": 5799.0,
-  "reported_price": 5444.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/schecter_synyster_std_plus_fr_tdr.htm"
- },
  "schlagwerk_cp2sone_spl_birch_flame.htm": {
   "badge": "",
   "discount": 26,
@@ -26203,9 +26344,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "solar_guitars_e1.6aan_aged_natural_matte.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-18T21:59Z",
   "max_price": 5499.0,
   "min_price": 5499.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Solar Guitars E1.6AAN Aged Natural Matte",
   "price": 5499.0,
   "ref_price": 6999.0,
@@ -34327,9 +34469,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "wolfmix_w1_mk3.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-18T21:59Z",
   "max_price": 3490.0,
   "min_price": 3490.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Wolfmix W1 Mk3",
   "price": 3490.0,
   "ref_price": null,
