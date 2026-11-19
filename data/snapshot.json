@@ -12262,7 +12262,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_200_bk_student_serie_bundle.htm",
-  "last_change": "2026-11-17T21:59Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 698.0,
   "min_price": 698.0,
   "missing_runs": 0,
@@ -12273,8 +12273,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_200_bk_student_serie_bundle.htm"
  },
  "harley_benton_sc_400_gt_w_soran_dual_lite.htm": {
@@ -12362,7 +12362,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_baritone_ab.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -12373,8 +12373,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm"
  },
  "harley_benton_sc_custom_iii_gold_top.htm": {
@@ -12922,7 +12922,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_wl_20bk_rock_series_set_1.htm",
-  "last_change": "2026-11-19T03:59Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 969.0,
   "min_price": 969.0,
   "missing_runs": 0,
@@ -12933,8 +12933,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm"
  },
  "harley_benton_wood_multi_guitarstand.htm": {
@@ -13202,7 +13202,7 @@
   "discount": 33,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb3_black.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
   "missing_runs": 0,
@@ -13213,8 +13213,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_hnb3_black.htm"
  },
  "hils_hnb3_ivory.htm": {
@@ -16323,7 +16323,7 @@
   "discount": 20,
   "first_seen": "2026-11-18T15:59Z",
   "id": "karl_hoefner_h4_2e_c_cello_4_4.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 9999.0,
   "min_price": 9999.0,
   "missing_runs": 0,
@@ -16334,8 +16334,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/karl_hoefner_h4_2e_c_cello_4_4.htm"
  },
  "karl_hoefner_h68hv_v_violin_4_4.htm": {
@@ -19547,9 +19547,10 @@
   "first_seen": "2026-11-19T03:59Z",
   "id": "martin_guitar_d_jr_e_streetmaster.htm",
   "last_change": "2026-11-19T03:59Z",
+  "last_seen": "2026-11-19T03:59Z",
   "max_price": 2999.0,
   "min_price": 2999.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Martin Guitar D Jr E StreetMaster New",
   "price": 2999.0,
   "ref_price": 4699.0,
@@ -22310,7 +22311,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "nuvo_band_flute_black.htm",
-  "last_change": "2026-11-17T15:59Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 866.0,
   "min_price": 866.0,
   "missing_runs": 0,
@@ -22321,8 +22322,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/nuvo_band_flute_black.htm"
  },
  "nuvo_clarineo_black_black_2.0.htm": {
@@ -25557,7 +25558,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "sennheiser_ie_200.htm",
-  "last_change": "2026-11-18T09:59Z",
+  "last_change": "2026-11-19T06:59Z",
   "max_price": 435.0,
   "min_price": 435.0,
   "missing_runs": 0,
@@ -25568,8 +25569,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sennheiser_ie_200.htm"
  },
  "sennheiser_momentum_4_80th_anniversary.htm": {

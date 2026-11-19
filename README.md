@@ -3,47 +3,30 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-19 04:59 CET · **1815** deals tracked of 1815 advertised · checks every **3 h**
+**Last check:** 2026-11-19 07:59 CET · **1814** deals tracked of 1814 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 6 new deals · 🔁 3 returned deals · ❌ 4 removed deals · 📦 1 stock changes → [full report](changes/2026-11-19T0359Z.md)
+✅ 4 back in stock · 📦 3 stock changes → [full report](changes/2026-11-19T0659Z.md)
 
-### 🆕 New deals (6)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [DAngelico Excel Style B Dark Iced Tea](https://www.thomann.pl/dangelico_excel_style_b_dark_iced_tea.htm) | 3 699 zł | ‑46% | 6 899 zł | Dostępny w magazynie |  |
-| [DAngelico Excel EXL1 Dark Iced Tea](https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea.htm) | 3 699 zł | ‑46% | 6 799 zł | Dostępny w magazynie |  |
-| [DAngelico Excel Style B Amber](https://www.thomann.pl/dangelico_excel_style_b_amber.htm) | 3 699 zł | ‑43% | 6 490 zł | Dostępny w magazynie |  |
-| [Heritage Musical Spoon Medium Blue](https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm) | 126 zł | ‑25% | 168 zł | dostępny w magazynie |  |
-| [Breedlove Pursuit EX S Concert TE LH CE](https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm) | 1 299 zł | ‑24% | 1 699 zł | Dostępny w magazynie |  |
-| [Yamaha YDP-S36 WH Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wh_set.htm) | 3 999 zł | ‑22% | 5 099 zł | Dostępny w magazynie |  |
-
-### 🔁 Returned deals (3)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Martin Guitar D Jr E StreetMaster New](https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm) | **2 999 zł** | 2 999 zł | ‑36% | 4 699 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
-| [JBL 308P MKII](https://www.thomann.pl/jbl_308p_mkii.htm) | **777 zł** | 777 zł | ‑28% | 1 077 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
-| [Guild Starfire I DC Cherry](https://www.thomann.pl/guild_starfire_i_dc_cherry.htm) | **1 959 zł** | 1 959 zł | ‑18% | 2 399 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
-
-### ❌ Removed deals (4)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Solar Guitars E1.6AAN Aged Natural Matte](https://www.thomann.pl/solar_guitars_e1.6aan_aged_natural_matte.htm) | 5 499 zł | ‑21% | 6 999 zł | Dostępny w magazynie |  |
-| [DrumCraft 14"x5" Concert Snare BB](https://www.thomann.pl/drumcraft_14_x5_concert_snare_bb.htm) | 1 699 zł |  |  | Dostępny w magazynie |  |
-| [EVE Audio SC204](https://www.thomann.pl/eve_audio_sc204.htm) | 1 044 zł |  |  | Dostępny w magazynie |  |
-| [Wolfmix W1 Mk3](https://www.thomann.pl/wolfmix_w1_mk3.htm) | 3 490 zł |  |  | Dostępny w magazynie | GIVEAWAY |
-
-### 📦 Stock changes (1)
+### ✅ Back in stock (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton WL-20BK Rock Series Set 1](https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm) | 969 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton WL-20BK Rock Series Set 1](https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm) | 969 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Sennheiser IE 200](https://www.thomann.pl/sennheiser_ie_200.htm) | 435 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Nuvo Band Flute Black](https://www.thomann.pl/nuvo_band_flute_black.htm) | 866 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-200 BK Student Serie Bundle](https://www.thomann.pl/harley_benton_sc_200_bk_student_serie_bundle.htm) | 698 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (3)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils HNB3 Black](https://www.thomann.pl/hils_hnb3_black.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Karl Höfner H4/2A-C Cello 4/4](https://www.thomann.pl/karl_hoefner_h4_2e_c_cello_4_4.htm) | 9 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
