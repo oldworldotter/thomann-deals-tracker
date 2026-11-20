@@ -3,37 +3,36 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-20 07:59 CET · **1811** deals tracked of 1811 advertised · checks every **3 h**
+**Last check:** 2026-11-20 11:00 CET · **1806** deals tracked of 1806 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 2 removed deals · ✅ 3 back in stock · 📦 4 stock changes → [full report](changes/2026-11-20T0659Z.md)
+📈 2 price increases · 🏷️ 1 discount changes · 📦 5 stock changes → [full report](changes/2026-11-20T1000Z.md)
 
-### ❌ Removed deals (2)
+### 📈 Price increases (2)
 
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [DAngelico Excel EXL1 Dark Iced Tea](https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea.htm) | 3 699 zł | ‑46% | 6 799 zł | Dostępny w magazynie |  |
-| [ESP LTD MT-I Mick Thomson BLKS](https://www.thomann.pl/esp_ltd_mt_i_mick_thomson_sig.htm) | 7 222 zł | ‑10% | 7 999 zł | Dostępny w magazynie |  |
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Yamaha C40 BL Bundle](https://www.thomann.pl/yamaha_c40_bl_bundle_set.htm) | 579 zł | **639 zł** | +10.4% |  |  | Dostępny w magazynie |
+| [Yamaha C40 Bundle](https://www.thomann.pl/yamaha_c40_bundle.htm) | 582 zł | **599 zł** | +2.9% |  |  | Dostępny w magazynie |
 
-### ✅ Back in stock (3)
+### 🏷️ Discount changes (1)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 744 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Blues Guitar Set 2](https://www.thomann.pl/harley_benton_blues_guitar_set_2.htm) | 369 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Schagerl TR-620L Bb-Trumpet](https://www.thomann.pl/schagerl_tr_620l_bb_trumpet.htm) | 3 399 zł | -11% | **-17%** |
 
-### 📦 Stock changes (4)
+### 📦 Stock changes (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Pearl Midtown Matte Black](https://www.thomann.pl/pearl_midtown_matte_black.htm) | 2 290 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Terre Djembe Carved Dragon 40cm](https://www.thomann.pl/terre_djembe_carved_dragon_40cm.htm) | 169 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ape Labs ApeLight Maxi V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm) | 7 399 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 649 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

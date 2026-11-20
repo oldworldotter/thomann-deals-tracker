@@ -1572,7 +1572,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T10:00Z",
   "max_price": 7399.0,
   "min_price": 7390.0,
   "missing_runs": 0,
@@ -1583,8 +1583,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm"
  },
  "ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm": {
@@ -1813,9 +1813,10 @@
   "first_seen": "2026-11-20T03:59Z",
   "id": "arturia_keylab_mkii_49_white.htm",
   "last_change": "2026-11-20T03:59Z",
+  "last_seen": "2026-11-20T06:59Z",
   "max_price": 879.0,
   "min_price": 879.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Arturia KeyLab MkII 49 White",
   "price": 879.0,
   "ref_price": 959.0,
@@ -7363,9 +7364,10 @@
   "first_seen": "2026-11-19T16:00Z",
   "id": "eve_audio_sc204.htm",
   "last_change": "2026-11-19T16:00Z",
+  "last_seen": "2026-11-20T06:59Z",
   "max_price": 1045.0,
   "min_price": 1045.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "EVE Audio SC204",
   "price": 1045.0,
   "ref_price": null,
@@ -11664,7 +11666,7 @@
   "discount": 24,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-19T21:59Z",
+  "last_change": "2026-11-20T10:00Z",
   "max_price": 649.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -11675,8 +11677,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm"
  },
  "harley_benton_hbz2004.htm": {
@@ -11684,7 +11686,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2004.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-20T10:00Z",
   "max_price": 1177.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11695,8 +11697,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbz2004.htm"
  },
  "harley_benton_hbz2005.htm": {
@@ -13595,7 +13597,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hk_audio_l5_lts.htm"
  },
@@ -14545,9 +14547,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "hugheskettner_tubemeister_deluxe_20.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-20T06:59Z",
   "max_price": 2175.0,
   "min_price": 2175.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Hughes & Kettner TubeMeister Deluxe 20",
   "price": 2175.0,
   "ref_price": null,
@@ -18646,9 +18649,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "mapex_saturn_evo_maple_stage_pt.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-20T06:59Z",
   "max_price": 7799.0,
   "min_price": 7799.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Mapex Saturn Evo Maple Stage PT",
   "price": 7799.0,
   "ref_price": 9090.0,
@@ -22823,7 +22827,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/pearl_hwp_934_hardware_set.htm"
  },
@@ -22832,7 +22836,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "pearl_midtown_matte_black.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T10:00Z",
   "max_price": 2290.0,
   "min_price": 2290.0,
   "missing_runs": 0,
@@ -22843,8 +22847,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/pearl_midtown_matte_black.htm"
  },
  "pearl_midtown_matte_red.htm": {
@@ -24552,16 +24556,16 @@
  },
  "schagerl_tr_620l_bb_trumpet.htm": {
   "badge": "",
-  "discount": 11,
+  "discount": 17,
   "first_seen": "2026-11-16T10:55Z",
   "id": "schagerl_tr_620l_bb_trumpet.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T10:00Z",
   "max_price": 3399.0,
   "min_price": 3399.0,
   "missing_runs": 0,
   "name": "Schagerl TR-620L Bb-Trumpet",
   "price": 3399.0,
-  "ref_price": 3799.0,
+  "ref_price": 4099.0,
   "reported_price": 3399.0,
   "sections": [
    "Przegląd wszystkich ofert",
@@ -24877,9 +24881,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "sela_harmony_chimes_9_dark.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-20T06:59Z",
   "max_price": 299.0,
   "min_price": 299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Sela Harmony Chimes 9 Dark",
   "price": 299.0,
   "ref_price": 555.0,
@@ -30043,7 +30048,7 @@
   "discount": 43,
   "first_seen": "2026-11-18T18:17Z",
   "id": "terre_djembe_carved_dragon_40cm.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-20T10:00Z",
   "max_price": 169.0,
   "min_price": 169.0,
   "missing_runs": 0,
@@ -30054,8 +30059,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_40cm.htm"
  },
  "terre_djembe_carved_dragon_50cm.htm": {
@@ -32574,7 +32579,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/tone_city_substation_multi_power_supply.htm"
  },
@@ -34565,14 +34570,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_c40_bl_bundle_set.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 579.0,
+  "last_change": "2026-11-20T10:00Z",
+  "max_price": 639.0,
   "min_price": 579.0,
   "missing_runs": 0,
   "name": "Yamaha C40 BL Bundle",
-  "price": 579.0,
+  "price": 639.0,
   "ref_price": null,
-  "reported_price": 579.0,
+  "reported_price": 639.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -34585,14 +34590,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_c40_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 582.0,
+  "last_change": "2026-11-20T10:00Z",
+  "max_price": 599.0,
   "min_price": 582.0,
   "missing_runs": 0,
   "name": "Yamaha C40 Bundle",
-  "price": 582.0,
+  "price": 599.0,
   "ref_price": null,
-  "reported_price": 582.0,
+  "reported_price": 599.0,
   "sections": [
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
