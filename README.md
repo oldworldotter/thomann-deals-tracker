@@ -3,73 +3,76 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-20 17:00 CET · **1816** deals tracked of 1816 advertised · checks every **3 h**
+**Last check:** 2026-11-20 19:59 CET · **1811** deals tracked of 1811 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 6 new deals · 🔁 4 returned deals · ❌ 1 removed deals · 💸 1 price drops · 🏷️ 1 discount changes · ✅ 7 back in stock · 📦 5 stock changes → [full report](changes/2026-11-20T1600Z.md)
+🆕 1 new deals · ❌ 3 removed deals · 📈 120 price increases · 🏷️ 157 discount changes · ✅ 1 back in stock · 📦 4 stock changes → [full report](changes/2026-11-20T1859Z.md)
 
-### 🆕 New deals (6)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [PRS SE Studio Charcoal CB 2025](https://www.thomann.pl/prs_se_studio_charcoal_cb_2025.htm) | 2 599 zł | ‑50% | 5 199 zł | Dostępny w magazynie | GIVEAWAY |
-| [ESP LTD EC-1000 Piezo QM STBLK](https://www.thomann.pl/esp_ec_1000_piezo_qm_stb.htm) | 4 444 zł | ‑44% | 7 899 zł | Dostępny za 1–2 tygodnie |  |
-| [Avantone MixCubes Active White](https://www.thomann.pl/avantone_mixcubes_active_white.htm) | 1 490 zł | ‑38% | 2 390 zł | Dostępny w magazynie |  |
-| [ESP E-II M-II HST P MSFMG](https://www.thomann.pl/esp_e_ii_m_ii_hst_p_msfmg.htm) | 10 490 zł | ‑34% | 15 890 zł | Dostępny za 1–2 tygodnie |  |
-| [Sennheiser IE 100 Pro Black](https://www.thomann.pl/sennheiser_ie_100_pro_black.htm) | 299 zł | ‑22% | 385 zł | Dostępny w magazynie |  |
-| [Stairville Stage Flood Inst QCL 48 Bundle](https://www.thomann.pl/stairville_stage_flood_inst_qcl_48_bundle_set.htm) | 3 399 zł |  |  | Dostępny w magazynie |  |
-
-### 🔁 Returned deals (4)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | **214 zł** | 214 zł | ‑61% | 555 zł | Dostępny w magazynie | 2026‑11‑18 22:59 |
-| [Electro Harmonix Triangle Big Muff Fuzz](https://www.thomann.pl/electro_harmonix_triangle_big_muff_fuzz.htm) | **308 zł** | 308 zł | ‑21% | 392 zł | Dostępny w magazynie | 2026‑11‑18 19:17 |
-| [Electro Harmonix Silencer](https://www.thomann.pl/electro_harmonix_silencer.htm) | **289 zł** | 289 zł |  |  | Dostępny w magazynie | 2026‑11‑20 01:46 |
-| [ESP Eclipse Custom Tiger Eye SB](https://www.thomann.pl/esp_eclipse_custom_tiger_eye_sb.htm) | **26 290 zł** | 26 290 zł |  |  | Dostępny za 1–2 tygodnie | 2026‑11‑16 17:24 |
-
-### ❌ Removed deals (1)
+### 🆕 New deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Elation SDC-6 Faderdesk V2 black](https://www.thomann.pl/elation_sdc_6_faderdesk_v2_black.htm) | 149 zł |  |  | Dostępny w magazynie |  |
+| [Magic FX Eco2Jet](https://www.thomann.pl/magic_fx_eco2jet.htm) | 18 190 zł |  |  | Dostępny w magazynie | GIVEAWAY |
 
-### 💸 Price drops (1)
+### ❌ Removed deals (3)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Kala Ukadelic Soprano Uku BL](https://www.thomann.pl/kala_ukadelic_soprano_uku_bl.htm) | 87 zł | ‑59% | 211 zł | Dostępny w magazynie |  |
+| [Warm Audio Centavo Overdrive](https://www.thomann.pl/warm_audio_centavo_overdrive.htm) | 599 zł | ‑18% | 729 zł | Dostępny w magazynie |  |
+| [Thomann DP-32 B](https://www.thomann.pl/thomann_dp_32_b.htm) | 2 090 zł |  |  | Dostępny w magazynie |  |
+
+### 📈 Price increases (120)
 
 | Product | Was | Now | Change | Discount | 30-day best | Stock |
 |---|--:|--:|--:|--:|--:|---|
-| [AKAI Professional MPK mini Plus](https://www.thomann.pl/akai_professional_mpk_mini_plus.htm) | 519 zł | **498 zł** | -4.0% |  |  | Dostępny w magazynie |
+| [AKG Ara](https://www.thomann.pl/akg_ara.htm) | 85 zł | **88 zł** | +3.5% |  |  | Dostępny w magazynie |
+| [Stairville Wild Wash 9x3W LED UV BK DMX](https://www.thomann.pl/stairville_wild_wash_9x3w_led_uv_bk_dmx.htm) | 299 zł | **309 zł** | +3.3% |  |  | Dostępny w magazynie |
+| [ADJ Mega HEX Par RGBAW UV](https://www.thomann.pl/adj_mega_hex_par_rgbaw_uv.htm) | 299 zł | **309 zł** | +3.3% |  |  | Dostępny w magazynie |
+| [Zoom M2 MicTrak](https://www.thomann.pl/zoom_m2_mictrak.htm) | 299 zł | **309 zł** | +3.3% |  |  | Dostępny w magazynie |
+| [M-Audio BX3](https://www.thomann.pl/m_audio_bx3.htm) | 299 zł | **309 zł** | +3.3% |  |  | Dostępny w magazynie |
+| [dB Technologies Opera 12](https://www.thomann.pl/db_technologies_opera_12.htm) | 1 599 zł | **1 650 zł** | +3.2% |  |  | Dostępny w magazynie |
+| [Warm Audio WA73-EQ](https://www.thomann.pl/warm_audio_wa73_eq.htm) | 2 899 zł | **2 990 zł** | +3.1% |  |  | Dostępny w magazynie |
+| [Zoom LiveTrak L-20](https://www.thomann.pl/zoom_livetrak_l_20.htm) | 2 999 zł | **3 090 zł** | +3.0% |  |  | Dostępny w magazynie |
+| [dB Technologies SUB 612](https://www.thomann.pl/db_technologies_sub_612.htm) | 1 699 zł | **1 750 zł** | +3.0% |  |  | Dostępny w magazynie |
+| [the box pro DSP 18 Sub](https://www.thomann.pl/the_box_pro_dsp_18_sub.htm) | 1 699 zł | **1 750 zł** | +3.0% |  |  | Dostępny za 1–2 tygodnie |
 
-### 🏷️ Discount changes (1)
+…and 110 more in the full report.
+
+### 🏷️ Discount changes (157)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [AKAI Professional MPK mini Plus](https://www.thomann.pl/akai_professional_mpk_mini_plus.htm) | 498 zł | -10% | **none** |
+| [beyerdynamic DT 770 PRO X Black Edition](https://www.thomann.pl/beyerdynamic_dt_770_pro_x_black_edition.htm) | 798 zł | -10% | **none** |
+| [beyerdynamic DT 900 PRO X Black Edition](https://www.thomann.pl/beyerdynamic_dt_900_pro_x_black_edition.htm) | 929 zł | -15% | **none** |
+| [Yamaha P-45 B](https://www.thomann.pl/yamaha_p_45_b.htm) | 1 350 zł | -9% | **none** |
+| [Waves eMotion LV1 Full Access Bundle](https://www.thomann.pl/waves_emotion_lv1_full_access_bundle.htm) | 48 390 zł | -25% | **none** |
+| [Zoom PodTrak P2](https://www.thomann.pl/zoom_podtrak_p2.htm) | 309 zł | -27% | **none** |
+| [Zoom LiveTrak L-6](https://www.thomann.pl/zoom_livetrak_l_6.htm) | 866 zł | -22% | **none** |
+| [HK Audio Polar 12](https://www.thomann.pl/hk_audio_polar_12.htm) | 3 499 zł | -8% | **none** |
+| [the t.amp TSA 4-700](https://www.thomann.pl/the_tamp_tsa_4700.htm) | 1 555 zł | -12% | **none** |
+| [DBX 286 S](https://www.thomann.pl/dbx_286_s.htm) | 655 zł | -13% | **none** |
+| [Smoke Factory Tour Hazer II-S](https://www.thomann.pl/smoke_factory_tour_hazer_iis.htm) | 5 099 zł | -11% | **none** |
 
-### ✅ Back in stock (7)
+…and 147 more in the full report.
+
+### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Hils Next HN3 Met. Emerald Green](https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm) | 1 444 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Marcus Miller GB5-4 Black](https://www.thomann.pl/marcus_miller_gb5_4_black.htm) | 1 744 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 390 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton EX-84 Modern BK](https://www.thomann.pl/harley_benton_het_550_bk.htm) | 1 177 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Yamaha YDP-146 R Arius Set](https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm) | 3 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
 
-### 📦 Stock changes (5)
+### 📦 Stock changes (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Daddario XSAPB1253-3P](https://www.thomann.pl/daddario_xsapb1253_3p.htm) | 198 zł | dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Ape Labs ApeLight mini V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm) | 3 899 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
-| [Daddario XSE1052-3P](https://www.thomann.pl/daddario_xse1052_3p.htm) | 148 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Varytec LED Theater Spot 100 Bundle](https://www.thomann.pl/varytec_led_theater_spot_100_bundle.htm) | 3 399 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
+| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton WL-20BK Rock Series Set 1](https://www.thomann.pl/harley_benton_wl_20bk_rock_series_set_1.htm) | 969 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
+| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 069 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 390 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
