@@ -1583,7 +1583,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm"
  },
@@ -3186,6 +3186,7 @@
   "ref_price": null,
   "reported_price": 2899.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -4341,9 +4342,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "cort_g250_lh_bk.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T21:59Z",
   "max_price": 969.0,
   "min_price": 969.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Cort G250 LH BK",
   "price": 969.0,
   "ref_price": 1639.0,
@@ -5856,27 +5858,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/electro_harmonix_deluxe_big_muff_pi_2_fuzz.htm"
  },
- "electro_harmonix_lpb_3_boost_eq.htm": {
-  "badge": "",
-  "discount": 33,
-  "first_seen": "2026-11-19T16:00Z",
-  "id": "electro_harmonix_lpb_3_boost_eq.htm",
-  "last_change": "2026-11-19T16:00Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 444.0,
-  "min_price": 444.0,
-  "missing_runs": 1,
-  "name": "Electro Harmonix LPB-3 Boost & EQ",
-  "price": 444.0,
-  "ref_price": 658.0,
-  "reported_price": 444.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/electro_harmonix_lpb_3_boost_eq.htm"
- },
  "electro_harmonix_percolator_overdrive_fuzz.htm": {
   "badge": "",
   "discount": 21,
@@ -5956,27 +5937,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm"
- },
- "electro_harmonix_silencer.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "electro_harmonix_silencer.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 289.0,
-  "min_price": 289.0,
-  "missing_runs": 1,
-  "name": "Electro Harmonix Silencer",
-  "price": 289.0,
-  "ref_price": null,
-  "reported_price": 289.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/electro_harmonix_silencer.htm"
  },
  "electro_harmonix_voice_box.htm": {
   "badge": "",
@@ -7483,7 +7443,7 @@
   "discount": 20,
   "first_seen": "2026-11-16T10:55Z",
   "id": "expert_sleepers_disting_nt.htm",
-  "last_change": "2026-11-19T12:59Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 2399.0,
   "min_price": 2399.0,
   "missing_runs": 0,
@@ -7494,8 +7454,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/expert_sleepers_disting_nt.htm"
  },
  "fabfilter_pro_bundle.htm": {
@@ -8037,27 +7997,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/fender_ltd_custom_62_strat_rl_awb.htm"
- },
- "fender_rumble_40_v3_ivory.htm": {
-  "badge": "",
-  "discount": 25,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "fender_rumble_40_v3_ivory.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 1499.0,
-  "min_price": 1499.0,
-  "missing_runs": 1,
-  "name": "Fender Rumble 40 V3 Ivory",
-  "price": 1499.0,
-  "ref_price": 1990.0,
-  "reported_price": 1499.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/fender_rumble_40_v3_ivory.htm"
  },
  "fender_tele_dual_p90_black_paisley.htm": {
   "badge": "",
@@ -13101,6 +13040,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hedd_heddphone_d1.htm"
  },
+ "hercules_dj_control_inpulse_500.htm": {
+  "badge": "",
+  "discount": 19,
+  "first_seen": "2026-11-20T00:46Z",
+  "id": "hercules_dj_control_inpulse_500.htm",
+  "last_change": "2026-11-20T00:46Z",
+  "max_price": 869.0,
+  "min_price": 869.0,
+  "missing_runs": 0,
+  "name": "Hercules DJ Control Inpulse 500",
+  "price": 869.0,
+  "ref_price": 1079.0,
+  "reported_price": 869.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/hercules_dj_control_inpulse_500.htm"
+ },
  "hercules_dj_control_inpulse_t7.htm": {
   "badge": "",
   "discount": null,
@@ -13166,7 +13125,7 @@
   "discount": 25,
   "first_seen": "2026-11-19T03:59Z",
   "id": "heritage_musical_spoon_medium_blue.htm",
-  "last_change": "2026-11-19T03:59Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 126.0,
   "min_price": 126.0,
   "missing_runs": 0,
@@ -13177,8 +13136,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm"
  },
  "hils_hnb3_black.htm": {
@@ -13520,27 +13479,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_next_hn4_ivory.htm"
- },
- "hils_next_hn4_summer_sand.htm": {
-  "badge": "",
-  "discount": 35,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "hils_next_hn4_summer_sand.htm",
-  "last_change": "2026-11-17T15:59Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 1599.0,
-  "min_price": 1599.0,
-  "missing_runs": 1,
-  "name": "Hils Next HN4 Summer Sand",
-  "price": 1599.0,
-  "ref_price": 2444.0,
-  "reported_price": 1599.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/hils_next_hn4_summer_sand.htm"
  },
  "hils_next_hn5_ivory.htm": {
   "badge": "",
@@ -15308,7 +15246,7 @@
   "discount": 7,
   "first_seen": "2026-11-16T10:55Z",
   "id": "jbl_bandbox_trio_bag_bundle.htm",
-  "last_change": "2026-11-19T21:59Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
   "missing_runs": 0,
@@ -15319,8 +15257,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm"
  },
  "jbl_eon715.htm": {
@@ -17568,7 +17506,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_maui_28_g3_white.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 5890.0,
   "min_price": 5890.0,
   "missing_runs": 0,
@@ -17579,8 +17517,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ld_systems_maui_28_g3_white.htm"
  },
  "ld_systems_maui_5_go_100_b_bag_bundle.htm": {
@@ -18582,28 +18520,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/mackie_thump_15v4.htm"
- },
- "mackie_thump_215.htm": {
-  "badge": "Deal",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "mackie_thump_215.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 1299.0,
-  "min_price": 1299.0,
-  "missing_runs": 1,
-  "name": "Mackie Thump 215",
-  "price": 1299.0,
-  "ref_price": null,
-  "reported_price": 1299.0,
-  "sections": [
-   "Przegląd wszystkich ofert",
-   "Wyróżnione okazje"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/mackie_thump_215.htm"
  },
  "mackie_thump_sub_go.htm": {
   "badge": "",
@@ -19908,7 +19824,7 @@
   "url": "https://www.thomann.pl/millenium_go_kart_truck_xl.htm"
  },
  "millenium_hd_120_e_drum_set.htm": {
-  "badge": "",
+  "badge": "Deal",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "millenium_hd_120_e_drum_set.htm",
@@ -19921,6 +19837,7 @@
   "ref_price": null,
   "reported_price": 888.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -19973,9 +19890,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "millenium_metal_shaker_silver.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-19T21:59Z",
   "max_price": 27.0,
   "min_price": 27.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Millenium Metal Shaker Silver",
   "price": 27.0,
   "ref_price": 44.0,
@@ -20265,7 +20183,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/mooer_f15i_li_modeling_guitar_ig.htm"
  },
@@ -22331,27 +22249,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/omnitronic_pm_202f_headphone_bundle.htm"
  },
- "one_control_hookers_green_bass_machine_4k.htm": {
-  "badge": "",
-  "discount": 57,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "one_control_hookers_green_bass_machine_4k.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 258.0,
-  "min_price": 258.0,
-  "missing_runs": 1,
-  "name": "One Control Hooker's Green Bass Machine 4K",
-  "price": 258.0,
-  "ref_price": 599.0,
-  "reported_price": 258.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/one_control_hookers_green_bass_machine_4k.htm"
- },
  "one_control_jubilee_red_aiab.htm": {
   "badge": "",
   "discount": 33,
@@ -22968,7 +22865,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/pearl_midtown_matte_red.htm"
  },
@@ -23529,7 +23426,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 2–3 tygodnie",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/prs_se_a20e_antique_white.htm"
  },
@@ -23658,7 +23555,7 @@
   "discount": 14,
   "first_seen": "2026-11-18T18:17Z",
   "id": "pur_ptc_01_travel_compact_cajon.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 257.0,
   "min_price": 257.0,
   "missing_runs": 0,
@@ -23669,8 +23566,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/pur_ptc_01_travel_compact_cajon.htm"
  },
  "qsc_cb10.htm": {
@@ -24287,7 +24184,6 @@
   "ref_price": null,
   "reported_price": 677.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -25423,7 +25319,7 @@
   "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "sequential_fourm.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 2890.0,
   "min_price": 2890.0,
   "missing_runs": 0,
@@ -25434,8 +25330,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/sequential_fourm.htm"
  },
  "serato_pitch_n_time_le.htm": {
@@ -28982,27 +28878,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/strandberg_boden_metal_nx_6_tremolo_bk.htm"
- },
- "strandberg_boden_original_n26_sunset.htm": {
-  "badge": "",
-  "discount": 22,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "strandberg_boden_original_n26_sunset.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-19T18:27Z",
-  "max_price": 8799.0,
-  "min_price": 8799.0,
-  "missing_runs": 1,
-  "name": "Strandberg Boden Original N2.6 Sunset",
-  "price": 8799.0,
-  "ref_price": 11333.0,
-  "reported_price": 8799.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/strandberg_boden_original_n26_sunset.htm"
  },
  "strandberg_boden_standard_n26t_fuchsia.htm": {
   "badge": "",
@@ -33100,7 +32975,6 @@
   "ref_price": null,
   "reported_price": 260.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -33904,7 +33778,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/varytec_led_theater_spot_50_bundle.htm"
  },
@@ -35796,7 +35670,7 @@
   "discount": 14,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_ydp_146_r_arius_set.htm",
-  "last_change": "2026-11-18T21:59Z",
+  "last_change": "2026-11-20T00:46Z",
   "max_price": 3890.0,
   "min_price": 3890.0,
   "missing_runs": 0,
@@ -35807,8 +35681,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm"
  },
  "yamaha_ydp_146_wh_arius_set.htm": {

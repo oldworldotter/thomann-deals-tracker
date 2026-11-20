@@ -3,54 +3,48 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-19 22:59 CET · **1809** deals tracked of 1810 advertised · checks every **3 h**
+**Last check:** 2026-11-20 01:46 CET · **1808** deals tracked of 1808 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 2 removed deals · 📈 4 price increases · 🏷️ 1 discount changes · ✅ 3 back in stock · 📦 6 stock changes → [full report](changes/2026-11-19T2159Z.md)
+🆕 1 new deals · ❌ 7 removed deals · ✅ 2 back in stock · 📦 5 stock changes → [full report](changes/2026-11-20T0046Z.md)
 
-### ❌ Removed deals (2)
+### 🆕 New deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Zoom V6 SP](https://www.thomann.pl/zoom_v6_sp.htm) | 879 zł | ‑34% | 1 333 zł | Dostępny w magazynie |  |
-| [Harley Benton Fusion-IV HH MN OTC](https://www.thomann.pl/harley_benton_fusion_iv_hh_mn_otc.htm) | 1 499 zł | ‑21% | 1 899 zł | Dostępny w magazynie |  |
+| [Hercules DJ Control Inpulse 500](https://www.thomann.pl/hercules_dj_control_inpulse_500.htm) | 869 zł | ‑19% | 1 079 zł | Dostępny w magazynie |  |
 
-### 📈 Price increases (4)
+### ❌ Removed deals (7)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 699 zł | **711 zł** | +1.7% |  |  | Dostępny w magazynie |
-| [Yamaha YTR-4335 GII Bb- Trumpet](https://www.thomann.pl/yamaha_ytr_4335_gii.htm) | 3 444 zł | **3 490 zł** | +1.3% |  |  | Dostępny w magazynie |
-| [Yamaha YAS-280 Alto Sax](https://www.thomann.pl/yamaha_yas_280_alto_sax.htm) | 4 333 zł | **4 390 zł** | +1.3% |  |  | Dostępny w magazynie |
-| [Gravity MS TBA 01](https://www.thomann.pl/gravity_ms_tba_01.htm) | 255 zł | **258 zł** | +1.2% |  |  | Dostępny w magazynie |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [One Control Hooker's Green Bass Machine 4K](https://www.thomann.pl/one_control_hookers_green_bass_machine_4k.htm) | 258 zł | ‑57% | 599 zł | Dostępny w magazynie |  |
+| [Hils Next HN4 Summer Sand](https://www.thomann.pl/hils_next_hn4_summer_sand.htm) | 1 599 zł | ‑35% | 2 444 zł | Dostępny w magazynie |  |
+| [Electro Harmonix LPB-3 Boost & EQ](https://www.thomann.pl/electro_harmonix_lpb_3_boost_eq.htm) | 444 zł | ‑33% | 658 zł | Dostępny w magazynie |  |
+| [Fender Rumble 40 V3 Ivory](https://www.thomann.pl/fender_rumble_40_v3_ivory.htm) | 1 499 zł | ‑25% | 1 990 zł | Dostępny w magazynie |  |
+| [Strandberg Boden Original N2.6 Sunset](https://www.thomann.pl/strandberg_boden_original_n26_sunset.htm) | 8 799 zł | ‑22% | 11 333 zł | Dostępny w magazynie |  |
+| [Electro Harmonix Silencer](https://www.thomann.pl/electro_harmonix_silencer.htm) | 289 zł |  |  | Dostępny w magazynie |  |
+| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | 1 299 zł |  |  | Dostępny w magazynie | Deal |
 
-### 🏷️ Discount changes (1)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Slate Digital ML-2A](https://www.thomann.pl/slate_digital_ml_2a.htm) | 1 177 zł | -30% | **none** |
-
-### ✅ Back in stock (3)
+### ✅ Back in stock (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 869 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 069 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 649 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [JBL BandBox TRIO Bag Bundle](https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm) | 2 599 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [LD Systems Maui 28 G3 White](https://www.thomann.pl/ld_systems_maui_28_g3_white.htm) | 5 890 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
 
-### 📦 Stock changes (6)
+### 📦 Stock changes (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Marcus Miller M6 Headless 5 TS](https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm) | 3 055 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Hils Next HN4 Black](https://www.thomann.pl/hils_next_hn4_black.htm) | 1 745 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [JBL BandBox TRIO Bag Bundle](https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm) | 2 599 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Hils Next HN3 Met. Emerald Green](https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton EX-84 Modern BK](https://www.thomann.pl/harley_benton_het_550_bk.htm) | 1 177 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Blues Guitar Set 2](https://www.thomann.pl/harley_benton_blues_guitar_set_2.htm) | 369 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [PUR PTC-01 Travel Compact Cajon](https://www.thomann.pl/pur_ptc_01_travel_compact_cajon.htm) | 257 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha YDP-146 R Arius Set](https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm) | 3 890 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Sequential Fourm](https://www.thomann.pl/sequential_fourm.htm) | 2 890 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Expert Sleepers Disting NT](https://www.thomann.pl/expert_sleepers_disting_nt.htm) | 2 399 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Heritage Musical Spoon Medium Blue](https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm) | 126 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

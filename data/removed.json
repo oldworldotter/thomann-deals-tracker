@@ -63,6 +63,14 @@
   "price": 1699.0,
   "removed_at": "2026-11-19T03:59Z"
  },
+ "electro_harmonix_lpb_3_boost_eq.htm": {
+  "price": 444.0,
+  "removed_at": "2026-11-20T00:46Z"
+ },
+ "electro_harmonix_silencer.htm": {
+  "price": 289.0,
+  "removed_at": "2026-11-20T00:46Z"
+ },
  "electro_harmonix_triangle_big_muff_fuzz.htm": {
   "price": 308.0,
   "removed_at": "2026-11-18T18:17Z"
@@ -90,6 +98,10 @@
  "eurolite_led_z_20.htm": {
   "price": 172.0,
   "removed_at": "2026-11-17T18:59Z"
+ },
+ "fender_rumble_40_v3_ivory.htm": {
+  "price": 1499.0,
+  "removed_at": "2026-11-20T00:46Z"
  },
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
@@ -138,6 +150,10 @@
  "hils_next_hn3_metallic_coral_orange.htm": {
   "price": 1444.0,
   "removed_at": "2026-11-17T15:59Z"
+ },
+ "hils_next_hn4_summer_sand.htm": {
+  "price": 1599.0,
+  "removed_at": "2026-11-20T00:46Z"
  },
  "hils_next_hn5_met._emerald_green.htm": {
   "price": 1599.0,
@@ -195,6 +211,10 @@
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "mackie_thump_215.htm": {
+  "price": 1299.0,
+  "removed_at": "2026-11-20T00:46Z"
+ },
  "marcus_miller_u7_4_sgm.htm": {
   "price": 1739.0,
   "removed_at": "2026-11-19T16:00Z"
@@ -246,6 +266,10 @@
  "one_control_honey_bee_od_overdrive_624367.htm": {
   "price": 433.0,
   "removed_at": "2026-11-16T22:05Z"
+ },
+ "one_control_hookers_green_bass_machine_4k.htm": {
+  "price": 258.0,
+  "removed_at": "2026-11-20T00:46Z"
  },
  "one_control_pale_blue_compressor_eq.htm": {
   "price": 433.0,
@@ -330,6 +354,10 @@
  "strandberg_boden_bass_standard_4_na.htm": {
   "price": 7290.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "strandberg_boden_original_n26_sunset.htm": {
+  "price": 8799.0,
+  "removed_at": "2026-11-20T00:46Z"
  },
  "strandberg_boden_original_n26t_bk_denim.htm": {
   "price": 7499.0,
