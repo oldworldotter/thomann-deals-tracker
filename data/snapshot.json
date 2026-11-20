@@ -780,18 +780,18 @@
   "url": "https://www.thomann.pl/akai_professional_mpk_mini_iv_gray.htm"
  },
  "akai_professional_mpk_mini_plus.htm": {
-  "badge": "",
-  "discount": 10,
+  "badge": "Deal",
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "akai_professional_mpk_mini_plus.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 519.0,
-  "min_price": 519.0,
+  "min_price": 498.0,
   "missing_runs": 0,
   "name": "AKAI Professional MPK mini Plus",
-  "price": 519.0,
-  "ref_price": 579.0,
-  "reported_price": 519.0,
+  "price": 498.0,
+  "ref_price": null,
+  "reported_price": 498.0,
   "sections": [
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
@@ -1592,7 +1592,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 3899.0,
   "min_price": 3899.0,
   "missing_runs": 0,
@@ -1603,8 +1603,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 3–4 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm"
  },
  "ape_labs_lightcan_v2_tp_12_sb_c.htm": {
@@ -2206,6 +2206,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/avantone_mixcubes_active_black_single.htm"
+ },
+ "avantone_mixcubes_active_white.htm": {
+  "badge": "",
+  "discount": 38,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "avantone_mixcubes_active_white.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 1490.0,
+  "min_price": 1490.0,
+  "missing_runs": 0,
+  "name": "Avantone MixCubes Active White",
+  "price": 1490.0,
+  "ref_price": 2390.0,
+  "reported_price": 1490.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/avantone_mixcubes_active_white.htm"
  },
  "avid_pro_tools_carbon_pre.htm": {
   "badge": "",
@@ -4512,7 +4532,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xpnd_1_pedalboard_bundle.htm"
  },
@@ -4561,7 +4581,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xsapb1253_3p.htm",
-  "last_change": "2026-11-17T01:00Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 198.0,
   "min_price": 198.0,
   "missing_runs": 0,
@@ -4572,8 +4592,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/daddario_xsapb1253_3p.htm"
  },
  "daddario_xsapb1356_3p.htm": {
@@ -4641,7 +4661,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xse1052_3p.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 148.0,
   "min_price": 148.0,
   "missing_runs": 0,
@@ -4652,8 +4672,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/daddario_xse1052_3p.htm"
  },
  "daddario_xse1149_3p.htm": {
@@ -5777,27 +5797,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/elation_limelight_par_l.htm"
  },
- "elation_sdc_6_faderdesk_v2_black.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "elation_sdc_6_faderdesk_v2_black.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-20T10:00Z",
-  "max_price": 149.0,
-  "min_price": 149.0,
-  "missing_runs": 1,
-  "name": "Elation SDC-6 Faderdesk V2 black",
-  "price": 149.0,
-  "ref_price": null,
-  "reported_price": 149.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/elation_sdc_6_faderdesk_v2_black.htm"
- },
  "electro_harmonix_bender_royale_fuzz_black.htm": {
   "badge": "",
   "discount": null,
@@ -5977,6 +5976,46 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm"
+ },
+ "electro_harmonix_silencer.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "electro_harmonix_silencer.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 289.0,
+  "min_price": 289.0,
+  "missing_runs": 0,
+  "name": "Electro Harmonix Silencer",
+  "price": 289.0,
+  "ref_price": null,
+  "reported_price": 289.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/electro_harmonix_silencer.htm"
+ },
+ "electro_harmonix_triangle_big_muff_fuzz.htm": {
+  "badge": "",
+  "discount": 21,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "electro_harmonix_triangle_big_muff_fuzz.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 308.0,
+  "min_price": 308.0,
+  "missing_runs": 0,
+  "name": "Electro Harmonix Triangle Big Muff Fuzz",
+  "price": 308.0,
+  "ref_price": 392.0,
+  "reported_price": 308.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/electro_harmonix_triangle_big_muff_fuzz.htm"
  },
  "electro_harmonix_voice_box.htm": {
   "badge": "",
@@ -6658,6 +6697,47 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esi_maya_22_usb.htm"
  },
+ "esp_e_ii_m_ii_hst_p_msfmg.htm": {
+  "badge": "",
+  "discount": 34,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "esp_e_ii_m_ii_hst_p_msfmg.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 10490.0,
+  "min_price": 10490.0,
+  "missing_runs": 0,
+  "name": "ESP E-II M-II HST P MSFMG",
+  "price": 10490.0,
+  "ref_price": 15890.0,
+  "reported_price": 10490.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/esp_e_ii_m_ii_hst_p_msfmg.htm"
+ },
+ "esp_ec_1000_piezo_qm_stb.htm": {
+  "badge": "",
+  "discount": 44,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "esp_ec_1000_piezo_qm_stb.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 4444.0,
+  "min_price": 4444.0,
+  "missing_runs": 0,
+  "name": "ESP LTD EC-1000 Piezo QM STBLK",
+  "price": 4444.0,
+  "ref_price": 7899.0,
+  "reported_price": 4444.0,
+  "sections": [
+   "Przegląd wszystkich ofert",
+   "Wyróżnione okazje"
+  ],
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/esp_ec_1000_piezo_qm_stb.htm"
+ },
  "esp_eclipse_custom_db_black_satin.htm": {
   "badge": "",
   "discount": 28,
@@ -6677,6 +6757,26 @@
   "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/esp_eclipse_custom_db_black_satin.htm"
+ },
+ "esp_eclipse_custom_tiger_eye_sb.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "esp_eclipse_custom_tiger_eye_sb.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 26290.0,
+  "min_price": 26290.0,
+  "missing_runs": 0,
+  "name": "ESP Eclipse Custom Tiger Eye SB",
+  "price": 26290.0,
+  "ref_price": null,
+  "reported_price": 26290.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/esp_eclipse_custom_tiger_eye_sb.htm"
  },
  "esp_ltd_arrow_1000_cars_fluence.htm": {
   "badge": "",
@@ -6994,7 +7094,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_sn_201_ht_bk.htm"
  },
@@ -11385,7 +11485,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hss_roasted_fbb.htm",
-  "last_change": "2026-11-20T06:59Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 1439.0,
   "min_price": 1439.0,
   "missing_runs": 0,
@@ -11396,8 +11496,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_w_safe.htm": {
@@ -11405,7 +11505,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hss_roasted_w_safe.htm",
-  "last_change": "2026-11-20T06:59Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 1655.0,
   "min_price": 1649.0,
   "missing_runs": 0,
@@ -11416,8 +11516,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm"
  },
  "harley_benton_fxl8_pro.htm": {
@@ -11745,7 +11845,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_het_550_bk.htm",
-  "last_change": "2026-11-19T21:59Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 1177.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11756,8 +11856,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_het_550_bk.htm"
  },
  "harley_benton_hj_45e_sbk.htm": {
@@ -12245,7 +12345,7 @@
   "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400_gt_w_soran_dual_lite.htm",
-  "last_change": "2026-11-19T21:59Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 869.0,
   "min_price": 869.0,
   "missing_runs": 0,
@@ -12256,8 +12356,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm"
  },
  "harley_benton_sc_400gt_w_marshall_mg15g.htm": {
@@ -12285,7 +12385,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_500_bk_w_soran_dual_stomp.htm",
-  "last_change": "2026-11-20T13:00Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 999.0,
   "min_price": 999.0,
   "missing_runs": 0,
@@ -12296,8 +12396,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm"
  },
  "harley_benton_sc_500bk_w_marshall_mg15gfx.htm": {
@@ -12305,7 +12405,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_500bk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-20T13:00Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 1390.0,
   "min_price": 1390.0,
   "missing_runs": 0,
@@ -12316,8 +12416,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_sc_custom_iii_baritone_ab.htm": {
@@ -13445,7 +13545,7 @@
   "discount": 28,
   "first_seen": "2026-11-18T18:17Z",
   "id": "hils_next_hn3_met._emerald_green.htm",
-  "last_change": "2026-11-19T21:59Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
   "missing_runs": 0,
@@ -13456,8 +13556,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm"
  },
  "hils_next_hn4_black.htm": {
@@ -16167,9 +16267,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ukadelic_soprano_uku_bl.htm",
   "last_change": "2026-11-17T18:59Z",
+  "last_seen": "2026-11-20T13:00Z",
   "max_price": 87.0,
   "min_price": 87.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Kala Ukadelic Soprano Uku BL",
   "price": 87.0,
   "ref_price": 211.0,
@@ -18726,7 +18827,7 @@
   "discount": 10,
   "first_seen": "2026-11-18T15:59Z",
   "id": "marcus_miller_gb5_4_black.htm",
-  "last_change": "2026-11-19T12:59Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 1744.0,
   "min_price": 1744.0,
   "missing_runs": 0,
@@ -18737,8 +18838,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/marcus_miller_gb5_4_black.htm"
  },
  "marcus_miller_gb5_4_black_lh.htm": {
@@ -22347,6 +22448,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_silver_bee_od_overdrive.htm"
  },
+ "one_control_super_apricot_od_overdrive_624366.htm": {
+  "badge": "",
+  "discount": 61,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "one_control_super_apricot_od_overdrive_624366.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 214.0,
+  "min_price": 214.0,
+  "missing_runs": 0,
+  "name": "One Control Super Apricot OD - Overdrive",
+  "price": 214.0,
+  "ref_price": 555.0,
+  "reported_price": 214.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm"
+ },
  "oneodio_fusion_a70_black.htm": {
   "badge": "",
   "discount": 18,
@@ -23447,6 +23568,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/prs_se_ed_sheeran_cosmic_splash.htm"
+ },
+ "prs_se_studio_charcoal_cb_2025.htm": {
+  "badge": "GIVEAWAY",
+  "discount": 50,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "prs_se_studio_charcoal_cb_2025.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 2599.0,
+  "min_price": 2599.0,
+  "missing_runs": 0,
+  "name": "PRS SE Studio Charcoal CB 2025",
+  "price": 2599.0,
+  "ref_price": 5199.0,
+  "reported_price": 2599.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/prs_se_studio_charcoal_cb_2025.htm"
  },
  "prs_studio_mango_ltd_cobalt_sb.htm": {
   "badge": "",
@@ -25151,6 +25292,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sennheiser_hd_660s2.htm"
+ },
+ "sennheiser_ie_100_pro_black.htm": {
+  "badge": "",
+  "discount": 22,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "sennheiser_ie_100_pro_black.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 299.0,
+  "min_price": 299.0,
+  "missing_runs": 0,
+  "name": "Sennheiser IE 100 Pro Black",
+  "price": 299.0,
+  "ref_price": 385.0,
+  "reported_price": 299.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/sennheiser_ie_100_pro_black.htm"
  },
  "sennheiser_ie_100_pro_clear.htm": {
   "badge": "GIVEAWAY",
@@ -28136,6 +28297,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/stairville_sonicpulse_battery_bar_05.htm"
+ },
+ "stairville_stage_flood_inst_qcl_48_bundle_set.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-20T16:00Z",
+  "id": "stairville_stage_flood_inst_qcl_48_bundle_set.htm",
+  "last_change": "2026-11-20T16:00Z",
+  "max_price": 3399.0,
+  "min_price": 3399.0,
+  "missing_runs": 0,
+  "name": "Stairville Stage Flood Inst QCL 48 Bundle",
+  "price": 3399.0,
+  "ref_price": null,
+  "reported_price": 3399.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/stairville_stage_flood_inst_qcl_48_bundle_set.htm"
  },
  "stairville_stage_flood_inst_qcl_48x10w.htm": {
   "badge": "",
@@ -31184,9 +31365,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_dp_32_b.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-20T13:00Z",
   "max_price": 2090.0,
   "min_price": 2090.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Thomann DP-32 B",
   "price": 2090.0,
   "ref_price": null,
@@ -33705,7 +33887,7 @@
   "discount": 11,
   "first_seen": "2026-11-16T10:55Z",
   "id": "varytec_led_theater_spot_100_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-20T16:00Z",
   "max_price": 3399.0,
   "min_price": 3399.0,
   "missing_runs": 0,
@@ -33716,8 +33898,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/varytec_led_theater_spot_100_bundle.htm"
  },
  "varytec_led_theater_spot_120_fc.htm": {
@@ -34186,9 +34368,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "warm_audio_centavo_overdrive.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-20T13:00Z",
   "max_price": 599.0,
   "min_price": 599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Warm Audio Centavo Overdrive",
   "price": 599.0,
   "ref_price": 729.0,
