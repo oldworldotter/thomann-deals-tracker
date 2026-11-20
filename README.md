@@ -3,48 +3,35 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-20 01:46 CET · **1808** deals tracked of 1808 advertised · checks every **3 h**
+**Last check:** 2026-11-20 04:59 CET · **1811** deals tracked of 1811 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 1 new deals · ❌ 7 removed deals · ✅ 2 back in stock · 📦 5 stock changes → [full report](changes/2026-11-20T0046Z.md)
+🆕 4 new deals · 🔁 1 returned deals · ❌ 2 removed deals → [full report](changes/2026-11-20T0359Z.md)
 
-### 🆕 New deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Hercules DJ Control Inpulse 500](https://www.thomann.pl/hercules_dj_control_inpulse_500.htm) | 869 zł | ‑19% | 1 079 zł | Dostępny w magazynie |  |
-
-### ❌ Removed deals (7)
+### 🆕 New deals (4)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [One Control Hooker's Green Bass Machine 4K](https://www.thomann.pl/one_control_hookers_green_bass_machine_4k.htm) | 258 zł | ‑57% | 599 zł | Dostępny w magazynie |  |
-| [Hils Next HN4 Summer Sand](https://www.thomann.pl/hils_next_hn4_summer_sand.htm) | 1 599 zł | ‑35% | 2 444 zł | Dostępny w magazynie |  |
-| [Electro Harmonix LPB-3 Boost & EQ](https://www.thomann.pl/electro_harmonix_lpb_3_boost_eq.htm) | 444 zł | ‑33% | 658 zł | Dostępny w magazynie |  |
-| [Fender Rumble 40 V3 Ivory](https://www.thomann.pl/fender_rumble_40_v3_ivory.htm) | 1 499 zł | ‑25% | 1 990 zł | Dostępny w magazynie |  |
-| [Strandberg Boden Original N2.6 Sunset](https://www.thomann.pl/strandberg_boden_original_n26_sunset.htm) | 8 799 zł | ‑22% | 11 333 zł | Dostępny w magazynie |  |
-| [Electro Harmonix Silencer](https://www.thomann.pl/electro_harmonix_silencer.htm) | 289 zł |  |  | Dostępny w magazynie |  |
-| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | 1 299 zł |  |  | Dostępny w magazynie | Deal |
+| [One Control Silver Bee OD - Overdrive](https://www.thomann.pl/one_control_silver_bee_od_overdrive.htm) | 389 zł | ‑61% | 990 zł | Dostępny w magazynie |  |
+| [Takamine GN93CE-NAT](https://www.thomann.pl/takamine_gn93ce_nat_2.htm) | 2 399 zł | ‑14% | 2 799 zł | Dostępny w magazynie |  |
+| [ESP LTD MT-I Mick Thomson BLKS](https://www.thomann.pl/esp_ltd_mt_i_mick_thomson_blks.htm) | 7 222 zł | ‑10% | 7 999 zł | Dostępny w magazynie |  |
+| [Arturia KeyLab MkII 49 White](https://www.thomann.pl/arturia_keylab_mkii_49_white.htm) | 879 zł | ‑8% | 959 zł | Dostępny w magazynie |  |
 
-### ✅ Back in stock (2)
+### 🔁 Returned deals (1)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [JBL BandBox TRIO Bag Bundle](https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm) | 2 599 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
-| [LD Systems Maui 28 G3 White](https://www.thomann.pl/ld_systems_maui_28_g3_white.htm) | 5 890 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Breedlove Pursuit EX S Concert TE LH CE](https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm) | **1 299 zł** | 1 299 zł | ‑24% | 1 699 zł | Dostępny w magazynie | 2026‑11‑19 17:00 |
 
-### 📦 Stock changes (5)
+### ❌ Removed deals (2)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [PUR PTC-01 Travel Compact Cajon](https://www.thomann.pl/pur_ptc_01_travel_compact_cajon.htm) | 257 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha YDP-146 R Arius Set](https://www.thomann.pl/yamaha_ydp_146_r_arius_set.htm) | 3 890 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Sequential Fourm](https://www.thomann.pl/sequential_fourm.htm) | 2 890 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Expert Sleepers Disting NT](https://www.thomann.pl/expert_sleepers_disting_nt.htm) | 2 399 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Heritage Musical Spoon Medium Blue](https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm) | 126 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Cort G250 LH BK](https://www.thomann.pl/cort_g250_lh_bk.htm) | 969 zł | ‑41% | 1 639 zł | Dostępny w magazynie |  |
+| [Millenium Metal Shaker Silver](https://www.thomann.pl/millenium_metal_shaker_silver.htm) | 27 zł | ‑39% | 44 zł | Dostępny w magazynie |  |
 
 <!-- DASHBOARD:END -->
 

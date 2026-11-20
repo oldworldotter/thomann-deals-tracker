@@ -27,10 +27,6 @@
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
  },
- "breedlove_pursuit_ex_s_concert_te_lh_ce.htm": {
-  "price": 1299.0,
-  "removed_at": "2026-11-19T16:00Z"
- },
  "bulldog_phoenix_zebrano.htm": {
   "price": 299.0,
   "removed_at": "2026-11-17T09:59Z"
@@ -42,6 +38,10 @@
  "cort_cm15_r_dark_blue.htm": {
   "price": 299.0,
   "removed_at": "2026-11-17T12:59Z"
+ },
+ "cort_g250_lh_bk.htm": {
+  "price": 969.0,
+  "removed_at": "2026-11-20T03:59Z"
  },
  "cort_mr500e_open_pore_brown.htm": {
   "price": 869.0,
@@ -234,6 +234,10 @@
  "millenium_focus_junior_drum_set_black.htm": {
   "price": 699.0,
   "removed_at": "2026-11-18T18:17Z"
+ },
+ "millenium_metal_shaker_silver.htm": {
+  "price": 27.0,
+  "removed_at": "2026-11-20T03:59Z"
  },
  "mooer_gtrs_guitars_standard_801_sp.htm": {
   "price": 899.0,

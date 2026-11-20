@@ -1807,6 +1807,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/arturia_keylab_61_mk3_ultra.htm"
  },
+ "arturia_keylab_mkii_49_white.htm": {
+  "badge": "",
+  "discount": 8,
+  "first_seen": "2026-11-20T03:59Z",
+  "id": "arturia_keylab_mkii_49_white.htm",
+  "last_change": "2026-11-20T03:59Z",
+  "max_price": 879.0,
+  "min_price": 879.0,
+  "missing_runs": 0,
+  "name": "Arturia KeyLab MkII 49 White",
+  "price": 879.0,
+  "ref_price": 959.0,
+  "reported_price": 879.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/arturia_keylab_mkii_49_white.htm"
+ },
  "arturia_pigments_download.htm": {
   "badge": "",
   "discount": null,
@@ -3635,6 +3655,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/breedlove_pursuit_ex_s_companion_te_ce.htm"
  },
+ "breedlove_pursuit_ex_s_concert_te_lh_ce.htm": {
+  "badge": "",
+  "discount": 24,
+  "first_seen": "2026-11-20T03:59Z",
+  "id": "breedlove_pursuit_ex_s_concert_te_lh_ce.htm",
+  "last_change": "2026-11-20T03:59Z",
+  "max_price": 1299.0,
+  "min_price": 1299.0,
+  "missing_runs": 0,
+  "name": "Breedlove Pursuit EX S Concert TE LH CE",
+  "price": 1299.0,
+  "ref_price": 1699.0,
+  "reported_price": 1299.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm"
+ },
  "breedlove_rainforest_s_concert_bg_lh_ce.htm": {
   "badge": "",
   "discount": null,
@@ -4336,27 +4376,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/clarke_tinwhistle_original_d_gold.htm"
  },
- "cort_g250_lh_bk.htm": {
-  "badge": "",
-  "discount": 41,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "cort_g250_lh_bk.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T21:59Z",
-  "max_price": 969.0,
-  "min_price": 969.0,
-  "missing_runs": 1,
-  "name": "Cort G250 LH BK",
-  "price": 969.0,
-  "ref_price": 1639.0,
-  "reported_price": 969.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/cort_g250_lh_bk.htm"
- },
  "cort_mbm_2_meta_dry_satin_black_lh.htm": {
   "badge": "",
   "discount": null,
@@ -4643,9 +4662,10 @@
   "first_seen": "2026-11-19T03:59Z",
   "id": "dangelico_excel_exl1_dark_iced_tea.htm",
   "last_change": "2026-11-19T03:59Z",
+  "last_seen": "2026-11-20T00:46Z",
   "max_price": 3699.0,
   "min_price": 3699.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "DAngelico Excel EXL1 Dark Iced Tea",
   "price": 3699.0,
   "ref_price": 6799.0,
@@ -6798,15 +6818,36 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_ltd_mh_1000_evertune_charcoal.htm"
  },
+ "esp_ltd_mt_i_mick_thomson_blks.htm": {
+  "badge": "",
+  "discount": 10,
+  "first_seen": "2026-11-20T03:59Z",
+  "id": "esp_ltd_mt_i_mick_thomson_blks.htm",
+  "last_change": "2026-11-20T03:59Z",
+  "max_price": 7222.0,
+  "min_price": 7222.0,
+  "missing_runs": 0,
+  "name": "ESP LTD MT-I Mick Thomson BLKS",
+  "price": 7222.0,
+  "ref_price": 7999.0,
+  "reported_price": 7222.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/esp_ltd_mt_i_mick_thomson_blks.htm"
+ },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "badge": "",
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "esp_ltd_mt_i_mick_thomson_sig.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-20T00:46Z",
   "max_price": 7222.0,
   "min_price": 7222.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "ESP LTD MT-I Mick Thomson BLKS",
   "price": 7222.0,
   "ref_price": 7999.0,
@@ -19884,27 +19925,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/millenium_md_100_mobile_drum.htm"
  },
- "millenium_metal_shaker_silver.htm": {
-  "badge": "",
-  "discount": 39,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "millenium_metal_shaker_silver.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-19T21:59Z",
-  "max_price": 27.0,
-  "min_price": 27.0,
-  "missing_runs": 1,
-  "name": "Millenium Metal Shaker Silver",
-  "price": 27.0,
-  "ref_price": 44.0,
-  "reported_price": 27.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/millenium_metal_shaker_silver.htm"
- },
  "millenium_mps_1000_e_drum_set.htm": {
   "badge": "",
   "discount": 9,
@@ -22368,6 +22388,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_raspberry_booster_overdrive.htm"
+ },
+ "one_control_silver_bee_od_overdrive.htm": {
+  "badge": "",
+  "discount": 61,
+  "first_seen": "2026-11-20T03:59Z",
+  "id": "one_control_silver_bee_od_overdrive.htm",
+  "last_change": "2026-11-20T03:59Z",
+  "max_price": 389.0,
+  "min_price": 389.0,
+  "missing_runs": 0,
+  "name": "One Control Silver Bee OD - Overdrive",
+  "price": 389.0,
+  "ref_price": 990.0,
+  "reported_price": 389.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/one_control_silver_bee_od_overdrive.htm"
  },
  "oneodio_fusion_a70_black.htm": {
   "badge": "",
@@ -29859,6 +29899,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/takamine_gn75cewr.htm"
+ },
+ "takamine_gn93ce_nat_2.htm": {
+  "badge": "",
+  "discount": 14,
+  "first_seen": "2026-11-20T03:59Z",
+  "id": "takamine_gn93ce_nat_2.htm",
+  "last_change": "2026-11-20T03:59Z",
+  "max_price": 2399.0,
+  "min_price": 2399.0,
+  "missing_runs": 0,
+  "name": "Takamine GN93CE-NAT",
+  "price": 2399.0,
+  "ref_price": 2799.0,
+  "reported_price": 2399.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/takamine_gn93ce_nat_2.htm"
  },
  "tannoy_gold_7.htm": {
   "badge": "GIVEAWAY",
