@@ -1,7 +1,7 @@
 # All current deals
 
 Source: https://www.thomann.pl/special_cyber-deals.html  
-Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
+Last check: **2026-11-20 07:59 CET** · **1811** deals · sorted by `newest`
 
 | # | Product | Price | Discount | 30-day best | Lowest seen | Stock | Badge | First seen |
 |--:|---|--:|--:|--:|--:|---|---|---|
@@ -128,7 +128,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 121 | [Millenium DI-33](https://www.thomann.pl/millenium_di33.htm) | 111 zł | ‑17% | 133 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
 | 122 | [Joyo R-29 Gloam Sub Octave/Fuzz](https://www.thomann.pl/joyo_r_29_gloam_sub_octave_fuzz.htm) | 284 zł | ‑17% | 342 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
 | 123 | [Marcus Miller V3 4 New Gen Tobacco Sunburst](https://www.thomann.pl/marcus_miller_v3_4_new_gen_tobacco_sunburst.htm) | 1 655 zł | ‑17% | 1 990 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
-| 124 | [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 744 zł | ‑17% | 2 111 zł |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑18 19:17 |
+| 124 | [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 744 zł | ‑17% | 2 111 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
 | 125 | [Solar Guitars T1.6DBOP+](https://www.thomann.pl/solar_guitars_t1.6dbop.htm) | 5 090 zł | ‑17% | 6 099 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
 | 126 | [Efnote 3X E-Drum Set](https://www.thomann.pl/efnote_3x_e_drum_set.htm) | 9 699 zł | ‑17% | 11 690 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
 | 127 | [Fender 64 J-Bass SG Journeyman Relic](https://www.thomann.pl/fender_64_j_bass_sg_journeyman_relic.htm) | 17 890 zł | ‑17% | 21 590 zł |  | Dostępny w magazynie |  | 2026‑11‑18 19:17 |
@@ -633,7 +633,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 626 | [Ableton Live 12 Standard](https://www.thomann.pl/ableton_live_12_standard.htm) | 969 zł | ‑19% | 1 199 zł |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
 | 627 | [Black Swamp Percussion S3TD Tambourine](https://www.thomann.pl/black_swamp_percussion_s3td_tambourine.htm) | 1 045 zł | ‑19% | 1 290 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 628 | [Focusrite Scarlett 16i16 4th Gen](https://www.thomann.pl/focusrite_scarlett_16i6_4th_gen.htm) | 1 175 zł | ‑19% | 1 444 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 629 | [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 777 zł | ‑19% | 2 199 zł |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
+| 629 | [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 777 zł | ‑19% | 2 199 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 630 | [LAB Gruppen PD3000](https://www.thomann.pl/lab_gruppen_pd3000.htm) | 1 899 zł | ‑19% | 2 333 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 631 | [Alesis Strike MultiPad](https://www.thomann.pl/alesis_strike_multipad.htm) | 1 990 zł | ‑19% | 2 444 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 632 | [Ableton Live 12 Suite](https://www.thomann.pl/ableton_live_12_suite.htm) | 2 090 zł | ‑19% | 2 590 zł |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
@@ -789,7 +789,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 782 | [Harley Benton PowerPlant ISO-2 Pro](https://www.thomann.pl/harley_benton_powerplant_iso_2_pro.htm) | 258 zł | ‑14% | 299 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 783 | [Varytec Mirror Ball 30 + Case Bundle](https://www.thomann.pl/varytec_mirror_ball_30_case_bundle.htm) | 333 zł | ‑14% | 385 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 784 | [AKAI Professional APC Key 25 MK2](https://www.thomann.pl/akai_professional_apc_key_25_mk2.htm) | 333 zł | ‑14% | 385 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 785 | [Harley Benton Blues Guitar Set 2](https://www.thomann.pl/harley_benton_blues_guitar_set_2.htm) | 369 zł | ‑14% | 429 zł |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
+| 785 | [Harley Benton Blues Guitar Set 2](https://www.thomann.pl/harley_benton_blues_guitar_set_2.htm) | 369 zł | ‑14% | 429 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 786 | [Nux Mighty 8BT MKII](https://www.thomann.pl/nux_mighty_8bt_mkii.htm) | 499 zł | ‑14% | 579 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 787 | [M-Audio Oxygen 49 MK5](https://www.thomann.pl/m_audio_oxygen_49_mk5.htm) | 525 zł | ‑14% | 609 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 788 | [Thon Accessory Case 60x40x40 BR](https://www.thomann.pl/thon_zubehoercase_60x40x40.htm) | 529 zł | ‑14% | 615 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -911,7 +911,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 904 | [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 869 zł | ‑12% | 990 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 905 | [Harley Benton S-620 w/Soran Dual Lite](https://www.thomann.pl/harley_benton_s_620_w_soran_dual_lite.htm) | 1 045 zł | ‑12% | 1 190 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 906 | [ADAM Audio D3V Black](https://www.thomann.pl/adam_audio_d3v_black.htm) | 1 129 zł | ‑12% | 1 290 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 907 | [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | ‑12% | 1 469 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 907 | [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | ‑12% | 1 469 zł |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 908 | [Varytec LED Theater Spot 120 FC](https://www.thomann.pl/varytec_led_theater_spot_120_fc.htm) | 1 444 zł | ‑12% | 1 639 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 909 | [Harley Benton G212Plus LTD V30UK](https://www.thomann.pl/harley_benton_g212plus_ltd_v30uk.htm) | 1 499 zł | ‑12% | 1 699 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 910 | [Harley Benton G212VPlus Vertical LTD V30UK](https://www.thomann.pl/harley_benton_g212vplus_vertical_ltd_v30uk.htm) | 1 499 zł | ‑12% | 1 699 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -1463,7 +1463,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 1456 | [Harley Benton EX-84 Modern BK](https://www.thomann.pl/harley_benton_het_550_bk.htm) | 1 177 zł |  |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1457 | [Slate Digital ML-2A](https://www.thomann.pl/slate_digital_ml_2a.htm) | 1 177 zł |  |  | 1 169 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1458 | [Harley Benton Custom Line King-12 CE NT](https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm) | 1 177 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 1459 | [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 177 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 1459 | [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 177 zł |  |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1460 | [Magic FX DJ Shotgun Mess Bundle](https://www.thomann.pl/magic_fx_dj_shotgun_mess_bundle.htm) | 1 199 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1461 | [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 199 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1462 | [Serato Pitch' N Time LE](https://www.thomann.pl/serato_pitch_n_time_le.htm) | 1 199 zł |  |  |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
@@ -1485,7 +1485,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 1478 | [Focal Alpha 65 Evo](https://www.thomann.pl/focal_alpha_65_evo.htm) | 1 399 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
 | 1479 | [Marshall DSL5CR](https://www.thomann.pl/marshall_dsl5cr.htm) | 1 438 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1480 | [Headrush FRFR-8 Cab](https://www.thomann.pl/headrush_frfr_8_cab.htm) | 1 438 zł |  |  | 1 435 zł | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
-| 1481 | [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 1481 | [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 439 zł |  |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1482 | [the box pro Achat 112 Sub A](https://www.thomann.pl/the_box_pro_achat_112_suba.htm) | 1 444 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1483 | [Stairville RevueLED 150 Profile 3200K 26°](https://www.thomann.pl/stairville_revueled_150_profile_3200k.htm) | 1 469 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1484 | [Epiphone SG Tribute Plus CB](https://www.thomann.pl/epiphone_sg_tribute_plus_cb.htm) | 1 469 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -1502,7 +1502,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 1495 | [ESP LTD TL-7 Black](https://www.thomann.pl/esp_ltd_tl_7_black.htm) | 1 648 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1496 | [Thon Cable Case 98x40x48 Flex BK](https://www.thomann.pl/thon_cable_case_98x40x48_flex_bk.htm) | 1 648 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1497 | [Reloop Mixtour Pro Bag Set](https://www.thomann.pl/reloop_mixtour_pro_laidback_luke_set.htm) | 1 649 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 1498 | [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł |  |  | 1 649 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 1498 | [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł |  |  | 1 649 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1499 | [Shure BLX24/SM58 S8](https://www.thomann.pl/shure_blx24sm58_s8.htm) | 1 655 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
 | 1500 | [InEar StageDiver SD-2 Clean Bundle](https://www.thomann.pl/inear_stagediver_sd_2_clean_bundle.htm) | 1 658 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1501 | [AKAI Professional MPC Sample Bag Bundle](https://www.thomann.pl/akai_professional_mpc_sample_bag_bundle.htm) | 1 658 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -1706,7 +1706,7 @@ Last check: **2026-11-20 04:59 CET** · **1811** deals · sorted by `newest`
 | 1699 | [Yamaha TAS3 C Natural](https://www.thomann.pl/yamaha_tas3_c_natural.htm) | 5 799 zł |  |  |  | Dostępny za 2–3 tygodnie |  | 2026‑11‑16 11:55 |
 | 1700 | [dB Technologies es1203](https://www.thomann.pl/db_technologies_es1203.htm) | 5 799 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1701 | [Yamaha PSR-SX720+ Bench Bundle](https://www.thomann.pl/yamaha_psr_sx720_bench_bundle.htm) | 5 799 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 1702 | [LD Systems Maui 28 G3 White](https://www.thomann.pl/ld_systems_maui_28_g3_white.htm) | 5 890 zł |  |  |  | dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
+| 1702 | [LD Systems Maui 28 G3 White](https://www.thomann.pl/ld_systems_maui_28_g3_white.htm) | 5 890 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
 | 1703 | [BirdDog Maki Live Bk Bundle](https://www.thomann.pl/birddog_maki_live_bk_bundle.htm) | 5 990 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1704 | [Zildjian K Sweet Cymbal Set Thomann Edt](https://www.thomann.pl/zildjian_k_sweet_cymbal_set_thomann_edt.htm) | 6 099 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
 | 1705 | [Neumann KM184 mt Stereo Set](https://www.thomann.pl/neumann_km184mt_stereoset.htm) | 6 499 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |

@@ -4656,27 +4656,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/dan_clark_audio_aeon_2_open_back.htm"
  },
- "dangelico_excel_exl1_dark_iced_tea.htm": {
-  "badge": "",
-  "discount": 46,
-  "first_seen": "2026-11-19T03:59Z",
-  "id": "dangelico_excel_exl1_dark_iced_tea.htm",
-  "last_change": "2026-11-19T03:59Z",
-  "last_seen": "2026-11-20T00:46Z",
-  "max_price": 3699.0,
-  "min_price": 3699.0,
-  "missing_runs": 1,
-  "name": "DAngelico Excel EXL1 Dark Iced Tea",
-  "price": 3699.0,
-  "ref_price": 6799.0,
-  "reported_price": 3699.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea.htm"
- },
  "darkglass_anagram.htm": {
   "badge": "",
   "discount": null,
@@ -6837,27 +6816,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_ltd_mt_i_mick_thomson_blks.htm"
- },
- "esp_ltd_mt_i_mick_thomson_sig.htm": {
-  "badge": "",
-  "discount": 10,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "esp_ltd_mt_i_mick_thomson_sig.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-20T00:46Z",
-  "max_price": 7222.0,
-  "min_price": 7222.0,
-  "missing_runs": 1,
-  "name": "ESP LTD MT-I Mick Thomson BLKS",
-  "price": 7222.0,
-  "ref_price": 7999.0,
-  "reported_price": 7222.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/esp_ltd_mt_i_mick_thomson_sig.htm"
  },
  "esp_ltd_phoenix_qm_tobacco_burst.htm": {
   "badge": "",
@@ -10906,7 +10864,7 @@
   "discount": 14,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_blues_guitar_set_2.htm",
-  "last_change": "2026-11-19T21:59Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 369.0,
   "min_price": 369.0,
   "missing_runs": 0,
@@ -10917,8 +10875,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_blues_guitar_set_2.htm"
  },
  "harley_benton_bm_75_trans_red.htm": {
@@ -10926,7 +10884,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_bm_75_trans_red.htm",
-  "last_change": "2026-11-19T16:00Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 1177.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -10937,8 +10895,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_bm_75_trans_red.htm"
  },
  "harley_benton_cld_60smce_nt_bundle.htm": {
@@ -11406,7 +11364,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hss_roasted_fbb.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 1439.0,
   "min_price": 1439.0,
   "missing_runs": 0,
@@ -11417,8 +11375,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_w_safe.htm": {
@@ -11426,7 +11384,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hss_roasted_w_safe.htm",
-  "last_change": "2026-11-17T21:59Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 1655.0,
   "min_price": 1649.0,
   "missing_runs": 0,
@@ -11437,8 +11395,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm"
  },
  "harley_benton_fxl8_pro.htm": {
@@ -11746,7 +11704,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2005.htm",
-  "last_change": "2026-11-19T09:59Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11757,8 +11715,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbz2005.htm"
  },
  "harley_benton_het_550_bk.htm": {
@@ -17558,7 +17516,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ld_systems_maui_28_g3_white.htm"
  },
@@ -18887,7 +18845,7 @@
   "discount": 17,
   "first_seen": "2026-11-18T18:17Z",
   "id": "marcus_miller_v5_alder_4_cgm.htm",
-  "last_change": "2026-11-19T12:59Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 1744.0,
   "min_price": 1744.0,
   "missing_runs": 0,
@@ -18898,8 +18856,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm"
  },
  "marcus_miller_v6_5_sandblasted_butterscotch.htm": {
@@ -26804,7 +26762,7 @@
   "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "soundboks_rider.htm",
-  "last_change": "2026-11-19T16:00Z",
+  "last_change": "2026-11-20T06:59Z",
   "max_price": 1777.0,
   "min_price": 1777.0,
   "missing_runs": 0,
@@ -26815,8 +26773,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/soundboks_rider.htm"
  },
  "soundcraft_efx12_mkii.htm": {
