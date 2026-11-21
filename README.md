@@ -3,45 +3,47 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-21 01:59 CET · **1807** deals tracked of 1807 advertised · checks every **3 h**
+**Last check:** 2026-11-21 05:00 CET · **1813** deals tracked of 1813 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 3 removed deals · ✅ 2 back in stock · 📦 17 stock changes → [full report](changes/2026-11-21T0059Z.md)
+🆕 1 new deals · 🔁 5 returned deals · ❌ 1 removed deals · ✅ 1 back in stock · 📦 1 stock changes → [full report](changes/2026-11-21T0400Z.md)
 
-### ❌ Removed deals (3)
+### 🆕 New deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | 214 zł | ‑61% | 555 zł | Dostępny w magazynie |  |
-| [Electro Harmonix Percolator Overdrive/Fuzz](https://www.thomann.pl/electro_harmonix_percolator_overdrive_fuzz.htm) | 344 zł | ‑21% | 438 zł | Dostępny w magazynie |  |
-| [ESP LTD TL-7 Black](https://www.thomann.pl/esp_ltd_tl_7_black.htm) | 1 648 zł |  |  | Dostępny w magazynie |  |
+| [Midiplus Tiny+](https://www.thomann.pl/midiplus_tiny.htm) | 145 zł | ‑51% | 298 zł | Dostępny w magazynie |  |
 
-### ✅ Back in stock (2)
+### 🔁 Returned deals (5)
+
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Eurolite LED Z-20](https://www.thomann.pl/eurolite_led_z_20.htm) | **173 zł** | 172 zł | ‑52% | 363 zł | Dostępny w magazynie | 2026‑11‑17 19:59 |
+| [Strandberg Boden Original N2.6 Sunset](https://www.thomann.pl/strandberg_boden_original_n26_sunset.htm) | **8 799 zł** | 8 799 zł | ‑22% | 11 333 zł | Dostępny w magazynie | 2026‑11‑20 01:46 |
+| [Epiphone Wilshire P-90 Ebony](https://www.thomann.pl/epiphone_wilshire_p_90_ebony.htm) | **1 490 zł** | 1 469 zł | ‑21% | 1 890 zł | Dostępny w magazynie | 2026‑11‑17 22:59 |
+| [Takamine GC1CE-Nat](https://www.thomann.pl/takamine_gc1ce_nat.htm) | **1 269 zł** | 1 259 zł |  |  | Dostępny w magazynie | 2026‑11‑16 12:46 |
+| [Thon Mike's Joker Case](https://www.thomann.pl/thon_mikes_joker_case.htm) | **247 zł** | 245 zł |  |  | Dostępny w magazynie | 2026‑11‑19 19:27 |
+
+### ❌ Removed deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Breedlove Pursuit EX S Concert TE LH CE](https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm) | 1 299 zł | ‑24% | 1 699 zł | Dostępny w magazynie |  |
+
+### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (17)
+### 📦 Stock changes (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Markbass CMD JB Players School Combo](https://www.thomann.pl/markbass_cmd_jb_players_school_combo.htm) | 1 750 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Markbass Little Mark 250 Black Line](https://www.thomann.pl/markbass_little_mark_250_black_line.htm) | 977 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Markbass Nano Mark II Head](https://www.thomann.pl/markbass_nano_mark_ii_head.htm) | 1 079 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Ludwig 13"x07" Universal Brass Chrome](https://www.thomann.pl/ludwig_13_x07_universal_brass_chrome.htm) | 1 299 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Schlagwerk CP2SONE SPL Birch Flame](https://www.thomann.pl/schlagwerk_cp2sone_spl_birch_flame.htm) | 738 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Evans G2 Fusion 2 Set clear](https://www.thomann.pl/evans_g2_fusion_2_set_clear.htm) | 229 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha TAS1 C Sand Burst](https://www.thomann.pl/yamaha_tas1_c_sand_burst.htm) | 4 499 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha TAG1 E Sand Burst](https://www.thomann.pl/yamaha_tag1_e_sand_burst.htm) | 2 599 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-
-…and 7 more in the full report.
+| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

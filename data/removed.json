@@ -35,6 +35,10 @@
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "breedlove_pursuit_ex_s_concert_te_lh_ce.htm": {
+  "price": 1299.0,
+  "removed_at": "2026-11-21T04:00Z"
+ },
  "bulldog_phoenix_zebrano.htm": {
   "price": 299.0,
   "removed_at": "2026-11-17T09:59Z"
@@ -99,10 +103,6 @@
   "price": 1699.0,
   "removed_at": "2026-11-17T18:59Z"
  },
- "epiphone_wilshire_p_90_ebony.htm": {
-  "price": 1469.0,
-  "removed_at": "2026-11-17T21:59Z"
- },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "price": 7222.0,
   "removed_at": "2026-11-20T06:59Z"
@@ -110,10 +110,6 @@
  "esp_ltd_tl_7_black.htm": {
   "price": 1648.0,
   "removed_at": "2026-11-21T00:59Z"
- },
- "eurolite_led_z_20.htm": {
-  "price": 172.0,
-  "removed_at": "2026-11-17T18:59Z"
  },
  "eve_audio_sc204.htm": {
   "price": 1045.0,
@@ -407,10 +403,6 @@
   "price": 7290.0,
   "removed_at": "2026-11-18T00:59Z"
  },
- "strandberg_boden_original_n26_sunset.htm": {
-  "price": 8799.0,
-  "removed_at": "2026-11-20T00:46Z"
- },
  "strandberg_boden_original_n26t_bk_denim.htm": {
   "price": 7499.0,
   "removed_at": "2026-11-18T12:59Z"
@@ -418,10 +410,6 @@
  "suzuki_omnichord_om_108.htm": {
   "price": 2999.0,
   "removed_at": "2026-11-17T03:59Z"
- },
- "takamine_gc1ce_nat.htm": {
-  "price": 1259.0,
-  "removed_at": "2026-11-16T11:46Z"
  },
  "thomann_dp_32_b.htm": {
   "price": 2090.0,
@@ -434,10 +422,6 @@
  "thomann_tongue_drum_12_lotus_m.htm": {
   "price": 218.0,
   "removed_at": "2026-11-16T11:46Z"
- },
- "thon_mikes_joker_case.htm": {
-  "price": 245.0,
-  "removed_at": "2026-11-19T18:27Z"
  },
  "tone_city_holy_aura_distortion_boost.htm": {
   "price": 258.0,
