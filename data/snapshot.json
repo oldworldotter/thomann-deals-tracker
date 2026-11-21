@@ -3239,9 +3239,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "boss_katana_100_gen_3.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-21T12:59Z",
   "max_price": 1899.0,
   "min_price": 1899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Boss Katana 100 Gen 3",
   "price": 1899.0,
   "ref_price": null,
@@ -5903,9 +5904,10 @@
   "first_seen": "2026-11-20T16:00Z",
   "id": "electro_harmonix_triangle_big_muff_fuzz.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-21T12:59Z",
   "max_price": 309.0,
   "min_price": 308.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Electro Harmonix Triangle Big Muff Fuzz",
   "price": 309.0,
   "ref_price": null,
@@ -7137,27 +7139,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/eurolite_led_tmh_x4_tour_pack_4in1.htm"
- },
- "eurolite_led_z_20.htm": {
-  "badge": "",
-  "discount": 52,
-  "first_seen": "2026-11-21T04:00Z",
-  "id": "eurolite_led_z_20.htm",
-  "last_change": "2026-11-21T04:00Z",
-  "last_seen": "2026-11-21T09:59Z",
-  "max_price": 173.0,
-  "min_price": 173.0,
-  "missing_runs": 1,
-  "name": "Eurolite LED Z-20",
-  "price": 173.0,
-  "ref_price": 363.0,
-  "reported_price": 173.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/eurolite_led_z_20.htm"
  },
  "ev_ekx_15p_18sp_power_bundle.htm": {
   "badge": "GIVEAWAY",
@@ -10147,9 +10128,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "gibson_les_paul_standard_60s_dt_vcs.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-21T12:59Z",
   "max_price": 9699.0,
   "min_price": 9666.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Gibson Les Paul Standard 60s DT VCS",
   "price": 9699.0,
   "ref_price": null,
@@ -11106,7 +11088,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_dc_custom_612_cherry.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-21T15:59Z",
   "max_price": 1955.0,
   "min_price": 1899.0,
   "missing_runs": 0,
@@ -11117,8 +11099,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_dc_custom_612_cherry.htm"
  },
  "harley_benton_dc_ukulele_ch.htm": {
@@ -11686,7 +11668,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2005.htm",
-  "last_change": "2026-11-20T13:00Z",
+  "last_change": "2026-11-21T15:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11697,8 +11679,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbz2005.htm"
  },
  "harley_benton_het_550_bk.htm": {
@@ -13067,9 +13049,10 @@
   "first_seen": "2026-11-17T03:59Z",
   "id": "heritage_guitar_h_150_custom_core_tsb.htm",
   "last_change": "2026-11-21T07:00Z",
+  "last_seen": "2026-11-21T12:59Z",
   "max_price": 15090.0,
   "min_price": 14990.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Heritage Guitar H-150 Custom Core TSB",
   "price": 15090.0,
   "ref_price": null,
@@ -13706,7 +13689,7 @@
   "discount": 31,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hoefner_hct_leader.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-21T15:59Z",
   "max_price": 1499.0,
   "min_price": 1499.0,
   "missing_runs": 0,
@@ -13717,8 +13700,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hoefner_hct_leader.htm"
  },
  "hoefner_hctvth_r_verythin_contem.htm": {
@@ -22250,27 +22233,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_raspberry_booster_overdrive.htm"
  },
- "one_control_silver_bee_od_overdrive.htm": {
-  "badge": "",
-  "discount": 61,
-  "first_seen": "2026-11-20T03:59Z",
-  "id": "one_control_silver_bee_od_overdrive.htm",
-  "last_change": "2026-11-20T03:59Z",
-  "last_seen": "2026-11-21T09:59Z",
-  "max_price": 389.0,
-  "min_price": 389.0,
-  "missing_runs": 1,
-  "name": "One Control Silver Bee OD - Overdrive",
-  "price": 389.0,
-  "ref_price": 990.0,
-  "reported_price": 389.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/one_control_silver_bee_od_overdrive.htm"
- },
  "oneodio_fusion_a70_black.htm": {
   "badge": "",
   "discount": null,
@@ -24860,9 +24822,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "sela_se_002a_casela_satin_nut_cajon.htm",
   "last_change": "2026-11-17T12:59Z",
+  "last_seen": "2026-11-21T12:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Sela SE 002A Casela Satin Nut Cajon",
   "price": 599.0,
   "ref_price": 819.0,
@@ -28900,27 +28863,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/studio_49_sxp1600_alto_xylophone.htm"
- },
- "swiff_audio_a10r_clip_on_tuner.htm": {
-  "badge": "",
-  "discount": 25,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "swiff_audio_a10r_clip_on_tuner.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-21T09:59Z",
-  "max_price": 48.0,
-  "min_price": 48.0,
-  "missing_runs": 1,
-  "name": "Swiff Audio A10R Clip-on Tuner",
-  "price": 48.0,
-  "ref_price": 64.0,
-  "reported_price": 48.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/swiff_audio_a10r_clip_on_tuner.htm"
  },
  "swiff_audio_s100.htm": {
   "badge": "",
