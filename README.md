@@ -3,19 +3,48 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-21 08:00 CET · **1812** deals tracked of 1812 advertised · checks every **3 h**
+**Last check:** 2026-11-21 10:59 CET · **1803** deals tracked of 1804 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 1 back in stock → [full report](changes/2026-11-21T0700Z.md)
+❌ 1 removed deals · 💸 1 price drops · 🏷️ 2 discount changes · ✅ 2 back in stock · 📦 4 stock changes → [full report](changes/2026-11-21T0959Z.md)
 
-### ✅ Back in stock (1)
+### ❌ Removed deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Mapex Venus 5045 Drum Set Bundle VH](https://www.thomann.pl/mapex_venus_5045_drum_set_bundle_vh.htm) | 2 599 zł | ‑25% | 3 444 zł | Dostępny w magazynie |  |
+
+### 💸 Price drops (1)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Laserworld CUBE 1.5](https://www.thomann.pl/laserworld_cube_15.htm) | 2 444 zł | **2 299 zł** | -5.9% | ‑6% | 2 444 zł | Dostępny w magazynie |
+
+### 🏷️ Discount changes (2)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Earthworks Audio SR-25 Gen2](https://www.thomann.pl/earthworks_audio_sr_25_gen2.htm) | 2 799 zł | -7% | **-10%** |
+| [Laserworld CUBE 1.5](https://www.thomann.pl/laserworld_cube_15.htm) | 2 299 zł | none | **-6%** |
+
+### ✅ Back in stock (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Heritage Guitar H-150 Custom Core TSB](https://www.thomann.pl/heritage_guitar_h_150_custom_core_tsb.htm) | 15 090 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Mapex 13"x5,5" DL Cherry Bomb NSW](https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Sequential Fourm](https://www.thomann.pl/sequential_fourm.htm) | 2 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (4)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Hils HNB5 Ivory](https://www.thomann.pl/hils_hnb5_ivory.htm) | 1 955 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Terre Djembe Carved Dragon 60cm](https://www.thomann.pl/terre_djembe_carved_dragon_60cm.htm) | 415 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

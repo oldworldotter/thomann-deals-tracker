@@ -2213,9 +2213,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "avid_pro_tools_carbon_pre.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 8499.0,
   "min_price": 8444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Avid Pro Tools Carbon Pre",
   "price": 8499.0,
   "ref_price": null,
@@ -5182,9 +5183,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "dixon_14_x6.5_snare_purple_titanium.htm",
   "last_change": "2026-11-18T15:59Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Dixon 14\"x6.5\" Snare Purple Titanium",
   "price": 1299.0,
   "ref_price": 1799.0,
@@ -5658,16 +5660,16 @@
  },
  "earthworks_audio_sr_25_gen2.htm": {
   "badge": "",
-  "discount": 7,
+  "discount": 10,
   "first_seen": "2026-11-18T18:17Z",
   "id": "earthworks_audio_sr_25_gen2.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 2799.0,
   "min_price": 2799.0,
   "missing_runs": 0,
   "name": "Earthworks Audio SR-25 Gen2",
   "price": 2799.0,
-  "ref_price": 2999.0,
+  "ref_price": 3111.0,
   "reported_price": 2799.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -9926,9 +9928,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "gibson_hummingbird_studio_ec_tbs.htm",
   "last_change": "2026-11-17T09:59Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 10990.0,
   "min_price": 10490.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Gibson Hummingbird Studio EC TBS",
   "price": 10490.0,
   "ref_price": null,
@@ -10826,9 +10829,10 @@
   "first_seen": "2026-11-19T03:59Z",
   "id": "guild_starfire_i_dc_cherry.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 1977.0,
   "min_price": 1959.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Guild Starfire I DC Cherry",
   "price": 1977.0,
   "ref_price": null,
@@ -12165,7 +12169,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rb_414cs_classic_series.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 875.0,
   "min_price": 869.0,
   "missing_runs": 0,
@@ -12176,8 +12180,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm"
  },
  "harley_benton_rg_junior_bk_bundle_2.htm": {
@@ -12905,7 +12909,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_wb_20bk_rock_series.htm",
-  "last_change": "2026-11-21T04:00Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 522.0,
   "min_price": 519.0,
   "missing_runs": 0,
@@ -12916,8 +12920,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm"
  },
  "harley_benton_wl_20bk_rock_series_set_1.htm": {
@@ -13146,9 +13150,10 @@
   "first_seen": "2026-11-17T15:59Z",
   "id": "heritage_guitar_h_150_custom_core_dlb.htm",
   "last_change": "2026-11-20T13:00Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 15090.0,
   "min_price": 14990.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Heritage Guitar H-150 Custom Core LB",
   "price": 15090.0,
   "ref_price": null,
@@ -13285,7 +13290,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb5_ivory.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 1955.0,
   "min_price": 1939.0,
   "missing_runs": 0,
@@ -13296,8 +13301,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_hnb5_ivory.htm"
  },
  "hils_hns1r_metallic_ocean_blue.htm": {
@@ -17143,17 +17148,17 @@
  },
  "laserworld_cube_15.htm": {
   "badge": "GIVEAWAY",
-  "discount": null,
+  "discount": 6,
   "first_seen": "2026-11-16T10:55Z",
   "id": "laserworld_cube_15.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 2444.0,
-  "min_price": 2444.0,
+  "min_price": 2299.0,
   "missing_runs": 0,
   "name": "Laserworld CUBE 1.5",
-  "price": 2444.0,
-  "ref_price": null,
-  "reported_price": 2444.0,
+  "price": 2299.0,
+  "ref_price": 2444.0,
+  "reported_price": 2299.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -18666,7 +18671,7 @@
   "discount": 35,
   "first_seen": "2026-11-18T18:17Z",
   "id": "mapex_13_x55_dl_cherry_bomb_nsw.htm",
-  "last_change": "2026-11-19T09:59Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -18677,30 +18682,9 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm"
- },
- "mapex_venus_5045_drum_set_bundle_vh.htm": {
-  "badge": "",
-  "discount": 25,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "mapex_venus_5045_drum_set_bundle_vh.htm",
-  "last_change": "2026-11-20T13:00Z",
-  "last_seen": "2026-11-21T04:00Z",
-  "max_price": 2599.0,
-  "min_price": 2599.0,
-  "missing_runs": 1,
-  "name": "Mapex Venus 5045 Drum Set Bundle VH",
-  "price": 2599.0,
-  "ref_price": 3444.0,
-  "reported_price": 2599.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/mapex_venus_5045_drum_set_bundle_vh.htm"
+  "url": "https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm"
  },
  "marantz_pro_umpire.htm": {
   "badge": "",
@@ -19730,9 +19714,10 @@
   "first_seen": "2026-11-21T04:00Z",
   "id": "midiplus_tiny.htm",
   "last_change": "2026-11-21T04:00Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 145.0,
   "min_price": 145.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Midiplus Tiny+",
   "price": 145.0,
   "ref_price": 298.0,
@@ -25378,7 +25363,7 @@
   "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "sequential_fourm.htm",
-  "last_change": "2026-11-20T00:46Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 2890.0,
   "min_price": 2890.0,
   "missing_runs": 0,
@@ -25389,8 +25374,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sequential_fourm.htm"
  },
  "serato_pitch_n_time_le.htm": {
@@ -28944,9 +28929,10 @@
   "first_seen": "2026-11-21T04:00Z",
   "id": "strandberg_boden_original_n26_sunset.htm",
   "last_change": "2026-11-21T04:00Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 8799.0,
   "min_price": 8799.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Strandberg Boden Original N2.6 Sunset",
   "price": 8799.0,
   "ref_price": 11333.0,
@@ -29105,9 +29091,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "swiff_audio_ws_70_wireless_system_602955.htm",
   "last_change": "2026-11-20T18:59Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 131.0,
   "min_price": 129.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Swiff Audio WS-70 Wireless System",
   "price": 131.0,
   "ref_price": null,
@@ -30184,7 +30171,7 @@
   "discount": 36,
   "first_seen": "2026-11-18T15:59Z",
   "id": "terre_djembe_carved_dragon_60cm.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-21T09:59Z",
   "max_price": 415.0,
   "min_price": 415.0,
   "missing_runs": 0,
@@ -30195,8 +30182,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_60cm.htm"
  },
  "terre_schamanentrommel_50cm.htm": {
@@ -32345,9 +32332,10 @@
   "first_seen": "2026-11-21T04:00Z",
   "id": "thon_mikes_joker_case.htm",
   "last_change": "2026-11-21T04:00Z",
+  "last_seen": "2026-11-21T07:00Z",
   "max_price": 247.0,
   "min_price": 247.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Thon Mike's Joker Case",
   "price": 247.0,
   "ref_price": null,
