@@ -39,6 +39,10 @@
   "price": 172.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "boss_katana_100_gen_3.htm": {
+  "price": 1899.0,
+  "removed_at": "2026-11-21T19:00Z"
+ },
  "breedlove_pursuit_ex_s_concert_te_lh_ce.htm": {
   "price": 1299.0,
   "removed_at": "2026-11-21T04:00Z"
@@ -99,6 +103,10 @@
   "price": 344.0,
   "removed_at": "2026-11-21T00:59Z"
  },
+ "electro_harmonix_triangle_big_muff_fuzz.htm": {
+  "price": 309.0,
+  "removed_at": "2026-11-21T19:00Z"
+ },
  "epiphone_alex_lifeson_lp_custom_axcess.htm": {
   "price": 4399.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -155,6 +163,10 @@
   "price": 13190.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "gibson_les_paul_standard_60s_dt_vcs.htm": {
+  "price": 9699.0,
+  "removed_at": "2026-11-21T19:00Z"
+ },
  "gibson_sj_200_standard_tri_burst.htm": {
   "price": 17190.0,
   "removed_at": "2026-11-18T15:59Z"
@@ -182,6 +194,10 @@
  "heritage_guitar_h_150_custom_core_gold_top.htm": {
   "price": 14490.0,
   "removed_at": "2026-11-19T12:59Z"
+ },
+ "heritage_guitar_h_150_custom_core_tsb.htm": {
+  "price": 15090.0,
+  "removed_at": "2026-11-21T19:00Z"
  },
  "hils_hnb5_sunburst.htm": {
   "price": 1739.0,
@@ -406,6 +422,10 @@
  "sela_kalimba_10_green.htm": {
   "price": 39.0,
   "removed_at": "2026-11-18T21:59Z"
+ },
+ "sela_se_002a_casela_satin_nut_cajon.htm": {
+  "price": 599.0,
+  "removed_at": "2026-11-21T19:00Z"
  },
  "sela_se_241_kalimba_black_10.htm": {
   "price": 39.0,

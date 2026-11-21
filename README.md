@@ -3,34 +3,54 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-21 16:59 CET · **1795** deals tracked of 1795 advertised · checks every **3 h**
+**Last check:** 2026-11-21 20:00 CET · **1794** deals tracked of 1794 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 3 removed deals · ✅ 1 back in stock · 📦 2 stock changes → [full report](changes/2026-11-21T1559Z.md)
+❌ 5 removed deals · 📈 10 price increases · 🏷️ 1 discount changes · 📦 5 stock changes → [full report](changes/2026-11-21T1900Z.md)
 
-### ❌ Removed deals (3)
+### ❌ Removed deals (5)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [One Control Silver Bee OD - Overdrive](https://www.thomann.pl/one_control_silver_bee_od_overdrive.htm) | 389 zł | ‑61% | 990 zł | Dostępny w magazynie |  |
-| [Eurolite LED Z-20](https://www.thomann.pl/eurolite_led_z_20.htm) | 173 zł | ‑52% | 363 zł | Dostępny w magazynie |  |
-| [Swiff Audio A10R Clip-on Tuner](https://www.thomann.pl/swiff_audio_a10r_clip_on_tuner.htm) | 48 zł | ‑25% | 64 zł | Dostępny w magazynie |  |
+| [Sela SE 002A Casela Satin Nut Cajon](https://www.thomann.pl/sela_se_002a_casela_satin_nut_cajon.htm) | 599 zł | ‑27% | 819 zł | Dostępny w magazynie |  |
+| [Boss Katana 100 Gen 3](https://www.thomann.pl/boss_katana_100_gen_3.htm) | 1 899 zł |  |  | Dostępny w magazynie | GIVEAWAY |
+| [Electro Harmonix Triangle Big Muff Fuzz](https://www.thomann.pl/electro_harmonix_triangle_big_muff_fuzz.htm) | 309 zł |  |  | Dostępny w magazynie |  |
+| [Gibson Les Paul Standard 60s DT VCS](https://www.thomann.pl/gibson_les_paul_standard_60s_dt_vcs.htm) | 9 699 zł |  |  | Dostępny w magazynie |  |
+| [Heritage Guitar H-150 Custom Core TSB](https://www.thomann.pl/heritage_guitar_h_150_custom_core_tsb.htm) | 15 090 zł |  |  | Dostępny w magazynie |  |
 
-### ✅ Back in stock (1)
+### 📈 Price increases (10)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Hughes & Kettner TubeMeister Deluxe 40](https://www.thomann.pl/hugheskettner_tubemeister_deluxe_40.htm) | 2 999 zł | **3 090 zł** | +3.0% |  |  | Dostępny w magazynie |
+| [dB Technologies Opera 15](https://www.thomann.pl/db_technologies_opera_15.htm) | 1 959 zł | **1 990 zł** | +1.6% |  |  | Dostępny w magazynie |
+| [Neumann KM184 mt Stereo Set](https://www.thomann.pl/neumann_km184mt_stereoset.htm) | 6 499 zł | **6 599 zł** | +1.5% |  |  | Dostępny w magazynie |
+| [Thomann Classic TF525 L Trombone](https://www.thomann.pl/thomann_classic_tf525_l_trombone.htm) | 2 299 zł | **2 333 zł** | +1.5% |  |  | Dostępny w magazynie |
+| [Image-Line FL Studio Signature Bundle](https://www.thomann.pl/image_line_fl_studio_12_signature_bundle.htm) | 955 zł | **968 zł** | +1.4% |  |  | Pobierz licencję |
+| [Takamine GN11MCE NS G-Series](https://www.thomann.pl/takamine_gn11mce_ns_g_serie.htm) | 1 479 zł | **1 499 zł** | +1.4% |  |  | Dostępny w magazynie |
+| [Ape Labs LightCan V2 TP 12 SB G](https://www.thomann.pl/ape_labs_lightcan_v2_tp_12_sb_g.htm) | 7 599 zł | **7 699 zł** | +1.3% |  |  | Dostępny w magazynie |
+| [Millenium MPS-850 E-Drum Set](https://www.thomann.pl/millenium_mps_850_e_drum_set.htm) | 2 666 zł | **2 699 zł** | +1.2% |  |  | Dostępny w magazynie |
+| [Image-Line FL Studio All Plugins Edition](https://www.thomann.pl/image_line_fl_studio_all_plugins_edition.htm) | 1 044 zł | **1 055 zł** | +1.1% |  |  | Pobierz licencję |
+| [the t.bone free solo 823 HeadmikeD Bundle](https://www.thomann.pl/the_t.bone_free_solo_823_headmiked_bundle.htm) | 888 zł | **898 zł** | +1.1% |  |  | Dostępny w magazynie |
+
+### 🏷️ Discount changes (1)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [the t.bone free solo 823 HeadmikeD Bundle](https://www.thomann.pl/the_t.bone_free_solo_823_headmiked_bundle.htm) | 898 zł | -19% | **none** |
+
+### 📦 Stock changes (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton DC-Custom 612 Cherry](https://www.thomann.pl/harley_benton_dc_custom_612_cherry.htm) | 1 955 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-### 📦 Stock changes (2)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Höfner HCT-Leader](https://www.thomann.pl/hoefner_hct_leader.htm) | 1 499 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN4 Black](https://www.thomann.pl/hils_next_hn4_black.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

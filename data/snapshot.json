@@ -1632,14 +1632,14 @@
   "discount": null,
   "first_seen": "2026-11-18T15:59Z",
   "id": "ape_labs_lightcan_v2_tp_12_sb_g.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "max_price": 7599.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 7699.0,
   "min_price": 7599.0,
   "missing_runs": 0,
   "name": "Ape Labs LightCan V2 TP 12 SB G",
-  "price": 7599.0,
+  "price": 7699.0,
   "ref_price": null,
-  "reported_price": 7599.0,
+  "reported_price": 7699.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -2053,11 +2053,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "audix_dp7_drumkoffer.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 4290.0,
+  "max_price": 4299.0,
   "min_price": 4290.0,
   "missing_runs": 0,
   "name": "Audix DP7 Drum Microphone Set",
-  "price": 4290.0,
+  "price": 4299.0,
   "ref_price": null,
   "reported_price": 4290.0,
   "sections": [
@@ -3232,27 +3232,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/boss_gt_1000core.htm"
- },
- "boss_katana_100_gen_3.htm": {
-  "badge": "GIVEAWAY",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "boss_katana_100_gen_3.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-21T12:59Z",
-  "max_price": 1899.0,
-  "min_price": 1899.0,
-  "missing_runs": 1,
-  "name": "Boss Katana 100 Gen 3",
-  "price": 1899.0,
-  "ref_price": null,
-  "reported_price": 1899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/boss_katana_100_gen_3.htm"
  },
  "boss_katana_50_gen_3.htm": {
   "badge": "GIVEAWAY",
@@ -4942,14 +4921,14 @@
   "discount": null,
   "first_seen": "2026-11-18T18:17Z",
   "id": "db_technologies_opera_15.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "max_price": 1959.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 1990.0,
   "min_price": 1959.0,
   "missing_runs": 0,
   "name": "dB Technologies Opera 15",
-  "price": 1959.0,
+  "price": 1990.0,
   "ref_price": null,
-  "reported_price": 1959.0,
+  "reported_price": 1990.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -5897,27 +5876,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/electro_harmonix_silencer.htm"
- },
- "electro_harmonix_triangle_big_muff_fuzz.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-20T16:00Z",
-  "id": "electro_harmonix_triangle_big_muff_fuzz.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-21T12:59Z",
-  "max_price": 309.0,
-  "min_price": 308.0,
-  "missing_runs": 1,
-  "name": "Electro Harmonix Triangle Big Muff Fuzz",
-  "price": 309.0,
-  "ref_price": null,
-  "reported_price": 308.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/electro_harmonix_triangle_big_muff_fuzz.htm"
  },
  "electro_harmonix_voice_box.htm": {
   "badge": "",
@@ -9108,9 +9066,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "friedman_ir_d_black_silver_red_ltd.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-21T15:59Z",
   "max_price": 1955.0,
   "min_price": 1899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Friedman IR-D Black/Silver/Red LTD",
   "price": 1955.0,
   "ref_price": null,
@@ -10121,27 +10080,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_les_paul_standard_60s_aaa_lb.htm"
- },
- "gibson_les_paul_standard_60s_dt_vcs.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "gibson_les_paul_standard_60s_dt_vcs.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-21T12:59Z",
-  "max_price": 9699.0,
-  "min_price": 9666.0,
-  "missing_runs": 1,
-  "name": "Gibson Les Paul Standard 60s DT VCS",
-  "price": 9699.0,
-  "ref_price": null,
-  "reported_price": 9666.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gibson_les_paul_standard_60s_dt_vcs.htm"
  },
  "gibson_les_paul_studio_faded_ebony.htm": {
   "badge": "",
@@ -11268,7 +11206,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_eb_fblb.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-21T19:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11279,8 +11217,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm"
  },
  "harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm": {
@@ -11288,7 +11226,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-21T19:00Z",
   "max_price": 1499.0,
   "min_price": 1499.0,
   "missing_runs": 0,
@@ -11299,8 +11237,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm"
  },
  "harley_benton_fusion_iii_hsh_roasted_fblb.htm": {
@@ -12388,7 +12326,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_active_sbk_bundle_package.htm",
-  "last_change": "2026-11-19T16:00Z",
+  "last_change": "2026-11-21T19:00Z",
   "max_price": 738.0,
   "min_price": 735.0,
   "missing_runs": 0,
@@ -12399,8 +12337,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm"
  },
  "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm": {
@@ -12408,7 +12346,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-19T16:00Z",
+  "last_change": "2026-11-21T19:00Z",
   "max_price": 1269.0,
   "min_price": 1259.0,
   "missing_runs": 0,
@@ -12419,8 +12357,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_st_20hss_ca_w_marshall_mg15gfx.htm": {
@@ -13043,27 +12981,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hercules_dj_control_inpulse_t7.htm"
  },
- "heritage_guitar_h_150_custom_core_tsb.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-17T03:59Z",
-  "id": "heritage_guitar_h_150_custom_core_tsb.htm",
-  "last_change": "2026-11-21T07:00Z",
-  "last_seen": "2026-11-21T12:59Z",
-  "max_price": 15090.0,
-  "min_price": 14990.0,
-  "missing_runs": 1,
-  "name": "Heritage Guitar H-150 Custom Core TSB",
-  "price": 15090.0,
-  "ref_price": null,
-  "reported_price": 14990.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/heritage_guitar_h_150_custom_core_tsb.htm"
- },
  "heritage_musical_spoon_medium_blue.htm": {
   "badge": "",
   "discount": 25,
@@ -13389,7 +13306,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn4_black.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-21T19:00Z",
   "max_price": 1755.0,
   "min_price": 1745.0,
   "missing_runs": 0,
@@ -13400,8 +13317,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_next_hn4_black.htm"
  },
  "hils_next_hn4_ivory.htm": {
@@ -14489,14 +14406,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hugheskettner_tubemeister_deluxe_40.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 2999.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 3090.0,
   "min_price": 2999.0,
   "missing_runs": 0,
   "name": "Hughes & Kettner TubeMeister Deluxe 40",
-  "price": 2999.0,
+  "price": 3090.0,
   "ref_price": null,
-  "reported_price": 2999.0,
+  "reported_price": 3090.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -14912,11 +14829,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "image_line_fl_studio_12_producer_edition.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 698.0,
+  "max_price": 699.0,
   "min_price": 698.0,
   "missing_runs": 0,
   "name": "Image-Line FL Studio Producer Edition",
-  "price": 698.0,
+  "price": 699.0,
   "ref_price": null,
   "reported_price": 698.0,
   "sections": [
@@ -14931,14 +14848,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "image_line_fl_studio_12_signature_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 955.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 968.0,
   "min_price": 955.0,
   "missing_runs": 0,
   "name": "Image-Line FL Studio Signature Bundle",
-  "price": 955.0,
+  "price": 968.0,
   "ref_price": null,
-  "reported_price": 955.0,
+  "reported_price": 968.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -14951,14 +14868,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "image_line_fl_studio_all_plugins_edition.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1044.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 1055.0,
   "min_price": 1044.0,
   "missing_runs": 0,
   "name": "Image-Line FL Studio All Plugins Edition",
-  "price": 1044.0,
+  "price": 1055.0,
   "ref_price": null,
-  "reported_price": 1044.0,
+  "reported_price": 1055.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -19835,14 +19752,14 @@
   "discount": null,
   "first_seen": "2026-11-19T12:59Z",
   "id": "millenium_mps_850_e_drum_set.htm",
-  "last_change": "2026-11-19T12:59Z",
-  "max_price": 2666.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 2699.0,
   "min_price": 2666.0,
   "missing_runs": 0,
   "name": "Millenium MPS-850 E-Drum Set",
-  "price": 2666.0,
+  "price": 2699.0,
   "ref_price": null,
-  "reported_price": 2666.0,
+  "reported_price": 2699.0,
   "sections": [
    "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
@@ -21236,14 +21153,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "neumann_km184mt_stereoset.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 6499.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 6599.0,
   "min_price": 6499.0,
   "missing_runs": 0,
   "name": "Neumann KM184 mt Stereo Set",
-  "price": 6499.0,
+  "price": 6599.0,
   "ref_price": null,
-  "reported_price": 6499.0,
+  "reported_price": 6599.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -24815,27 +24732,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_planetary_gong_sun_46_116cm.htm"
- },
- "sela_se_002a_casela_satin_nut_cajon.htm": {
-  "badge": "",
-  "discount": 27,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "sela_se_002a_casela_satin_nut_cajon.htm",
-  "last_change": "2026-11-17T12:59Z",
-  "last_seen": "2026-11-21T12:59Z",
-  "max_price": 599.0,
-  "min_price": 599.0,
-  "missing_runs": 1,
-  "name": "Sela SE 002A Casela Satin Nut Cajon",
-  "price": 599.0,
-  "ref_price": 819.0,
-  "reported_price": 599.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sela_se_002a_casela_satin_nut_cajon.htm"
  },
  "sela_se_060_varios_bundle_red.htm": {
   "badge": "",
@@ -29569,14 +29465,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "takamine_gn11mce_ns_g_serie.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1479.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 1499.0,
   "min_price": 1479.0,
   "missing_runs": 0,
   "name": "Takamine GN11MCE NS G-Series",
-  "price": 1479.0,
+  "price": 1499.0,
   "ref_price": null,
-  "reported_price": 1479.0,
+  "reported_price": 1499.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -30486,17 +30382,17 @@
  },
  "the_t.bone_free_solo_823_headmiked_bundle.htm": {
   "badge": "",
-  "discount": 19,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "the_t.bone_free_solo_823_headmiked_bundle.htm",
-  "last_change": "2026-11-17T06:59Z",
-  "max_price": 888.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 898.0,
   "min_price": 888.0,
   "missing_runs": 0,
   "name": "the t.bone free solo 823 HeadmikeD Bundle",
-  "price": 888.0,
-  "ref_price": 1099.0,
-  "reported_price": 888.0,
+  "price": 898.0,
+  "ref_price": null,
+  "reported_price": 898.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -30949,14 +30845,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_classic_tf525_l_trombone.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 2299.0,
+  "last_change": "2026-11-21T19:00Z",
+  "max_price": 2333.0,
   "min_price": 2299.0,
   "missing_runs": 0,
   "name": "Thomann Classic TF525 L Trombone",
-  "price": 2299.0,
+  "price": 2333.0,
   "ref_price": null,
-  "reported_price": 2299.0,
+  "reported_price": 2333.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -32571,11 +32467,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "traps_a400_acoustic_drumset.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 2790.0,
+  "max_price": 2799.0,
   "min_price": 2790.0,
   "missing_runs": 0,
   "name": "Traps A-400 Acoustic Drumset",
-  "price": 2790.0,
+  "price": 2799.0,
   "ref_price": null,
   "reported_price": 2790.0,
   "sections": [
