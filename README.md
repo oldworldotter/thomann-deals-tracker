@@ -3,48 +3,53 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-21 10:59 CET · **1803** deals tracked of 1804 advertised · checks every **3 h**
+**Last check:** 2026-11-21 13:59 CET · **1800** deals tracked of 1802 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · 💸 1 price drops · 🏷️ 2 discount changes · ✅ 2 back in stock · 📦 4 stock changes → [full report](changes/2026-11-21T0959Z.md)
+❌ 9 removed deals · 📈 2 price increases · ✅ 1 back in stock · 📦 8 stock changes → [full report](changes/2026-11-21T1259Z.md)
 
-### ❌ Removed deals (1)
+### ❌ Removed deals (9)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Mapex Venus 5045 Drum Set Bundle VH](https://www.thomann.pl/mapex_venus_5045_drum_set_bundle_vh.htm) | 2 599 zł | ‑25% | 3 444 zł | Dostępny w magazynie |  |
+| [Midiplus Tiny+](https://www.thomann.pl/midiplus_tiny.htm) | 145 zł | ‑51% | 298 zł | Dostępny w magazynie |  |
+| [Dixon 14"x6.5" Snare Purple Titanium](https://www.thomann.pl/dixon_14_x6.5_snare_purple_titanium.htm) | 1 299 zł | ‑28% | 1 799 zł | Dostępny w magazynie |  |
+| [Strandberg Boden Original N2.6 Sunset](https://www.thomann.pl/strandberg_boden_original_n26_sunset.htm) | 8 799 zł | ‑22% | 11 333 zł | Dostępny w magazynie |  |
+| [Avid Pro Tools Carbon Pre](https://www.thomann.pl/avid_pro_tools_carbon_pre.htm) | 8 499 zł |  |  | Dostępny w magazynie |  |
+| [Gibson Hummingbird Studio EC TBS](https://www.thomann.pl/gibson_hummingbird_studio_ec_tbs.htm) | 10 490 zł |  |  | Dostępny w magazynie |  |
+| [Guild Starfire I DC Cherry](https://www.thomann.pl/guild_starfire_i_dc_cherry.htm) | 1 977 zł |  |  | Dostępny w magazynie |  |
+| [Heritage Guitar H-150 Custom Core LB](https://www.thomann.pl/heritage_guitar_h_150_custom_core_dlb.htm) | 15 090 zł |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
+| [Swiff Audio WS-70 Wireless System](https://www.thomann.pl/swiff_audio_ws_70_wireless_system_602955.htm) | 131 zł |  |  | Dostępny w magazynie |  |
+| [Thon Mike's Joker Case](https://www.thomann.pl/thon_mikes_joker_case.htm) | 247 zł |  |  | Dostępny w magazynie |  |
 
-### 💸 Price drops (1)
+### 📈 Price increases (2)
 
 | Product | Was | Now | Change | Discount | 30-day best | Stock |
 |---|--:|--:|--:|--:|--:|---|
-| [Laserworld CUBE 1.5](https://www.thomann.pl/laserworld_cube_15.htm) | 2 444 zł | **2 299 zł** | -5.9% | ‑6% | 2 444 zł | Dostępny w magazynie |
+| [Johannus Studio 260, Fine Oak Concave](https://www.thomann.pl/johannus_studio_260_fine_oak_concave.htm) | 27 890 zł | **28 190 zł** | +1.1% |  |  | Dostępny w magazynie |
+| [Johannus Opus 260, Light Oak Straight](https://www.thomann.pl/johannus_opus_260_light_oak_straight.htm) | 36 690 zł | **37 090 zł** | +1.1% |  |  | Dostępny w magazynie |
 
-### 🏷️ Discount changes (2)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Earthworks Audio SR-25 Gen2](https://www.thomann.pl/earthworks_audio_sr_25_gen2.htm) | 2 799 zł | -7% | **-10%** |
-| [Laserworld CUBE 1.5](https://www.thomann.pl/laserworld_cube_15.htm) | 2 299 zł | none | **-6%** |
-
-### ✅ Back in stock (2)
+### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Mapex 13"x5,5" DL Cherry Bomb NSW](https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Sequential Fourm](https://www.thomann.pl/sequential_fourm.htm) | 2 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Hils Next HN4 Black](https://www.thomann.pl/hils_next_hn4_black.htm) | 1 755 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (4)
+### 📦 Stock changes (8)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Hils HNB5 Ivory](https://www.thomann.pl/hils_hnb5_ivory.htm) | 1 955 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Terre Djembe Carved Dragon 60cm](https://www.thomann.pl/terre_djembe_carved_dragon_60cm.htm) | 415 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Terre Shaman Drum Goat Skin Shorn 50](https://www.thomann.pl/terre_schamanentrommel_50cm.htm) | 257 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 711 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 222 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN4 Ivory](https://www.thomann.pl/hils_next_hn4_ivory.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton PJ4-SBK w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm) | 744 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Sequential Fourm](https://www.thomann.pl/sequential_fourm.htm) | 2 890 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
+| [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 790 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
