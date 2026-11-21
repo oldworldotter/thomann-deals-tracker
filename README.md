@@ -3,47 +3,19 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-21 05:00 CET · **1813** deals tracked of 1813 advertised · checks every **3 h**
+**Last check:** 2026-11-21 08:00 CET · **1812** deals tracked of 1812 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 1 new deals · 🔁 5 returned deals · ❌ 1 removed deals · ✅ 1 back in stock · 📦 1 stock changes → [full report](changes/2026-11-21T0400Z.md)
-
-### 🆕 New deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Midiplus Tiny+](https://www.thomann.pl/midiplus_tiny.htm) | 145 zł | ‑51% | 298 zł | Dostępny w magazynie |  |
-
-### 🔁 Returned deals (5)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Eurolite LED Z-20](https://www.thomann.pl/eurolite_led_z_20.htm) | **173 zł** | 172 zł | ‑52% | 363 zł | Dostępny w magazynie | 2026‑11‑17 19:59 |
-| [Strandberg Boden Original N2.6 Sunset](https://www.thomann.pl/strandberg_boden_original_n26_sunset.htm) | **8 799 zł** | 8 799 zł | ‑22% | 11 333 zł | Dostępny w magazynie | 2026‑11‑20 01:46 |
-| [Epiphone Wilshire P-90 Ebony](https://www.thomann.pl/epiphone_wilshire_p_90_ebony.htm) | **1 490 zł** | 1 469 zł | ‑21% | 1 890 zł | Dostępny w magazynie | 2026‑11‑17 22:59 |
-| [Takamine GC1CE-Nat](https://www.thomann.pl/takamine_gc1ce_nat.htm) | **1 269 zł** | 1 259 zł |  |  | Dostępny w magazynie | 2026‑11‑16 12:46 |
-| [Thon Mike's Joker Case](https://www.thomann.pl/thon_mikes_joker_case.htm) | **247 zł** | 245 zł |  |  | Dostępny w magazynie | 2026‑11‑19 19:27 |
-
-### ❌ Removed deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Breedlove Pursuit EX S Concert TE LH CE](https://www.thomann.pl/breedlove_pursuit_ex_s_concert_te_lh_ce.htm) | 1 299 zł | ‑24% | 1 699 zł | Dostępny w magazynie |  |
+✅ 1 back in stock → [full report](changes/2026-11-21T0700Z.md)
 
 ### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-### 📦 Stock changes (1)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Heritage Guitar H-150 Custom Core TSB](https://www.thomann.pl/heritage_guitar_h_150_custom_core_tsb.htm) | 15 090 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
 <!-- DASHBOARD:END -->
 

@@ -13165,7 +13165,7 @@
   "discount": null,
   "first_seen": "2026-11-17T03:59Z",
   "id": "heritage_guitar_h_150_custom_core_tsb.htm",
-  "last_change": "2026-11-17T03:59Z",
+  "last_change": "2026-11-21T07:00Z",
   "max_price": 15090.0,
   "min_price": 14990.0,
   "missing_runs": 0,
@@ -13176,8 +13176,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/heritage_guitar_h_150_custom_core_tsb.htm"
  },
  "heritage_musical_spoon_medium_blue.htm": {
@@ -18687,9 +18687,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "mapex_venus_5045_drum_set_bundle_vh.htm",
   "last_change": "2026-11-20T13:00Z",
+  "last_seen": "2026-11-21T04:00Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Mapex Venus 5045 Drum Set Bundle VH",
   "price": 2599.0,
   "ref_price": 3444.0,
