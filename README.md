@@ -3,77 +3,45 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-20 22:59 CET · **1808** deals tracked of 1809 advertised · checks every **3 h**
+**Last check:** 2026-11-21 01:59 CET · **1807** deals tracked of 1807 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 6 removed deals · 💸 3 price drops · 📈 148 price increases · 🏷️ 247 discount changes · 📦 6 stock changes → [full report](changes/2026-11-20T2159Z.md)
+❌ 3 removed deals · ✅ 2 back in stock · 📦 17 stock changes → [full report](changes/2026-11-21T0059Z.md)
 
-### ❌ Removed deals (6)
+### ❌ Removed deals (3)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [PRS SE Studio Charcoal CB 2025](https://www.thomann.pl/prs_se_studio_charcoal_cb_2025.htm) | 2 599 zł | ‑50% | 5 199 zł | Dostępny w magazynie | GIVEAWAY |
-| [Avantone MixCubes Active White](https://www.thomann.pl/avantone_mixcubes_active_white.htm) | 1 490 zł | ‑38% | 2 390 zł | Dostępny w magazynie |  |
-| [Varytec LED Pad 7 7x10W 5in1 RGBWA](https://www.thomann.pl/varytec_led_pad_7_7x10w_5in1_rgbwa.htm) | 389 zł | ‑30% | 555 zł | Dostępny w magazynie |  |
-| [Solar Guitars A1.7AAN](https://www.thomann.pl/solar_guitars_a1.7aan.htm) | 5 699 zł | ‑19% | 6 999 zł | Dostępny w magazynie |  |
-| [Gibson AJ Anniversary Ltd CB](https://www.thomann.pl/gibson_aj_anniversary_ltd_cb.htm) | 22 090 zł | ‑14% | 25 790 zł | Dostępny w magazynie |  |
-| [Yamaha PSR-SX600](https://www.thomann.pl/yamaha_psr_sx600.htm) | 2 699 zł | ‑13% | 3 099 zł | Dostępny w magazynie |  |
+| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | 214 zł | ‑61% | 555 zł | Dostępny w magazynie |  |
+| [Electro Harmonix Percolator Overdrive/Fuzz](https://www.thomann.pl/electro_harmonix_percolator_overdrive_fuzz.htm) | 344 zł | ‑21% | 438 zł | Dostępny w magazynie |  |
+| [ESP LTD TL-7 Black](https://www.thomann.pl/esp_ltd_tl_7_black.htm) | 1 648 zł |  |  | Dostępny w magazynie |  |
 
-### 💸 Price drops (3)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Flamma FX20 Modeling Headphone Amp](https://www.thomann.pl/flamma_fx20_modeling_headphone_amp.htm) | 192 zł | **189 zł** | -1.6% |  |  | Dostępny w magazynie |
-| [Vic Firth AJ5 Jazz Bundle + HB Brushes](https://www.thomann.pl/vic_firth_aj5_jazz_bundle_hb_brushes.htm) | 192 zł | **189 zł** | -1.6% |  |  | Dostępny w magazynie |
-| [Kala Ukadelic Bamboo Ukulele Sop.](https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm) | 96 zł | **95 zł** | -1.0% |  |  | Dostępny w magazynie |
-
-### 📈 Price increases (148)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Harley Benton GuitarTech Service Station](https://www.thomann.pl/harley_benton_guitartech_service_station.htm) | 79 zł | **83 zł** | +5.1% |  |  | Dostępny w magazynie |
-| [Audiomodern Riffer 4](https://www.thomann.pl/audiomodern_riffer_4.htm) | 179 zł | **185 zł** | +3.4% |  |  | Pobierz licencję |
-| [Markbass CMD JB Players School Combo](https://www.thomann.pl/markbass_cmd_jb_players_school_combo.htm) | 1 699 zł | **1 750 zł** | +3.0% |  |  | dostępny w magazynie |
-| [Takamine GN71CE-NAT](https://www.thomann.pl/takamine_gn71ce_2_nat.htm) | 1 999 zł | **2 059 zł** | +3.0% |  |  | Dostępny w magazynie |
-| [Hils Next HN6 Ultra Gold](https://www.thomann.pl/hils_next_hn6_ultra_gold.htm) | 2 999 zł | **3 090 zł** | +3.0% |  |  | Dostępny w magazynie |
-| [Hils Next HN6 Cosmic Green](https://www.thomann.pl/hils_next_hn6_cosmic_green.htm) | 2 999 zł | **3 090 zł** | +3.0% |  |  | Dostępny w magazynie |
-| [Hils HNB5 Gun Metal Grey](https://www.thomann.pl/hils_hnb5_gun_metal_grey.htm) | 1 899 zł | **1 955 zł** | +2.9% |  |  | Dostępny w magazynie |
-| [Höfner Verythin CT Special Sunburst](https://www.thomann.pl/hoefner_verythin_ct_special_brunette.htm) | 1 899 zł | **1 955 zł** | +2.9% |  |  | Dostępny w magazynie |
-| [Eventide H9 Max Harmonizer](https://www.thomann.pl/eventide_h9_max_harmonizer.htm) | 1 899 zł | **1 955 zł** | +2.9% |  |  | Dostępny w magazynie |
-| [Larry Carlton I5L Tobacco Sunburst Satin](https://www.thomann.pl/larry_carlton_i5l_tobacco_sunburst_satin.htm) | 1 899 zł | **1 955 zł** | +2.9% |  |  | Dostępny w magazynie |
-
-…and 138 more in the full report.
-
-### 🏷️ Discount changes (247)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [ESP LTD EC-1000 Piezo QM STBLK](https://www.thomann.pl/esp_ec_1000_piezo_qm_stb.htm) | 4 490 zł | -44% | **none** |
-| [Alesis Nitro Max Kit](https://www.thomann.pl/alesis_nitro_max_kit.htm) | 1 699 zł | -6% | **none** |
-| [Antares AutoTune](https://www.thomann.pl/antares_autotune.htm) | 522 zł | -48% | **none** |
-| [Efnote Mini E-Drum Set](https://www.thomann.pl/efnote_mini_e_drum_set.htm) | 8 799 zł | -18% | **none** |
-| [Markbass CMD JB Players School Combo](https://www.thomann.pl/markbass_cmd_jb_players_school_combo.htm) | 1 750 zł | -32% | **none** |
-| [Markbass Little Mark 250 Black Line](https://www.thomann.pl/markbass_little_mark_250_black_line.htm) | 977 zł | -35% | **none** |
-| [Markbass Nano Mark II Head](https://www.thomann.pl/markbass_nano_mark_ii_head.htm) | 1 079 zł | -37% | **none** |
-| [Roland TD713 V-Drums Thomann Edition](https://www.thomann.pl/roland_td713_v_drums_thomann_edition.htm) | 21 990 zł | -12% | **none** |
-| [Strandberg Boden Metal NX 6 Tremolo BK](https://www.thomann.pl/strandberg_boden_metal_nx_6_tremolo_bk.htm) | 6 890 zł | -22% | **none** |
-| [Mooer GL100 Groove Loop/Drum](https://www.thomann.pl/mooer_gl100_groove_loop_drum.htm) | 455 zł | -22% | **none** |
-
-…and 237 more in the full report.
-
-### 📦 Stock changes (6)
+### ✅ Back in stock (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 744 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton TE-20HH LH w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_lh_w_soran_dual_stomp.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Terre Shaman Drum Goat Tree Shorn 50](https://www.thomann.pl/terre_shaman_drum_goat_tree_shorn_50.htm) | 345 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Daddario XSAPB1152-3P](https://www.thomann.pl/daddario_xsapb1152_3p.htm) | 195 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (17)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Markbass CMD JB Players School Combo](https://www.thomann.pl/markbass_cmd_jb_players_school_combo.htm) | 1 750 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Markbass Little Mark 250 Black Line](https://www.thomann.pl/markbass_little_mark_250_black_line.htm) | 977 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Markbass Nano Mark II Head](https://www.thomann.pl/markbass_nano_mark_ii_head.htm) | 1 079 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ludwig 13"x07" Universal Brass Chrome](https://www.thomann.pl/ludwig_13_x07_universal_brass_chrome.htm) | 1 299 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Schlagwerk CP2SONE SPL Birch Flame](https://www.thomann.pl/schlagwerk_cp2sone_spl_birch_flame.htm) | 738 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Evans G2 Fusion 2 Set clear](https://www.thomann.pl/evans_g2_fusion_2_set_clear.htm) | 229 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha TAS1 C Sand Burst](https://www.thomann.pl/yamaha_tas1_c_sand_burst.htm) | 4 499 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha TAG1 E Sand Burst](https://www.thomann.pl/yamaha_tag1_e_sand_burst.htm) | 2 599 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+
+…and 7 more in the full report.
 
 <!-- DASHBOARD:END -->
 
