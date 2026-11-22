@@ -3,13 +3,20 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 05:00 CET · **1790** deals tracked of 1790 advertised · checks every **3 h**
+**Last check:** 2026-11-22 07:59 CET · **1790** deals tracked of 1790 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-No changes since the previous check. See [CHANGELOG.md](CHANGELOG.md) for earlier ones.
+❌ 1 removed deals → [full report](changes/2026-11-22T0659Z.md)
+
+### ❌ Removed deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Electro Harmonix Pico Shimmer Reverb](https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm) | 579 zł |  |  | Dostępny w magazynie |  |
+
 <!-- DASHBOARD:END -->
 
 ---

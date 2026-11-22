@@ -5817,27 +5817,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/electro_harmonix_pico_intelligent_hrmny_machine.htm"
  },
- "electro_harmonix_pico_shimmer_reverb.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "electro_harmonix_pico_shimmer_reverb.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-22T00:59Z",
-  "max_price": 579.0,
-  "min_price": 575.0,
-  "missing_runs": 1,
-  "name": "Electro Harmonix Pico Shimmer Reverb",
-  "price": 579.0,
-  "ref_price": null,
-  "reported_price": 575.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm"
- },
  "electro_harmonix_silencer.htm": {
   "badge": "",
   "discount": null,
