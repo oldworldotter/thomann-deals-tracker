@@ -3,36 +3,13 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 01:59 CET · **1791** deals tracked of 1791 advertised · checks every **3 h**
+**Last check:** 2026-11-22 05:00 CET · **1790** deals tracked of 1790 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 3 removed deals · 📦 9 stock changes → [full report](changes/2026-11-22T0059Z.md)
-
-### ❌ Removed deals (3)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Epiphone Wilshire P-90 Ebony](https://www.thomann.pl/epiphone_wilshire_p_90_ebony.htm) | 1 490 zł | ‑21% | 1 890 zł | Dostępny w magazynie |  |
-| [Alesis Strike MultiPad](https://www.thomann.pl/alesis_strike_multipad.htm) | 1 990 zł | ‑19% | 2 444 zł | Dostępny w magazynie |  |
-| [Gibson Les Paul Custom AW](https://www.thomann.pl/gibson_les_paul_custom_aw.htm) | 20 790 zł |  |  | Dostępny w magazynie |  |
-
-### 📦 Stock changes (9)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Erica Synths Steampipe](https://www.thomann.pl/erica_synths_steampipe.htm) | 3 999 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 790 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Kala KA C RW Mahogany Concert](https://www.thomann.pl/kala_ka_c_rw_mahogany_concert.htm) | 299 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Erica Synths Nightverb](https://www.thomann.pl/erica_synths_nightverb.htm) | 1 790 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 899 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Mooer F15i Li Modeling Guitar IG](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_ig.htm) | 545 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Kala KA-MRT-PUR-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm) | 169 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Tone City Substation Multi-Power Supply](https://www.thomann.pl/tone_city_substation_multi_power_supply.htm) | 171 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-
+No changes since the previous check. See [CHANGELOG.md](CHANGELOG.md) for earlier ones.
 <!-- DASHBOARD:END -->
 
 ---

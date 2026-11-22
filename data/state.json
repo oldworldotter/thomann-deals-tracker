@@ -1,18 +1,15 @@
 {
  "last_result": {
   "baseline": false,
-  "counts": {
-   "removed": 3,
-   "stock": 9
-  },
-  "deals": 1791,
-  "expected": 1791,
+  "counts": {},
+  "deals": 1790,
+  "expected": 1790,
   "pages": 92,
   "partial": false,
-  "ts": "2026-11-22T00:59Z"
+  "ts": "2026-11-22T04:00Z"
  },
- "last_run": "2026-11-22T00:59:53+00:00",
- "last_scheduled_run": "2026-11-22T00:59:53+00:00",
+ "last_run": "2026-11-22T04:00:07+00:00",
+ "last_scheduled_run": "2026-11-22T04:00:07+00:00",
  "parser_version": 2,
- "runs": 51
+ "runs": 52
 }
