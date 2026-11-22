@@ -3,29 +3,34 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 10:59 CET · **1787** deals tracked of 1787 advertised · checks every **3 h**
+**Last check:** 2026-11-22 13:59 CET · **1783** deals tracked of 1784 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🏷️ 1 discount changes · 📦 5 stock changes → [full report](changes/2026-11-22T0959Z.md)
+❌ 3 removed deals · 🏷️ 1 discount changes · 📦 2 stock changes → [full report](changes/2026-11-22T1259Z.md)
+
+### ❌ Removed deals (3)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Thon Joker Case 60x40x40](https://www.thomann.pl/thon_joker_case_60x40x40.htm) | 444 zł | ‑26% | 599 zł | Dostępny w magazynie |  |
+| [Alto TS 408 Cover Bundle](https://www.thomann.pl/alto_ts_408_cover_bundle.htm) | 999 zł | ‑23% | 1 290 zł | Dostępny w magazynie |  |
+| [Neotone Mutant Digital Handpan Ash](https://www.thomann.pl/neotone_mutant_digital_handpan_ash.htm) | 14 890 zł |  |  | Dostępny w magazynie |  |
 
 ### 🏷️ Discount changes (1)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [Traveler Guitar EG-1 Deluxe Gloss Black](https://www.thomann.pl/traveler_guitar_eg_1_deluxe_gloss_black.htm) | 1 299 zł | -37% | **-38%** |
+| [Arturia KeyLab 61 mk3 Ultra](https://www.thomann.pl/arturia_keylab_61_mk3_ultra.htm) | 2 199 zł | none | **-8%** |
 
-### 📦 Stock changes (5)
+### 📦 Stock changes (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Sterling StingRay Short RAYSS4 FRD](https://www.thomann.pl/sterling_stingray_short_rayss4_frd.htm) | 2 899 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton RG-Junior w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton RG-Junior BK Set](https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [LD Systems Maui 28 G3 MIX W](https://www.thomann.pl/ld_systems_maui_28_g3_mix_w.htm) | 6 899 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Thomann SL 5 Soprano Trombone](https://www.thomann.pl/thomann_sl5_zugtrompete.htm) | 579 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

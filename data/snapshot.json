@@ -1226,27 +1226,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/allen_heath_xone_24c_k3_bundle.htm"
  },
- "alto_ts_408_cover_bundle.htm": {
-  "badge": "",
-  "discount": 23,
-  "first_seen": "2026-11-19T16:00Z",
-  "id": "alto_ts_408_cover_bundle.htm",
-  "last_change": "2026-11-19T16:00Z",
-  "last_seen": "2026-11-22T06:59Z",
-  "max_price": 999.0,
-  "min_price": 999.0,
-  "missing_runs": 1,
-  "name": "Alto TS 408 Cover Bundle",
-  "price": 999.0,
-  "ref_price": 1290.0,
-  "reported_price": 999.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/alto_ts_408_cover_bundle.htm"
- },
  "alto_ts_412_cover_bundle.htm": {
   "badge": "",
   "discount": 17,
@@ -1770,16 +1749,16 @@
  },
  "arturia_keylab_61_mk3_ultra.htm": {
   "badge": "",
-  "discount": null,
+  "discount": 8,
   "first_seen": "2026-11-18T15:59Z",
   "id": "arturia_keylab_61_mk3_ultra.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-22T12:59Z",
   "max_price": 2199.0,
   "min_price": 2199.0,
   "missing_runs": 0,
   "name": "Arturia KeyLab 61 mk3 Ultra",
   "price": 2199.0,
-  "ref_price": null,
+  "ref_price": 2399.0,
   "reported_price": 2199.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -7605,9 +7584,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "fender_57_stratocaster_nocaster_bl_hr.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-22T09:59Z",
   "max_price": 17890.0,
   "min_price": 17890.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Fender 57 Stratocaster Nocaster Bl HR",
   "price": 17890.0,
   "ref_price": 20090.0,
@@ -10686,7 +10666,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_bm_75_trans_red.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-22T12:59Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -10697,8 +10677,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_bm_75_trans_red.htm"
  },
  "harley_benton_cld_60smce_nt_bundle.htm": {
@@ -11147,9 +11127,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_roasted_fblb.htm",
   "last_change": "2026-11-21T04:00Z",
+  "last_seen": "2026-11-22T09:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Harley Benton Fusion-III HSH Roasted FBLB",
   "price": 1299.0,
   "ref_price": 1639.0,
@@ -14575,7 +14556,6 @@
   "ref_price": null,
   "reported_price": 866.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -19661,7 +19641,6 @@
   "ref_price": null,
   "reported_price": 2699.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -21028,27 +21007,6 @@
   "stock_state": "download",
   "url": "https://www.thomann.pl/native_instruments_traktor_pro_4.htm"
  },
- "neotone_mutant_digital_handpan_ash.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "neotone_mutant_digital_handpan_ash.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-22T06:59Z",
-  "max_price": 14890.0,
-  "min_price": 14790.0,
-  "missing_runs": 1,
-  "name": "Neotone Mutant Digital Handpan Ash",
-  "price": 14890.0,
-  "ref_price": null,
-  "reported_price": 14790.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/neotone_mutant_digital_handpan_ash.htm"
- },
  "neumann_km184mt_stereoset.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -21937,9 +21895,10 @@
   "first_seen": "2026-11-18T15:59Z",
   "id": "one_control_jubilee_red_aiab.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-22T09:59Z",
   "max_price": 259.0,
   "min_price": 258.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Jubilee Red AIAB",
   "price": 259.0,
   "ref_price": null,
@@ -30827,9 +30786,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_crystal_singing_bowl_cf_8_a.htm",
   "last_change": "2026-11-20T18:59Z",
+  "last_seen": "2026-11-22T09:59Z",
   "max_price": 266.0,
   "min_price": 265.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Thomann Crystal Singing Bowl CF 8\" A",
   "price": 265.0,
   "ref_price": null,
@@ -31326,7 +31286,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_sl5_zugtrompete.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T12:59Z",
   "max_price": 579.0,
   "min_price": 575.0,
   "missing_runs": 0,
@@ -31337,8 +31297,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/thomann_sl5_zugtrompete.htm"
  },
  "thomann_sonority_chimes_penta9_c_dark.htm": {
@@ -31840,27 +31800,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/thon_flexcut_universal_mischpult_2.htm"
- },
- "thon_joker_case_60x40x40.htm": {
-  "badge": "",
-  "discount": 26,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "thon_joker_case_60x40x40.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-22T06:59Z",
-  "max_price": 444.0,
-  "min_price": 444.0,
-  "missing_runs": 1,
-  "name": "Thon Joker Case 60x40x40",
-  "price": 444.0,
-  "ref_price": 599.0,
-  "reported_price": 444.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/thon_joker_case_60x40x40.htm"
  },
  "thon_kabeltruhe.htm": {
   "badge": "",
@@ -34198,6 +34137,7 @@
   "ref_price": null,
   "reported_price": 599.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -34559,6 +34499,7 @@
   "ref_price": 1759.0,
   "reported_price": 1550.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
