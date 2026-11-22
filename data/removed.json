@@ -3,6 +3,10 @@
   "price": 1990.0,
   "removed_at": "2026-11-22T00:59Z"
  },
+ "alesis_vortex_wireless_2.htm": {
+  "price": 898.0,
+  "removed_at": "2026-11-22T21:59Z"
+ },
  "alto_truemix_600.htm": {
   "price": 389.0,
   "removed_at": "2026-11-17T12:59Z"
@@ -98,6 +102,10 @@
  "drumcraft_14_x5_concert_snare_bb.htm": {
   "price": 1699.0,
   "removed_at": "2026-11-19T03:59Z"
+ },
+ "dw_5100_drummer_throne.htm": {
+  "price": 535.0,
+  "removed_at": "2026-11-22T21:59Z"
  },
  "elation_sdc_6_faderdesk_v2_black.htm": {
   "price": 149.0,
@@ -363,6 +371,10 @@
   "price": 12666.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "music_man_sabre_blackdraft.htm": {
+  "price": 12990.0,
+  "removed_at": "2026-11-22T21:59Z"
+ },
  "neotone_mutant_digital_handpan_ash.htm": {
   "price": 14890.0,
   "removed_at": "2026-11-22T12:59Z"
@@ -479,6 +491,10 @@
   "price": 39.0,
   "removed_at": "2026-11-18T21:59Z"
  },
+ "sela_seed_chime_kenari_xl.htm": {
+  "price": 259.0,
+  "removed_at": "2026-11-22T21:59Z"
+ },
  "sela_seed_shaker_mixed.htm": {
   "price": 83.0,
   "removed_at": "2026-11-17T15:59Z"
@@ -502,6 +518,10 @@
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
   "removed_at": "2026-11-17T01:00Z"
+ },
+ "sonor_vintage_three20_rosewood_wm.htm": {
+  "price": 11990.0,
+  "removed_at": "2026-11-22T21:59Z"
  },
  "strandberg_boden_bass_standard_4_na.htm": {
   "price": 7290.0,

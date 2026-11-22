@@ -964,27 +964,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/alesis_strike_amp_8_mk2.htm"
  },
- "alesis_vortex_wireless_2.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "alesis_vortex_wireless_2.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-22T16:00Z",
-  "max_price": 898.0,
-  "min_price": 888.0,
-  "missing_runs": 1,
-  "name": "Alesis Vortex Wireless 2",
-  "price": 898.0,
-  "ref_price": null,
-  "reported_price": 898.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/alesis_vortex_wireless_2.htm"
- },
  "alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm": {
   "badge": "",
   "discount": 37,
@@ -3258,16 +3237,16 @@
  },
  "boss_vg_800_v_guitar_processor.htm": {
   "badge": "",
-  "discount": 15,
+  "discount": 16,
   "first_seen": "2026-11-16T10:55Z",
   "id": "boss_vg_800_v_guitar_processor.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 2290.0,
   "min_price": 2290.0,
   "missing_runs": 0,
   "name": "Boss VG-800 V-Guitar Processor",
   "price": 2290.0,
-  "ref_price": 2699.0,
+  "ref_price": 2739.0,
   "reported_price": 2290.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -5476,27 +5455,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/dw_3002a_double_bass_drum_pedal.htm"
- },
- "dw_5100_drummer_throne.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "dw_5100_drummer_throne.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-22T16:00Z",
-  "max_price": 535.0,
-  "min_price": 529.0,
-  "missing_runs": 1,
-  "name": "DW 5100 Drummer Throne",
-  "price": 535.0,
-  "ref_price": null,
-  "reported_price": 535.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/dw_5100_drummer_throne.htm"
  },
  "dw_dwe_e33_drum_kit_midnight_blue.htm": {
   "badge": "",
@@ -8742,16 +8700,16 @@
  },
  "focusrite_scarlett_18i20_4th_gen.htm": {
   "badge": "",
-  "discount": 19,
+  "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "focusrite_scarlett_18i20_4th_gen.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 2190.0,
   "min_price": 2190.0,
   "missing_runs": 0,
   "name": "Focusrite Scarlett 18i20 4th Gen",
   "price": 2190.0,
-  "ref_price": 2699.0,
+  "ref_price": 2777.0,
   "reported_price": 2190.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -8771,7 +8729,7 @@
   "missing_runs": 0,
   "name": "Focusrite Scarlett 18i16 4th Gen",
   "price": 1655.0,
-  "ref_price": 2077.0,
+  "ref_price": 2080.0,
   "reported_price": 1655.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -8844,16 +8802,16 @@
  },
  "focusrite_scarlett_solo_4th_gen.htm": {
   "badge": "",
-  "discount": 17,
+  "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "focusrite_scarlett_solo_4th_gen.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 475.0,
   "min_price": 475.0,
   "missing_runs": 0,
   "name": "Focusrite Scarlett Solo 4th Gen",
   "price": 475.0,
-  "ref_price": 575.0,
+  "ref_price": 577.0,
   "reported_price": 475.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -10073,7 +10031,7 @@
   "missing_runs": 0,
   "name": "Gibson LP Junior 58 DC TVY VOS LH",
   "price": 13190.0,
-  "ref_price": 15690.0,
+  "ref_price": 15790.0,
   "reported_price": 13190.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -10184,16 +10142,16 @@
  },
  "gibson_sg_61_standard_pelham_blue.htm": {
   "badge": "",
-  "discount": 5,
+  "discount": 6,
   "first_seen": "2026-11-18T15:59Z",
   "id": "gibson_sg_61_standard_pelham_blue.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 7799.0,
   "min_price": 7799.0,
   "missing_runs": 0,
   "name": "Gibson SG ´61 Standard Pelham Blue",
   "price": 7799.0,
-  "ref_price": 8222.0,
+  "ref_price": 8290.0,
   "reported_price": 7799.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -15125,16 +15083,16 @@
  },
  "jh_audio_universal_jh5_clear.htm": {
   "badge": "",
-  "discount": 19,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "jh_audio_universal_jh5_clear.htm",
-  "last_change": "2026-11-22T18:59Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 1499.0,
   "min_price": 1479.0,
   "missing_runs": 0,
   "name": "JH Audio Universal JH5 Clear",
   "price": 1499.0,
-  "ref_price": 1845.0,
+  "ref_price": null,
   "reported_price": 1499.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -15529,9 +15487,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_15s_blk_mahogany_soprano.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-22T18:59Z",
   "max_price": 171.0,
   "min_price": 169.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Kala KA-15S BLK Mahogany Soprano",
   "price": 171.0,
   "ref_price": null,
@@ -15699,7 +15658,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/kala_ka_mrt_pur_s_soprano_ukulele.htm"
  },
@@ -18414,7 +18373,7 @@
   "missing_runs": 0,
   "name": "Marcus Miller M6 Headless 5 TS",
   "price": 3055.0,
-  "ref_price": 3855.0,
+  "ref_price": 3859.0,
   "reported_price": 3055.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -19010,9 +18969,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "martin_guitars_d35_ambertone.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-22T18:59Z",
   "max_price": 16090.0,
   "min_price": 16090.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Martin Guitar D35 Ambertone",
   "price": 16090.0,
   "ref_price": 20690.0,
@@ -20267,27 +20227,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/music_man_jp15_baritone_bfr_cherry_cs.htm"
  },
- "music_man_sabre_blackdraft.htm": {
-  "badge": "",
-  "discount": 21,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "music_man_sabre_blackdraft.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-22T16:00Z",
-  "max_price": 12990.0,
-  "min_price": 12990.0,
-  "missing_runs": 1,
-  "name": "Music Man Sabre Blackdraft",
-  "price": 12990.0,
-  "ref_price": 16390.0,
-  "reported_price": 12990.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/music_man_sabre_blackdraft.htm"
- },
  "music_man_sabre_ht_honey_bear.htm": {
   "badge": "",
   "discount": null,
@@ -20704,7 +20643,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/nano_modules_st_font.htm"
  },
@@ -21520,7 +21459,7 @@
   "missing_runs": 0,
   "name": "Novation Launchpad Mini MK3",
   "price": 349.0,
-  "ref_price": 419.0,
+  "ref_price": 421.0,
   "reported_price": 349.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -21540,7 +21479,7 @@
   "missing_runs": 0,
   "name": "Novation Launchpad Pro MK3",
   "price": 1066.0,
-  "ref_price": 1368.0,
+  "ref_price": 1369.0,
   "reported_price": 1066.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -21560,7 +21499,7 @@
   "missing_runs": 0,
   "name": "Novation Launchpad X",
   "price": 619.0,
-  "ref_price": 748.0,
+  "ref_price": 749.0,
   "reported_price": 619.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -22215,7 +22154,7 @@
   "discount": 20,
   "first_seen": "2026-11-18T18:17Z",
   "id": "oxi_instruments_one_mkii_black_edition.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 3099.0,
   "min_price": 3099.0,
   "missing_runs": 0,
@@ -22226,8 +22165,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/oxi_instruments_one_mkii_black_edition.htm"
  },
  "oxi_instruments_one_mkii_nostalgia.htm": {
@@ -22286,7 +22225,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/palmer_studimon_5_bundle.htm"
  },
@@ -22721,7 +22660,7 @@
   "missing_runs": 0,
   "name": "PRS 40th Anniversary Custom 24 TE",
   "price": 26090.0,
-  "ref_price": 30290.0,
+  "ref_price": 30390.0,
   "reported_price": 26090.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -23958,9 +23897,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "sandberg_california_central_5_pf_tsb.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-22T18:59Z",
   "max_price": 7799.0,
   "min_price": 7799.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Sandberg California Central 5 PF TSB",
   "price": 7799.0,
   "ref_price": 9899.0,
@@ -24532,27 +24472,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_seed_chime_bendo.htm"
- },
- "sela_seed_chime_kenari_xl.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "sela_seed_chime_kenari_xl.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-22T16:00Z",
-  "max_price": 259.0,
-  "min_price": 258.0,
-  "missing_runs": 1,
-  "name": "Sela Seed Chime Kenari XL",
-  "price": 259.0,
-  "ref_price": null,
-  "reported_price": 258.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sela_seed_chime_kenari_xl.htm"
  },
  "sela_sepcab2_cabasa_115_mm.htm": {
   "badge": "",
@@ -25140,14 +25059,14 @@
   "discount": null,
   "first_seen": "2026-11-19T12:59Z",
   "id": "shure_slxd24e_beta58_g65.htm",
-  "last_change": "2026-11-19T12:59Z",
-  "max_price": 4099.0,
+  "last_change": "2026-11-22T21:59Z",
+  "max_price": 4190.0,
   "min_price": 4099.0,
   "missing_runs": 0,
   "name": "Shure SLXD24+E/Beta58 G65",
-  "price": 4099.0,
+  "price": 4190.0,
   "ref_price": null,
-  "reported_price": 4099.0,
+  "reported_price": 4190.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -26139,27 +26058,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sonor_jojo_mayer_single_pedal.htm"
- },
- "sonor_vintage_three20_rosewood_wm.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "sonor_vintage_three20_rosewood_wm.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-22T16:00Z",
-  "max_price": 11990.0,
-  "min_price": 11890.0,
-  "missing_runs": 1,
-  "name": "Sonor Vintage Three20 Rosewood WM",
-  "price": 11990.0,
-  "ref_price": null,
-  "reported_price": 11890.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sonor_vintage_three20_rosewood_wm.htm"
  },
  "sony_mdr7506_kopfhoerer.htm": {
   "badge": "",
@@ -27303,16 +27201,16 @@
  },
  "stairville_led_bossfx_1_pro_bundle_bundle.htm": {
   "badge": "",
-  "discount": 8,
+  "discount": 9,
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_led_bossfx_1_pro_bundle_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 1499.0,
   "min_price": 1499.0,
   "missing_runs": 0,
   "name": "Stairville LED BossFx-1 Pro Bundle Bundle",
   "price": 1499.0,
-  "ref_price": 1638.0,
+  "ref_price": 1639.0,
   "reported_price": 1499.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -27603,16 +27501,16 @@
  },
  "stairville_revueled_150_prof_26_bundle.htm": {
   "badge": "",
-  "discount": 10,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_revueled_150_prof_26_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 4333.0,
   "min_price": 4299.0,
   "missing_runs": 0,
   "name": "Stairville RevueLED 150 Prof. 26° Bundle",
   "price": 4333.0,
-  "ref_price": 4799.0,
+  "ref_price": null,
   "reported_price": 4299.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -28813,7 +28711,7 @@
   "missing_runs": 0,
   "name": "Swissonic Stage Switch POE",
   "price": 1190.0,
-  "ref_price": 1322.0,
+  "ref_price": 1325.0,
   "reported_price": 1190.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -29587,7 +29485,7 @@
   "discount": 38,
   "first_seen": "2026-11-18T15:59Z",
   "id": "terre_djembe_carved_dragon_50cm.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 255.0,
   "min_price": 255.0,
   "missing_runs": 0,
@@ -29598,8 +29496,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_50cm.htm"
  },
  "terre_djembe_carved_dragon_60cm.htm": {
@@ -31004,16 +30902,16 @@
  },
  "thomann_phoenix_s_f_tuba.htm": {
   "badge": "",
-  "discount": 10,
+  "discount": 11,
   "first_seen": "2026-11-19T16:00Z",
   "id": "thomann_phoenix_s_f_tuba.htm",
-  "last_change": "2026-11-19T16:00Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 17790.0,
   "min_price": 17790.0,
   "missing_runs": 0,
   "name": "Thomann Phoenix S F-Tuba",
   "price": 17790.0,
-  "ref_price": 19790.0,
+  "ref_price": 19890.0,
   "reported_price": 17790.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -33550,9 +33448,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "walrus_audio_canvas_rehearsal.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-22T18:59Z",
   "max_price": 744.0,
   "min_price": 739.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Walrus Audio Canvas Rehearsal",
   "price": 744.0,
   "ref_price": null,
@@ -33869,7 +33768,7 @@
   "discount": 14,
   "first_seen": "2026-11-18T18:17Z",
   "id": "wild_dog_bunyip.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 1438.0,
   "min_price": 1438.0,
   "missing_runs": 0,
@@ -33880,8 +33779,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/wild_dog_bunyip.htm"
  },
  "xln_audio_addictive_drums_2_custom.htm": {
@@ -34308,16 +34207,16 @@
  },
  "yamaha_np_35_piaggero_black.htm": {
   "badge": "",
-  "discount": 17,
+  "discount": 18,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_np_35_piaggero_black.htm",
-  "last_change": "2026-11-18T21:59Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 1029.0,
   "min_price": 1029.0,
   "missing_runs": 0,
   "name": "Yamaha NP-35 Piaggero Black",
   "price": 1029.0,
-  "ref_price": 1245.0,
+  "ref_price": 1249.0,
   "reported_price": 1029.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -34450,16 +34349,16 @@
  },
  "yamaha_psr_e283.htm": {
   "badge": "",
-  "discount": 13,
+  "discount": 14,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_psr_e283.htm",
-  "last_change": "2026-11-18T21:59Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 499.0,
   "min_price": 499.0,
   "missing_runs": 0,
   "name": "Yamaha PSR-E283",
   "price": 499.0,
-  "ref_price": 575.0,
+  "ref_price": 577.0,
   "reported_price": 499.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -34611,16 +34510,16 @@
  },
  "yamaha_pss_e30.htm": {
   "badge": "",
-  "discount": 9,
+  "discount": 10,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_pss_e30.htm",
-  "last_change": "2026-11-18T21:59Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 222.0,
   "min_price": 222.0,
   "missing_runs": 0,
   "name": "Yamaha PSS-E30",
   "price": 222.0,
-  "ref_price": 245.0,
+  "ref_price": 246.0,
   "reported_price": 222.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -35211,16 +35110,16 @@
  },
  "yamaha_yds_122_digital_saxophone.htm": {
   "badge": "",
-  "discount": 13,
+  "discount": 14,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_yds_122_digital_saxophone.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T21:59Z",
   "max_price": 1699.0,
   "min_price": 1699.0,
   "missing_runs": 0,
   "name": "Yamaha YDS-122 Digital Saxophone",
   "price": 1699.0,
-  "ref_price": 1959.0,
+  "ref_price": 1966.0,
   "reported_price": 1699.0,
   "sections": [
    "Przegląd wszystkich ofert"
