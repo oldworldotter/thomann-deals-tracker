@@ -1232,9 +1232,10 @@
   "first_seen": "2026-11-19T16:00Z",
   "id": "alto_ts_408_cover_bundle.htm",
   "last_change": "2026-11-19T16:00Z",
+  "last_seen": "2026-11-22T06:59Z",
   "max_price": 999.0,
   "min_price": 999.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Alto TS 408 Cover Bundle",
   "price": 999.0,
   "ref_price": 1290.0,
@@ -11925,7 +11926,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_bundle_2.htm",
-  "last_change": "2026-11-17T06:59Z",
+  "last_change": "2026-11-22T09:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11936,8 +11937,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm"
  },
  "harley_benton_rg_junior_bk_w_marshall_mg10g.htm": {
@@ -11945,7 +11946,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_w_marshall_mg10g.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-22T09:59Z",
   "max_price": 699.0,
   "min_price": 698.0,
   "missing_runs": 0,
@@ -11956,8 +11957,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm"
  },
  "harley_benton_rg_junior_w_soran_tiny_stomp.htm": {
@@ -11965,7 +11966,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-17T06:59Z",
+  "last_change": "2026-11-22T09:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11976,8 +11977,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm"
  },
  "harley_benton_s_620_w_soran_dual_lite.htm": {
@@ -17207,7 +17208,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_maui_28_g3_mix_w.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T09:59Z",
   "max_price": 6899.0,
   "min_price": 6899.0,
   "missing_runs": 0,
@@ -17218,8 +17219,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ld_systems_maui_28_g3_mix_w.htm"
  },
  "ld_systems_maui_28_g3_white.htm": {
@@ -21033,9 +21034,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "neotone_mutant_digital_handpan_ash.htm",
   "last_change": "2026-11-20T18:59Z",
+  "last_seen": "2026-11-22T06:59Z",
   "max_price": 14890.0,
   "min_price": 14790.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Neotone Mutant Digital Handpan Ash",
   "price": 14890.0,
   "ref_price": null,
@@ -28463,7 +28465,7 @@
   "discount": 16,
   "first_seen": "2026-11-18T18:17Z",
   "id": "sterling_stingray_short_rayss4_frd.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-22T09:59Z",
   "max_price": 2899.0,
   "min_price": 2899.0,
   "missing_runs": 0,
@@ -28474,8 +28476,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/sterling_stingray_short_rayss4_frd.htm"
  },
  "steven_slate_audio_vsx_immersion_one.htm": {
@@ -31845,9 +31847,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "thon_joker_case_60x40x40.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-22T06:59Z",
   "max_price": 444.0,
   "min_price": 444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Thon Joker Case 60x40x40",
   "price": 444.0,
   "ref_price": 599.0,
@@ -32382,16 +32385,16 @@
  },
  "traveler_guitar_eg_1_deluxe_gloss_black.htm": {
   "badge": "",
-  "discount": 37,
+  "discount": 38,
   "first_seen": "2026-11-16T10:55Z",
   "id": "traveler_guitar_eg_1_deluxe_gloss_black.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T09:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
   "name": "Traveler Guitar EG-1 Deluxe Gloss Black",
   "price": 1299.0,
-  "ref_price": 2077.0,
+  "ref_price": 2080.0,
   "reported_price": 1299.0,
   "sections": [
    "Przegląd wszystkich ofert"

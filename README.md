@@ -3,19 +3,29 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 07:59 CET · **1790** deals tracked of 1790 advertised · checks every **3 h**
+**Last check:** 2026-11-22 10:59 CET · **1787** deals tracked of 1787 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals → [full report](changes/2026-11-22T0659Z.md)
+🏷️ 1 discount changes · 📦 5 stock changes → [full report](changes/2026-11-22T0959Z.md)
 
-### ❌ Removed deals (1)
+### 🏷️ Discount changes (1)
 
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Electro Harmonix Pico Shimmer Reverb](https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm) | 579 zł |  |  | Dostępny w magazynie |  |
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Traveler Guitar EG-1 Deluxe Gloss Black](https://www.thomann.pl/traveler_guitar_eg_1_deluxe_gloss_black.htm) | 1 299 zł | -37% | **-38%** |
+
+### 📦 Stock changes (5)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Sterling StingRay Short RAYSS4 FRD](https://www.thomann.pl/sterling_stingray_short_rayss4_frd.htm) | 2 899 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton RG-Junior w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton RG-Junior BK Set](https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [LD Systems Maui 28 G3 MIX W](https://www.thomann.pl/ld_systems_maui_28_g3_mix_w.htm) | 6 899 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
