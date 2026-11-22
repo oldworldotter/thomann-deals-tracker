@@ -3,52 +3,55 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 17:00 CET · **1781** deals tracked of 1781 advertised · checks every **3 h**
+**Last check:** 2026-11-22 19:59 CET · **1776** deals tracked of 1777 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · 📈 16 price increases · 🏷️ 5 discount changes · 📦 1 stock changes → [full report](changes/2026-11-22T1600Z.md)
+❌ 1 removed deals · 📈 11 price increases · 🏷️ 7 discount changes · 📦 2 stock changes → [full report](changes/2026-11-22T1859Z.md)
 
 ### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Rivera Stage IV Combo](https://www.thomann.pl/rivera_stage_iv_combo.htm) | 10 990 zł |  |  | Dostępny w magazynie |  |
+| [Hils HNT1R Metallic Ocean Blue](https://www.thomann.pl/hils_hnt1r_metallic_ocean_blue.htm) | 1 444 zł | ‑27% | 1 990 zł | Dostępny w magazynie |  |
 
-### 📈 Price increases (16)
+### 📈 Price increases (11)
 
 | Product | Was | Now | Change | Discount | 30-day best | Stock |
 |---|--:|--:|--:|--:|--:|---|
-| [Thomann Guitar Set G13 Sunburst](https://www.thomann.pl/thomann_gitarren_set_g13_sunburst.htm) | 543.66 zł | **579 zł** | +6.5% |  |  | Dostępny w magazynie |
-| [Harley Benton PJ-75 VW Vintage Series](https://www.thomann.pl/harley_benton_pj_75ow_vintage.htm) | 699.87 zł | **744 zł** | +6.3% |  |  | Dostępny w magazynie |
-| [Thomann Tibetan Zen Singing Bowl 1200g](https://www.thomann.pl/thomann_tibetan_zen_singing_bowl_1200g.htm) | 375.15 zł | **398 zł** | +6.1% | ‑7% | 429 zł | Dostępny w magazynie |
-| [Mackie DRM18S](https://www.thomann.pl/mackie_drm_18s.htm) | 4 645.71 zł | **4 899 zł** | +5.5% | ‑9% | 5 390 zł | Dostępny w magazynie |
-| [B&S Metropolitan C- Trumpet](https://www.thomann.pl/bs_metropolitan_c_trumpet.htm) | 15 362.70 zł | **16 190 zł** | +5.4% |  |  | Dostępny w magazynie |
-| [Stairville LED Matrix Blinder 5x5 RGB WW](https://www.thomann.pl/stairville_led_matrix_blinder_5x5_rgb_ww.htm) | 1 474.77 zł | **1 555 zł** | +5.4% |  |  | Dostępny w magazynie |
-| [Mooer Hornet 15i Modeling Amp White](https://www.thomann.pl/mooer_hornet_05i_modeling_amp_white.htm) | 335.79 zł | **353 zł** | +5.1% |  |  | Dostępny w magazynie |
-| [the t.bone Sync 2 Pro](https://www.thomann.pl/the_t.bone_sync_2_pro.htm) | 380.07 zł | **399 zł** | +5.0% |  |  | Dostępny w magazynie |
-| [Godin A12 Ultra Dlx Lightburst](https://www.thomann.pl/godin_a12_ultra_dlx_lightburst.htm) | 10 659.18 zł | **11 190 zł** | +5.0% |  |  | Dostępny w magazynie |
-| [Daddario XSAPB1356-3P](https://www.thomann.pl/daddario_xsapb1356_3p.htm) | 185.73 zł | **195 zł** | +5.0% |  |  | Dostępny w magazynie |
+| [Ortofon DJ/S Spare Stylus twin](https://www.thomann.pl/ortofon_dj_s_spare_stylus_twin.htm) | 399 zł | **411 zł** | +3.0% |  |  | Dostępny w magazynie |
+| [Focal Alpha 65 Evo](https://www.thomann.pl/focal_alpha_65_evo.htm) | 1 399 zł | **1 433 zł** | +2.4% |  |  | Dostępny w magazynie |
+| [Yamaha Stagepas 600BT](https://www.thomann.pl/yamaha_stagepas_600bt.htm) | 4 699 zł | **4 790 zł** | +1.9% |  |  | Dostępny w magazynie |
+| [LD Systems Maui 28 G3](https://www.thomann.pl/ld_systems_maui_28_g3.htm) | 5 599 zł | **5 699 zł** | +1.8% |  |  | Dostępny w magazynie |
+| [Native Instruments Maschine +](https://www.thomann.pl/native_instruments_maschine_501389.htm) | 3 099 zł | **3 150 zł** | +1.6% |  |  | Dostępny w magazynie |
+| [LD Systems Maui 28 G3 MIX](https://www.thomann.pl/ld_systems_maui_28_g3_mix.htm) | 6 699 zł | **6 799 zł** | +1.5% |  |  | Dostępny w magazynie |
+| [JH Audio Universal JH5 Clear](https://www.thomann.pl/jh_audio_universal_jh5_clear.htm) | 1 479 zł | **1 499 zł** | +1.4% | ‑19% | 1 845 zł | Dostępny w magazynie |
+| [Audix D6](https://www.thomann.pl/audix_d6_bassdrummikro.htm) | 789 zł | **799 zł** | +1.3% |  |  | Dostępny w magazynie |
+| [Shure SLXD24D+E/Beta58 G65](https://www.thomann.pl/shure_slxd24de_beta58_g65.htm) | 8 299 zł | **8 390 zł** | +1.1% |  |  | Dostępny w magazynie |
+| [ADJ Entour Snow](https://www.thomann.pl/adj_entour_snow.htm) | 2 199 zł | **2 222 zł** | +1.0% |  |  | Dostępny w magazynie |
 
-…and 6 more in the full report.
+…and 1 more in the full report.
 
-### 🏷️ Discount changes (5)
+### 🏷️ Discount changes (7)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [Celemony Melodyne 5 editor UG Bundle](https://www.thomann.pl/celemony_melodyne_5_editor_ug_bundle.htm) | 744 zł | none | **-47%** |
-| [Furch Blue Plus D-SW a](https://www.thomann.pl/furch_blue_plus_d_sw.htm) | 4 999 zł | none | **-11%** |
-| [Thomann Tibetan Zen Singing Bowl 1200g](https://www.thomann.pl/thomann_tibetan_zen_singing_bowl_1200g.htm) | 398 zł | none | **-7%** |
-| [Mackie DRM18S](https://www.thomann.pl/mackie_drm_18s.htm) | 4 899 zł | none | **-9%** |
-| [Breedlove Rainforest S Concert CE MB](https://www.thomann.pl/breedlove_rainforest_s_concert_ce_mb.htm) | 1 299 zł | none | **-24%** |
+| [Buffet Crampon Prodige Bb-Clarinet 17/6](https://www.thomann.pl/buffet_crampon_prodige_bb_clarinet_17_6.htm) | 2 299 zł | -8% | **-10%** |
+| [Fun Generation PL 115 P](https://www.thomann.pl/fun_generation_pl_115_p.htm) | 349 zł | -20% | **-21%** |
+| [JH Audio Universal JH5 Clear](https://www.thomann.pl/jh_audio_universal_jh5_clear.htm) | 1 499 zł | -18% | **-19%** |
+| [Midas Legend L10](https://www.thomann.pl/midas_legend_l10.htm) | 899 zł | -22% | **-23%** |
+| [Novation Launchkey Mini 25 MK4](https://www.thomann.pl/novation_launchkey_mini_25_mk4.htm) | 444 zł | -9% | **-10%** |
+| [the t.racks DSP 4x4 Mini Amp](https://www.thomann.pl/the_t.racks_dsp_4x4_mini_amp.htm) | 798 zł | -6% | **-7%** |
+| [M-Audio Oxygen Pro 49](https://www.thomann.pl/m_audio_oxygen_pro_49.htm) | 699 zł | -15% | **-16%** |
 
-### 📦 Stock changes (1)
+### 📦 Stock changes (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton Custom Line King-12 CE NT](https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton GS-Travel-E Mahogany](https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 655 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
