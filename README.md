@@ -3,37 +3,34 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 16:10 CET · **1782** deals tracked of 1782 advertised · checks every **3 h**
+**Last check:** 2026-11-22 17:00 CET · **1781** deals tracked of 1781 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 4 removed deals · 💸 16 price drops · 🏷️ 5 discount changes · 📦 2 stock changes → [full report](changes/2026-11-22T1510Z.md)
+❌ 1 removed deals · 📈 16 price increases · 🏷️ 5 discount changes · 📦 1 stock changes → [full report](changes/2026-11-22T1600Z.md)
 
-### ❌ Removed deals (4)
+### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | ‑21% | 1 639 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
-| [Fender 57 Stratocaster Nocaster Bl HR](https://www.thomann.pl/fender_57_stratocaster_nocaster_bl_hr.htm) | 17 890 zł | ‑11% | 20 090 zł | Dostępny w magazynie |  |
-| [One Control Jubilee Red AIAB](https://www.thomann.pl/one_control_jubilee_red_aiab.htm) | 259 zł |  |  | Dostępny w magazynie |  |
-| [Thomann Crystal Singing Bowl CF 8" A](https://www.thomann.pl/thomann_crystal_singing_bowl_cf_8_a.htm) | 265 zł |  |  | Dostępny w magazynie |  |
+| [Rivera Stage IV Combo](https://www.thomann.pl/rivera_stage_iv_combo.htm) | 10 990 zł |  |  | Dostępny w magazynie |  |
 
-### 💸 Price drops (16)
+### 📈 Price increases (16)
 
 | Product | Was | Now | Change | Discount | 30-day best | Stock |
 |---|--:|--:|--:|--:|--:|---|
-| [Thomann Tibetan Zen Singing Bowl 1200g](https://www.thomann.pl/thomann_tibetan_zen_singing_bowl_1200g.htm) | 398 zł | **375.15 zł** | -5.7% |  |  | Dostępny w magazynie |
-| [Thomann Guitar Set G13 Sunburst](https://www.thomann.pl/thomann_gitarren_set_g13_sunburst.htm) | 575 zł | **543.66 zł** | -5.5% |  |  | Dostępny w magazynie |
-| [Harley Benton PJ-75 VW Vintage Series](https://www.thomann.pl/harley_benton_pj_75ow_vintage.htm) | 739 zł | **699.87 zł** | -5.3% |  |  | Dostępny w magazynie |
-| [Stairville LED Matrix Blinder 5x5 RGB WW](https://www.thomann.pl/stairville_led_matrix_blinder_5x5_rgb_ww.htm) | 1 555 zł | **1 474.77 zł** | -5.2% |  |  | Dostępny w magazynie |
-| [Mackie DRM18S](https://www.thomann.pl/mackie_drm_18s.htm) | 4 899 zł | **4 645.71 zł** | -5.2% |  |  | Dostępny w magazynie |
-| [Daddario XSAPB1356-3P](https://www.thomann.pl/daddario_xsapb1356_3p.htm) | 195 zł | **185.73 zł** | -4.8% |  |  | Dostępny w magazynie |
-| [B&S Metropolitan C- Trumpet](https://www.thomann.pl/bs_metropolitan_c_trumpet.htm) | 16 090 zł | **15 362.70 zł** | -4.5% |  |  | Dostępny w magazynie |
-| [the t.bone Sync 2 Pro](https://www.thomann.pl/the_t.bone_sync_2_pro.htm) | 398 zł | **380.07 zł** | -4.5% |  |  | Dostępny w magazynie |
-| [Mooer Hornet 15i Modeling Amp White](https://www.thomann.pl/mooer_hornet_05i_modeling_amp_white.htm) | 351 zł | **335.79 zł** | -4.3% |  |  | Dostępny w magazynie |
-| [Furch Blue Plus D-SW a](https://www.thomann.pl/furch_blue_plus_d_sw.htm) | 4 999 zł | **4 795.77 zł** | -4.1% |  |  | Dostępny w magazynie |
+| [Thomann Guitar Set G13 Sunburst](https://www.thomann.pl/thomann_gitarren_set_g13_sunburst.htm) | 543.66 zł | **579 zł** | +6.5% |  |  | Dostępny w magazynie |
+| [Harley Benton PJ-75 VW Vintage Series](https://www.thomann.pl/harley_benton_pj_75ow_vintage.htm) | 699.87 zł | **744 zł** | +6.3% |  |  | Dostępny w magazynie |
+| [Thomann Tibetan Zen Singing Bowl 1200g](https://www.thomann.pl/thomann_tibetan_zen_singing_bowl_1200g.htm) | 375.15 zł | **398 zł** | +6.1% | ‑7% | 429 zł | Dostępny w magazynie |
+| [Mackie DRM18S](https://www.thomann.pl/mackie_drm_18s.htm) | 4 645.71 zł | **4 899 zł** | +5.5% | ‑9% | 5 390 zł | Dostępny w magazynie |
+| [B&S Metropolitan C- Trumpet](https://www.thomann.pl/bs_metropolitan_c_trumpet.htm) | 15 362.70 zł | **16 190 zł** | +5.4% |  |  | Dostępny w magazynie |
+| [Stairville LED Matrix Blinder 5x5 RGB WW](https://www.thomann.pl/stairville_led_matrix_blinder_5x5_rgb_ww.htm) | 1 474.77 zł | **1 555 zł** | +5.4% |  |  | Dostępny w magazynie |
+| [Mooer Hornet 15i Modeling Amp White](https://www.thomann.pl/mooer_hornet_05i_modeling_amp_white.htm) | 335.79 zł | **353 zł** | +5.1% |  |  | Dostępny w magazynie |
+| [the t.bone Sync 2 Pro](https://www.thomann.pl/the_t.bone_sync_2_pro.htm) | 380.07 zł | **399 zł** | +5.0% |  |  | Dostępny w magazynie |
+| [Godin A12 Ultra Dlx Lightburst](https://www.thomann.pl/godin_a12_ultra_dlx_lightburst.htm) | 10 659.18 zł | **11 190 zł** | +5.0% |  |  | Dostępny w magazynie |
+| [Daddario XSAPB1356-3P](https://www.thomann.pl/daddario_xsapb1356_3p.htm) | 185.73 zł | **195 zł** | +5.0% |  |  | Dostępny w magazynie |
 
 …and 6 more in the full report.
 
@@ -41,18 +38,17 @@ Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [Celemony Melodyne 5 editor UG Bundle](https://www.thomann.pl/celemony_melodyne_5_editor_ug_bundle.htm) | 743.99 zł | -47% | **none** |
-| [Furch Blue Plus D-SW a](https://www.thomann.pl/furch_blue_plus_d_sw.htm) | 4 795.77 zł | -11% | **none** |
-| [Thomann Tibetan Zen Singing Bowl 1200g](https://www.thomann.pl/thomann_tibetan_zen_singing_bowl_1200g.htm) | 375.15 zł | -7% | **none** |
-| [Mackie DRM18S](https://www.thomann.pl/mackie_drm_18s.htm) | 4 645.71 zł | -9% | **none** |
-| [Breedlove Rainforest S Concert CE MB](https://www.thomann.pl/breedlove_rainforest_s_concert_ce_mb.htm) | 1 286 zł | -24% | **none** |
+| [Celemony Melodyne 5 editor UG Bundle](https://www.thomann.pl/celemony_melodyne_5_editor_ug_bundle.htm) | 744 zł | none | **-47%** |
+| [Furch Blue Plus D-SW a](https://www.thomann.pl/furch_blue_plus_d_sw.htm) | 4 999 zł | none | **-11%** |
+| [Thomann Tibetan Zen Singing Bowl 1200g](https://www.thomann.pl/thomann_tibetan_zen_singing_bowl_1200g.htm) | 398 zł | none | **-7%** |
+| [Mackie DRM18S](https://www.thomann.pl/mackie_drm_18s.htm) | 4 899 zł | none | **-9%** |
+| [Breedlove Rainforest S Concert CE MB](https://www.thomann.pl/breedlove_rainforest_s_concert_ce_mb.htm) | 1 299 zł | none | **-24%** |
 
-### 📦 Stock changes (2)
+### 📦 Stock changes (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton TravelMate-E](https://www.thomann.pl/harley_benton_travelmate_e.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton DC-Custom 612 Cherry](https://www.thomann.pl/harley_benton_dc_custom_612_cherry.htm) | 1 955 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Custom Line King-12 CE NT](https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
