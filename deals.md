@@ -1,7 +1,7 @@
 # All current deals
 
 Source: https://www.thomann.pl/special_cyber-deals.html  
-Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
+Last check: **2026-11-22 01:59 CET** · **1791** deals · sorted by `newest`
 
 | # | Product | Price | Discount | 30-day best | Lowest seen | Stock | Badge | First seen |
 |--:|---|--:|--:|--:|--:|---|---|---|
@@ -342,7 +342,7 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 335 | [Pearl HWP-934 Hardware Set](https://www.thomann.pl/pearl_hwp_934_hardware_set.htm) | 1 990 zł | ‑23% | 2 599 zł |  | Dostępny w magazynie |  | 2026‑11‑17 10:59 |
 | 336 | [Ultimate Ears UE 150](https://www.thomann.pl/ultimate_ears_ue_150.htm) | 959 zł |  |  | 958 zł | Dostępny w magazynie |  | 2026‑11‑17 10:59 |
 | 337 | [PRS SE Custom 24 S/H CA 2025](https://www.thomann.pl/prs_se_custom_24_s_h_ca_2025.htm) | 3 990 zł |  |  | 3 899 zł | Dostępny za 2–3 tygodnie | GIVEAWAY | 2026‑11‑17 04:59 |
-| 338 | [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 899 zł |  |  | 5 799 zł | dostępny w magazynie |  | 2026‑11‑17 04:59 |
+| 338 | [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 899 zł |  |  | 5 799 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑17 04:59 |
 | 339 | [Yamaha Reface CP](https://www.thomann.pl/yamaha_reface_cp.htm) | 1 333 zł | ‑21% | 1 690 zł |  | Dostępny w magazynie |  | 2026‑11‑17 02:00 |
 | 340 | [Harley Benton TE-20HH SBK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_sbk_w_soran_dual_stomp.htm) | 699 zł |  |  | 698 zł | Dostępny w magazynie |  | 2026‑11‑16 16:32 |
 | 341 | [PRS DGT 15 Combo](https://www.thomann.pl/prs_dgt_15_combo.htm) | 3 899 zł | ‑30% | 5 599 zł |  | Dostępny za 3–4 tygodnie |  | 2026‑11‑16 12:34 |
@@ -350,7 +350,7 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 343 | [SSL Connex](https://www.thomann.pl/ssl_connex.htm) | 118 zł | ‑61% | 299 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 344 | [Rhodes V8 Pro](https://www.thomann.pl/rhodes_v8_pro.htm) | 429 zł | ‑61% | 1 111 zł |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
 | 345 | [Synchro Arts RePitch 2 Standard](https://www.thomann.pl/synchro_arts_repitch_2_standard.htm) | 239 zł | ‑57% | 555 zł |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
-| 346 | [Kala KA C RW Mahogany Concert](https://www.thomann.pl/kala_ka_c_rw_mahogany_concert.htm) | 299 zł | ‑54% | 645 zł |  | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 346 | [Kala KA C RW Mahogany Concert](https://www.thomann.pl/kala_ka_c_rw_mahogany_concert.htm) | 299 zł | ‑54% | 645 zł |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 347 | [One Control Micro Distro All-In-One-Pack](https://www.thomann.pl/one_control_micro_distro_all_in_one_pack.htm) | 389 zł | ‑54% | 845 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 348 | [Antares Harmony Engine](https://www.thomann.pl/antares_harmony_engine_evo.htm) | 499 zł | ‑54% | 1 075 zł |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
 | 349 | [Toontrack Superior Drummer 3 Crossgrade](https://www.thomann.pl/toontrack_superior_drummer_3_crossgrade.htm) | 599 zł | ‑54% | 1 290 zł |  | Pobierz licencję |  | 2026‑11‑16 11:55 |
@@ -513,7 +513,7 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 506 | [Hotone Ampero II Stage](https://www.thomann.pl/hotone_ampero_ii_stage.htm) | 2 190 zł | ‑18% | 2 666 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 507 | [Pearl Midtown Matte Black](https://www.thomann.pl/pearl_midtown_matte_black.htm) | 2 290 zł | ‑18% | 2 790 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 508 | [Pearl Midtown Pure White](https://www.thomann.pl/pearl_midtown_pure_white.htm) | 2 290 zł | ‑18% | 2 777 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 509 | [Erica Synths Steampipe](https://www.thomann.pl/erica_synths_steampipe.htm) | 3 999 zł | ‑18% | 4 890 zł |  | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 509 | [Erica Synths Steampipe](https://www.thomann.pl/erica_synths_steampipe.htm) | 3 999 zł | ‑18% | 4 890 zł |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 510 | [Cameo HydraBeam 4000 RGBW Bundle](https://www.thomann.pl/cameo_hydrabeam_4000_rgbw_bundle_set.htm) | 6 099 zł | ‑18% | 7 399 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 511 | [ESP LTD RS-1000 PW](https://www.thomann.pl/esp_ltd_rs_1000_pw.htm) | 6 666 zł | ‑18% | 8 099 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 512 | [Novation Launchpad Mini MK3](https://www.thomann.pl/novation_launchpad_mini_mk3.htm) | 349 zł | ‑17% | 419 zł |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -839,13 +839,13 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 832 | [Daddario XSE0942-3P](https://www.thomann.pl/daddario_xse0942_3p.htm) | 169 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
 | 833 | [Valeton Dapper Mini 4 Effect Strip](https://www.thomann.pl/valeton_dapper_mini_4_effect_strip.htm) | 169 zł |  |  |  | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 834 | [Daddario XSE1149-3P](https://www.thomann.pl/daddario_xse1149_3p.htm) | 169 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
-| 835 | [Kala KA-MRT-PUR-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm) | 169 zł |  |  |  | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 835 | [Kala KA-MRT-PUR-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm) | 169 zł |  |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 836 | [Kala KA-15S BLK Mahogany Soprano](https://www.thomann.pl/kala_ka_15s_blk_mahogany_soprano.htm) | 171 zł |  |  | 169 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 837 | [Harley Benton MiniStomp Copy Paste](https://www.thomann.pl/harley_benton_ministomp_copy_paste.htm) | 171 zł |  |  | 169 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 838 | [K&M 12197](https://www.thomann.pl/km_12197.htm) | 171 zł |  |  | 170 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 839 | [Kala KA-MRT-RED-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_red_c_konzert_ukulele.htm) | 171 zł |  |  | 170 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 840 | [Kala KA-MRT-BLU-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_blu_c_concert_ukulele.htm) | 171 zł |  |  | 170 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 841 | [Tone City Substation Multi-Power Supply](https://www.thomann.pl/tone_city_substation_multi_power_supply.htm) | 171 zł |  |  | 170 zł | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 841 | [Tone City Substation Multi-Power Supply](https://www.thomann.pl/tone_city_substation_multi_power_supply.htm) | 171 zł |  |  | 170 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 842 | [Millenium DI600-A](https://www.thomann.pl/millenium_di600_a.htm) | 175 zł |  |  | 173 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 843 | [Daddario XSE1046-3P](https://www.thomann.pl/daddario_xse1046_3p.htm) | 175 zł |  |  |  | Dostępny w magazynie | GIVEAWAY | 2026‑11‑16 11:55 |
 | 844 | [Audiomodern Riffer 4](https://www.thomann.pl/audiomodern_riffer_4.htm) | 185 zł |  |  | 179 zł | Pobierz licencję |  | 2026‑11‑16 11:55 |
@@ -869,7 +869,7 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 862 | [Morley Volume Commander](https://www.thomann.pl/morley_volume_commander.htm) | 215 zł |  |  | 214 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 863 | [Hohner Performer Melodica 37 Black](https://www.thomann.pl/hohner_performer_melodica_37_black.htm) | 215 zł |  |  | 211 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 864 | [Harley Benton DC-Ukulele CH](https://www.thomann.pl/harley_benton_dc_ukulele_ch.htm) | 215 zł |  |  | 211 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 865 | [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł |  |  | 214 zł | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 865 | [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł |  |  | 214 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 866 | [Kala Surf Swell Ukulele](https://www.thomann.pl/kala_surf_swell_ukulele.htm) | 215 zł |  |  | 214 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 867 | [Zoom MS-200D+](https://www.thomann.pl/zoom_ms_200d.htm) | 218 zł |  |  | 215 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 868 | [Thomann Sonority Chimes Terra](https://www.thomann.pl/thomann_sonority_chimes_terra.htm) | 219 zł |  |  | 218 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -1045,7 +1045,7 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 1038 | [Varytec BeamStick 40](https://www.thomann.pl/varytec_beamstick_40.htm) | 539 zł |  |  | 538 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1039 | [Boss Katana Go Headphone Bundle](https://www.thomann.pl/boss_katana_go_headphone_bundle.htm) | 545 zł |  |  | 542 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1040 | [Mooer F15i Li Modeling Guitar SW](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_sw.htm) | 545 zł |  |  | 539 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 1041 | [Mooer F15i Li Modeling Guitar IG](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_ig.htm) | 545 zł |  |  | 539 zł | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 1041 | [Mooer F15i Li Modeling Guitar IG](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_ig.htm) | 545 zł |  |  | 539 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1042 | [Mooer F15i Li Modeling Guitar PB](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_pb.htm) | 545 zł |  |  | 539 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1043 | [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł |  |  | 545 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1044 | [Kunath Sigo Tenor Recorder](https://www.thomann.pl/kunath_sigo_tenor_recorder.htm) | 549 zł |  |  | 545 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
@@ -1376,9 +1376,9 @@ Last check: **2026-11-21 22:46 CET** · **1791** deals · sorted by `newest`
 | 1369 | [Shure SLXD25/SM58 H56](https://www.thomann.pl/shure_slxd25_sm58_h56.htm) | 1 755 zł |  |  | 1 745 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1370 | [Larry Carlton S5 HSS CAR](https://www.thomann.pl/larry_carlton_s5_hss_car.htm) | 1 755 zł |  |  | 1 745 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1371 | [Stairville CLB5 6P RGB WW Compact Bundle](https://www.thomann.pl/stairville_clb5_6p_rgb_ww_compact_bundle.htm) | 1 769 zł |  |  | 1 759 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 1372 | [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 790 zł |  |  | 1 777 zł | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 1372 | [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 790 zł |  |  | 1 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1373 | [Erica Synths Razornator](https://www.thomann.pl/erica_synths_razornator.htm) | 1 790 zł |  |  | 1 777 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
-| 1374 | [Erica Synths Nightverb](https://www.thomann.pl/erica_synths_nightverb.htm) | 1 790 zł |  |  | 1 777 zł | dostępny w magazynie |  | 2026‑11‑16 11:55 |
+| 1374 | [Erica Synths Nightverb](https://www.thomann.pl/erica_synths_nightverb.htm) | 1 790 zł |  |  | 1 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  | 2026‑11‑16 11:55 |
 | 1375 | [Novation Bass Station II](https://www.thomann.pl/novation_bass_station_ii.htm) | 1 790 zł |  |  | 1 777 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1376 | [Erica Synths Xenodrive](https://www.thomann.pl/erica_synths_xenodrive.htm) | 1 790 zł |  |  | 1 777 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |
 | 1377 | [Universal Audio UAD-2 Satellite TB3 Quad](https://www.thomann.pl/universal_audio_uad_2_satellite_tb3_quad.htm) | 1 790 zł |  |  | 1 759 zł | Dostępny w magazynie |  | 2026‑11‑16 11:55 |

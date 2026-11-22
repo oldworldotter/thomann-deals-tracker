@@ -964,27 +964,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/alesis_strike_amp_8_mk2.htm"
  },
- "alesis_strike_multipad.htm": {
-  "badge": "",
-  "discount": 19,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "alesis_strike_multipad.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-21T19:00Z",
-  "max_price": 1990.0,
-  "min_price": 1990.0,
-  "missing_runs": 1,
-  "name": "Alesis Strike MultiPad",
-  "price": 1990.0,
-  "ref_price": 2444.0,
-  "reported_price": 1990.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/alesis_strike_multipad.htm"
- },
  "alesis_vortex_wireless_2.htm": {
   "badge": "",
   "discount": null,
@@ -6418,33 +6397,12 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/epiphone_sheraton_natural.htm"
  },
- "epiphone_wilshire_p_90_ebony.htm": {
-  "badge": "",
-  "discount": 21,
-  "first_seen": "2026-11-21T04:00Z",
-  "id": "epiphone_wilshire_p_90_ebony.htm",
-  "last_change": "2026-11-21T04:00Z",
-  "last_seen": "2026-11-21T19:00Z",
-  "max_price": 1490.0,
-  "min_price": 1490.0,
-  "missing_runs": 1,
-  "name": "Epiphone Wilshire P-90 Ebony",
-  "price": 1490.0,
-  "ref_price": 1890.0,
-  "reported_price": 1490.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/epiphone_wilshire_p_90_ebony.htm"
- },
  "erica_synths_echolocator.htm": {
   "badge": "",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_echolocator.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 1790.0,
   "min_price": 1777.0,
   "missing_runs": 0,
@@ -6455,8 +6413,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/erica_synths_echolocator.htm"
  },
  "erica_synths_nightverb.htm": {
@@ -6464,7 +6422,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_nightverb.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 1790.0,
   "min_price": 1777.0,
   "missing_runs": 0,
@@ -6475,8 +6433,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/erica_synths_nightverb.htm"
  },
  "erica_synths_razornator.htm": {
@@ -6504,7 +6462,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_steampipe.htm",
-  "last_change": "2026-11-18T12:59Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 3999.0,
   "min_price": 3999.0,
   "missing_runs": 0,
@@ -6515,8 +6473,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/erica_synths_steampipe.htm"
  },
  "erica_synths_xenodrive.htm": {
@@ -10021,27 +9979,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_les_paul_68_custom_reissue_eb.htm"
- },
- "gibson_les_paul_custom_aw.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-19T16:00Z",
-  "id": "gibson_les_paul_custom_aw.htm",
-  "last_change": "2026-11-19T16:00Z",
-  "last_seen": "2026-11-21T19:00Z",
-  "max_price": 20790.0,
-  "min_price": 20690.0,
-  "missing_runs": 1,
-  "name": "Gibson Les Paul Custom AW",
-  "price": 20790.0,
-  "ref_price": null,
-  "reported_price": 20690.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gibson_les_paul_custom_aw.htm"
  },
  "gibson_les_paul_standard_60s_aaa_lb.htm": {
   "badge": "",
@@ -15710,7 +15647,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_20ce_concert_ukulele.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 215.0,
   "min_price": 214.0,
   "missing_runs": 0,
@@ -15721,8 +15658,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm"
  },
  "kala_ka_20s_soprano_ukulele.htm": {
@@ -15770,7 +15707,7 @@
   "discount": 54,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_c_rw_mahogany_concert.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 299.0,
   "min_price": 299.0,
   "missing_runs": 0,
@@ -15781,8 +15718,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ka_c_rw_mahogany_concert.htm"
  },
  "kala_ka_ka_mrt_red_soprano_ukulele.htm": {
@@ -15830,7 +15767,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_mrt_pur_c_concert_ukulele.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 170.0,
   "min_price": 169.0,
   "missing_runs": 0,
@@ -15841,8 +15778,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm"
  },
  "kala_ka_mrt_pur_s_soprano_ukulele.htm": {
@@ -19682,7 +19619,6 @@
   "ref_price": 4399.0,
   "reported_price": 3990.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -19744,6 +19680,7 @@
   "ref_price": null,
   "reported_price": 2699.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -19935,7 +19872,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "mooer_f15i_li_modeling_guitar_ig.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 545.0,
   "min_price": 539.0,
   "missing_runs": 0,
@@ -19946,8 +19883,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/mooer_f15i_li_modeling_guitar_ig.htm"
  },
  "mooer_f15i_li_modeling_guitar_pb.htm": {
@@ -32287,7 +32224,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "tone_city_substation_multi_power_supply.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 171.0,
   "min_price": 170.0,
   "missing_runs": 0,
@@ -32298,8 +32235,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/tone_city_substation_multi_power_supply.htm"
  },
  "tone_king_imperial_mk_ii_trq.htm": {
@@ -35252,7 +35189,7 @@
   "discount": null,
   "first_seen": "2026-11-17T03:59Z",
   "id": "yamaha_tas3_c_sand_burst.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-22T00:59Z",
   "max_price": 5899.0,
   "min_price": 5799.0,
   "missing_runs": 0,
@@ -35263,8 +35200,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm"
  },
  "yamaha_yas_280_alto_sax.htm": {

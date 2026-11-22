@@ -1,4 +1,8 @@
 {
+ "alesis_strike_multipad.htm": {
+  "price": 1990.0,
+  "removed_at": "2026-11-22T00:59Z"
+ },
  "alto_truemix_600.htm": {
   "price": 389.0,
   "removed_at": "2026-11-17T12:59Z"
@@ -119,6 +123,10 @@
   "price": 1699.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "epiphone_wilshire_p_90_ebony.htm": {
+  "price": 1490.0,
+  "removed_at": "2026-11-22T00:59Z"
+ },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "price": 7222.0,
   "removed_at": "2026-11-20T06:59Z"
@@ -166,6 +174,10 @@
  "gibson_les_paul_custom_70s_wine_red.htm": {
   "price": 13190.0,
   "removed_at": "2026-11-17T18:59Z"
+ },
+ "gibson_les_paul_custom_aw.htm": {
+  "price": 20790.0,
+  "removed_at": "2026-11-22T00:59Z"
  },
  "gibson_les_paul_standard_60s_dt_vcs.htm": {
   "price": 9699.0,

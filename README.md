@@ -3,57 +3,35 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-21 22:46 CET · **1791** deals tracked of 1791 advertised · checks every **3 h**
+**Last check:** 2026-11-22 01:59 CET · **1791** deals tracked of 1791 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · 📈 12 price increases · 🏷️ 6 discount changes · 📦 5 stock changes → [full report](changes/2026-11-21T2146Z.md)
+❌ 3 removed deals · 📦 9 stock changes → [full report](changes/2026-11-22T0059Z.md)
 
-### ❌ Removed deals (1)
+### ❌ Removed deals (3)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Friedman IR-D Black/Silver/Red LTD](https://www.thomann.pl/friedman_ir_d_black_silver_red_ltd.htm) | 1 955 zł |  |  | Dostępny w magazynie |  |
+| [Epiphone Wilshire P-90 Ebony](https://www.thomann.pl/epiphone_wilshire_p_90_ebony.htm) | 1 490 zł | ‑21% | 1 890 zł | Dostępny w magazynie |  |
+| [Alesis Strike MultiPad](https://www.thomann.pl/alesis_strike_multipad.htm) | 1 990 zł | ‑19% | 2 444 zł | Dostępny w magazynie |  |
+| [Gibson Les Paul Custom AW](https://www.thomann.pl/gibson_les_paul_custom_aw.htm) | 20 790 zł |  |  | Dostępny w magazynie |  |
 
-### 📈 Price increases (12)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Epiphone 1960 Les Paul Special DC TVY](https://www.thomann.pl/epiphone_1960_les_paul_special_dc_tvy.htm) | 3 899 zł | **3 990 zł** | +2.3% |  |  | Dostępny w magazynie |
-| [Stairville DuoBlind 200 WW](https://www.thomann.pl/stairville_duoblind_200_ww.htm) | 999 zł | **1 022 zł** | +2.3% |  |  | Dostępny w magazynie |
-| [Zildjian K Sweet Cymbal Set Thomann Edt](https://www.thomann.pl/zildjian_k_sweet_cymbal_set_thomann_edt.htm) | 6 099 zł | **6 222 zł** | +2.0% |  |  | Dostępny w magazynie |
-| [LANDR Mastering Plugin Pro](https://www.thomann.pl/landr_mastering_plugin_pro.htm) | 599 zł | **611 zł** | +2.0% |  |  | Pobierz licencję |
-| [Yamaha PSR-E483](https://www.thomann.pl/yamaha_psr_e483.htm) | 1 333 zł | **1 359 zł** | +2.0% |  |  | Dostępny w magazynie |
-| [Lakland Skyline 44-02 4-String NAT](https://www.thomann.pl/lakland_skyline_44_02_4_string_nat.htm) | 5 199 zł | **5 299 zł** | +1.9% |  |  | Dostępny w magazynie |
-| [LANDR Ultimate Bundle](https://www.thomann.pl/landr_ultimate_bundle.htm) | 1 199 zł | **1 222 zł** | +1.9% |  |  | Pobierz licencję |
-| [Lakland Skyline 44-02 Deluxe 4 CHSB](https://www.thomann.pl/lakland_skyline_44_02_deluxe_4_chsb.htm) | 5 199 zł | **5 299 zł** | +1.9% |  |  | Dostępny w magazynie |
-| [SKB WING Compact 3i2620-13BWC](https://www.thomann.pl/skb_wing_compact_3i2620_13bwc.htm) | 3 399 zł | **3 444 zł** | +1.3% |  |  | Dostępny w magazynie |
-| [Ape Labs Vegas - SB6](https://www.thomann.pl/ape_labs_vegas_sb6.htm) | 8 699 zł | **8 799 zł** | +1.1% |  |  | Dostępny w magazynie |
-
-…and 2 more in the full report.
-
-### 🏷️ Discount changes (6)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [LANDR Mastering Plugin Pro](https://www.thomann.pl/landr_mastering_plugin_pro.htm) | 611 zł | -44% | **none** |
-| [Epiphone 1960 Les Paul Special DC TVY](https://www.thomann.pl/epiphone_1960_les_paul_special_dc_tvy.htm) | 3 990 zł | -5% | **none** |
-| [Gibson Pre-War SJ-200 RW LA FVS #1](https://www.thomann.pl/gibson_pre_war_sj_200_rw_la_fvs_1.htm) | 31 190 zł | -10% | **none** |
-| [LANDR Ultimate Bundle](https://www.thomann.pl/landr_ultimate_bundle.htm) | 1 222 zł | -54% | **none** |
-| [Reloop RMX-95](https://www.thomann.pl/reloop_rmx_95.htm) | 3 599 zł | -10% | **none** |
-| [Yamaha PSR-E483](https://www.thomann.pl/yamaha_psr_e483.htm) | 1 359 zł | -16% | **none** |
-
-### 📦 Stock changes (5)
+### 📦 Stock changes (9)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Hils Next HN3 Met. Emerald Green](https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Erica Synths Steampipe](https://www.thomann.pl/erica_synths_steampipe.htm) | 3 999 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Erica Synths Echolocator](https://www.thomann.pl/erica_synths_echolocator.htm) | 1 790 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Kala KA C RW Mahogany Concert](https://www.thomann.pl/kala_ka_c_rw_mahogany_concert.htm) | 299 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Erica Synths Nightverb](https://www.thomann.pl/erica_synths_nightverb.htm) | 1 790 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 899 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Mooer F15i Li Modeling Guitar IG](https://www.thomann.pl/mooer_f15i_li_modeling_guitar_ig.htm) | 545 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Kala KA-MRT-PUR-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm) | 169 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Tone City Substation Multi-Power Supply](https://www.thomann.pl/tone_city_substation_multi_power_supply.htm) | 171 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
