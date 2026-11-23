@@ -3,65 +3,64 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-23 14:00 CET · **1779** deals tracked of 1779 advertised · checks every **3 h**
+**Last check:** 2026-11-23 17:00 CET · **1781** deals tracked of 1781 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 5 removed deals · 💸 1 price drops · 📈 2 price increases · 🏷️ 1 discount changes · ✅ 9 back in stock · 📦 4 stock changes → [full report](changes/2026-11-23T1300Z.md)
+🆕 1 new deals · 🔁 5 returned deals · ❌ 2 removed deals · ✅ 10 back in stock · 📦 8 stock changes → [full report](changes/2026-11-23T1600Z.md)
 
-### ❌ Removed deals (5)
+### 🆕 New deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [JG Percussion NS1 Nick Stoup Signature](https://www.thomann.pl/jg_percussion_ns1_nick_stoup_signature.htm) | 389 zł | ‑19% | 479 zł | Dostępny w magazynie |  |
-| [Alto TS 412 Cover Bundle](https://www.thomann.pl/alto_ts_412_cover_bundle.htm) | 1 359 zł | ‑17% | 1 639 zł | Dostępny w magazynie |  |
-| [Roland TR-1000](https://www.thomann.pl/roland_tr_1000.htm) | 12 290 zł |  |  | Dostępny w magazynie | GIVEAWAY |
-| [the box pro DSP 18 Sub](https://www.thomann.pl/the_box_pro_dsp_18_sub.htm) | 1 750 zł |  |  | Dostępny za 1–2 tygodnie |  |
-| [Yamaha TAS3 C Natural](https://www.thomann.pl/yamaha_tas3_c_natural.htm) | 5 899 zł |  |  | Dostępny za 2–3 tygodnie |  |
+| [Gibson Les Paul Standard 50s P90](https://www.thomann.pl/gibson_les_paul_standard_50s_p90.htm) | 10 690 zł |  |  | Dostępny w magazynie |  |
 
-### 💸 Price drops (1)
+### 🔁 Returned deals (5)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [ADAM Audio H200](https://www.thomann.pl/adam_audio_h200.htm) | 555 zł | **525 zł** | -5.4% | ‑5% | 555 zł | Dostępny w magazynie |
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Hils HNT1R Metallic Ocean Blue](https://www.thomann.pl/hils_hnt1r_metallic_ocean_blue.htm) | **1 444 zł** | 1 444 zł | ‑27% | 1 990 zł | Dostępny w magazynie | 2026‑11‑22 19:59 |
+| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | **1 325 zł** | 1 299 zł |  |  | Dostępny w magazynie | 2026‑11‑20 01:46 |
+| [Guild Starfire I DC Cherry](https://www.thomann.pl/guild_starfire_i_dc_cherry.htm) | **1 977 zł** | 1 977 zł |  |  | Dostępny w magazynie | 2026‑11‑21 13:59 |
+| [Thon Mike's Joker Case](https://www.thomann.pl/thon_mikes_joker_case.htm) | **247 zł** | 247 zł |  |  | Dostępny w magazynie | 2026‑11‑21 13:59 |
+| [Swiff Audio WS-70 Wireless System](https://www.thomann.pl/swiff_audio_ws_70_wireless_system_602955.htm) | **131 zł** | 131 zł |  |  | Dostępny w magazynie | 2026‑11‑21 13:59 |
 
-### 📈 Price increases (2)
+### ❌ Removed deals (2)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Yamaha SEQTRAK Orange](https://www.thomann.pl/yamaha_seqtrak_orange.htm) | 1 033 zł | **1 044 zł** | +1.1% |  |  | Dostępny w magazynie |
-| [Yamaha SEQTRAK Black](https://www.thomann.pl/yamaha_seqtrak_black.htm) | 1 033 zł | **1 044 zł** | +1.1% |  |  | Dostępny w magazynie |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Furch Vintage Pure OOM-SM a](https://www.thomann.pl/furch_vintage_pure_00m_sm.htm) | 4 599 zł |  |  | Dostępny w magazynie |  |
+| [Solar Guitars AB2.7Blue Burst Thomann LTD](https://www.thomann.pl/solar_guitars_ab2.7blue_burst_thomann_ltd.htm) | 2 666 zł |  |  | Dostępny w magazynie |  |
 
-### 🏷️ Discount changes (1)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [ADAM Audio H200](https://www.thomann.pl/adam_audio_h200.htm) | 525 zł | -11% | **-5%** |
-
-### ✅ Back in stock (9)
+### ✅ Back in stock (10)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Thomann SL 5 Soprano Trombone](https://www.thomann.pl/thomann_sl5_zugtrompete.htm) | 579 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Hils Next HN4 Ivory](https://www.thomann.pl/hils_next_hn4_ivory.htm) | 1 755 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Varytec LED Theater Spot 100 Bundle](https://www.thomann.pl/varytec_led_theater_spot_100_bundle.htm) | 3 399 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
-| [Daddario XSAPB1152-3P](https://www.thomann.pl/daddario_xsapb1152_3p.htm) | 195 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
-| [Korg Kronos 73](https://www.thomann.pl/korg_kronos_73_609233.htm) | 12 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 655 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 790 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Wild Dog Bunyip](https://www.thomann.pl/wild_dog_bunyip.htm) | 1 438 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Markbass Little Mark 250 Black Line](https://www.thomann.pl/markbass_little_mark_250_black_line.htm) | 977 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [PUR PTC-01 Travel Compact Cajon](https://www.thomann.pl/pur_ptc_01_travel_compact_cajon.htm) | 257 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Sterling StingRay Short RAYSS4 FRD](https://www.thomann.pl/sterling_stingray_short_rayss4_frd.htm) | 2 899 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Kala Ukadelic Bamboo Ukulele Sop.](https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm) | 95 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 222 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (4)
+### 📦 Stock changes (8)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Korg PA-1000](https://www.thomann.pl/korg_pa_1000.htm) | 7 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Shure MV7 Plus](https://www.thomann.pl/shure_mv7_plus.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [EV PXM-12MP](https://www.thomann.pl/ev_pxm_12mp.htm) | 3 855 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Hils HNB3 Ivory](https://www.thomann.pl/hils_hnb3_ivory.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Block And Block BETA-90 Truss Lift Bundle](https://www.thomann.pl/block_and_block_beta_90_truss_lift_bundle.htm) | 12 555 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Block And Block BETA-50 Truss Lift Bundle](https://www.thomann.pl/block_and_block_beta_50_truss_lift_bundle.htm) | 8 799 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha YDP-S36 WB Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wb_arius_set.htm) | 3 999 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
+| [beyerdynamic DT 70 IE](https://www.thomann.pl/beyerdynamic_dt_70_ie.htm) | 1 990 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Nuvo Band Flute Black](https://www.thomann.pl/nuvo_band_flute_black.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

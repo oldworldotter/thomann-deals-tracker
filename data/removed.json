@@ -187,6 +187,10 @@
   "price": 399.0,
   "removed_at": "2026-11-23T09:59Z"
  },
+ "furch_vintage_pure_00m_sm.htm": {
+  "price": 4599.0,
+  "removed_at": "2026-11-23T16:00Z"
+ },
  "gibson_aj_anniversary_ltd_cb.htm": {
   "price": 22090.0,
   "removed_at": "2026-11-20T21:59Z"
@@ -223,10 +227,6 @@
   "price": 32690.0,
   "removed_at": "2026-11-19T18:27Z"
  },
- "guild_starfire_i_dc_cherry.htm": {
-  "price": 1977.0,
-  "removed_at": "2026-11-21T12:59Z"
- },
  "harley_benton_fusion_iii_hsh_roasted_fblb.htm": {
   "price": 1299.0,
   "removed_at": "2026-11-22T15:10Z"
@@ -258,10 +258,6 @@
  "hils_hnt1r_ivory.htm": {
   "price": 1444.0,
   "removed_at": "2026-11-19T18:27Z"
- },
- "hils_hnt1r_metallic_ocean_blue.htm": {
-  "price": 1444.0,
-  "removed_at": "2026-11-22T18:59Z"
  },
  "hils_next_hn3_metallic_coral_orange.htm": {
   "price": 1444.0,
@@ -342,10 +338,6 @@
  "litecraft_beamx.12.htm": {
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
- },
- "mackie_thump_215.htm": {
-  "price": 1299.0,
-  "removed_at": "2026-11-20T00:46Z"
  },
  "mapex_saturn_evo_maple_stage_pt.htm": {
   "price": 7799.0,
@@ -539,6 +531,10 @@
   "price": 5699.0,
   "removed_at": "2026-11-20T21:59Z"
  },
+ "solar_guitars_ab2.7blue_burst_thomann_ltd.htm": {
+  "price": 2666.0,
+  "removed_at": "2026-11-23T16:00Z"
+ },
  "solar_guitars_e1.6aan_aged_natural_matte.htm": {
   "price": 5499.0,
   "removed_at": "2026-11-19T03:59Z"
@@ -571,10 +567,6 @@
   "price": 48.0,
   "removed_at": "2026-11-21T15:59Z"
  },
- "swiff_audio_ws_70_wireless_system_602955.htm": {
-  "price": 131.0,
-  "removed_at": "2026-11-21T12:59Z"
- },
  "the_box_pro_dsp_18_sub.htm": {
   "price": 1750.0,
   "removed_at": "2026-11-23T13:00Z"
@@ -598,10 +590,6 @@
  "thon_joker_case_60x40x40.htm": {
   "price": 444.0,
   "removed_at": "2026-11-22T12:59Z"
- },
- "thon_mikes_joker_case.htm": {
-  "price": 247.0,
-  "removed_at": "2026-11-21T12:59Z"
  },
  "tone_city_holy_aura_distortion_boost.htm": {
   "price": 258.0,
