@@ -3,30 +3,61 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-23 07:59 CET · **1784** deals tracked of 1784 advertised · checks every **3 h**
+**Last check:** 2026-11-23 10:59 CET · **1781** deals tracked of 1782 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 11 back in stock → [full report](changes/2026-11-23T0659Z.md)
+🆕 1 new deals · 🔁 1 returned deals · ❌ 1 removed deals · 🏷️ 1 discount changes · ✅ 13 back in stock · 📦 2 stock changes → [full report](changes/2026-11-23T0959Z.md)
 
-### ✅ Back in stock (11)
+### 🆕 New deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Celemony Melodyne 5 essential](https://www.thomann.pl/celemony_melodyne_5_essential.htm) | 109 zł | ‑69% | 355 zł | Pobierz licencję |  |
+
+### 🔁 Returned deals (1)
+
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Sela SE 002A Casela Satin Nut Cajon](https://www.thomann.pl/sela_se_002a_casela_satin_nut_cajon.htm) | **599 zł** | 599 zł | ‑27% | 819 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | 2026‑11‑21 20:00 |
+
+### ❌ Removed deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Fun Generation LED Puck ONE Set of 4 Bundle](https://www.thomann.pl/fun_generation_led_puck_one_set_of_4_bundle.htm) | 399 zł |  |  | Dostępny w magazynie |  |
+
+### 🏷️ Discount changes (1)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Adam Hall Super Clamp Bolt Set 1](https://www.thomann.pl/adam_hall_super_clamp_b_set_1.htm) | 109 zł | -21% | **-27%** |
+
+### ✅ Back in stock (13)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 744 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton TravelMate-E](https://www.thomann.pl/harley_benton_travelmate_e.htm) | 869 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 699 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton GS-Travel-E Mahogany](https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton RG-Junior w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton RG-Junior BK Set](https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton CLD-60SMCE NT w/Bag](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle.htm) | 549 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Custom Line King-12 CE NT](https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm) | 1 190 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Alfred Stingl by Höfner AS185 V1/4 Violin Set A.S.](https://www.thomann.pl/alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm) | 432 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Hils HNB5 Ivory](https://www.thomann.pl/hils_hnb5_ivory.htm) | 1 955 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 711 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Radial Engineering Power-1](https://www.thomann.pl/radial_engineering_power_1.htm) | 568 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Yamaha TAS1 C Sand Burst](https://www.thomann.pl/yamaha_tas1_c_sand_burst.htm) | 4 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Yamaha TAG1 E Sand Burst](https://www.thomann.pl/yamaha_tag1_e_sand_burst.htm) | 2 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Ampeg SGT-DI](https://www.thomann.pl/ampeg_sgt_di.htm) | 1 690 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Ampeg SVT CL](https://www.thomann.pl/ampeg_svt_cl_basstopteil.htm) | 9 099 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-…and 1 more in the full report.
+…and 3 more in the full report.
+
+### 📦 Stock changes (2)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [MA Lighting grandMA3 onPC C+F Wing Bundle](https://www.thomann.pl/ma_lighting_grandma3_onpc_cf_wing_bundle.htm) | 44 990 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Kala KA-20T Tenor Ukulele](https://www.thomann.pl/kala_ka_20t_tenor_ukulele.htm) | 215 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

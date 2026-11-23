@@ -361,16 +361,16 @@
  },
  "adam_hall_super_clamp_b_set_1.htm": {
   "badge": "",
-  "discount": 21,
+  "discount": 27,
   "first_seen": "2026-11-18T18:17Z",
   "id": "adam_hall_super_clamp_b_set_1.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 109.0,
   "min_price": 109.0,
   "missing_runs": 0,
   "name": "Adam Hall Super Clamp Bolt Set 1",
   "price": 109.0,
-  "ref_price": 138.0,
+  "ref_price": 149.0,
   "reported_price": 109.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -969,7 +969,7 @@
   "discount": 37,
   "first_seen": "2026-11-18T18:17Z",
   "id": "alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 432.0,
   "min_price": 432.0,
   "missing_runs": 0,
@@ -980,8 +980,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm"
  },
  "alfred_stingl_by_hoefner_as200_v3_4_se_violin_set.htm": {
@@ -1212,9 +1212,10 @@
   "first_seen": "2026-11-19T16:00Z",
   "id": "alto_ts_412_cover_bundle.htm",
   "last_change": "2026-11-19T16:00Z",
+  "last_seen": "2026-11-23T06:59Z",
   "max_price": 1359.0,
   "min_price": 1359.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Alto TS 412 Cover Bundle",
   "price": 1359.0,
   "ref_price": 1639.0,
@@ -1311,7 +1312,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ampeg_rb_112.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 1829.0,
   "min_price": 1799.0,
   "missing_runs": 0,
@@ -1322,8 +1323,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ampeg_rb_112.htm"
  },
  "ampeg_scrambler_bass_overdrive.htm": {
@@ -1351,7 +1352,7 @@
   "discount": 11,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ampeg_sgt_di.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 1690.0,
   "min_price": 1690.0,
   "missing_runs": 0,
@@ -1362,8 +1363,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ampeg_sgt_di.htm"
  },
  "ampeg_svt_cl_basstopteil.htm": {
@@ -1371,7 +1372,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ampeg_svt_cl_basstopteil.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 9099.0,
   "min_price": 9099.0,
   "missing_runs": 0,
@@ -1382,8 +1383,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ampeg_svt_cl_basstopteil.htm"
  },
  "antares_auto_key.htm": {
@@ -3956,6 +3957,26 @@
   "stock_state": "download",
   "url": "https://www.thomann.pl/celemony_melodyne_5_editor_ug_bundle.htm"
  },
+ "celemony_melodyne_5_essential.htm": {
+  "badge": "",
+  "discount": 69,
+  "first_seen": "2026-11-23T09:59Z",
+  "id": "celemony_melodyne_5_essential.htm",
+  "last_change": "2026-11-23T09:59Z",
+  "max_price": 109.0,
+  "min_price": 109.0,
+  "missing_runs": 0,
+  "name": "Celemony Melodyne 5 essential",
+  "price": 109.0,
+  "ref_price": 355.0,
+  "reported_price": 109.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Pobierz licencję",
+  "stock_state": "download",
+  "url": "https://www.thomann.pl/celemony_melodyne_5_essential.htm"
+ },
  "celemony_melodyne_5_studio_ug_bundle.htm": {
   "badge": "",
   "discount": 59,
@@ -4432,7 +4453,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/daddario_xsapb1253_3p.htm"
  },
@@ -4832,7 +4853,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/db_technologies_opera_12.htm"
  },
@@ -9100,27 +9121,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/fun_generation_led_puck_one_set_of_2.htm"
  },
- "fun_generation_led_puck_one_set_of_4_bundle.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "fun_generation_led_puck_one_set_of_4_bundle.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-23T03:59Z",
-  "max_price": 399.0,
-  "min_price": 398.0,
-  "missing_runs": 1,
-  "name": "Fun Generation LED Puck ONE Set of 4 Bundle",
-  "price": 399.0,
-  "ref_price": null,
-  "reported_price": 398.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/fun_generation_led_puck_one_set_of_4_bundle.htm"
- },
  "fun_generation_magic_sky_led_bundle.htm": {
   "badge": "",
   "discount": 12,
@@ -11026,7 +11026,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_eb_fblb.htm",
-  "last_change": "2026-11-21T19:00Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11037,8 +11037,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm"
  },
  "harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm": {
@@ -11046,7 +11046,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm",
-  "last_change": "2026-11-21T19:00Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 1499.0,
   "min_price": 1499.0,
   "missing_runs": 0,
@@ -11057,8 +11057,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_fbb.htm": {
@@ -12126,7 +12126,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_active_sbk_bundle_package.htm",
-  "last_change": "2026-11-21T19:00Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 738.0,
   "min_price": 735.0,
   "missing_runs": 0,
@@ -12137,8 +12137,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm"
  },
  "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm": {
@@ -12886,7 +12886,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb5_ivory.htm",
-  "last_change": "2026-11-21T09:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 1955.0,
   "min_price": 1939.0,
   "missing_runs": 0,
@@ -12897,8 +12897,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_hnb5_ivory.htm"
  },
  "hils_hns1r_metallic_ocean_blue.htm": {
@@ -14988,9 +14988,10 @@
   "first_seen": "2026-11-18T15:59Z",
   "id": "jg_percussion_ns1_nick_stoup_signature.htm",
   "last_change": "2026-11-18T15:59Z",
+  "last_seen": "2026-11-23T06:59Z",
   "max_price": 389.0,
   "min_price": 389.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "JG Percussion NS1 Nick Stoup Signature",
   "price": 389.0,
   "ref_price": 479.0,
@@ -15527,7 +15528,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_20t_tenor_ukulele.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 215.0,
   "min_price": 214.0,
   "missing_runs": 0,
@@ -15538,8 +15539,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ka_20t_tenor_ukulele.htm"
  },
  "kala_ka_c_rw_mahogany_concert.htm": {
@@ -17887,7 +17888,7 @@
   "discount": 13,
   "first_seen": "2026-11-18T18:17Z",
   "id": "ma_lighting_grandma3_onpc_cf_wing_bundle.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 44990.0,
   "min_price": 44990.0,
   "missing_runs": 0,
@@ -17898,8 +17899,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ma_lighting_grandma3_onpc_cf_wing_bundle.htm"
  },
  "ma_lighting_grandma3_onpc_com_wing_bundle.htm": {
@@ -22224,7 +22225,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/palmer_studimon_5_bundle.htm"
  },
@@ -23093,7 +23094,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "radial_engineering_power_1.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 568.0,
   "min_price": 555.0,
   "missing_runs": 0,
@@ -23104,8 +23105,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/radial_engineering_power_1.htm"
  },
  "radial_engineering_pro_d2.htm": {
@@ -23836,9 +23837,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "roland_tr_1000.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-23T06:59Z",
   "max_price": 12290.0,
   "min_price": 12290.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Roland TR-1000",
   "price": 12290.0,
   "ref_price": null,
@@ -24411,6 +24413,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_planetary_gong_sun_46_116cm.htm"
  },
+ "sela_se_002a_casela_satin_nut_cajon.htm": {
+  "badge": "",
+  "discount": 27,
+  "first_seen": "2026-11-23T09:59Z",
+  "id": "sela_se_002a_casela_satin_nut_cajon.htm",
+  "last_change": "2026-11-23T09:59Z",
+  "max_price": 599.0,
+  "min_price": 599.0,
+  "missing_runs": 0,
+  "name": "Sela SE 002A Casela Satin Nut Cajon",
+  "price": 599.0,
+  "ref_price": 819.0,
+  "reported_price": 599.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/sela_se_002a_casela_satin_nut_cajon.htm"
+ },
  "sela_se_060_varios_bundle_red.htm": {
   "badge": "",
   "discount": 29,
@@ -24445,7 +24467,7 @@
   "ref_price": 333.0,
   "reported_price": 215.0,
   "sections": [
-   "Przegląd wszystkich ofert"
+   "Wyróżnione okazje"
   ],
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
@@ -24757,7 +24779,7 @@
   "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "sequential_fourm.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 2890.0,
   "min_price": 2890.0,
   "missing_runs": 0,
@@ -24768,8 +24790,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 2–3 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sequential_fourm.htm"
  },
  "serato_pitch_n_time_le.htm": {
@@ -29784,9 +29806,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "the_box_pro_dsp_18_sub.htm",
   "last_change": "2026-11-20T18:59Z",
+  "last_seen": "2026-11-23T06:59Z",
   "max_price": 1750.0,
   "min_price": 1699.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "the box pro DSP 18 Sub",
   "price": 1750.0,
   "ref_price": null,
@@ -30663,7 +30686,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_fls_querfloete.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 711.0,
   "min_price": 699.0,
   "missing_runs": 0,
@@ -30674,8 +30697,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/thomann_fls_querfloete.htm"
  },
  "thomann_gcl_422_mkii_bb_clarinet.htm": {
@@ -30939,7 +30962,7 @@
   "url": "https://www.thomann.pl/thomann_rainbow_deskbells_trdb_8.htm"
  },
  "thomann_sd1204bl_marching_snare_set.htm": {
-  "badge": "GIVEAWAY",
+  "badge": "",
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_sd1204bl_marching_snare_set.htm",
@@ -30959,7 +30982,7 @@
   "url": "https://www.thomann.pl/thomann_sd1204bl_marching_snare_set.htm"
  },
  "thomann_sd1204w_marching_snare_set.htm": {
-  "badge": "GIVEAWAY",
+  "badge": "",
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_sd1204w_marching_snare_set.htm",
@@ -30979,7 +31002,7 @@
   "url": "https://www.thomann.pl/thomann_sd1204w_marching_snare_set.htm"
  },
  "thomann_sd1455bl_marching_snare_set.htm": {
-  "badge": "GIVEAWAY",
+  "badge": "",
   "discount": 11,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_sd1455bl_marching_snare_set.htm",
@@ -30999,7 +31022,7 @@
   "url": "https://www.thomann.pl/thomann_sd1455bl_marching_snare_set.htm"
  },
  "thomann_sd1455w_marching_snare_set.htm": {
-  "badge": "GIVEAWAY",
+  "badge": "",
   "discount": 11,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_sd1455w_marching_snare_set.htm",
@@ -34950,7 +34973,7 @@
   "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_tag1_e_sand_burst.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
   "missing_runs": 0,
@@ -34961,8 +34984,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_tag1_e_sand_burst.htm"
  },
  "yamaha_tag1_e_translucent_black.htm": {
@@ -35010,7 +35033,7 @@
   "discount": 22,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_tas1_c_sand_burst.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T09:59Z",
   "max_price": 4499.0,
   "min_price": 4499.0,
   "missing_runs": 0,
@@ -35021,8 +35044,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_tas1_c_sand_burst.htm"
  },
  "yamaha_tas1_e_natural.htm": {
@@ -35051,9 +35074,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_tas3_c_natural.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-23T06:59Z",
   "max_price": 5899.0,
   "min_price": 5799.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Yamaha TAS3 C Natural",
   "price": 5899.0,
   "ref_price": null,
