@@ -1533,9 +1533,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm",
   "last_change": "2026-11-20T16:00Z",
+  "last_seen": "2026-11-22T21:59Z",
   "max_price": 3899.0,
   "min_price": 3899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Ape Labs ApeLight mini V2 VV TP 6 SB G",
   "price": 3899.0,
   "ref_price": null,
@@ -1952,7 +1953,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "audix_d6_bassdrummikro.htm",
-  "last_change": "2026-11-22T18:59Z",
+  "last_change": "2026-11-23T00:59Z",
   "max_price": 799.0,
   "min_price": 789.0,
   "missing_runs": 0,
@@ -1963,8 +1964,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/audix_d6_bassdrummikro.htm"
  },
  "audix_d6x.htm": {
@@ -10340,6 +10341,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gravity_led_stick_1_b_light_bar.htm"
  },
+ "gravity_ms_4322_b_microphone_stand.htm": {
+  "badge": "GIVEAWAY",
+  "discount": null,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "gravity_ms_4322_b_microphone_stand.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 198.0,
+  "min_price": 198.0,
+  "missing_runs": 0,
+  "name": "Gravity MS 4322 B Microphone Stand",
+  "price": 198.0,
+  "ref_price": null,
+  "reported_price": 198.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/gravity_ms_4322_b_microphone_stand.htm"
+ },
  "gravity_ms_tba_01.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -12245,7 +12266,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_modern_mn_hss_fbb.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-23T00:59Z",
   "max_price": 744.0,
   "min_price": 739.0,
   "missing_runs": 0,
@@ -12256,8 +12277,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_modern_mn_hss_fbb.htm"
  },
  "harley_benton_stompcontrol_4_iso.htm": {
@@ -14977,7 +14998,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/jbl_irx_one.htm"
  },
@@ -15481,27 +15502,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/joyo_r_29_gloam_sub_octave_fuzz.htm"
  },
- "kala_ka_15s_blk_mahogany_soprano.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "kala_ka_15s_blk_mahogany_soprano.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-22T18:59Z",
-  "max_price": 171.0,
-  "min_price": 169.0,
-  "missing_runs": 1,
-  "name": "Kala KA-15S BLK Mahogany Soprano",
-  "price": 171.0,
-  "ref_price": null,
-  "reported_price": 171.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/kala_ka_15s_blk_mahogany_soprano.htm"
- },
  "kala_ka_20ce_concert_ukulele.htm": {
   "badge": "",
   "discount": null,
@@ -15738,7 +15738,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/kala_surf_surfs_up_ukulele.htm"
  },
@@ -15767,7 +15767,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ukadelic_bamboo_ukulele_sop.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-23T00:59Z",
   "max_price": 96.0,
   "min_price": 95.0,
   "missing_runs": 0,
@@ -15778,8 +15778,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm"
  },
  "karl_hoefner_h11_v_violin_4_4.htm": {
@@ -17341,6 +17341,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/line6_helix_lt_guitar_processor.htm"
+ },
+ "line6_helix_stadium_xl_floor.htm": {
+  "badge": "",
+  "discount": 15,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "line6_helix_stadium_xl_floor.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 8794.0,
+  "min_price": 8794.0,
+  "missing_runs": 0,
+  "name": "Line6 Helix Stadium XL Floor",
+  "price": 8794.0,
+  "ref_price": 10288.0,
+  "reported_price": 8794.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/line6_helix_stadium_xl_floor.htm"
  },
  "line6_hx_stomp.htm": {
   "badge": "",
@@ -18963,27 +18983,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitars_d18_authentic_1937.htm"
  },
- "martin_guitars_d35_ambertone.htm": {
-  "badge": "",
-  "discount": 22,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "martin_guitars_d35_ambertone.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-22T18:59Z",
-  "max_price": 16090.0,
-  "min_price": 16090.0,
-  "missing_runs": 1,
-  "name": "Martin Guitar D35 Ambertone",
-  "price": 16090.0,
-  "ref_price": 20690.0,
-  "reported_price": 16090.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/martin_guitars_d35_ambertone.htm"
- },
  "martin_guitars_d_42_lh_556371.htm": {
   "badge": "",
   "discount": 25,
@@ -19204,6 +19203,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/mey_chair_systems_afsrklah_bk.htm"
+ },
+ "meze_audio_105_silva.htm": {
+  "badge": "",
+  "discount": 24,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "meze_audio_105_silva.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 1666.0,
+  "min_price": 1666.0,
+  "missing_runs": 0,
+  "name": "Meze Audio 105 Silva",
+  "price": 1666.0,
+  "ref_price": 2190.0,
+  "reported_price": 1666.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/meze_audio_105_silva.htm"
  },
  "midas_legend_l10.htm": {
   "badge": "",
@@ -22154,7 +22173,7 @@
   "discount": 20,
   "first_seen": "2026-11-18T18:17Z",
   "id": "oxi_instruments_one_mkii_black_edition.htm",
-  "last_change": "2026-11-22T21:59Z",
+  "last_change": "2026-11-23T00:59Z",
   "max_price": 3099.0,
   "min_price": 3099.0,
   "missing_runs": 0,
@@ -22165,8 +22184,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/oxi_instruments_one_mkii_black_edition.htm"
  },
  "oxi_instruments_one_mkii_nostalgia.htm": {
@@ -22945,7 +22964,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 2–3 tygodnie",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/prs_se_custom_24_s_h_ca_2025.htm"
  },
@@ -23890,27 +23909,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sadowsky_single_cut_24_5_cs_buckeye.htm"
- },
- "sandberg_california_central_5_pf_tsb.htm": {
-  "badge": "",
-  "discount": 21,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "sandberg_california_central_5_pf_tsb.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-22T18:59Z",
-  "max_price": 7799.0,
-  "min_price": 7799.0,
-  "missing_runs": 1,
-  "name": "Sandberg California Central 5 PF TSB",
-  "price": 7799.0,
-  "ref_price": 9899.0,
-  "reported_price": 7799.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sandberg_california_central_5_pf_tsb.htm"
  },
  "scandalli_air_i_musette.htm": {
   "badge": "",
@@ -26524,7 +26522,7 @@
   "discount": 19,
   "first_seen": "2026-11-18T18:17Z",
   "id": "ssl_bus_compressor_classic.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-23T00:59Z",
   "max_price": 5290.0,
   "min_price": 5290.0,
   "missing_runs": 0,
@@ -26535,8 +26533,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ssl_bus_compressor_classic.htm"
  },
  "ssl_connex.htm": {
@@ -32081,6 +32079,46 @@
   "stock_state": "download",
   "url": "https://www.thomann.pl/toontrack_superior_drummer_3_crossgrade.htm"
  },
+ "torso_electronics_t1.htm": {
+  "badge": "",
+  "discount": 16,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "torso_electronics_t1.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 1985.0,
+  "min_price": 1985.0,
+  "missing_runs": 0,
+  "name": "Torso Electronics T1",
+  "price": 1985.0,
+  "ref_price": 2377.0,
+  "reported_price": 1985.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/torso_electronics_t1.htm"
+ },
+ "torso_electronics_t1_white.htm": {
+  "badge": "",
+  "discount": 17,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "torso_electronics_t1_white.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 1990.0,
+  "min_price": 1990.0,
+  "missing_runs": 0,
+  "name": "Torso Electronics T1 White",
+  "price": 1990.0,
+  "ref_price": 2399.0,
+  "reported_price": 1990.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/torso_electronics_t1_white.htm"
+ },
  "traps_a400_acoustic_drumset.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -33078,7 +33116,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 2–3 tygodnie",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/varytec_led_theater_spot_100_bundle.htm"
  },
@@ -33441,27 +33479,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/vic_firth_sti_tommy_igoe_signature.htm"
- },
- "walrus_audio_canvas_rehearsal.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "walrus_audio_canvas_rehearsal.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-22T18:59Z",
-  "max_price": 744.0,
-  "min_price": 739.0,
-  "missing_runs": 1,
-  "name": "Walrus Audio Canvas Rehearsal",
-  "price": 744.0,
-  "ref_price": null,
-  "reported_price": 739.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm"
  },
  "walrus_audio_canvas_stereo.htm": {
   "badge": "",
@@ -33985,6 +34002,166 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_cgs102.htm"
  },
+ "yamaha_clp_875_b.htm": {
+  "badge": "",
+  "discount": 9,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_clp_875_b.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 13080.0,
+  "min_price": 13080.0,
+  "missing_runs": 0,
+  "name": "Yamaha CLP-875 B",
+  "price": 13080.0,
+  "ref_price": 14400.0,
+  "reported_price": 13080.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_clp_875_b.htm"
+ },
+ "yamaha_clp_875_pe.htm": {
+  "badge": "",
+  "discount": 8,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_clp_875_pe.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 14975.0,
+  "min_price": 14975.0,
+  "missing_runs": 0,
+  "name": "Yamaha CLP-875 PE",
+  "price": 14975.0,
+  "ref_price": 16300.0,
+  "reported_price": 14975.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_clp_875_pe.htm"
+ },
+ "yamaha_clp_875_r.htm": {
+  "badge": "",
+  "discount": 9,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_clp_875_r.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 13080.0,
+  "min_price": 13080.0,
+  "missing_runs": 0,
+  "name": "Yamaha CLP-875 R",
+  "price": 13080.0,
+  "ref_price": 14400.0,
+  "reported_price": 13080.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_clp_875_r.htm"
+ },
+ "yamaha_clp_875_wb_593774.htm": {
+  "badge": "",
+  "discount": 9,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_clp_875_wb_593774.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 13080.0,
+  "min_price": 13080.0,
+  "missing_runs": 0,
+  "name": "Yamaha CLP-875 WB",
+  "price": 13080.0,
+  "ref_price": 14400.0,
+  "reported_price": 13080.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_clp_875_wb_593774.htm"
+ },
+ "yamaha_clp_875_wh.htm": {
+  "badge": "",
+  "discount": 9,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_clp_875_wh.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 13080.0,
+  "min_price": 13080.0,
+  "missing_runs": 0,
+  "name": "Yamaha CLP-875 WH",
+  "price": 13080.0,
+  "ref_price": 14400.0,
+  "reported_price": 13080.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_clp_875_wh.htm"
+ },
+ "yamaha_csp_255_b.htm": {
+  "badge": "",
+  "discount": 11,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_csp_255_b.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 10780.0,
+  "min_price": 10780.0,
+  "missing_runs": 0,
+  "name": "Yamaha CSP-255 B",
+  "price": 10780.0,
+  "ref_price": 12100.0,
+  "reported_price": 10780.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_csp_255_b.htm"
+ },
+ "yamaha_csp_255_pe.htm": {
+  "badge": "",
+  "discount": 10,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_csp_255_pe.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 12575.0,
+  "min_price": 12575.0,
+  "missing_runs": 0,
+  "name": "Yamaha CSP-255 PE",
+  "price": 12575.0,
+  "ref_price": 13900.0,
+  "reported_price": 12575.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_csp_255_pe.htm"
+ },
+ "yamaha_csp_255_wh.htm": {
+  "badge": "",
+  "discount": 11,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_csp_255_wh.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 10780.0,
+  "min_price": 10780.0,
+  "missing_runs": 0,
+  "name": "Yamaha CSP-255 WH",
+  "price": 10780.0,
+  "ref_price": 12100.0,
+  "reported_price": 10780.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_csp_255_wh.htm"
+ },
  "yamaha_d_u1_en_pe_disklavier_silent.htm": {
   "badge": "",
   "discount": null,
@@ -34084,6 +34261,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_dm3s.htm"
+ },
+ "yamaha_ead50_drum_module.htm": {
+  "badge": "",
+  "discount": 13,
+  "first_seen": "2026-11-23T00:59Z",
+  "id": "yamaha_ead50_drum_module.htm",
+  "last_change": "2026-11-23T00:59Z",
+  "max_price": 6070.0,
+  "min_price": 6070.0,
+  "missing_runs": 0,
+  "name": "Yamaha EAD50 Drum Module",
+  "price": 6070.0,
+  "ref_price": 6972.0,
+  "reported_price": 6070.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ead50_drum_module.htm"
  },
  "yamaha_genos_2_speaker_bundle.htm": {
   "badge": "",

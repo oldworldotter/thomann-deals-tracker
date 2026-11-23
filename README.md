@@ -3,54 +3,54 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-22 22:59 CET · **1772** deals tracked of 1773 advertised · checks every **3 h**
+**Last check:** 2026-11-23 01:59 CET · **1785** deals tracked of 1785 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 5 removed deals · 📈 1 price increases · 🏷️ 12 discount changes · 📦 3 stock changes → [full report](changes/2026-11-22T2159Z.md)
+🆕 14 new deals · ❌ 4 removed deals · ✅ 1 back in stock · 📦 4 stock changes → [full report](changes/2026-11-23T0059Z.md)
 
-### ❌ Removed deals (5)
+### 🆕 New deals (14)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Music Man Sabre Blackdraft](https://www.thomann.pl/music_man_sabre_blackdraft.htm) | 12 990 zł | ‑21% | 16 390 zł | Dostępny w magazynie |  |
-| [Alesis Vortex Wireless 2](https://www.thomann.pl/alesis_vortex_wireless_2.htm) | 898 zł |  |  | Dostępny w magazynie |  |
-| [DW 5100 Drummer Throne](https://www.thomann.pl/dw_5100_drummer_throne.htm) | 535 zł |  |  | Dostępny w magazynie |  |
-| [Sela Seed Chime Kenari XL](https://www.thomann.pl/sela_seed_chime_kenari_xl.htm) | 259 zł |  |  | Dostępny w magazynie |  |
-| [Sonor Vintage Three20 Rosewood WM](https://www.thomann.pl/sonor_vintage_three20_rosewood_wm.htm) | 11 990 zł |  |  | Dostępny w magazynie |  |
+| [Meze Audio 105 Silva](https://www.thomann.pl/meze_audio_105_silva.htm) | 1 666 zł | ‑24% | 2 190 zł | Dostępny w magazynie |  |
+| [Torso Electronics T1 White](https://www.thomann.pl/torso_electronics_t1_white.htm) | 1 990 zł | ‑17% | 2 399 zł | Dostępny w magazynie |  |
+| [Torso Electronics T1](https://www.thomann.pl/torso_electronics_t1.htm) | 1 985 zł | ‑16% | 2 377 zł | Dostępny w magazynie |  |
+| [Line6 Helix Stadium XL Floor](https://www.thomann.pl/line6_helix_stadium_xl_floor.htm) | 8 794 zł | ‑15% | 10 288 zł | Dostępny w magazynie |  |
+| [Yamaha EAD50 Drum Module](https://www.thomann.pl/yamaha_ead50_drum_module.htm) | 6 070 zł | ‑13% | 6 972 zł | Dostępny w magazynie |  |
+| [Yamaha CSP-255 B](https://www.thomann.pl/yamaha_csp_255_b.htm) | 10 780 zł | ‑11% | 12 100 zł | Dostępny w magazynie |  |
+| [Yamaha CSP-255 WH](https://www.thomann.pl/yamaha_csp_255_wh.htm) | 10 780 zł | ‑11% | 12 100 zł | Dostępny w magazynie |  |
+| [Yamaha CSP-255 PE](https://www.thomann.pl/yamaha_csp_255_pe.htm) | 12 575 zł | ‑10% | 13 900 zł | Dostępny w magazynie |  |
+| [Yamaha CLP-875 B](https://www.thomann.pl/yamaha_clp_875_b.htm) | 13 080 zł | ‑9% | 14 400 zł | Dostępny w magazynie |  |
+| [Yamaha CLP-875 R](https://www.thomann.pl/yamaha_clp_875_r.htm) | 13 080 zł | ‑9% | 14 400 zł | Dostępny w magazynie |  |
 
-### 📈 Price increases (1)
+…and 4 more in the full report.
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Shure SLXD24+E/Beta58 G65](https://www.thomann.pl/shure_slxd24e_beta58_g65.htm) | 4 099 zł | **4 190 zł** | +2.2% |  |  | Dostępny w magazynie |
+### ❌ Removed deals (4)
 
-### 🏷️ Discount changes (12)
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Martin Guitar D35 Ambertone](https://www.thomann.pl/martin_guitars_d35_ambertone.htm) | 16 090 zł | ‑22% | 20 690 zł | Dostępny w magazynie |  |
+| [Sandberg California Central 5 PF TSB](https://www.thomann.pl/sandberg_california_central_5_pf_tsb.htm) | 7 799 zł | ‑21% | 9 899 zł | Dostępny w magazynie |  |
+| [Kala KA-15S BLK Mahogany Soprano](https://www.thomann.pl/kala_ka_15s_blk_mahogany_soprano.htm) | 171 zł |  |  | Dostępny w magazynie |  |
+| [Walrus Audio Canvas Rehearsal](https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm) | 744 zł |  |  | Dostępny w magazynie |  |
 
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Thomann Phoenix S F-Tuba](https://www.thomann.pl/thomann_phoenix_s_f_tuba.htm) | 17 790 zł | -10% | **-11%** |
-| [JH Audio Universal JH5 Clear](https://www.thomann.pl/jh_audio_universal_jh5_clear.htm) | 1 499 zł | -19% | **none** |
-| [Stairville LED BossFx-1 Pro Bundle Bundle](https://www.thomann.pl/stairville_led_bossfx_1_pro_bundle_bundle.htm) | 1 499 zł | -8% | **-9%** |
-| [Yamaha YDS-122 Digital Saxophone](https://www.thomann.pl/yamaha_yds_122_digital_saxophone.htm) | 1 699 zł | -13% | **-14%** |
-| [Gibson SG ´61 Standard Pelham Blue](https://www.thomann.pl/gibson_sg_61_standard_pelham_blue.htm) | 7 799 zł | -5% | **-6%** |
-| [Boss VG-800 V-Guitar Processor](https://www.thomann.pl/boss_vg_800_v_guitar_processor.htm) | 2 290 zł | -15% | **-16%** |
-| [Stairville RevueLED 150 Prof. 26° Bundle](https://www.thomann.pl/stairville_revueled_150_prof_26_bundle.htm) | 4 333 zł | -10% | **none** |
-| [Focusrite Scarlett 18i20 4th Gen](https://www.thomann.pl/focusrite_scarlett_18i20_4th_gen.htm) | 2 190 zł | -19% | **-21%** |
-| [Focusrite Scarlett Solo 4th Gen](https://www.thomann.pl/focusrite_scarlett_solo_4th_gen.htm) | 475 zł | -17% | **-18%** |
-| [Yamaha PSS-E30](https://www.thomann.pl/yamaha_pss_e30.htm) | 222 zł | -9% | **-10%** |
-
-…and 2 more in the full report.
-
-### 📦 Stock changes (3)
+### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Wild Dog Bunyip](https://www.thomann.pl/wild_dog_bunyip.htm) | 1 438 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [OXI Instruments One MKII Black Edition](https://www.thomann.pl/oxi_instruments_one_mkii_black_edition.htm) | 3 099 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Terre Djembe Carved Dragon 50cm](https://www.thomann.pl/terre_djembe_carved_dragon_50cm.htm) | 255 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [OXI Instruments One MKII Black Edition](https://www.thomann.pl/oxi_instruments_one_mkii_black_edition.htm) | 3 099 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+
+### 📦 Stock changes (4)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [SSL Bus Compressor Classic](https://www.thomann.pl/ssl_bus_compressor_classic.htm) | 5 290 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
+| [Kala Ukadelic Bamboo Ukulele Sop.](https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm) | 95 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Audix D6](https://www.thomann.pl/audix_d6_bassdrummikro.htm) | 799 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-Modern MN HSS FBB](https://www.thomann.pl/harley_benton_st_modern_mn_hss_fbb.htm) | 744 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
