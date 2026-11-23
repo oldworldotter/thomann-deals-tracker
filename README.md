@@ -3,19 +3,30 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-23 04:59 CET · **1785** deals tracked of 1785 advertised · checks every **3 h**
+**Last check:** 2026-11-23 07:59 CET · **1784** deals tracked of 1784 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals → [full report](changes/2026-11-23T0359Z.md)
+✅ 11 back in stock → [full report](changes/2026-11-23T0659Z.md)
 
-### ❌ Removed deals (1)
+### ✅ Back in stock (11)
 
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Ape Labs ApeLight mini V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm) | 3 899 zł |  |  | Dostępny za 3–4 tygodnie | GIVEAWAY |
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 744 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton TravelMate-E](https://www.thomann.pl/harley_benton_travelmate_e.htm) | 869 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton RG Junior BK w/Marshall MG10G](https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm) | 699 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton WB-20BK Rock Series](https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm) | 522 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton GS-Travel-E Mahogany](https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton RG-Junior w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton RG-Junior BK Set](https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm) | 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton CLD-60SMCE NT w/Bag](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle.htm) | 549 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Custom Line King-12 CE NT](https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm) | 1 190 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+…and 1 more in the full report.
 
 <!-- DASHBOARD:END -->
 

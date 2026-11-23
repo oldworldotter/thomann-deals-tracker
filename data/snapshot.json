@@ -15,7 +15,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/1010music_bento.htm"
  },
@@ -9106,9 +9106,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "fun_generation_led_puck_one_set_of_4_bundle.htm",
   "last_change": "2026-11-20T18:59Z",
+  "last_seen": "2026-11-23T03:59Z",
   "max_price": 399.0,
   "min_price": 398.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Fun Generation LED Puck ONE Set of 4 Bundle",
   "price": 399.0,
   "ref_price": null,
@@ -10625,7 +10626,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_cld_60smce_nt_bundle.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 549.0,
   "min_price": 545.0,
   "missing_runs": 0,
@@ -10636,8 +10637,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle.htm"
  },
  "harley_benton_cld_60smce_nt_bundle_set.htm": {
@@ -10645,7 +10646,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_cld_60smce_nt_bundle_set.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 549.0,
   "min_price": 545.0,
   "missing_runs": 0,
@@ -10656,8 +10657,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm"
  },
  "harley_benton_clf_50e_jade_metallic.htm": {
@@ -10765,7 +10766,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_custom_line_king_12_ce_nt.htm",
-  "last_change": "2026-11-22T16:00Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -10776,8 +10777,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_custom_line_king_12_ce_nt.htm"
  },
  "harley_benton_db01_bk_electric_double_bass.htm": {
@@ -11225,7 +11226,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_gs_travel_e_mahogany.htm",
-  "last_change": "2026-11-22T18:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11236,8 +11237,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm"
  },
  "harley_benton_guitartech_service_station.htm": {
@@ -11825,7 +11826,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_bundle_2.htm",
-  "last_change": "2026-11-22T09:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11836,8 +11837,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_bundle_2.htm"
  },
  "harley_benton_rg_junior_bk_w_marshall_mg10g.htm": {
@@ -11845,7 +11846,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_w_marshall_mg10g.htm",
-  "last_change": "2026-11-22T09:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 699.0,
   "min_price": 698.0,
   "missing_runs": 0,
@@ -11856,8 +11857,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_bk_w_marshall_mg10g.htm"
  },
  "harley_benton_rg_junior_w_soran_tiny_stomp.htm": {
@@ -11865,7 +11866,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-22T09:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11876,8 +11877,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm"
  },
  "harley_benton_s_620_w_soran_dual_lite.htm": {
@@ -12245,7 +12246,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_modern_mn_hss_fbb.htm",
-  "last_change": "2026-11-23T00:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 744.0,
   "min_price": 739.0,
   "missing_runs": 0,
@@ -12256,8 +12257,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_st_modern_mn_hss_fbb.htm"
  },
  "harley_benton_stompcontrol_4_iso.htm": {
@@ -12485,7 +12486,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_travelmate_e.htm",
-  "last_change": "2026-11-22T15:10Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 869.0,
   "min_price": 868.0,
   "missing_runs": 0,
@@ -12496,8 +12497,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_travelmate_e.htm"
  },
  "harley_benton_ukebass_opnt.htm": {
@@ -12545,7 +12546,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_wb_20bk_rock_series.htm",
-  "last_change": "2026-11-21T09:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 522.0,
   "min_price": 519.0,
   "missing_runs": 0,
@@ -12556,8 +12557,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_wb_20bk_rock_series.htm"
  },
  "harley_benton_wl_20bk_rock_series_set_1.htm": {
@@ -18426,7 +18427,7 @@
   "discount": 17,
   "first_seen": "2026-11-18T18:17Z",
   "id": "marcus_miller_v5_alder_4_cgm.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-23T06:59Z",
   "max_price": 1744.0,
   "min_price": 1744.0,
   "missing_runs": 0,
@@ -18437,8 +18438,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm"
  },
  "marcus_miller_v6_5_sandblasted_butterscotch.htm": {
