@@ -23,6 +23,10 @@
   "price": 1299.0,
   "removed_at": "2026-11-19T12:59Z"
  },
+ "alto_ts_412_cover_bundle.htm": {
+  "price": 1359.0,
+  "removed_at": "2026-11-23T13:00Z"
+ },
  "ampeg_micro_cl_stack.htm": {
   "price": 1799.0,
   "removed_at": "2026-11-18T12:59Z"
@@ -283,6 +287,10 @@
   "price": 777.0,
   "removed_at": "2026-11-19T12:59Z"
  },
+ "jg_percussion_ns1_nick_stoup_signature.htm": {
+  "price": 389.0,
+  "removed_at": "2026-11-23T13:00Z"
+ },
  "kala_ka_15_c_mahogany_concert.htm": {
   "price": 239.0,
   "removed_at": "2026-11-18T15:59Z"
@@ -483,6 +491,10 @@
   "price": 10990.0,
   "removed_at": "2026-11-22T16:00Z"
  },
+ "roland_tr_1000.htm": {
+  "price": 12290.0,
+  "removed_at": "2026-11-23T13:00Z"
+ },
  "sandberg_california_central_5_pf_tsb.htm": {
   "price": 7799.0,
   "removed_at": "2026-11-23T00:59Z"
@@ -562,6 +574,10 @@
  "swiff_audio_ws_70_wireless_system_602955.htm": {
   "price": 131.0,
   "removed_at": "2026-11-21T12:59Z"
+ },
+ "the_box_pro_dsp_18_sub.htm": {
+  "price": 1750.0,
+  "removed_at": "2026-11-23T13:00Z"
  },
  "thomann_crystal_singing_bowl_cf_8_a.htm": {
   "price": 265.0,
@@ -646,6 +662,10 @@
  "yamaha_psr_sx600.htm": {
   "price": 2699.0,
   "removed_at": "2026-11-20T21:59Z"
+ },
+ "yamaha_tas3_c_natural.htm": {
+  "price": 5899.0,
+  "removed_at": "2026-11-23T13:00Z"
  },
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,

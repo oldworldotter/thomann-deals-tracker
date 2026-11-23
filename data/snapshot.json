@@ -341,17 +341,17 @@
  },
  "adam_audio_h200.htm": {
   "badge": "",
-  "discount": 11,
+  "discount": 5,
   "first_seen": "2026-11-16T10:55Z",
   "id": "adam_audio_h200.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 555.0,
-  "min_price": 555.0,
+  "min_price": 525.0,
   "missing_runs": 0,
   "name": "ADAM Audio H200",
-  "price": 555.0,
-  "ref_price": 625.0,
-  "reported_price": 555.0,
+  "price": 525.0,
+  "ref_price": 555.0,
+  "reported_price": 525.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -1205,27 +1205,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/allen_heath_xone_24c_k3_bundle.htm"
- },
- "alto_ts_412_cover_bundle.htm": {
-  "badge": "",
-  "discount": 17,
-  "first_seen": "2026-11-19T16:00Z",
-  "id": "alto_ts_412_cover_bundle.htm",
-  "last_change": "2026-11-19T16:00Z",
-  "last_seen": "2026-11-23T06:59Z",
-  "max_price": 1359.0,
-  "min_price": 1359.0,
-  "missing_runs": 1,
-  "name": "Alto TS 412 Cover Bundle",
-  "price": 1359.0,
-  "ref_price": 1639.0,
-  "reported_price": 1359.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/alto_ts_412_cover_bundle.htm"
  },
  "alto_tx_412b_stereo_bundle.htm": {
   "badge": "",
@@ -4393,7 +4372,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xpnd_1_pedalboard_bundle.htm"
  },
@@ -4422,7 +4401,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xsapb1152_3p.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 195.0,
   "min_price": 195.0,
   "missing_runs": 0,
@@ -4433,8 +4412,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xsapb1152_3p.htm"
  },
  "daddario_xsapb1253_3p.htm": {
@@ -4533,7 +4512,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/daddario_xse1052_3p.htm"
  },
@@ -6835,7 +6814,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_sn_201_ht_bk.htm"
  },
@@ -7064,7 +7043,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ev_pxm_12mp.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 3855.0,
   "min_price": 3799.0,
   "missing_runs": 0,
@@ -7075,8 +7054,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ev_pxm_12mp.htm"
  },
  "ev_zlx_12p_g2_stereo_stand_bundle.htm": {
@@ -9307,9 +9286,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "furch_vintage_pure_00m_sm.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-23T09:59Z",
   "max_price": 4599.0,
   "min_price": 4590.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Furch Vintage Pure OOM-SM a",
   "price": 4599.0,
   "ref_price": null,
@@ -11366,7 +11346,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-22T18:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 655.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -11377,8 +11357,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm"
  },
  "harley_benton_hbz2004.htm": {
@@ -12006,7 +11986,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_baritone_ab.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -12017,8 +11997,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm"
  },
  "harley_benton_sc_custom_iii_gold_top.htm": {
@@ -12146,7 +12126,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-21T19:00Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 1269.0,
   "min_price": 1259.0,
   "missing_runs": 0,
@@ -12157,8 +12137,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_st_20hss_ca_w_marshall_mg15gfx.htm": {
@@ -12826,7 +12806,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb3_ivory.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 1755.0,
   "min_price": 1745.0,
   "missing_runs": 0,
@@ -12837,8 +12817,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_hnb3_ivory.htm"
  },
  "hils_hnb5_black.htm": {
@@ -13106,7 +13086,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn4_ivory.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 1755.0,
   "min_price": 1745.0,
   "missing_runs": 0,
@@ -13117,8 +13097,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_next_hn4_ivory.htm"
  },
  "hils_next_hn5_ivory.htm": {
@@ -14982,27 +14962,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/jbl_irx_one.htm"
  },
- "jg_percussion_ns1_nick_stoup_signature.htm": {
-  "badge": "",
-  "discount": 19,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "jg_percussion_ns1_nick_stoup_signature.htm",
-  "last_change": "2026-11-18T15:59Z",
-  "last_seen": "2026-11-23T06:59Z",
-  "max_price": 389.0,
-  "min_price": 389.0,
-  "missing_runs": 1,
-  "name": "JG Percussion NS1 Nick Stoup Signature",
-  "price": 389.0,
-  "ref_price": 479.0,
-  "reported_price": 389.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/jg_percussion_ns1_nick_stoup_signature.htm"
- },
  "jh_audio_universal_jessie_black.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -16128,7 +16087,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "korg_kronos_73_609233.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 12890.0,
   "min_price": 12790.0,
   "missing_runs": 0,
@@ -16139,8 +16098,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/korg_kronos_73_609233.htm"
  },
  "korg_pa_1000.htm": {
@@ -16148,7 +16107,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "korg_pa_1000.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 7399.0,
   "min_price": 7399.0,
   "missing_runs": 0,
@@ -16159,8 +16118,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/korg_pa_1000.htm"
  },
  "kramer_guitars_d_1_bass_case.htm": {
@@ -16750,10 +16709,10 @@
   "id": "laserworld_cube_7.htm",
   "last_change": "2026-11-16T10:55Z",
   "max_price": 5444.0,
-  "min_price": 5444.0,
+  "min_price": 5399.0,
   "missing_runs": 0,
   "name": "Laserworld CUBE 7",
-  "price": 5444.0,
+  "price": 5399.0,
   "ref_price": null,
   "reported_price": 5444.0,
   "sections": [
@@ -23831,27 +23790,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/roland_td713_v_drums_thomann_edition.htm"
  },
- "roland_tr_1000.htm": {
-  "badge": "GIVEAWAY",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "roland_tr_1000.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-23T06:59Z",
-  "max_price": 12290.0,
-  "min_price": 12290.0,
-  "missing_runs": 1,
-  "name": "Roland TR-1000",
-  "price": 12290.0,
-  "ref_price": null,
-  "reported_price": 12290.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/roland_tr_1000.htm"
- },
  "sadowsky_metroline_21_4_vin_mo_bk.htm": {
   "badge": "",
   "discount": 12,
@@ -24467,7 +24405,7 @@
   "ref_price": 333.0,
   "reported_price": 215.0,
   "sections": [
-   "Wyróżnione okazje"
+   "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
@@ -24959,7 +24897,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "shure_mv7_plus.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 1299.0,
   "min_price": 1290.0,
   "missing_runs": 0,
@@ -24970,8 +24908,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/shure_mv7_plus.htm"
  },
  "shure_mv7i_mv7x_bundle.htm": {
@@ -25605,9 +25543,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "solar_guitars_ab2.7blue_burst_thomann_ltd.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-23T09:59Z",
   "max_price": 2666.0,
   "min_price": 2644.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Solar Guitars AB2.7Blue Burst Thomann LTD",
   "price": 2666.0,
   "ref_price": null,
@@ -26184,7 +26123,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "soundboks_rider.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 1790.0,
   "min_price": 1777.0,
   "missing_runs": 0,
@@ -26195,8 +26134,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/soundboks_rider.htm"
  },
  "soundcraft_efx12_mkii.htm": {
@@ -29476,7 +29415,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_40cm.htm"
  },
@@ -29496,7 +29435,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_50cm.htm"
  },
@@ -29516,7 +29455,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_60cm.htm"
  },
@@ -29536,7 +29475,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_schamanentrommel_50cm.htm"
  },
@@ -29556,7 +29495,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_shaman_drum_goat_skin.htm"
  },
@@ -29576,7 +29515,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_shaman_drum_goat_tree_shorn_50.htm"
  },
@@ -29799,27 +29738,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/the_box_pro_cx_5.htm"
- },
- "the_box_pro_dsp_18_sub.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "the_box_pro_dsp_18_sub.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-23T06:59Z",
-  "max_price": 1750.0,
-  "min_price": 1699.0,
-  "missing_runs": 1,
-  "name": "the box pro DSP 18 Sub",
-  "price": 1750.0,
-  "ref_price": null,
-  "reported_price": 1750.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/the_box_pro_dsp_18_sub.htm"
  },
  "the_box_pro_dsx_112_m.htm": {
   "badge": "",
@@ -31066,7 +30984,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_sl5_zugtrompete.htm",
-  "last_change": "2026-11-22T12:59Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 579.0,
   "min_price": 575.0,
   "missing_runs": 0,
@@ -31077,8 +30995,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/thomann_sl5_zugtrompete.htm"
  },
  "thomann_sonority_chimes_penta9_c_dark.htm": {
@@ -33108,7 +33026,7 @@
   "discount": 11,
   "first_seen": "2026-11-16T10:55Z",
   "id": "varytec_led_theater_spot_100_bundle.htm",
-  "last_change": "2026-11-20T16:00Z",
+  "last_change": "2026-11-23T13:00Z",
   "max_price": 3399.0,
   "min_price": 3399.0,
   "missing_runs": 0,
@@ -33119,8 +33037,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/varytec_led_theater_spot_100_bundle.htm"
  },
  "varytec_led_theater_spot_120_fc.htm": {
@@ -34813,14 +34731,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_seqtrak_black.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1039.0,
+  "last_change": "2026-11-23T13:00Z",
+  "max_price": 1044.0,
   "min_price": 1033.0,
   "missing_runs": 0,
   "name": "Yamaha SEQTRAK Black",
-  "price": 1039.0,
+  "price": 1044.0,
   "ref_price": null,
-  "reported_price": 1033.0,
+  "reported_price": 1044.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -34833,14 +34751,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_seqtrak_orange.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1039.0,
+  "last_change": "2026-11-23T13:00Z",
+  "max_price": 1044.0,
   "min_price": 1033.0,
   "missing_runs": 0,
   "name": "Yamaha SEQTRAK Orange",
-  "price": 1039.0,
+  "price": 1044.0,
   "ref_price": null,
-  "reported_price": 1033.0,
+  "reported_price": 1044.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -35067,27 +34985,6 @@
   "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_tas1_e_natural.htm"
- },
- "yamaha_tas3_c_natural.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "yamaha_tas3_c_natural.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-23T06:59Z",
-  "max_price": 5899.0,
-  "min_price": 5799.0,
-  "missing_runs": 1,
-  "name": "Yamaha TAS3 C Natural",
-  "price": 5899.0,
-  "ref_price": null,
-  "reported_price": 5899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny za 2–3 tygodnie",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/yamaha_tas3_c_natural.htm"
  },
  "yamaha_tas3_c_sand_burst.htm": {
   "badge": "",

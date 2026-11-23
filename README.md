@@ -3,61 +3,65 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-23 10:59 CET · **1781** deals tracked of 1782 advertised · checks every **3 h**
+**Last check:** 2026-11-23 14:00 CET · **1779** deals tracked of 1779 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 1 new deals · 🔁 1 returned deals · ❌ 1 removed deals · 🏷️ 1 discount changes · ✅ 13 back in stock · 📦 2 stock changes → [full report](changes/2026-11-23T0959Z.md)
+❌ 5 removed deals · 💸 1 price drops · 📈 2 price increases · 🏷️ 1 discount changes · ✅ 9 back in stock · 📦 4 stock changes → [full report](changes/2026-11-23T1300Z.md)
 
-### 🆕 New deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Celemony Melodyne 5 essential](https://www.thomann.pl/celemony_melodyne_5_essential.htm) | 109 zł | ‑69% | 355 zł | Pobierz licencję |  |
-
-### 🔁 Returned deals (1)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Sela SE 002A Casela Satin Nut Cajon](https://www.thomann.pl/sela_se_002a_casela_satin_nut_cajon.htm) | **599 zł** | 599 zł | ‑27% | 819 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | 2026‑11‑21 20:00 |
-
-### ❌ Removed deals (1)
+### ❌ Removed deals (5)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Fun Generation LED Puck ONE Set of 4 Bundle](https://www.thomann.pl/fun_generation_led_puck_one_set_of_4_bundle.htm) | 399 zł |  |  | Dostępny w magazynie |  |
+| [JG Percussion NS1 Nick Stoup Signature](https://www.thomann.pl/jg_percussion_ns1_nick_stoup_signature.htm) | 389 zł | ‑19% | 479 zł | Dostępny w magazynie |  |
+| [Alto TS 412 Cover Bundle](https://www.thomann.pl/alto_ts_412_cover_bundle.htm) | 1 359 zł | ‑17% | 1 639 zł | Dostępny w magazynie |  |
+| [Roland TR-1000](https://www.thomann.pl/roland_tr_1000.htm) | 12 290 zł |  |  | Dostępny w magazynie | GIVEAWAY |
+| [the box pro DSP 18 Sub](https://www.thomann.pl/the_box_pro_dsp_18_sub.htm) | 1 750 zł |  |  | Dostępny za 1–2 tygodnie |  |
+| [Yamaha TAS3 C Natural](https://www.thomann.pl/yamaha_tas3_c_natural.htm) | 5 899 zł |  |  | Dostępny za 2–3 tygodnie |  |
+
+### 💸 Price drops (1)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [ADAM Audio H200](https://www.thomann.pl/adam_audio_h200.htm) | 555 zł | **525 zł** | -5.4% | ‑5% | 555 zł | Dostępny w magazynie |
+
+### 📈 Price increases (2)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Yamaha SEQTRAK Orange](https://www.thomann.pl/yamaha_seqtrak_orange.htm) | 1 033 zł | **1 044 zł** | +1.1% |  |  | Dostępny w magazynie |
+| [Yamaha SEQTRAK Black](https://www.thomann.pl/yamaha_seqtrak_black.htm) | 1 033 zł | **1 044 zł** | +1.1% |  |  | Dostępny w magazynie |
 
 ### 🏷️ Discount changes (1)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [Adam Hall Super Clamp Bolt Set 1](https://www.thomann.pl/adam_hall_super_clamp_b_set_1.htm) | 109 zł | -21% | **-27%** |
+| [ADAM Audio H200](https://www.thomann.pl/adam_audio_h200.htm) | 525 zł | -11% | **-5%** |
 
-### ✅ Back in stock (13)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Alfred Stingl by Höfner AS185 V1/4 Violin Set A.S.](https://www.thomann.pl/alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm) | 432 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Hils HNB5 Ivory](https://www.thomann.pl/hils_hnb5_ivory.htm) | 1 955 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 711 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Radial Engineering Power-1](https://www.thomann.pl/radial_engineering_power_1.htm) | 568 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
-| [Yamaha TAS1 C Sand Burst](https://www.thomann.pl/yamaha_tas1_c_sand_burst.htm) | 4 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Yamaha TAG1 E Sand Burst](https://www.thomann.pl/yamaha_tag1_e_sand_burst.htm) | 2 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Ampeg SGT-DI](https://www.thomann.pl/ampeg_sgt_di.htm) | 1 690 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Ampeg SVT CL](https://www.thomann.pl/ampeg_svt_cl_basstopteil.htm) | 9 099 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-…and 3 more in the full report.
-
-### 📦 Stock changes (2)
+### ✅ Back in stock (9)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [MA Lighting grandMA3 onPC C+F Wing Bundle](https://www.thomann.pl/ma_lighting_grandma3_onpc_cf_wing_bundle.htm) | 44 990 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Kala KA-20T Tenor Ukulele](https://www.thomann.pl/kala_ka_20t_tenor_ukulele.htm) | 215 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Thomann SL 5 Soprano Trombone](https://www.thomann.pl/thomann_sl5_zugtrompete.htm) | 579 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Hils Next HN4 Ivory](https://www.thomann.pl/hils_next_hn4_ivory.htm) | 1 755 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Varytec LED Theater Spot 100 Bundle](https://www.thomann.pl/varytec_led_theater_spot_100_bundle.htm) | 3 399 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+| [Daddario XSAPB1152-3P](https://www.thomann.pl/daddario_xsapb1152_3p.htm) | 195 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Korg Kronos 73](https://www.thomann.pl/korg_kronos_73_609233.htm) | 12 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 655 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Soundboks Rider](https://www.thomann.pl/soundboks_rider.htm) | 1 790 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (4)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Korg PA-1000](https://www.thomann.pl/korg_pa_1000.htm) | 7 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Shure MV7 Plus](https://www.thomann.pl/shure_mv7_plus.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [EV PXM-12MP](https://www.thomann.pl/ev_pxm_12mp.htm) | 3 855 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils HNB3 Ivory](https://www.thomann.pl/hils_hnb3_ivory.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
