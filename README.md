@@ -3,54 +3,19 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-23 01:59 CET · **1785** deals tracked of 1785 advertised · checks every **3 h**
+**Last check:** 2026-11-23 04:59 CET · **1785** deals tracked of 1785 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 14 new deals · ❌ 4 removed deals · ✅ 1 back in stock · 📦 4 stock changes → [full report](changes/2026-11-23T0059Z.md)
+❌ 1 removed deals → [full report](changes/2026-11-23T0359Z.md)
 
-### 🆕 New deals (14)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Meze Audio 105 Silva](https://www.thomann.pl/meze_audio_105_silva.htm) | 1 666 zł | ‑24% | 2 190 zł | Dostępny w magazynie |  |
-| [Torso Electronics T1 White](https://www.thomann.pl/torso_electronics_t1_white.htm) | 1 990 zł | ‑17% | 2 399 zł | Dostępny w magazynie |  |
-| [Torso Electronics T1](https://www.thomann.pl/torso_electronics_t1.htm) | 1 985 zł | ‑16% | 2 377 zł | Dostępny w magazynie |  |
-| [Line6 Helix Stadium XL Floor](https://www.thomann.pl/line6_helix_stadium_xl_floor.htm) | 8 794 zł | ‑15% | 10 288 zł | Dostępny w magazynie |  |
-| [Yamaha EAD50 Drum Module](https://www.thomann.pl/yamaha_ead50_drum_module.htm) | 6 070 zł | ‑13% | 6 972 zł | Dostępny w magazynie |  |
-| [Yamaha CSP-255 B](https://www.thomann.pl/yamaha_csp_255_b.htm) | 10 780 zł | ‑11% | 12 100 zł | Dostępny w magazynie |  |
-| [Yamaha CSP-255 WH](https://www.thomann.pl/yamaha_csp_255_wh.htm) | 10 780 zł | ‑11% | 12 100 zł | Dostępny w magazynie |  |
-| [Yamaha CSP-255 PE](https://www.thomann.pl/yamaha_csp_255_pe.htm) | 12 575 zł | ‑10% | 13 900 zł | Dostępny w magazynie |  |
-| [Yamaha CLP-875 B](https://www.thomann.pl/yamaha_clp_875_b.htm) | 13 080 zł | ‑9% | 14 400 zł | Dostępny w magazynie |  |
-| [Yamaha CLP-875 R](https://www.thomann.pl/yamaha_clp_875_r.htm) | 13 080 zł | ‑9% | 14 400 zł | Dostępny w magazynie |  |
-
-…and 4 more in the full report.
-
-### ❌ Removed deals (4)
+### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Martin Guitar D35 Ambertone](https://www.thomann.pl/martin_guitars_d35_ambertone.htm) | 16 090 zł | ‑22% | 20 690 zł | Dostępny w magazynie |  |
-| [Sandberg California Central 5 PF TSB](https://www.thomann.pl/sandberg_california_central_5_pf_tsb.htm) | 7 799 zł | ‑21% | 9 899 zł | Dostępny w magazynie |  |
-| [Kala KA-15S BLK Mahogany Soprano](https://www.thomann.pl/kala_ka_15s_blk_mahogany_soprano.htm) | 171 zł |  |  | Dostępny w magazynie |  |
-| [Walrus Audio Canvas Rehearsal](https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm) | 744 zł |  |  | Dostępny w magazynie |  |
-
-### ✅ Back in stock (1)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [OXI Instruments One MKII Black Edition](https://www.thomann.pl/oxi_instruments_one_mkii_black_edition.htm) | 3 099 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
-
-### 📦 Stock changes (4)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [SSL Bus Compressor Classic](https://www.thomann.pl/ssl_bus_compressor_classic.htm) | 5 290 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
-| [Kala Ukadelic Bamboo Ukulele Sop.](https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm) | 95 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Audix D6](https://www.thomann.pl/audix_d6_bassdrummikro.htm) | 799 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton ST-Modern MN HSS FBB](https://www.thomann.pl/harley_benton_st_modern_mn_hss_fbb.htm) | 744 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ape Labs ApeLight mini V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm) | 3 899 zł |  |  | Dostępny za 3–4 tygodnie | GIVEAWAY |
 
 <!-- DASHBOARD:END -->
 

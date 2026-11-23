@@ -1527,27 +1527,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm"
  },
- "ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm": {
-  "badge": "GIVEAWAY",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm",
-  "last_change": "2026-11-20T16:00Z",
-  "last_seen": "2026-11-22T21:59Z",
-  "max_price": 3899.0,
-  "min_price": 3899.0,
-  "missing_runs": 1,
-  "name": "Ape Labs ApeLight mini V2 VV TP 6 SB G",
-  "price": 3899.0,
-  "ref_price": null,
-  "reported_price": 3899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny za 3–4 tygodnie",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/ape_labs_apelight_mini_v2_vv_tp_6_sb_g.htm"
- },
  "ape_labs_lightcan_v2_tp_12_sb_c.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
