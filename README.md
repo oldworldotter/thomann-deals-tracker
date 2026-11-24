@@ -3,44 +3,36 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-24 04:59 CET · **1783** deals tracked of 1783 advertised · checks every **3 h**
+**Last check:** 2026-11-24 07:59 CET · **1782** deals tracked of 1782 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 3 new deals · 🔁 10 returned deals · ❌ 3 removed deals → [full report](changes/2026-11-24T0359Z.md)
+❌ 1 removed deals · ✅ 3 back in stock · 📦 4 stock changes → [full report](changes/2026-11-24T0659Z.md)
 
-### 🆕 New deals (3)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [One Control Strawberry Red 4K Overdrive](https://www.thomann.pl/one_control_strawberry_red_4k_overdrive.htm) | 259 zł | ‑57% | 599 zł | Dostępny w magazynie |  |
-| [Hils Next HN7 LTD G/TBK](https://www.thomann.pl/hils_next_hn7_ltd_g_tbk.htm) | 2 444 zł | ‑37% | 3 899 zł | Dostępny w magazynie |  |
-| [ESP E-II Viper See Thru BK Cherry](https://www.thomann.pl/esp_e_ii_viper_see_thru_bk_cherry.htm) | 8 899 zł | ‑28% | 12 333 zł | Dostępny w magazynie |  |
-
-### 🔁 Returned deals (10)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [One Control Silver Bee OD - Overdrive](https://www.thomann.pl/one_control_silver_bee_od_overdrive.htm) | **389 zł** | 389 zł | ‑61% | 990 zł | Dostępny w magazynie | 2026‑11‑21 16:59 |
-| [Hils HNT1R Ivory](https://www.thomann.pl/hils_hnt1r_ivory.htm) | **1 444 zł** | 1 444 zł | ‑27% | 1 990 zł | Dostępny w magazynie | 2026‑11‑19 19:27 |
-| [Warm Audio Foxy Tone Box Werewolf Fuzz](https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm) | **435 zł** | 433 zł | ‑22% | 555 zł | Dostępny w magazynie | 2026‑11‑18 01:59 |
-| [Numark Mixstream Pro+ Bag Bundle](https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm) | **2 599 zł** | 2 599 zł | ‑13% | 2 990 zł | Dostępny w magazynie | 2026‑11‑17 10:59 |
-| [Gibson Les Paul Custom 70s Wine Red](https://www.thomann.pl/gibson_les_paul_custom_70s_wine_red.htm) | **13 333 zł** | 13 190 zł | ‑12% | 15 090 zł | Dostępny w magazynie | 2026‑11‑17 19:59 |
-| [Yamaha TAS3 C Natural](https://www.thomann.pl/yamaha_tas3_c_natural.htm) | **5 899 zł** | 5 899 zł |  |  | Dostępny w magazynie | 2026‑11‑23 14:00 |
-| [Electro Harmonix Triangle Big Muff Fuzz](https://www.thomann.pl/electro_harmonix_triangle_big_muff_fuzz.htm) | **309 zł** | 309 zł |  |  | Dostępny w magazynie | 2026‑11‑21 20:00 |
-| [One Control Jubilee Red AIAB](https://www.thomann.pl/one_control_jubilee_red_aiab.htm) | **259 zł** | 259 zł |  |  | Dostępny w magazynie | 2026‑11‑22 16:10 |
-| [Electro Harmonix Pico Shimmer Reverb](https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm) | **579 zł** | 579 zł |  |  | Dostępny w magazynie | 2026‑11‑22 07:59 |
-| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | **215 zł** | 214 zł |  |  | Dostępny w magazynie | 2026‑11‑21 01:59 |
-
-### ❌ Removed deals (3)
+### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Hils HNT1R Metallic Ocean Blue](https://www.thomann.pl/hils_hnt1r_metallic_ocean_blue.htm) | 1 444 zł | ‑27% | 1 990 zł | Dostępny w magazynie |  |
-| [Solar Guitars T1.6D Aged Natural](https://www.thomann.pl/solar_guitars_t1.6an_aged_natural.htm) | 4 899 zł | ‑20% | 6 099 zł | Dostępny w magazynie |  |
-| [Warm Audio WA76-D](https://www.thomann.pl/warm_audio_wa76_d.htm) | 2 799 zł |  |  | Dostępny w magazynie |  |
+| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | 1 325 zł |  |  | Dostępny w magazynie | Deal |
+
+### ✅ Back in stock (3)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Hils Next HN3 Met. Emerald Green](https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm) | 1 444 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Evans G2 Fusion 2 Set clear](https://www.thomann.pl/evans_g2_fusion_2_set_clear.htm) | 233 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-JAMster MDS](https://www.thomann.pl/harley_benton_st_jamster_mds.htm) | 488 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (4)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 079 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
