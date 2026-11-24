@@ -139,14 +139,6 @@
   "price": 344.0,
   "removed_at": "2026-11-21T00:59Z"
  },
- "electro_harmonix_pico_shimmer_reverb.htm": {
-  "price": 579.0,
-  "removed_at": "2026-11-22T06:59Z"
- },
- "electro_harmonix_triangle_big_muff_fuzz.htm": {
-  "price": 309.0,
-  "removed_at": "2026-11-21T19:00Z"
- },
  "epiphone_alex_lifeson_lp_custom_axcess.htm": {
   "price": 4399.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -223,10 +215,6 @@
   "price": 10590.0,
   "removed_at": "2026-11-19T18:27Z"
  },
- "gibson_les_paul_custom_70s_wine_red.htm": {
-  "price": 13190.0,
-  "removed_at": "2026-11-17T18:59Z"
- },
  "gibson_les_paul_custom_aw.htm": {
   "price": 20790.0,
   "removed_at": "2026-11-22T00:59Z"
@@ -271,9 +259,9 @@
   "price": 1739.0,
   "removed_at": "2026-11-17T18:59Z"
  },
- "hils_hnt1r_ivory.htm": {
+ "hils_hnt1r_metallic_ocean_blue.htm": {
   "price": 1444.0,
-  "removed_at": "2026-11-19T18:27Z"
+  "removed_at": "2026-11-24T03:59Z"
  },
  "hils_next_hn3_metallic_coral_orange.htm": {
   "price": 1444.0,
@@ -415,10 +403,6 @@
   "price": 14890.0,
   "removed_at": "2026-11-22T12:59Z"
  },
- "numark_mixstream_pro_bag_bundle.htm": {
-  "price": 2599.0,
-  "removed_at": "2026-11-17T09:59Z"
- },
  "numark_party_mix_mkiii.htm": {
   "price": 485.0,
   "removed_at": "2026-11-19T16:00Z"
@@ -443,10 +427,6 @@
   "price": 258.0,
   "removed_at": "2026-11-20T00:46Z"
  },
- "one_control_jubilee_red_aiab.htm": {
-  "price": 259.0,
-  "removed_at": "2026-11-22T15:10Z"
- },
  "one_control_pale_blue_compressor_eq.htm": {
   "price": 433.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -454,14 +434,6 @@
  "one_control_persian_green_screamer.htm": {
   "price": 258.0,
   "removed_at": "2026-11-18T21:59Z"
- },
- "one_control_silver_bee_od_overdrive.htm": {
-  "price": 389.0,
-  "removed_at": "2026-11-21T15:59Z"
- },
- "one_control_super_apricot_od_overdrive_624366.htm": {
-  "price": 214.0,
-  "removed_at": "2026-11-21T00:59Z"
  },
  "prs_se_custom_24_s_h_vs_2025.htm": {
   "price": 3899.0,
@@ -567,6 +539,10 @@
   "price": 5499.0,
   "removed_at": "2026-11-19T03:59Z"
  },
+ "solar_guitars_t1.6an_aged_natural.htm": {
+  "price": 4899.0,
+  "removed_at": "2026-11-24T03:59Z"
+ },
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
   "removed_at": "2026-11-17T01:00Z"
@@ -663,9 +639,9 @@
   "price": 599.0,
   "removed_at": "2026-11-20T18:59Z"
  },
- "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
-  "price": 433.0,
-  "removed_at": "2026-11-18T00:59Z"
+ "warm_audio_wa76_d.htm": {
+  "price": 2799.0,
+  "removed_at": "2026-11-24T03:59Z"
  },
  "wolfmix_w1_mk3.htm": {
   "price": 3490.0,
@@ -694,10 +670,6 @@
  "yamaha_psr_sx600.htm": {
   "price": 2699.0,
   "removed_at": "2026-11-20T21:59Z"
- },
- "yamaha_tas3_c_natural.htm": {
-  "price": 5899.0,
-  "removed_at": "2026-11-23T13:00Z"
  },
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,
