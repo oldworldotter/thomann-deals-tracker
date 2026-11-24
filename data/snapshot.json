@@ -1109,7 +1109,7 @@
   "discount": 40,
   "first_seen": "2026-11-18T15:59Z",
   "id": "alfred_stingl_by_hoefner_as_90_18_b_bass_bag_3_4.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-24T22:00Z",
   "max_price": 649.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -1120,8 +1120,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/alfred_stingl_by_hoefner_as_90_18_b_bass_bag_3_4.htm"
  },
  "alfred_stingl_violinset_as_160_v_14.htm": {
@@ -5523,9 +5523,10 @@
   "first_seen": "2026-11-24T15:59Z",
   "id": "elation_sdc_6_faderdesk_v2_black.htm",
   "last_change": "2026-11-24T15:59Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 154.0,
   "min_price": 154.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Elation SDC-6 Faderdesk V2 black",
   "price": 154.0,
   "ref_price": null,
@@ -5923,9 +5924,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "epiphone_1963_firebird_i_silver_mist.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 3899.0,
   "min_price": 3899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Epiphone 1963 Firebird I Silver Mist",
   "price": 3899.0,
   "ref_price": 4555.0,
@@ -9139,27 +9141,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/fusion_by_glp_simpledesk_24_dmx_controller.htm"
  },
- "futurelight_dmb_100_led_moving_head.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "futurelight_dmb_100_led_moving_head.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-24T15:59Z",
-  "max_price": 2099.0,
-  "min_price": 2090.0,
-  "missing_runs": 1,
-  "name": "Futurelight DMB-100 LED Moving-Head",
-  "price": 2099.0,
-  "ref_price": null,
-  "reported_price": 2090.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/futurelight_dmb_100_led_moving_head.htm"
- },
  "gewa_bb_f_trombone_236_fg_vision.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -9646,9 +9627,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "gibson_les_paul_custom_70s_wine_red.htm",
   "last_change": "2026-11-24T19:00Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 13333.0,
   "min_price": 13333.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Gibson Les Paul Custom 70s Wine Red",
   "price": 13333.0,
   "ref_price": 15290.0,
@@ -9786,9 +9768,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "gibson_lp_junior_57_singecut_tvy_vos.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 12690.0,
   "min_price": 12690.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Gibson LP Junior 57 Singlecut TVY VOS",
   "price": 12690.0,
   "ref_price": 15690.0,
@@ -10286,9 +10269,10 @@
   "first_seen": "2026-11-23T16:00Z",
   "id": "guild_starfire_i_dc_cherry.htm",
   "last_change": "2026-11-23T16:00Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 1977.0,
   "min_price": 1977.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Guild Starfire I DC Cherry",
   "price": 1977.0,
   "ref_price": null,
@@ -10645,7 +10629,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_dc_custom_612_cherry.htm",
-  "last_change": "2026-11-23T18:59Z",
+  "last_change": "2026-11-24T22:00Z",
   "max_price": 1955.0,
   "min_price": 1899.0,
   "missing_runs": 0,
@@ -10656,8 +10640,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_dc_custom_612_cherry.htm"
  },
  "harley_benton_dc_ukulele_ch.htm": {
@@ -11465,7 +11449,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_pj4_sbk_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-24T09:59Z",
+  "last_change": "2026-11-24T22:00Z",
   "max_price": 744.0,
   "min_price": 739.0,
   "missing_runs": 0,
@@ -11476,8 +11460,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm"
  },
  "harley_benton_pj_5_sbk_deluxe_series.htm": {
@@ -12706,10 +12690,9 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hns1r_metallic_ocean_blue.htm",
   "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-24T15:59Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
-  "missing_runs": 1,
+  "missing_runs": 0,
   "name": "Hils HNS1R Metallic Ocean Blue",
   "price": 1444.0,
   "ref_price": 1990.0,
@@ -15528,9 +15511,10 @@
   "first_seen": "2026-11-24T15:59Z",
   "id": "kala_ukadelic_soprano_uku_bl.htm",
   "last_change": "2026-11-24T15:59Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 88.0,
   "min_price": 88.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Kala Ukadelic Soprano Uku BL",
   "price": 88.0,
   "ref_price": null,
@@ -16361,27 +16345,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/larry_carlton_q7_black.htm"
- },
- "larry_carlton_s5_hss_car.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "larry_carlton_s5_hss_car.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-24T15:59Z",
-  "max_price": 1755.0,
-  "min_price": 1745.0,
-  "missing_runs": 1,
-  "name": "Larry Carlton S5 HSS CAR",
-  "price": 1755.0,
-  "ref_price": null,
-  "reported_price": 1745.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/larry_carlton_s5_hss_car.htm"
  },
  "larry_carlton_s5_hss_dn.htm": {
   "badge": "",
@@ -18623,27 +18586,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitar_d35_sunburst.htm"
- },
- "martin_guitar_d_jr_e_streetmaster.htm": {
-  "badge": "",
-  "discount": 35,
-  "first_seen": "2026-11-24T15:59Z",
-  "id": "martin_guitar_d_jr_e_streetmaster.htm",
-  "last_change": "2026-11-24T15:59Z",
-  "last_seen": "2026-11-24T15:59Z",
-  "max_price": 3069.0,
-  "min_price": 3069.0,
-  "missing_runs": 1,
-  "name": "Martin Guitar D Jr E StreetMaster New",
-  "price": 3069.0,
-  "ref_price": 4699.0,
-  "reported_price": 3069.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm"
  },
  "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
   "badge": "",
@@ -22591,27 +22533,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/prs_mark_holcomb_cobalt_smokeburst.htm"
  },
- "prs_mark_tremonti_stoptail_ct.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "prs_mark_tremonti_stoptail_ct.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-24T15:59Z",
-  "max_price": 19790.0,
-  "min_price": 19690.0,
-  "missing_runs": 1,
-  "name": "PRS Mark Tremonti Stoptail CT",
-  "price": 19790.0,
-  "ref_price": null,
-  "reported_price": 19690.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/prs_mark_tremonti_stoptail_ct.htm"
- },
  "prs_mccarty_594_mango_ltd_sf.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -23274,16 +23195,16 @@
  },
  "rhodes_v8_pro.htm": {
   "badge": "",
-  "discount": 61,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "rhodes_v8_pro.htm",
-  "last_change": "2026-11-24T19:00Z",
+  "last_change": "2026-11-24T22:00Z",
   "max_price": 435.0,
   "min_price": 429.0,
   "missing_runs": 0,
   "name": "Rhodes V8 Pro",
   "price": 435.0,
-  "ref_price": 1111.0,
+  "ref_price": null,
   "reported_price": 435.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -25685,9 +25606,10 @@
   "first_seen": "2026-11-18T15:59Z",
   "id": "sonor_14x575_mom_snare_maple_rep.htm",
   "last_change": "2026-11-20T13:00Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 2199.0,
   "min_price": 2199.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Sonor 14\"x5.75\" MOM. Snare Maple REP",
   "price": 2199.0,
   "ref_price": 3666.0,
@@ -31465,9 +31387,10 @@
   "first_seen": "2026-11-24T15:59Z",
   "id": "tone_city_holy_aura_distortion_boost.htm",
   "last_change": "2026-11-24T15:59Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 259.0,
   "min_price": 259.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Tone City Holy Aura - Distortion / Boost",
   "price": 259.0,
   "ref_price": 432.0,
@@ -32567,9 +32490,10 @@
   "first_seen": "2026-11-24T12:59Z",
   "id": "varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm",
   "last_change": "2026-11-24T12:59Z",
+  "last_seen": "2026-11-24T19:00Z",
   "max_price": 374.0,
   "min_price": 374.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Varytec LED Pad7 7x10W 6in1 RGBAWUV BL",
   "price": 374.0,
   "ref_price": null,
@@ -33861,27 +33785,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_ead50_drum_module.htm"
- },
- "yamaha_ez_310.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-24T15:59Z",
-  "id": "yamaha_ez_310.htm",
-  "last_change": "2026-11-24T15:59Z",
-  "last_seen": "2026-11-24T15:59Z",
-  "max_price": 722.0,
-  "min_price": 722.0,
-  "missing_runs": 1,
-  "name": "Yamaha EZ-310",
-  "price": 722.0,
-  "ref_price": null,
-  "reported_price": 722.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/yamaha_ez_310.htm"
  },
  "yamaha_genos_2_speaker_bundle.htm": {
   "badge": "",
@@ -35325,26 +35228,5 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/zultan_aja_blaze_cymbal_set.htm"
- },
- "zultan_alaris_cymbal_set.htm": {
-  "badge": "",
-  "discount": 32,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "zultan_alaris_cymbal_set.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-24T15:59Z",
-  "max_price": 2175.0,
-  "min_price": 2175.0,
-  "missing_runs": 1,
-  "name": "Zultan Alaris Cymbal Set",
-  "price": 2175.0,
-  "ref_price": 3222.0,
-  "reported_price": 2175.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/zultan_alaris_cymbal_set.htm"
  }
 }

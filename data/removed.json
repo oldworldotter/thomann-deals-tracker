@@ -235,6 +235,10 @@
   "price": 4599.0,
   "removed_at": "2026-11-23T16:00Z"
  },
+ "futurelight_dmb_100_led_moving_head.htm": {
+  "price": 2099.0,
+  "removed_at": "2026-11-24T22:00Z"
+ },
  "gibson_aj_anniversary_ltd_cb.htm": {
   "price": 22090.0,
   "removed_at": "2026-11-20T21:59Z"
@@ -383,6 +387,10 @@
   "price": 4333.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "larry_carlton_s5_hss_car.htm": {
+  "price": 1755.0,
+  "removed_at": "2026-11-24T22:00Z"
+ },
  "laserworld_cube_15_bundle.htm": {
   "price": 4666.0,
   "removed_at": "2026-11-19T16:00Z"
@@ -418,6 +426,10 @@
  "markbass_little_mark_tube_800.htm": {
   "price": 1899.0,
   "removed_at": "2026-11-17T18:59Z"
+ },
+ "martin_guitar_d_jr_e_streetmaster.htm": {
+  "price": 3069.0,
+  "removed_at": "2026-11-24T22:00Z"
  },
  "martin_guitars_d35_ambertone.htm": {
   "price": 16090.0,
@@ -506,6 +518,10 @@
  "one_control_super_apricot_od_overdrive_624366.htm": {
   "price": 215.0,
   "removed_at": "2026-11-24T15:59Z"
+ },
+ "prs_mark_tremonti_stoptail_ct.htm": {
+  "price": 19790.0,
+  "removed_at": "2026-11-24T22:00Z"
  },
  "prs_se_custom_24_s_h_vs_2025.htm": {
   "price": 3899.0,
@@ -739,6 +755,10 @@
   "price": 898.0,
   "removed_at": "2026-11-16T19:02Z"
  },
+ "yamaha_ez_310.htm": {
+  "price": 722.0,
+  "removed_at": "2026-11-24T22:00Z"
+ },
  "yamaha_hs_8_mp.htm": {
   "price": 1999.0,
   "removed_at": "2026-11-17T09:59Z"
@@ -758,5 +778,9 @@
  "zoom_v6_sp.htm": {
   "price": 879.0,
   "removed_at": "2026-11-19T21:59Z"
+ },
+ "zultan_alaris_cymbal_set.htm": {
+  "price": 2175.0,
+  "removed_at": "2026-11-24T22:00Z"
  }
 }
