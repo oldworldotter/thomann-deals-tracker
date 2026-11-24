@@ -1572,14 +1572,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_marvel_tb_4_flood.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 12990.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 13190.0,
   "min_price": 12990.0,
   "missing_runs": 0,
   "name": "Ape Labs Marvel TB 4 Flood",
-  "price": 12990.0,
+  "price": 13190.0,
   "ref_price": null,
-  "reported_price": 12990.0,
+  "reported_price": 13190.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -1592,14 +1592,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_marvel_tb_4_spot.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 12990.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 13190.0,
   "min_price": 12990.0,
   "missing_runs": 0,
   "name": "Ape Labs Marvel TB 4 Spot",
-  "price": 12990.0,
+  "price": 13190.0,
   "ref_price": null,
-  "reported_price": 12990.0,
+  "reported_price": 13190.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -1952,7 +1952,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "audix_d6x.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 990.0,
   "min_price": 979.0,
   "missing_runs": 0,
@@ -1963,8 +1963,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/audix_d6x.htm"
  },
  "audix_dp7_drumkoffer.htm": {
@@ -4738,16 +4738,16 @@
  },
  "db_technologies_ig3t_the_box_pro_a121_powerset.htm": {
   "badge": "",
-  "discount": 11,
+  "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "db_technologies_ig3t_the_box_pro_a121_powerset.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 29690.0,
   "min_price": 29690.0,
   "missing_runs": 0,
   "name": "dB Technologies IG3T the box pro A121 PowerSet",
   "price": 29690.0,
-  "ref_price": 33290.0,
+  "ref_price": 33590.0,
   "reported_price": 29690.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -5007,7 +5007,7 @@
   "missing_runs": 0,
   "name": "Dixon PSN-9 Drum Throne",
   "price": 389.0,
-  "ref_price": 472.0,
+  "ref_price": 475.0,
   "reported_price": 389.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -5699,16 +5699,16 @@
  },
  "electro_harmonix_voice_box.htm": {
   "badge": "",
-  "discount": 9,
+  "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "electro_harmonix_voice_box.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 799.0,
   "min_price": 799.0,
   "missing_runs": 0,
   "name": "Electro Harmonix Voice Box",
   "price": 799.0,
-  "ref_price": 879.0,
+  "ref_price": 888.0,
   "reported_price": 799.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -6288,7 +6288,7 @@
   "missing_runs": 0,
   "name": "Erica Synths Steampipe",
   "price": 3999.0,
-  "ref_price": 4890.0,
+  "ref_price": 4899.0,
   "reported_price": 3999.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -6356,28 +6356,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esi_maya_22_usb.htm"
- },
- "esp_ec_1000_piezo_qm_stb.htm": {
-  "badge": "Deal",
-  "discount": null,
-  "first_seen": "2026-11-20T16:00Z",
-  "id": "esp_ec_1000_piezo_qm_stb.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-24T12:59Z",
-  "max_price": 4490.0,
-  "min_price": 4444.0,
-  "missing_runs": 1,
-  "name": "ESP LTD EC-1000 Piezo QM STBLK",
-  "price": 4490.0,
-  "ref_price": null,
-  "reported_price": 4490.0,
-  "sections": [
-   "Przegląd wszystkich ofert",
-   "Wyróżnione okazje"
-  ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/esp_ec_1000_piezo_qm_stb.htm"
  },
  "esp_eclipse_custom_db_black_satin.htm": {
   "badge": "",
@@ -6941,16 +6919,16 @@
  },
  "ev_zlx_15p_g2_stereo_stand_bundle.htm": {
   "badge": "GIVEAWAY",
-  "discount": 8,
+  "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ev_zlx_15p_g2_stereo_stand_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 5222.0,
   "min_price": 5222.0,
   "missing_runs": 0,
   "name": "EV ZLX 15P G2 Stereo Stand Bundle",
   "price": 5222.0,
-  "ref_price": 5699.0,
+  "ref_price": 5799.0,
   "reported_price": 5222.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -7165,11 +7143,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "fabfilter_pro_bundle.htm",
   "last_change": "2026-11-17T09:59Z",
-  "max_price": 1735.0,
+  "max_price": 1750.0,
   "min_price": 1733.0,
   "missing_runs": 0,
   "name": "FabFilter Pro Bundle",
-  "price": 1733.0,
+  "price": 1750.0,
   "ref_price": null,
   "reported_price": 1735.0,
   "sections": [
@@ -7184,14 +7162,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "fabfilter_pro_q_4.htm",
-  "last_change": "2026-11-17T09:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 444.0,
   "min_price": 439.0,
   "missing_runs": 0,
   "name": "FabFilter Pro-Q 4",
-  "price": 439.0,
+  "price": 444.0,
   "ref_price": null,
-  "reported_price": 439.0,
+  "reported_price": 444.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -7204,14 +7182,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "fabfilter_total_bundle.htm",
-  "last_change": "2026-11-17T09:59Z",
-  "max_price": 2358.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 2390.0,
   "min_price": 2333.0,
   "missing_runs": 0,
   "name": "FabFilter Total Bundle",
-  "price": 2358.0,
+  "price": 2390.0,
   "ref_price": null,
-  "reported_price": 2358.0,
+  "reported_price": 2390.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -7641,17 +7619,17 @@
  },
  "fender_ltd_am_pro_ii_carbonita_rw_crt.htm": {
   "badge": "",
-  "discount": 5,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "fender_ltd_am_pro_ii_carbonita_rw_crt.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 7899.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 7999.0,
   "min_price": 7899.0,
   "missing_runs": 0,
   "name": "Fender LTD Am Pro II Cabronita RW CRT",
-  "price": 7899.0,
-  "ref_price": 8333.0,
-  "reported_price": 7899.0,
+  "price": 7999.0,
+  "ref_price": null,
+  "reported_price": 7999.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -8783,16 +8761,16 @@
  },
  "fun_generation_cl_105_a.htm": {
   "badge": "",
-  "discount": 11,
+  "discount": 14,
   "first_seen": "2026-11-16T10:55Z",
   "id": "fun_generation_cl_105_a.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 266.0,
   "min_price": 266.0,
   "missing_runs": 0,
   "name": "Fun Generation CL 105 A",
   "price": 266.0,
-  "ref_price": 299.0,
+  "ref_price": 309.0,
   "reported_price": 266.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -8903,16 +8881,16 @@
  },
  "fun_generation_led_pot_strobe_100.htm": {
   "badge": "",
-  "discount": 7,
+  "discount": 9,
   "first_seen": "2026-11-16T10:55Z",
   "id": "fun_generation_led_pot_strobe_100.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 199.0,
   "min_price": 199.0,
   "missing_runs": 0,
   "name": "Fun Generation LED Pot Strobe 100",
   "price": 199.0,
-  "ref_price": 215.0,
+  "ref_price": 218.0,
   "reported_price": 199.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -8943,17 +8921,17 @@
  },
  "fun_generation_magic_sky_led_bundle.htm": {
   "badge": "",
-  "discount": 12,
+  "discount": null,
   "first_seen": "2026-11-17T12:59Z",
   "id": "fun_generation_magic_sky_led_bundle.htm",
-  "last_change": "2026-11-17T12:59Z",
-  "max_price": 98.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 99.0,
   "min_price": 98.0,
   "missing_runs": 0,
   "name": "Fun Generation Magic Sky LED Bundle",
-  "price": 98.0,
-  "ref_price": 111.0,
-  "reported_price": 98.0,
+  "price": 99.0,
+  "ref_price": null,
+  "reported_price": 99.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -9167,9 +9145,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "futurelight_dmb_100_led_moving_head.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 2099.0,
   "min_price": 2090.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Futurelight DMB-100 LED Moving-Head",
   "price": 2099.0,
   "ref_price": null,
@@ -9332,7 +9311,7 @@
   "missing_runs": 0,
   "name": "Gibson 57 LP Junior SC TV Yellow HA",
   "price": 20190.0,
-  "ref_price": 22777.0,
+  "ref_price": 22790.0,
   "reported_price": 20190.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -9663,16 +9642,16 @@
  },
  "gibson_les_paul_custom_70s_wine_red.htm": {
   "badge": "",
-  "discount": 12,
+  "discount": 13,
   "first_seen": "2026-11-24T03:59Z",
   "id": "gibson_les_paul_custom_70s_wine_red.htm",
-  "last_change": "2026-11-24T03:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 13333.0,
   "min_price": 13333.0,
   "missing_runs": 0,
   "name": "Gibson Les Paul Custom 70s Wine Red",
   "price": 13333.0,
-  "ref_price": 15090.0,
+  "ref_price": 15290.0,
   "reported_price": 13333.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -9680,27 +9659,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_les_paul_custom_70s_wine_red.htm"
- },
- "gibson_les_paul_standard_50s_p90.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-23T16:00Z",
-  "id": "gibson_les_paul_standard_50s_p90.htm",
-  "last_change": "2026-11-23T16:00Z",
-  "last_seen": "2026-11-24T12:59Z",
-  "max_price": 10690.0,
-  "min_price": 10690.0,
-  "missing_runs": 1,
-  "name": "Gibson Les Paul Standard 50s P90",
-  "price": 10690.0,
-  "ref_price": null,
-  "reported_price": 10690.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gibson_les_paul_standard_50s_p90.htm"
  },
  "gibson_les_paul_standard_60s_aaa_lb.htm": {
   "badge": "",
@@ -10524,16 +10482,16 @@
  },
  "harley_benton_clp_12sm_brs_solid_top.htm": {
   "badge": "",
-  "discount": 7,
+  "discount": 8,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_clp_12sm_brs_solid_top.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 999.0,
   "min_price": 999.0,
   "missing_runs": 0,
   "name": "Harley Benton CLP-12SM BRS Solid Top",
   "price": 999.0,
-  "ref_price": 1079.0,
+  "ref_price": 1090.0,
   "reported_price": 999.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -10787,14 +10745,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_dnafx_git_core_bag_bundle.htm",
-  "last_change": "2026-11-16T19:34Z",
-  "max_price": 345.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 348.0,
   "min_price": 344.0,
   "missing_runs": 0,
   "name": "Harley Benton DNAfx GiT Core Bag Bundle",
-  "price": 345.0,
+  "price": 348.0,
   "ref_price": null,
-  "reported_price": 344.0,
+  "reported_price": 348.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -11044,16 +11002,16 @@
  },
  "harley_benton_gpa_100.htm": {
   "badge": "",
-  "discount": 12,
+  "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_gpa_100.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 299.0,
   "min_price": 299.0,
   "missing_runs": 0,
   "name": "Harley Benton GPA-100",
   "price": 299.0,
-  "ref_price": 339.0,
+  "ref_price": 345.0,
   "reported_price": 299.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -11227,7 +11185,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2004.htm",
-  "last_change": "2026-11-24T09:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11238,8 +11196,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_hbz2004.htm"
  },
  "harley_benton_hbz2005.htm": {
@@ -11247,19 +11205,19 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2005.htm",
-  "last_change": "2026-11-23T16:00Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
   "name": "Harley Benton HBZ-2005 Deluxe Series",
   "price": 1299.0,
-  "ref_price": 1469.0,
+  "ref_price": 1479.0,
   "reported_price": 1299.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbz2005.htm"
  },
  "harley_benton_het_550_bk.htm": {
@@ -11664,16 +11622,16 @@
  },
  "harley_benton_rg_junior_bk_bundle_2.htm": {
   "badge": "",
-  "discount": 13,
+  "discount": 14,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rg_junior_bk_bundle_2.htm",
-  "last_change": "2026-11-23T06:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
   "name": "Harley Benton RG-Junior BK Set",
   "price": 599.0,
-  "ref_price": 689.0,
+  "ref_price": 698.0,
   "reported_price": 599.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -11747,7 +11705,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_200_bk_student_serie_bundle.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 699.0,
   "min_price": 698.0,
   "missing_runs": 0,
@@ -11758,8 +11716,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_200_bk_student_serie_bundle.htm"
  },
  "harley_benton_sc_400_gt_w_soran_dual_lite.htm": {
@@ -11887,7 +11845,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_quilt_midnight.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1222.0,
   "min_price": 1199.0,
   "missing_runs": 0,
@@ -11898,8 +11856,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm"
  },
  "harley_benton_spaceship_40.htm": {
@@ -12527,14 +12485,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "headrush_frfr_12_cab.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1875.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1890.0,
   "min_price": 1869.0,
   "missing_runs": 0,
   "name": "Headrush FRFR-12 Cab",
-  "price": 1875.0,
+  "price": 1890.0,
   "ref_price": null,
-  "reported_price": 1869.0,
+  "reported_price": 1890.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -12548,11 +12506,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "headrush_frfr_8_cab.htm",
   "last_change": "2026-11-16T10:55Z",
-  "max_price": 1438.0,
+  "max_price": 1444.0,
   "min_price": 1435.0,
   "missing_runs": 0,
   "name": "Headrush FRFR-8 Cab",
-  "price": 1438.0,
+  "price": 1444.0,
   "ref_price": null,
   "reported_price": 1435.0,
   "sections": [
@@ -12748,9 +12706,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hns1r_metallic_ocean_blue.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Hils HNS1R Metallic Ocean Blue",
   "price": 1444.0,
   "ref_price": 1990.0,
@@ -13764,16 +13723,16 @@
  },
  "hotone_ampero_ii_stage.htm": {
   "badge": "",
-  "discount": 18,
+  "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hotone_ampero_ii_stage.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 2190.0,
   "min_price": 2190.0,
   "missing_runs": 0,
   "name": "Hotone Ampero II Stage",
   "price": 2190.0,
-  "ref_price": 2666.0,
+  "ref_price": 2699.0,
   "reported_price": 2190.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -14133,7 +14092,7 @@
   "missing_runs": 0,
   "name": "Ignition Gawan 200 LED Beam Moving Head",
   "price": 2599.0,
-  "ref_price": 4299.0,
+  "ref_price": 4333.0,
   "reported_price": 2599.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -14965,16 +14924,16 @@
  },
  "joyo_classic_wah_volume.htm": {
   "badge": "",
-  "discount": 19,
+  "discount": 20,
   "first_seen": "2026-11-18T15:59Z",
   "id": "joyo_classic_wah_volume.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 192.0,
   "min_price": 192.0,
   "missing_runs": 0,
   "name": "Joyo Classic Wah / Volume",
   "price": 192.0,
-  "ref_price": 238.0,
+  "ref_price": 239.0,
   "reported_price": 192.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -15205,16 +15164,16 @@
  },
  "joyo_r_22_narcissus_chorus.htm": {
   "badge": "",
-  "discount": 9,
+  "discount": 10,
   "first_seen": "2026-11-18T18:17Z",
   "id": "joyo_r_22_narcissus_chorus.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 192.0,
   "min_price": 192.0,
   "missing_runs": 0,
   "name": "Joyo R-22 Narcissus Chorus",
   "price": 192.0,
-  "ref_price": 211.0,
+  "ref_price": 213.0,
   "reported_price": 192.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -15408,7 +15367,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_mrt_pur_c_concert_ukulele.htm",
-  "last_change": "2026-11-23T18:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 170.0,
   "min_price": 169.0,
   "missing_runs": 0,
@@ -15419,8 +15378,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm"
  },
  "kala_ka_mrt_pur_s_soprano_ukulele.htm": {
@@ -16409,9 +16368,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "larry_carlton_s5_hss_car.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 1755.0,
   "min_price": 1745.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Larry Carlton S5 HSS CAR",
   "price": 1755.0,
   "ref_price": null,
@@ -16694,7 +16654,7 @@
   "missing_runs": 0,
   "name": "LD Systems Curv 500 PS Bundle",
   "price": 7199.0,
-  "ref_price": 9299.0,
+  "ref_price": 9399.0,
   "reported_price": 7199.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -16748,14 +16708,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_maui_11_g3.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 3999.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 4098.0,
   "min_price": 3999.0,
   "missing_runs": 0,
   "name": "LD Systems Maui 11 G3",
-  "price": 3999.0,
+  "price": 4098.0,
   "ref_price": null,
-  "reported_price": 3999.0,
+  "reported_price": 4098.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -18014,7 +17974,7 @@
   "missing_runs": 0,
   "name": "Make Noise TEMPI",
   "price": 1099.0,
-  "ref_price": 1266.0,
+  "ref_price": 1269.0,
   "reported_price": 1099.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -18042,27 +18002,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/manhasset_symphony_48_notenpult.htm"
- },
- "mapex_12_x55_dl_warbird_snare_drum.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "mapex_12_x55_dl_warbird_snare_drum.htm",
-  "last_change": "2026-11-18T21:59Z",
-  "last_seen": "2026-11-24T12:59Z",
-  "max_price": 2175.0,
-  "min_price": 2169.0,
-  "missing_runs": 1,
-  "name": "Mapex 12\"x5,5\" DL Warbird Snare Drum",
-  "price": 2175.0,
-  "ref_price": null,
-  "reported_price": 2169.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/mapex_12_x55_dl_warbird_snare_drum.htm"
  },
  "mapex_13_x55_dl_cherry_bomb_nsw.htm": {
   "badge": "",
@@ -18691,9 +18630,10 @@
   "first_seen": "2026-11-24T15:59Z",
   "id": "martin_guitar_d_jr_e_streetmaster.htm",
   "last_change": "2026-11-24T15:59Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 3069.0,
   "min_price": 3069.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Martin Guitar D Jr E StreetMaster New",
   "price": 3069.0,
   "ref_price": 4699.0,
@@ -20981,7 +20921,7 @@
   "missing_runs": 0,
   "name": "Nexus Lights Hilite",
   "price": 299.0,
-  "ref_price": 364.0,
+  "ref_price": 366.0,
   "reported_price": 299.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -21976,7 +21916,7 @@
   "discount": 18,
   "first_seen": "2026-11-18T18:17Z",
   "id": "oxi_instruments_e16.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1555.0,
   "min_price": 1555.0,
   "missing_runs": 0,
@@ -21987,8 +21927,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/oxi_instruments_e16.htm"
  },
  "oxi_instruments_one_mkii_black_edition.htm": {
@@ -22153,16 +22093,16 @@
  },
  "pearl_hwp_934_hardware_set.htm": {
   "badge": "",
-  "discount": 23,
+  "discount": null,
   "first_seen": "2026-11-17T09:59Z",
   "id": "pearl_hwp_934_hardware_set.htm",
-  "last_change": "2026-11-17T09:59Z",
-  "max_price": 1990.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1999.0,
   "min_price": 1990.0,
   "missing_runs": 0,
   "name": "Pearl HWP-934 Hardware Set",
-  "price": 1990.0,
-  "ref_price": 2599.0,
+  "price": 1999.0,
+  "ref_price": null,
   "reported_price": 1990.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -22256,14 +22196,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "peli_1535_air_trekpak_black.htm",
-  "last_change": "2026-11-16T19:02Z",
-  "max_price": 1969.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1990.0,
   "min_price": 1966.0,
   "missing_runs": 0,
   "name": "Peli 1535 Air TrekPak Black",
-  "price": 1969.0,
+  "price": 1990.0,
   "ref_price": null,
-  "reported_price": 1969.0,
+  "reported_price": 1990.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -22373,16 +22313,16 @@
  },
  "positive_grid_spark_2_bk_thomann_bag_bundle.htm": {
   "badge": "",
-  "discount": 5,
+  "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "positive_grid_spark_2_bk_thomann_bag_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1159.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1169.0,
   "min_price": 1159.0,
   "missing_runs": 0,
   "name": "Positive Grid Spark 2 BK Thomann Bag Bundle",
-  "price": 1159.0,
-  "ref_price": 1222.0,
+  "price": 1169.0,
+  "ref_price": null,
   "reported_price": 1159.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -22657,9 +22597,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "prs_mark_tremonti_stoptail_ct.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 19790.0,
   "min_price": 19690.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "PRS Mark Tremonti Stoptail CT",
   "price": 19790.0,
   "ref_price": null,
@@ -23336,14 +23277,14 @@
   "discount": 61,
   "first_seen": "2026-11-16T10:55Z",
   "id": "rhodes_v8_pro.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 429.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 435.0,
   "min_price": 429.0,
   "missing_runs": 0,
   "name": "Rhodes V8 Pro",
-  "price": 429.0,
+  "price": 435.0,
   "ref_price": 1111.0,
-  "reported_price": 429.0,
+  "reported_price": 435.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -23356,14 +23297,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "rhodes_wurli.htm",
-  "last_change": "2026-11-16T19:34Z",
-  "max_price": 144.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 145.0,
   "min_price": 143.0,
   "missing_runs": 0,
   "name": "Rhodes Wurlitzer",
-  "price": 144.0,
+  "price": 145.0,
   "ref_price": null,
-  "reported_price": 143.0,
+  "reported_price": 145.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -23899,7 +23840,7 @@
   "discount": 26,
   "first_seen": "2026-11-18T15:59Z",
   "id": "schlagwerk_cp2sone_spl_birch_flame.htm",
-  "last_change": "2026-11-21T00:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 738.0,
   "min_price": 738.0,
   "missing_runs": 0,
@@ -23910,8 +23851,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/schlagwerk_cp2sone_spl_birch_flame.htm"
  },
  "schreiber_ws5017_2_0_bassoon.htm": {
@@ -24901,11 +24842,11 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "shure_sm57_lc.htm",
   "last_change": "2026-11-16T19:02Z",
-  "max_price": 485.0,
+  "max_price": 489.0,
   "min_price": 479.0,
   "missing_runs": 0,
   "name": "Shure SM57 LC",
-  "price": 485.0,
+  "price": 489.0,
   "ref_price": null,
   "reported_price": 485.0,
   "sections": [
@@ -24916,7 +24857,7 @@
   "url": "https://www.thomann.pl/shure_sm57_lc.htm"
  },
  "shure_sm58.htm": {
-  "badge": "GIVEAWAY",
+  "badge": "Deal",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "shure_sm58.htm",
@@ -24929,9 +24870,7 @@
   "ref_price": null,
   "reported_price": 499.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
-   "Przegląd wszystkich ofert",
-   "Wyróżnione okazje"
+   "Polecane specjalnie dla Ciebie"
   ],
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
@@ -24983,14 +24922,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "shure_sm_7b_studiomikro.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1699.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1755.0,
   "min_price": 1699.0,
   "missing_runs": 0,
   "name": "Shure SM 7 B",
-  "price": 1699.0,
+  "price": 1755.0,
   "ref_price": null,
-  "reported_price": 1699.0,
+  "reported_price": 1755.0,
   "sections": [
    "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
@@ -25005,14 +24944,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "skb_3i_series_2217_10_case.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 2090.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 2111.0,
   "min_price": 2090.0,
   "missing_runs": 0,
   "name": "SKB 3i Series 2217-10 case",
-  "price": 2090.0,
+  "price": 2111.0,
   "ref_price": null,
-  "reported_price": 2090.0,
+  "reported_price": 2111.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -25071,7 +25010,7 @@
   "missing_runs": 0,
   "name": "SKB D6514 14\"x 6,5\" Snare Case",
   "price": 555.0,
-  "ref_price": 729.0,
+  "ref_price": 735.0,
   "reported_price": 555.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -25082,16 +25021,16 @@
  },
  "skb_iseries_st_t_style_flight_case.htm": {
   "badge": "",
-  "discount": 30,
+  "discount": 31,
   "first_seen": "2026-11-16T10:55Z",
   "id": "skb_iseries_st_t_style_flight_case.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
   "name": "SKB iSeries ST/T-Style Flight Case",
   "price": 1299.0,
-  "ref_price": 1859.0,
+  "ref_price": 1877.0,
   "reported_price": 1299.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -25191,7 +25130,7 @@
   "missing_runs": 0,
   "name": "Slingerland 14\"x5.5\" Radio King Snare BS",
   "price": 3390.0,
-  "ref_price": 3590.0,
+  "ref_price": 3599.0,
   "reported_price": 3390.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -25511,7 +25450,7 @@
   "missing_runs": 0,
   "name": "Soldano SLO Plus Overdrive",
   "price": 1090.0,
-  "ref_price": 1290.0,
+  "ref_price": 1299.0,
   "reported_price": 1090.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -25945,14 +25884,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "soundcraft_ui16.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 1899.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1958.0,
   "min_price": 1899.0,
   "missing_runs": 0,
   "name": "Soundcraft Ui16",
-  "price": 1899.0,
+  "price": 1958.0,
   "ref_price": null,
-  "reported_price": 1899.0,
+  "reported_price": 1958.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -26551,7 +26490,7 @@
   "missing_runs": 0,
   "name": "Stairville BEL 1 IP",
   "price": 525.0,
-  "ref_price": 609.0,
+  "ref_price": 611.0,
   "reported_price": 525.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -27025,14 +26964,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_led_vintage_bowl_30_rgba.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 611.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 619.0,
   "min_price": 611.0,
   "missing_runs": 0,
   "name": "Stairville LED Vintage Bowl 30 RGBA DMX",
-  "price": 611.0,
+  "price": 619.0,
   "ref_price": null,
-  "reported_price": 611.0,
+  "reported_price": 619.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -27602,16 +27541,16 @@
  },
  "startone_kp_50_kids_grand_piano_white.htm": {
   "badge": "",
-  "discount": 13,
+  "discount": 15,
   "first_seen": "2026-11-16T10:55Z",
   "id": "startone_kp_50_kids_grand_piano_white.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 379.0,
   "min_price": 379.0,
   "missing_runs": 0,
   "name": "Startone KP-50 Kids Grand Piano White",
   "price": 379.0,
-  "ref_price": 438.0,
+  "ref_price": 444.0,
   "reported_price": 379.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -28111,7 +28050,7 @@
   "missing_runs": 0,
   "name": "Studio 49 SXP1600 Alto Xylophone",
   "price": 1090.0,
-  "ref_price": 1977.0,
+  "ref_price": 1990.0,
   "reported_price": 1090.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -28622,16 +28561,16 @@
  },
  "t_rex_replicator_dluxe_tape_echo.htm": {
   "badge": "",
-  "discount": 20,
+  "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "t_rex_replicator_dluxe_tape_echo.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1555.0,
   "min_price": 1555.0,
   "missing_runs": 0,
   "name": "T-Rex Replicator D´Luxe Tape Echo",
   "price": 1555.0,
-  "ref_price": 1945.0,
+  "ref_price": 1959.0,
   "reported_price": 1555.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -28691,7 +28630,7 @@
   "missing_runs": 0,
   "name": "Takamine GC3CE Natural",
   "price": 1599.0,
-  "ref_price": 1859.0,
+  "ref_price": 1869.0,
   "reported_price": 1599.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -28965,14 +28904,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "tannoy_gold_7.htm",
-  "last_change": "2026-11-16T19:02Z",
-  "max_price": 1155.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1166.0,
   "min_price": 1150.0,
   "missing_runs": 0,
   "name": "Tannoy Gold 7",
-  "price": 1155.0,
+  "price": 1166.0,
   "ref_price": null,
-  "reported_price": 1155.0,
+  "reported_price": 1166.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -29105,14 +29044,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "tegeler_creme_green.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 5399.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 5499.0,
   "min_price": 5399.0,
   "missing_runs": 0,
   "name": "Tegeler Creme Green",
-  "price": 5399.0,
+  "price": 5499.0,
   "ref_price": null,
-  "reported_price": 5399.0,
+  "reported_price": 5499.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -29442,16 +29381,16 @@
  },
  "the_box_pro_cx_5.htm": {
   "badge": "",
-  "discount": 9,
+  "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "the_box_pro_cx_5.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 777.0,
   "min_price": 777.0,
   "missing_runs": 0,
   "name": "the box pro CX 5",
   "price": 777.0,
-  "ref_price": 858.0,
+  "ref_price": 859.0,
   "reported_price": 777.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -29962,16 +29901,16 @@
  },
  "the_t_mix_mix_502.htm": {
   "badge": "",
-  "discount": 18,
+  "discount": 19,
   "first_seen": "2026-11-18T15:59Z",
   "id": "the_t_mix_mix_502.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 169.0,
   "min_price": 169.0,
   "missing_runs": 0,
   "name": "the t.mix mix 502",
   "price": 169.0,
-  "ref_price": 205.0,
+  "ref_price": 209.0,
   "reported_price": 169.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -30162,16 +30101,16 @@
  },
  "thomann_crystal_bowl_cf_set_432hz_6_12.htm": {
   "badge": "",
-  "discount": 19,
+  "discount": 20,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_crystal_bowl_cf_set_432hz_6_12.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 2490.0,
   "min_price": 2490.0,
   "missing_runs": 0,
   "name": "Thomann Crystal Bowl CF Set 432Hz 6-12",
   "price": 2490.0,
-  "ref_price": 3090.0,
+  "ref_price": 3099.0,
   "reported_price": 2490.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -30342,16 +30281,16 @@
  },
  "thomann_gcl_422_mkii_bb_clarinet.htm": {
   "badge": "",
-  "discount": 9,
+  "discount": 10,
   "first_seen": "2026-11-18T18:17Z",
   "id": "thomann_gcl_422_mkii_bb_clarinet.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 4190.0,
   "min_price": 4190.0,
   "missing_runs": 0,
   "name": "Thomann GCL-422 MKII Bb-Clarinet",
   "price": 4190.0,
-  "ref_price": 4599.0,
+  "ref_price": 4666.0,
   "reported_price": 4190.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -30465,14 +30404,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_latin_expert_bongos.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 529.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 535.0,
   "min_price": 529.0,
   "missing_runs": 0,
   "name": "Thomann Latin Expert Bongos",
-  "price": 529.0,
+  "price": 535.0,
   "ref_price": null,
-  "reported_price": 529.0,
+  "reported_price": 535.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -31883,16 +31822,16 @@
  },
  "two_notes_opus_di_amp_cab_sim.htm": {
   "badge": "",
-  "discount": 9,
+  "discount": 10,
   "first_seen": "2026-11-18T18:17Z",
   "id": "two_notes_opus_di_amp_cab_sim.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 1029.0,
   "min_price": 1029.0,
   "missing_runs": 0,
   "name": "Two Notes Opus DI, Amp & Cab Sim",
   "price": 1029.0,
-  "ref_price": 1133.0,
+  "ref_price": 1138.0,
   "reported_price": 1029.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -32484,16 +32423,16 @@
  },
  "varytec_hero_wash_300_fc_bundle.htm": {
   "badge": "",
-  "discount": 17,
+  "discount": 19,
   "first_seen": "2026-11-16T10:55Z",
   "id": "varytec_hero_wash_300_fc_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 4799.0,
   "min_price": 4799.0,
   "missing_runs": 0,
   "name": "Varytec Hero Wash 300 FC Bundle",
   "price": 4799.0,
-  "ref_price": 5799.0,
+  "ref_price": 5890.0,
   "reported_price": 4799.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -32644,16 +32583,16 @@
  },
  "varytec_led_par_14x8w_rgbw_ip65.htm": {
   "badge": "",
-  "discount": 14,
+  "discount": 15,
   "first_seen": "2026-11-18T18:17Z",
   "id": "varytec_led_par_14x8w_rgbw_ip65.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-24T19:00Z",
   "max_price": 738.0,
   "min_price": 738.0,
   "missing_runs": 0,
   "name": "Varytec LED PAR 14x8W RGBW IP65",
   "price": 738.0,
-  "ref_price": 859.0,
+  "ref_price": 866.0,
   "reported_price": 738.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -32933,7 +32872,7 @@
   "missing_runs": 0,
   "name": "Varytec Retro Blinder TRI 380",
   "price": 869.0,
-  "ref_price": 1035.0,
+  "ref_price": 1039.0,
   "reported_price": 869.0,
   "sections": [
    "Przegląd wszystkich ofert"
@@ -33507,14 +33446,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "xvive_u4_monitor_wireless_system.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 877.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 888.0,
   "min_price": 877.0,
   "missing_runs": 0,
   "name": "XVive U4 Monitor Wireless System",
-  "price": 877.0,
+  "price": 888.0,
   "ref_price": null,
-  "reported_price": 877.0,
+  "reported_price": 888.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -33929,9 +33868,10 @@
   "first_seen": "2026-11-24T15:59Z",
   "id": "yamaha_ez_310.htm",
   "last_change": "2026-11-24T15:59Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 722.0,
   "min_price": 722.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Yamaha EZ-310",
   "price": 722.0,
   "ref_price": null,
@@ -34448,17 +34388,17 @@
  },
  "yamaha_reface_cp.htm": {
   "badge": "",
-  "discount": 21,
+  "discount": null,
   "first_seen": "2026-11-17T01:00Z",
   "id": "yamaha_reface_cp.htm",
-  "last_change": "2026-11-17T01:00Z",
-  "max_price": 1333.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 1359.0,
   "min_price": 1333.0,
   "missing_runs": 0,
   "name": "Yamaha Reface CP",
-  "price": 1333.0,
-  "ref_price": 1690.0,
-  "reported_price": 1333.0,
+  "price": 1359.0,
+  "ref_price": null,
+  "reported_price": 1359.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -34531,14 +34471,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_stagepas_400bt.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "max_price": 2899.0,
+  "last_change": "2026-11-24T19:00Z",
+  "max_price": 2950.0,
   "min_price": 2899.0,
   "missing_runs": 0,
   "name": "Yamaha Stagepas 400BT",
-  "price": 2899.0,
+  "price": 2950.0,
   "ref_price": null,
-  "reported_price": 2899.0,
+  "reported_price": 2950.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],
@@ -34725,27 +34665,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_tas1_e_natural.htm"
- },
- "yamaha_tas3_c_natural.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "yamaha_tas3_c_natural.htm",
-  "last_change": "2026-11-24T03:59Z",
-  "last_seen": "2026-11-24T12:59Z",
-  "max_price": 5899.0,
-  "min_price": 5899.0,
-  "missing_runs": 1,
-  "name": "Yamaha TAS3 C Natural",
-  "price": 5899.0,
-  "ref_price": null,
-  "reported_price": 5899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/yamaha_tas3_c_natural.htm"
  },
  "yamaha_tas3_c_sand_burst.htm": {
   "badge": "",
@@ -35413,9 +35332,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "zultan_alaris_cymbal_set.htm",
   "last_change": "2026-11-18T18:17Z",
+  "last_seen": "2026-11-24T15:59Z",
   "max_price": 2175.0,
   "min_price": 2175.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Zultan Alaris Cymbal Set",
   "price": 2175.0,
   "ref_price": 3222.0,

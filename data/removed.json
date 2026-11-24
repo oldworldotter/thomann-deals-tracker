@@ -179,6 +179,10 @@
   "price": 8899.0,
   "removed_at": "2026-11-24T15:59Z"
  },
+ "esp_ec_1000_piezo_qm_stb.htm": {
+  "price": 4490.0,
+  "removed_at": "2026-11-24T19:00Z"
+ },
  "esp_ltd_b_205dx_bb.htm": {
   "price": 2150.0,
   "removed_at": "2026-11-24T15:59Z"
@@ -250,6 +254,10 @@
  "gibson_les_paul_custom_aw.htm": {
   "price": 20790.0,
   "removed_at": "2026-11-22T00:59Z"
+ },
+ "gibson_les_paul_standard_50s_p90.htm": {
+  "price": 10690.0,
+  "removed_at": "2026-11-24T19:00Z"
  },
  "gibson_les_paul_standard_60s_dt_vcs.htm": {
   "price": 9699.0,
@@ -390,6 +398,10 @@
  "mackie_thump_215.htm": {
   "price": 1325.0,
   "removed_at": "2026-11-24T06:59Z"
+ },
+ "mapex_12_x55_dl_warbird_snare_drum.htm": {
+  "price": 2175.0,
+  "removed_at": "2026-11-24T19:00Z"
  },
  "mapex_saturn_evo_maple_stage_pt.htm": {
   "price": 7799.0,
@@ -734,6 +746,10 @@
  "yamaha_psr_sx600.htm": {
   "price": 2699.0,
   "removed_at": "2026-11-20T21:59Z"
+ },
+ "yamaha_tas3_c_natural.htm": {
+  "price": 5899.0,
+  "removed_at": "2026-11-24T19:00Z"
  },
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,

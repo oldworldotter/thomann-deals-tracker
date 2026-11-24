@@ -3,62 +3,74 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-24 16:59 CET · **1765** deals tracked of 1765 advertised · checks every **3 h**
+**Last check:** 2026-11-24 20:00 CET · **1758** deals tracked of 1758 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🔁 5 returned deals · ❌ 10 removed deals · ✅ 2 back in stock · 📦 13 stock changes → [full report](changes/2026-11-24T1559Z.md)
+❌ 4 removed deals · 📈 22 price increases · 🏷️ 27 discount changes · ✅ 3 back in stock · 📦 5 stock changes → [full report](changes/2026-11-24T1900Z.md)
 
-### 🔁 Returned deals (5)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Tone City Holy Aura - Distortion / Boost](https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm) | **259 zł** | 258 zł | ‑40% | 432 zł | Dostępny w magazynie | 2026‑11‑18 22:59 |
-| [Martin Guitar D Jr E StreetMaster New](https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm) | **3 069 zł** | 2 999 zł | ‑35% | 4 699 zł | Dostępny w magazynie | 2026‑11‑19 10:59 |
-| [Elation SDC-6 Faderdesk V2 black](https://www.thomann.pl/elation_sdc_6_faderdesk_v2_black.htm) | **154 zł** | 149 zł |  |  | Dostępny w magazynie | 2026‑11‑20 17:00 |
-| [Yamaha EZ-310](https://www.thomann.pl/yamaha_ez_310.htm) | **722 zł** | 715 zł |  |  | Dostępny w magazynie | 2026‑11‑16 20:34 |
-| [Kala Ukadelic Soprano Uku BL](https://www.thomann.pl/kala_ukadelic_soprano_uku_bl.htm) | **88 zł** | 87 zł |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | 2026‑11‑20 19:59 |
-
-### ❌ Removed deals (10)
+### ❌ Removed deals (4)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [DW 3002A Double Bass Drum Pedal](https://www.thomann.pl/dw_3002a_double_bass_drum_pedal.htm) | 1 199 zł | ‑28% | 1 666 zł | Dostępny w magazynie |  |
-| [ESP E-II Viper See Thru BK Cherry](https://www.thomann.pl/esp_e_ii_viper_see_thru_bk_cherry.htm) | 8 899 zł | ‑28% | 12 333 zł | Dostępny w magazynie |  |
-| [Hils HNT1R Ivory](https://www.thomann.pl/hils_hnt1r_ivory.htm) | 1 444 zł | ‑27% | 1 990 zł | Dostępny w magazynie |  |
-| [BirdDog Max White Bundle](https://www.thomann.pl/birddog_max_white_bundle.htm) | 12 290 zł |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
-| [daCarbo Unica Silver Bb- Trumpet](https://www.thomann.pl/dacarbo_unica_silver_bb_trumpet.htm) | 13 190 zł |  |  | Dostępny w magazynie |  |
-| [ESP LTD B-205DX BB](https://www.thomann.pl/esp_ltd_b_205dx_bb.htm) | 2 150 zł |  |  | Dostępny w magazynie |  |
-| [Gretsch Drums 14"x6,5" Cat. Bubinga Maple](https://www.thomann.pl/gretsch_drums_14_x65_cat._bubinga_maple.htm) | 875 zł |  |  | Dostępny w magazynie |  |
-| [Music Man Stingray 5 H Special VSB](https://www.thomann.pl/music_man_stingray_5_h_special_vsb.htm) | 12 290 zł |  |  | Dostępny w magazynie |  |
-| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | 215 zł |  |  | Dostępny w magazynie |  |
-| [Thomann Lap Pickup Cajon](https://www.thomann.pl/thomann_lap_pickup_cajon.htm) | 398 zł |  |  | Dostępny w magazynie |  |
+| [ESP LTD EC-1000 Piezo QM STBLK](https://www.thomann.pl/esp_ec_1000_piezo_qm_stb.htm) | 4 490 zł |  |  | Dostępny za 1–2 tygodnie | Deal |
+| [Gibson Les Paul Standard 50s P90](https://www.thomann.pl/gibson_les_paul_standard_50s_p90.htm) | 10 690 zł |  |  | Dostępny w magazynie |  |
+| [Mapex 12"x5,5" DL Warbird Snare Drum](https://www.thomann.pl/mapex_12_x55_dl_warbird_snare_drum.htm) | 2 175 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha TAS3 C Natural](https://www.thomann.pl/yamaha_tas3_c_natural.htm) | 5 899 zł |  |  | Dostępny w magazynie |  |
 
-### ✅ Back in stock (2)
+### 📈 Price increases (22)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Shure SM 7 B](https://www.thomann.pl/shure_sm_7b_studiomikro.htm) | 1 699 zł | **1 755 zł** | +3.3% |  |  | Dostępny w magazynie |
+| [Soundcraft Ui16](https://www.thomann.pl/soundcraft_ui16.htm) | 1 899 zł | **1 958 zł** | +3.1% |  |  | Dostępny w magazynie |
+| [LD Systems Maui 11 G3](https://www.thomann.pl/ld_systems_maui_11_g3.htm) | 3 999 zł | **4 098 zł** | +2.5% |  |  | Dostępny w magazynie |
+| [Yamaha Reface CP](https://www.thomann.pl/yamaha_reface_cp.htm) | 1 333 zł | **1 359 zł** | +2.0% |  |  | Dostępny w magazynie |
+| [Tegeler Creme Green](https://www.thomann.pl/tegeler_creme_green.htm) | 5 399 zł | **5 499 zł** | +1.9% |  |  | Dostępny w magazynie |
+| [Yamaha Stagepas 400BT](https://www.thomann.pl/yamaha_stagepas_400bt.htm) | 2 899 zł | **2 950 zł** | +1.8% |  |  | Dostępny w magazynie |
+| [Ape Labs Marvel TB 4 Spot](https://www.thomann.pl/ape_labs_marvel_tb_4_spot.htm) | 12 990 zł | **13 190 zł** | +1.5% |  |  | Dostępny w magazynie |
+| [Ape Labs Marvel TB 4 Flood](https://www.thomann.pl/ape_labs_marvel_tb_4_flood.htm) | 12 990 zł | **13 190 zł** | +1.5% |  |  | Dostępny w magazynie |
+| [FabFilter Total Bundle](https://www.thomann.pl/fabfilter_total_bundle.htm) | 2 358 zł | **2 390 zł** | +1.4% |  |  | Pobierz licencję |
+| [Rhodes V8 Pro](https://www.thomann.pl/rhodes_v8_pro.htm) | 429 zł | **435 zł** | +1.4% | ‑61% | 1 111 zł | Pobierz licencję |
+
+…and 12 more in the full report.
+
+### 🏷️ Discount changes (27)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Two Notes Opus DI, Amp & Cab Sim](https://www.thomann.pl/two_notes_opus_di_amp_cab_sim.htm) | 1 029 zł | -9% | **-10%** |
+| [Yamaha Reface CP](https://www.thomann.pl/yamaha_reface_cp.htm) | 1 359 zł | -21% | **none** |
+| [Varytec LED PAR 14x8W RGBW IP65](https://www.thomann.pl/varytec_led_par_14x8w_rgbw_ip65.htm) | 738 zł | -14% | **-15%** |
+| [Joyo R-22 Narcissus Chorus](https://www.thomann.pl/joyo_r_22_narcissus_chorus.htm) | 192 zł | -9% | **-10%** |
+| [Thomann GCL-422 MKII Bb-Clarinet](https://www.thomann.pl/thomann_gcl_422_mkii_bb_clarinet.htm) | 4 190 zł | -9% | **-10%** |
+| [Startone KP-50 Kids Grand Piano White](https://www.thomann.pl/startone_kp_50_kids_grand_piano_white.htm) | 379 zł | -13% | **-15%** |
+| [Pearl HWP-934 Hardware Set](https://www.thomann.pl/pearl_hwp_934_hardware_set.htm) | 1 999 zł | -23% | **none** |
+| [Harley Benton GPA-100](https://www.thomann.pl/harley_benton_gpa_100.htm) | 299 zł | -12% | **-13%** |
+| [Hotone Ampero II Stage](https://www.thomann.pl/hotone_ampero_ii_stage.htm) | 2 190 zł | -18% | **-19%** |
+| [Harley Benton CLP-12SM BRS Solid Top](https://www.thomann.pl/harley_benton_clp_12sm_brs_solid_top.htm) | 999 zł | -7% | **-8%** |
+
+…and 17 more in the full report.
+
+### ✅ Back in stock (3)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Marcus Miller M6 Headless 5 TS](https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm) | 3 055 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 079 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Schlagwerk CP2SONE SPL Birch Flame](https://www.thomann.pl/schlagwerk_cp2sone_spl_birch_flame.htm) | 738 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 222 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 190 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (13)
+### 📦 Stock changes (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Marcus Miller GB5-4 Black](https://www.thomann.pl/marcus_miller_gb5_4_black.htm) | 1 744 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Marcus Miller V6-5 Sandblasted OTB](https://www.thomann.pl/marcus_miller_v6_sandblasted_5_otb.htm) | 2 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Soran Dual Stomp Pedal Lite](https://www.thomann.pl/soran_dual_stomp_pedal_lite.htm) | 259 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
-| [Harley Benton ST-20SB w/Soran Dual Lite](https://www.thomann.pl/harley_benton_st_20sb_w_soran_dual_lite.htm) | 599 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
-| [SSL Connex](https://www.thomann.pl/ssl_connex.htm) | 118 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton JB-20 CA w/Soran Dual Lite](https://www.thomann.pl/harley_benton_jb_20_ca_w_soran_dual_lite.htm) | 744 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
-| [Harley Benton EX-84 Modern BK](https://www.thomann.pl/harley_benton_het_550_bk.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Laserworld DS-3000RGB MK5](https://www.thomann.pl/laserworld_ds_3000rgb_mk5.htm) | 4 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-
-…and 3 more in the full report.
+| [OXI Instruments E16](https://www.thomann.pl/oxi_instruments_e16.htm) | 1 555 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Kala KA-MRT-PUR-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm) | 169 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Audix D6X](https://www.thomann.pl/audix_d6x.htm) | 990 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-200 BK Student Serie Bundle](https://www.thomann.pl/harley_benton_sc_200_bk_student_serie_bundle.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
