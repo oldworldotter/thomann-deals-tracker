@@ -359,10 +359,6 @@
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
  },
- "mackie_thump_215.htm": {
-  "price": 1325.0,
-  "removed_at": "2026-11-23T22:00Z"
- },
  "mapex_saturn_evo_maple_stage_pt.htm": {
   "price": 7799.0,
   "removed_at": "2026-11-20T13:00Z"
@@ -555,6 +551,10 @@
   "price": 1745.0,
   "removed_at": "2026-11-19T12:59Z"
  },
+ "shure_slxd25_sm58_g59.htm": {
+  "price": 1755.0,
+  "removed_at": "2026-11-24T00:59Z"
+ },
  "solar_guitars_a1.7aan.htm": {
   "price": 5699.0,
   "removed_at": "2026-11-20T21:59Z"
@@ -599,6 +599,10 @@
   "price": 48.0,
   "removed_at": "2026-11-21T15:59Z"
  },
+ "swiff_audio_ws_70_wireless_system_602955.htm": {
+  "price": 131.0,
+  "removed_at": "2026-11-24T00:59Z"
+ },
  "the_box_pro_dsp_18_sub.htm": {
   "price": 1750.0,
   "removed_at": "2026-11-23T13:00Z"
@@ -623,6 +627,10 @@
   "price": 444.0,
   "removed_at": "2026-11-22T12:59Z"
  },
+ "thon_mikes_joker_case.htm": {
+  "price": 247.0,
+  "removed_at": "2026-11-24T00:59Z"
+ },
  "tone_city_holy_aura_distortion_boost.htm": {
   "price": 258.0,
   "removed_at": "2026-11-18T21:59Z"
@@ -634,6 +642,10 @@
  "varytec_hero_wash_300_fc.htm": {
   "price": 2190.0,
   "removed_at": "2026-11-19T16:00Z"
+ },
+ "varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm": {
+  "price": 374.0,
+  "removed_at": "2026-11-24T00:59Z"
  },
  "varytec_led_pad_7_7x10w_5in1_rgbwa.htm": {
   "price": 389.0,

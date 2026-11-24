@@ -3,73 +3,52 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-23 23:00 CET · **1773** deals tracked of 1773 advertised · checks every **3 h**
+**Last check:** 2026-11-24 01:59 CET · **1771** deals tracked of 1771 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 5 removed deals · 📈 9 price increases · 🏷️ 32 discount changes · ✅ 4 back in stock · 📦 5 stock changes → [full report](changes/2026-11-23T2200Z.md)
+🔁 1 returned deals · ❌ 4 removed deals · ✅ 2 back in stock · 📦 17 stock changes → [full report](changes/2026-11-24T0059Z.md)
 
-### ❌ Removed deals (5)
+### 🔁 Returned deals (1)
+
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | **1 325 zł** | 1 325 zł |  |  | Dostępny w magazynie | 2026‑11‑23 23:00 |
+
+### ❌ Removed deals (4)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Strandberg Boden Standard N2.6T Fuchsia](https://www.thomann.pl/strandberg_boden_standard_n26t_fuchsia.htm) | 6 999 zł | ‑20% | 8 699 zł | Dostępny w magazynie |  |
-| [Electro Harmonix Deluxe Bass Big Muff Pi 2 Fuzz](https://www.thomann.pl/electro_harmonix_deluxe_bass_big_muff_pi_2_fuzz.htm) | 666 zł | ‑17% | 798 zł | Dostępny w magazynie |  |
-| [Black Swamp Percussion LGTD1 Tambourine](https://www.thomann.pl/black_swamp_percussion_lgtd1_tambourine.htm) | 977 zł |  |  | Dostępny w magazynie |  |
-| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | 1 325 zł |  |  | Dostępny w magazynie | Deal |
-| [Scandalli Air I Musette](https://www.thomann.pl/scandalli_air_i_musette.htm) | 18 890 zł |  |  | Dostępny w magazynie |  |
+| [Shure SLXD25/SM58 G59](https://www.thomann.pl/shure_slxd25_sm58_g59.htm) | 1 755 zł |  |  | Dostępny w magazynie |  |
+| [Swiff Audio WS-70 Wireless System](https://www.thomann.pl/swiff_audio_ws_70_wireless_system_602955.htm) | 131 zł |  |  | Dostępny w magazynie |  |
+| [Thon Mike's Joker Case](https://www.thomann.pl/thon_mikes_joker_case.htm) | 247 zł |  |  | Dostępny w magazynie |  |
+| [Varytec LED Pad7 7x10W 6in1 RGBAWUV BL](https://www.thomann.pl/varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm) | 374 zł |  |  | Dostępny w magazynie |  |
 
-### 📈 Price increases (9)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Cherry Audio GX-80 Synthesizer](https://www.thomann.pl/cherry_audio_gx_80_synthesizer.htm) | 149 zł | **155 zł** | +4.0% |  |  | Pobierz licencję |
-| [Cherry Audio DCO-106 Polyphonic Synth](https://www.thomann.pl/cherry_audio_dco_106_polyphonic_synth.htm) | 59 zł | **61 zł** | +3.4% |  |  | Pobierz licencję |
-| [Sonarworks SoundID Ref Multichannel w Mic](https://www.thomann.pl/sonarworks_soundid_ref_multichannel_w_mic.htm) | 1 499 zł | **1 539 zł** | +2.7% |  |  | Dostępny w magazynie |
-| [Focusrite Scarlett Solo Studio 4th Gen.](https://www.thomann.pl/focusrite_scarlett_solo_studio_4th_gen.htm) | 899 zł | **922 zł** | +2.6% |  |  | Dostępny w magazynie |
-| [Novation Launchpad Mini MK3](https://www.thomann.pl/novation_launchpad_mini_mk3.htm) | 349 zł | **355 zł** | +1.7% |  |  | Dostępny w magazynie |
-| [Focusrite Scarlett 2i2 4th Generation](https://www.thomann.pl/focusrite_scarlett_2i2_4th_generation.htm) | 649 zł | **658 zł** | +1.4% |  |  | Dostępny w magazynie |
-| [Focusrite Scarlett 16i16 4th Gen](https://www.thomann.pl/focusrite_scarlett_16i6_4th_gen.htm) | 1 175 zł | **1 190 zł** | +1.3% |  |  | Dostępny w magazynie |
-| [Novation Launchpad X](https://www.thomann.pl/novation_launchpad_x.htm) | 619 zł | **625 zł** | +1.0% |  |  | Dostępny w magazynie |
-| [Novation Launchpad Pro MK3](https://www.thomann.pl/novation_launchpad_pro_mk3.htm) | 1 066 zł | **1 077 zł** | +1.0% |  |  | Dostępny w magazynie |
-
-### 🏷️ Discount changes (32)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Focusrite Scarlett 2i2 4th Generation](https://www.thomann.pl/focusrite_scarlett_2i2_4th_generation.htm) | 658 zł | -19% | **none** |
-| [Fender 55 Strat Bone Tone WF2CS Relic](https://www.thomann.pl/fender_55_strat_bone_tone_wf2cs_relic.htm) | 22 490 zł | -14% | **-15%** |
-| [DrumCraft 14"x5,5" Vanguard Snare Alu.](https://www.thomann.pl/drumcraft_14_x55_vanguard_snare_alu.htm) | 695 zł | -19% | **-20%** |
-| [Empress Effects Heavy Menace](https://www.thomann.pl/empress_effects_heavy_menace.htm) | 1 044 zł | -12% | **-13%** |
-| [Joyo JF-329 Iron Loop](https://www.thomann.pl/joyo_jf_329_iron_loop.htm) | 192 zł | -9% | **-10%** |
-| [Breedlove Discovery S Dreadnought Spruce](https://www.thomann.pl/breedlove_discovery_s_dreadnought_spruce.htm) | 1 299 zł | -24% | **-25%** |
-| [Millenium MPS-1000 E-Drum Set](https://www.thomann.pl/millenium_mps_1000_e_drum_set.htm) | 3 990 zł | -9% | **-10%** |
-| [JBL BandBox TRIO Bag Bundle](https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm) | 2 599 zł | -7% | **-10%** |
-| [Marcus Miller V8-4 NT LH](https://www.thomann.pl/marcus_miller_v8_4_nt_lh.htm) | 3 055 zł | -11% | **-12%** |
-| [Flight Mini JB Bass SB](https://www.thomann.pl/flight_mini_jb_bass_sb.htm) | 1 299 zł | -23% | **-24%** |
-
-…and 22 more in the full report.
-
-### ✅ Back in stock (4)
+### ✅ Back in stock (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 899 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Yamaha TAS1 E Natural](https://www.thomann.pl/yamaha_tas1_e_natural.htm) | 2 599 zł | Dostępny za 2–3 tygodnie | **Dostępny w magazynie** |
-| [Yamaha TAG1 E Natural](https://www.thomann.pl/yamaha_tag1_e_natural.htm) | 2 599 zł | Dostępny za 2–3 tygodnie | **Dostępny w magazynie** |
-| [Yamaha TAG1 C Natural](https://www.thomann.pl/yamaha_tag1_c_natural.htm) | 4 499 zł | Dostępny za 2–3 tygodnie | **Dostępny w magazynie** |
+| [Stairville BEL4 Battery Event Ligh Bundle](https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm) | 974 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Ape Labs ApeLight Maxi V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm) | 7 399 zł | Dostępny za 2–3 tygodnie | **Dostępny w magazynie** |
 
-### 📦 Stock changes (5)
+### 📦 Stock changes (17)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Ludwig 13"x06" Supralite](https://www.thomann.pl/ludwig_13_x06_supralite.htm) | 869 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Sterling StingRay Short RAYSS4 TLBL](https://www.thomann.pl/sterling_by_music_man_stingray_short_rayss4_tlbl.htm) | 2 899 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Ape Labs ApeLight Maxi V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm) | 7 399 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
-| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha P-145 B BT](https://www.thomann.pl/yamaha_p_145_b_bt.htm) | 1 550 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton TE-20HH LH w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_lh_w_soran_dual_stomp.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [JBL BandBox TRIO Bag Bundle](https://www.thomann.pl/jbl_bandbox_trio_bag_bundle.htm) | 2 599 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Radial Engineering Power-1](https://www.thomann.pl/radial_engineering_power_1.htm) | 568 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Kala Surf Surf's Up Ukulele](https://www.thomann.pl/kala_surf_surfs_up_ukulele.htm) | 215 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Breedlove Discovery S Concert Mahogany](https://www.thomann.pl/breedlove_discovery_s_concert_mahogany.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha YDP-146 B Arius Set](https://www.thomann.pl/yamaha_ydp_146_b_arius_set.htm) | 3 890 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha P-225 WH](https://www.thomann.pl/yamaha_p_225_wh.htm) | 2 199 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Daddario XSAPB1152-3P](https://www.thomann.pl/daddario_xsapb1152_3p.htm) | 198 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [NANO Modules ONA](https://www.thomann.pl/nano_modules_ona.htm) | 549 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+
+…and 7 more in the full report.
 
 <!-- DASHBOARD:END -->
 
