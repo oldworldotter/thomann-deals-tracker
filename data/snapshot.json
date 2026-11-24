@@ -604,7 +604,7 @@
   "discount": 17,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ahead_aa5048w_hardware_armor_case.htm",
-  "last_change": "2026-11-16T11:34Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 999.0,
   "min_price": 999.0,
   "missing_runs": 0,
@@ -615,8 +615,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ahead_aa5048w_hardware_armor_case.htm"
  },
  "ahead_armor_drum_case_set_5.htm": {
@@ -943,6 +943,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/alesis_samplepad_4.htm"
+ },
+ "alesis_strata_prime_e_drum_kit.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-24T09:59Z",
+  "id": "alesis_strata_prime_e_drum_kit.htm",
+  "last_change": "2026-11-24T09:59Z",
+  "max_price": 10333.0,
+  "min_price": 10333.0,
+  "missing_runs": 0,
+  "name": "Alesis Strata Prime E-Drum Kit",
+  "price": 10333.0,
+  "ref_price": null,
+  "reported_price": 10333.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/alesis_strata_prime_e_drum_kit.htm"
  },
  "alesis_strike_amp_8_mk2.htm": {
   "badge": "",
@@ -2877,7 +2897,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "birddog_max_white_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 12290.0,
   "min_price": 12190.0,
   "missing_runs": 0,
@@ -2888,8 +2908,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/birddog_max_white_bundle.htm"
  },
  "black_swamp_percussion_s3td_tambourine.htm": {
@@ -5723,9 +5743,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "electro_harmonix_triangle_big_muff_fuzz.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 309.0,
   "min_price": 309.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Electro Harmonix Triangle Big Muff Fuzz",
   "price": 309.0,
   "ref_price": null,
@@ -6283,9 +6304,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_echolocator.htm",
   "last_change": "2026-11-22T00:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 1790.0,
   "min_price": 1777.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Erica Synths Echolocator",
   "price": 1790.0,
   "ref_price": null,
@@ -6423,9 +6445,10 @@
   "first_seen": "2026-11-20T16:00Z",
   "id": "esp_e_ii_m_ii_hst_p_msfmg.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 10555.0,
   "min_price": 10490.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "ESP E-II M-II HST P MSFMG",
   "price": 10555.0,
   "ref_price": null,
@@ -7824,9 +7847,10 @@
   "first_seen": "2026-11-18T15:59Z",
   "id": "fender_ultra_luxe_60s_custom_tele_lpb.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 12666.0,
   "min_price": 12590.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Fender Ultra Luxe 60s Custom Tele LPB",
   "price": 12666.0,
   "ref_price": null,
@@ -11385,7 +11409,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2004.htm",
-  "last_change": "2026-11-23T18:59Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11396,8 +11420,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbz2004.htm"
  },
  "harley_benton_hbz2005.htm": {
@@ -11665,7 +11689,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_pj4_sbk_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-21T12:59Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 744.0,
   "min_price": 739.0,
   "missing_runs": 0,
@@ -11676,8 +11700,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm"
  },
  "harley_benton_pj_5_sbk_deluxe_series.htm": {
@@ -12325,7 +12349,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_tb_70_sbk_deluxe_series.htm",
-  "last_change": "2026-11-19T12:59Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 777.0,
   "min_price": 777.0,
   "missing_runs": 0,
@@ -12336,8 +12360,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_tb_70_sbk_deluxe_series.htm"
  },
  "harley_benton_tb_70vs_lh_deluxe_series.htm": {
@@ -12805,7 +12829,7 @@
   "discount": 33,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb3_black.htm",
-  "last_change": "2026-11-19T09:59Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
   "missing_runs": 0,
@@ -12816,8 +12840,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_hnb3_black.htm"
  },
  "hils_hnb3_ivory.htm": {
@@ -13105,7 +13129,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn4_black.htm",
-  "last_change": "2026-11-21T19:00Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 1755.0,
   "min_price": 1745.0,
   "missing_runs": 0,
@@ -13116,8 +13140,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_next_hn4_black.htm"
  },
  "hils_next_hn4_ivory.htm": {
@@ -13206,9 +13230,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "hils_next_hn7_ltd_g_tbk.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 2444.0,
   "min_price": 2444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Hils Next HN7 LTD G/TBK",
   "price": 2444.0,
   "ref_price": 3899.0,
@@ -15547,9 +15572,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_c_rw_mahogany_concert.htm",
   "last_change": "2026-11-22T00:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 299.0,
   "min_price": 299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Kala KA C RW Mahogany Concert",
   "price": 299.0,
   "ref_price": 645.0,
@@ -16146,7 +16172,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "korg_pa_1000.htm",
-  "last_change": "2026-11-23T13:00Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 7399.0,
   "min_price": 7399.0,
   "missing_runs": 0,
@@ -16157,8 +16183,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/korg_pa_1000.htm"
  },
  "kramer_guitars_d_1_bass_case.htm": {
@@ -16837,7 +16863,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/ld_systems_anny_8_grey.htm"
  },
@@ -17077,7 +17103,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/ld_systems_maui_28_g3_mix_w.htm"
  },
@@ -18366,7 +18392,7 @@
   "discount": 21,
   "first_seen": "2026-11-18T18:17Z",
   "id": "marcus_miller_m6_headless_5_ts.htm",
-  "last_change": "2026-11-20T13:00Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 3055.0,
   "min_price": 3055.0,
   "missing_runs": 0,
@@ -18377,8 +18403,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm"
  },
  "marcus_miller_v3_4_new_gen_antique_white.htm": {
@@ -19228,7 +19254,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "midas_m_32_live.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 11790.0,
   "min_price": 11690.0,
   "missing_runs": 0,
@@ -19239,8 +19265,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 10–13 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/midas_m_32_live.htm"
  },
  "midas_mr_18.htm": {
@@ -19539,6 +19565,7 @@
   "ref_price": null,
   "reported_price": 2699.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -21526,27 +21553,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/novation_mininova.htm"
  },
- "numark_mixstream_pro_bag_bundle.htm": {
-  "badge": "",
-  "discount": 13,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "numark_mixstream_pro_bag_bundle.htm",
-  "last_change": "2026-11-24T03:59Z",
-  "last_seen": "2026-11-24T03:59Z",
-  "max_price": 2599.0,
-  "min_price": 2599.0,
-  "missing_runs": 1,
-  "name": "Numark Mixstream Pro+ Bag Bundle",
-  "price": 2599.0,
-  "ref_price": 2990.0,
-  "reported_price": 2599.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm"
- },
  "numark_party_mix_mkiii_hdj3000_bundle.htm": {
   "badge": "",
   "discount": 13,
@@ -21914,9 +21920,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "one_control_silver_bee_od_overdrive.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 389.0,
   "min_price": 389.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Silver Bee OD - Overdrive",
   "price": 389.0,
   "ref_price": 990.0,
@@ -21934,9 +21941,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "one_control_strawberry_red_4k_overdrive.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 259.0,
   "min_price": 259.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Strawberry Red 4K Overdrive",
   "price": 259.0,
   "ref_price": 599.0,
@@ -23453,7 +23461,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "reloop_rp_5000_mk4_cyber_bundle.htm",
-  "last_change": "2026-11-23T18:59Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 1869.0,
   "min_price": 1859.0,
   "missing_runs": 0,
@@ -23464,8 +23472,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/reloop_rp_5000_mk4_cyber_bundle.htm"
  },
  "remo_22_powerstroke_coated_amb.htm": {
@@ -24477,9 +24485,10 @@
   "first_seen": "2026-11-23T09:59Z",
   "id": "sela_se_002a_casela_satin_nut_cajon.htm",
   "last_change": "2026-11-23T18:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Sela SE 002A Casela Satin Nut Cajon",
   "price": 599.0,
   "ref_price": 819.0,
@@ -28943,9 +28952,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "takamine_ef341sc_w_softcase.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 4799.0,
   "min_price": 4799.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Takamine EF341SC w/Softcase",
   "price": 4799.0,
   "ref_price": 5555.0,
@@ -28963,9 +28973,10 @@
   "first_seen": "2026-11-21T04:00Z",
   "id": "takamine_gc1ce_nat.htm",
   "last_change": "2026-11-21T04:00Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 1269.0,
   "min_price": 1269.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Takamine GC1CE-Nat",
   "price": 1269.0,
   "ref_price": null,
@@ -29453,7 +29464,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_40cm.htm"
  },
@@ -29473,7 +29484,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_50cm.htm"
  },
@@ -29493,7 +29504,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_djembe_carved_dragon_60cm.htm"
  },
@@ -29513,7 +29524,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_schamanentrommel_50cm.htm"
  },
@@ -29533,7 +29544,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_shaman_drum_goat_skin.htm"
  },
@@ -29553,7 +29564,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/terre_shaman_drum_goat_tree_shorn_50.htm"
  },
@@ -33124,7 +33135,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "varytec_led_typhoon_true_par_12_tp_10.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-24T09:59Z",
   "max_price": 13190.0,
   "min_price": 13090.0,
   "missing_runs": 0,
@@ -33135,8 +33146,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/varytec_led_typhoon_true_par_12_tp_10.htm"
  },
  "varytec_mirror_ball_30_case_bundle.htm": {
@@ -33545,9 +33556,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "warm_audio_foxy_tone_box_werewolf_fuzz.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T06:59Z",
   "max_price": 435.0,
   "min_price": 435.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Warm Audio Foxy Tone Box Werewolf Fuzz",
   "price": 435.0,
   "ref_price": 555.0,
@@ -33873,7 +33885,6 @@
   "ref_price": null,
   "reported_price": 599.0,
   "sections": [
-   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -35569,14 +35580,14 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "zoom_livetrak_l_6.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "max_price": 866.0,
+  "last_change": "2026-11-24T09:59Z",
+  "max_price": 869.0,
   "min_price": 859.0,
   "missing_runs": 0,
   "name": "Zoom LiveTrak L-6",
-  "price": 866.0,
+  "price": 869.0,
   "ref_price": null,
-  "reported_price": 859.0,
+  "reported_price": 869.0,
   "sections": [
    "Przegląd wszystkich ofert"
   ],

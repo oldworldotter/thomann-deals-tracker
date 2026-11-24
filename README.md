@@ -3,36 +3,53 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-24 07:59 CET · **1782** deals tracked of 1782 advertised · checks every **3 h**
+**Last check:** 2026-11-24 10:59 CET · **1771** deals tracked of 1771 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 1 removed deals · ✅ 3 back in stock · 📦 4 stock changes → [full report](changes/2026-11-24T0659Z.md)
+🆕 1 new deals · ❌ 1 removed deals · 📈 1 price increases · ✅ 5 back in stock · 📦 7 stock changes → [full report](changes/2026-11-24T0959Z.md)
+
+### 🆕 New deals (1)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Alesis Strata Prime E-Drum Kit](https://www.thomann.pl/alesis_strata_prime_e_drum_kit.htm) | 10 333 zł |  |  | Dostępny w magazynie |  |
 
 ### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | 1 325 zł |  |  | Dostępny w magazynie | Deal |
+| [Numark Mixstream Pro+ Bag Bundle](https://www.thomann.pl/numark_mixstream_pro_bag_bundle.htm) | 2 599 zł | ‑13% | 2 990 zł | Dostępny w magazynie |  |
 
-### ✅ Back in stock (3)
+### 📈 Price increases (1)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Hils Next HN3 Met. Emerald Green](https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm) | 1 444 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Evans G2 Fusion 2 Set clear](https://www.thomann.pl/evans_g2_fusion_2_set_clear.htm) | 233 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton ST-JAMster MDS](https://www.thomann.pl/harley_benton_st_jamster_mds.htm) | 488 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Zoom LiveTrak L-6](https://www.thomann.pl/zoom_livetrak_l_6.htm) | 859 zł | **869 zł** | +1.2% |  |  | Dostępny w magazynie |
 
-### 📦 Stock changes (4)
+### ✅ Back in stock (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 079 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN4 Black](https://www.thomann.pl/hils_next_hn4_black.htm) | 1 755 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Korg PA-1000](https://www.thomann.pl/korg_pa_1000.htm) | 7 399 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Ahead AA5048W Hardware Armor Case](https://www.thomann.pl/ahead_aa5048w_hardware_armor_case.htm) | 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton PJ4-SBK w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm) | 744 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Reloop RP 5000 MK4 Cyber Bundle](https://www.thomann.pl/reloop_rp_5000_mk4_cyber_bundle.htm) | 1 869 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (7)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Marcus Miller M6 Headless 5 TS](https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm) | 3 055 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Midas M32 Live](https://www.thomann.pl/midas_m_32_live.htm) | 11 790 zł | Dostępny w magazynie | **Dostępny za 10–13 tygodnie** |
+| [Harley Benton TB-70 SBK Deluxe Series](https://www.thomann.pl/harley_benton_tb_70_sbk_deluxe_series.htm) | 777 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils HNB3 Black](https://www.thomann.pl/hils_hnb3_black.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [BirdDog Max White Bundle](https://www.thomann.pl/birddog_max_white_bundle.htm) | 12 290 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Varytec LED Typhoon True Par 12 TP /10](https://www.thomann.pl/varytec_led_typhoon_true_par_12_tp_10.htm) | 13 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
