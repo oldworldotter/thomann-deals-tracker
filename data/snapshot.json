@@ -2892,27 +2892,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/birddog_maki_live_bk_bundle.htm"
  },
- "birddog_max_white_bundle.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "birddog_max_white_bundle.htm",
-  "last_change": "2026-11-24T09:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 12290.0,
-  "min_price": 12190.0,
-  "missing_runs": 1,
-  "name": "BirdDog Max White Bundle",
-  "price": 12290.0,
-  "ref_price": null,
-  "reported_price": 12190.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/birddog_max_white_bundle.htm"
- },
  "black_swamp_percussion_s3td_tambourine.htm": {
   "badge": "",
   "discount": null,
@@ -4297,27 +4276,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/crazy_tube_circuits_venus.htm"
  },
- "dacarbo_unica_silver_bb_trumpet.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "dacarbo_unica_silver_bb_trumpet.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 13190.0,
-  "min_price": 13090.0,
-  "missing_runs": 1,
-  "name": "daCarbo Unica Silver Bb- Trumpet",
-  "price": 13190.0,
-  "ref_price": null,
-  "reported_price": 13090.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/dacarbo_unica_silver_bb_trumpet.htm"
- },
  "daddario_pw_irmm_01_micro_mute_sensor.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -5398,27 +5356,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/duratruss_universal_clamp_incl._tv_tap.htm"
  },
- "dw_3002a_double_bass_drum_pedal.htm": {
-  "badge": "",
-  "discount": 28,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "dw_3002a_double_bass_drum_pedal.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 1199.0,
-  "min_price": 1199.0,
-  "missing_runs": 1,
-  "name": "DW 3002A Double Bass Drum Pedal",
-  "price": 1199.0,
-  "ref_price": 1666.0,
-  "reported_price": 1199.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/dw_3002a_double_bass_drum_pedal.htm"
- },
  "dw_dwe_e33_drum_kit_midnight_blue.htm": {
   "badge": "",
   "discount": 18,
@@ -5579,6 +5516,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/elation_limelight_par_l.htm"
+ },
+ "elation_sdc_6_faderdesk_v2_black.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-24T15:59Z",
+  "id": "elation_sdc_6_faderdesk_v2_black.htm",
+  "last_change": "2026-11-24T15:59Z",
+  "max_price": 154.0,
+  "min_price": 154.0,
+  "missing_runs": 0,
+  "name": "Elation SDC-6 Faderdesk V2 black",
+  "price": 154.0,
+  "ref_price": null,
+  "reported_price": 154.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/elation_sdc_6_faderdesk_v2_black.htm"
  },
  "electro_harmonix_bender_royale_fuzz_black.htm": {
   "badge": "",
@@ -6400,36 +6357,16 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esi_maya_22_usb.htm"
  },
- "esp_e_ii_viper_see_thru_bk_cherry.htm": {
-  "badge": "",
-  "discount": 28,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "esp_e_ii_viper_see_thru_bk_cherry.htm",
-  "last_change": "2026-11-24T03:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 8899.0,
-  "min_price": 8899.0,
-  "missing_runs": 1,
-  "name": "ESP E-II Viper See Thru BK Cherry",
-  "price": 8899.0,
-  "ref_price": 12333.0,
-  "reported_price": 8899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/esp_e_ii_viper_see_thru_bk_cherry.htm"
- },
  "esp_ec_1000_piezo_qm_stb.htm": {
   "badge": "Deal",
   "discount": null,
   "first_seen": "2026-11-20T16:00Z",
   "id": "esp_ec_1000_piezo_qm_stb.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-24T12:59Z",
   "max_price": 4490.0,
   "min_price": 4444.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "ESP LTD EC-1000 Piezo QM STBLK",
   "price": 4490.0,
   "ref_price": null,
@@ -6541,27 +6478,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_ltd_arrow_qm_dark_brown_burst.htm"
- },
- "esp_ltd_b_205dx_bb.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "esp_ltd_b_205dx_bb.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 2150.0,
-  "min_price": 2139.0,
-  "missing_runs": 1,
-  "name": "ESP LTD B-205DX BB",
-  "price": 2150.0,
-  "ref_price": null,
-  "reported_price": 2139.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/esp_ltd_b_205dx_bb.htm"
  },
  "esp_ltd_ec_01_ft_black.htm": {
   "badge": "",
@@ -9771,9 +9687,10 @@
   "first_seen": "2026-11-23T16:00Z",
   "id": "gibson_les_paul_standard_50s_p90.htm",
   "last_change": "2026-11-23T16:00Z",
+  "last_seen": "2026-11-24T12:59Z",
   "max_price": 10690.0,
   "min_price": 10690.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Gibson Les Paul Standard 50s P90",
   "price": 10690.0,
   "ref_price": null,
@@ -10304,27 +10221,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gretsch_drums_13x06_solid_aluminum_snare.htm"
- },
- "gretsch_drums_14_x65_cat._bubinga_maple.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "gretsch_drums_14_x65_cat._bubinga_maple.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 875.0,
-  "min_price": 869.0,
-  "missing_runs": 1,
-  "name": "Gretsch Drums 14\"x6,5\" Cat. Bubinga Maple",
-  "price": 875.0,
-  "ref_price": null,
-  "reported_price": 869.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gretsch_drums_14_x65_cat._bubinga_maple.htm"
  },
  "gretsch_drums_catalina_bubinga_maple_std.htm": {
   "badge": "",
@@ -11311,7 +11207,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 655.0,
   "min_price": 649.0,
   "missing_runs": 0,
@@ -11322,8 +11218,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm"
  },
  "harley_benton_hbz2004.htm": {
@@ -11371,7 +11267,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_het_550_bk.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -11382,8 +11278,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_het_550_bk.htm"
  },
  "harley_benton_hj_45e_sbk.htm": {
@@ -11431,7 +11327,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_jb_20_ca_w_soran_dual_lite.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 744.0,
   "min_price": 739.0,
   "missing_runs": 0,
@@ -11442,8 +11338,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_jb_20_ca_w_soran_dual_lite.htm"
  },
  "harley_benton_jb_62cc_ow.htm": {
@@ -11831,7 +11727,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_s_620_w_soran_dual_lite.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 1050.0,
   "min_price": 1045.0,
   "missing_runs": 0,
@@ -11842,8 +11738,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_s_620_w_soran_dual_lite.htm"
  },
  "harley_benton_sc_200_bk_student_serie_bundle.htm": {
@@ -11882,7 +11778,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm"
  },
@@ -11891,7 +11787,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_400gt_w_marshall_mg15g.htm",
-  "last_change": "2026-11-24T06:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 1079.0,
   "min_price": 1069.0,
   "missing_runs": 0,
@@ -11902,8 +11798,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm"
  },
  "harley_benton_sc_500_bk_w_soran_dual_stomp.htm": {
@@ -11951,7 +11847,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_baritone_ab.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11962,8 +11858,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm"
  },
  "harley_benton_sc_custom_iii_gold_top.htm": {
@@ -12151,7 +12047,7 @@
   "discount": 30,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20sb_w_soran_dual_lite.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -12162,8 +12058,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20sb_w_soran_dual_lite.htm"
  },
  "harley_benton_st_jamster_mds.htm": {
@@ -12906,27 +12802,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_hnt1r_black.htm"
  },
- "hils_hnt1r_ivory.htm": {
-  "badge": "",
-  "discount": 27,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "hils_hnt1r_ivory.htm",
-  "last_change": "2026-11-24T03:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 1444.0,
-  "min_price": 1444.0,
-  "missing_runs": 1,
-  "name": "Hils HNT1R Ivory",
-  "price": 1444.0,
-  "ref_price": 1990.0,
-  "reported_price": 1444.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/hils_hnt1r_ivory.htm"
- },
  "hils_hzb4_gap.htm": {
   "badge": "",
   "discount": 19,
@@ -13203,7 +13078,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hk_audio_l5_lts.htm"
  },
@@ -15413,7 +15288,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_20ce_concert_ukulele.htm",
-  "last_change": "2026-11-23T18:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 215.0,
   "min_price": 214.0,
   "missing_runs": 0,
@@ -15424,8 +15299,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm"
  },
  "kala_ka_20s_soprano_ukulele.htm": {
@@ -15687,6 +15562,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm"
+ },
+ "kala_ukadelic_soprano_uku_bl.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-24T15:59Z",
+  "id": "kala_ukadelic_soprano_uku_bl.htm",
+  "last_change": "2026-11-24T15:59Z",
+  "max_price": 88.0,
+  "min_price": 88.0,
+  "missing_runs": 0,
+  "name": "Kala Ukadelic Soprano Uku BL",
+  "price": 88.0,
+  "ref_price": null,
+  "reported_price": 88.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/kala_ukadelic_soprano_uku_bl.htm"
  },
  "karl_hoefner_h11_v_violin_4_4.htm": {
   "badge": "",
@@ -16693,7 +16588,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "laserworld_ds_3000rgb_mk5.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 4399.0,
   "min_price": 4299.0,
   "missing_runs": 0,
@@ -16704,8 +16599,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/laserworld_ds_3000rgb_mk5.htm"
  },
  "laserworld_el_230rgb_mkii.htm": {
@@ -16893,7 +16788,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_maui_11_g3_mix_w.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 5333.0,
   "min_price": 5333.0,
   "missing_runs": 0,
@@ -16904,8 +16799,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ld_systems_maui_11_g3_mix_w.htm"
  },
  "ld_systems_maui_11_g3_white.htm": {
@@ -18154,9 +18049,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "mapex_12_x55_dl_warbird_snare_drum.htm",
   "last_change": "2026-11-18T21:59Z",
+  "last_seen": "2026-11-24T12:59Z",
   "max_price": 2175.0,
   "min_price": 2169.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Mapex 12\"x5,5\" DL Warbird Snare Drum",
   "price": 2175.0,
   "ref_price": null,
@@ -18253,7 +18149,7 @@
   "discount": 10,
   "first_seen": "2026-11-18T15:59Z",
   "id": "marcus_miller_gb5_4_black.htm",
-  "last_change": "2026-11-20T16:00Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 1744.0,
   "min_price": 1744.0,
   "missing_runs": 0,
@@ -18264,8 +18160,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/marcus_miller_gb5_4_black.htm"
  },
  "marcus_miller_gb5_4_black_lh.htm": {
@@ -18293,7 +18189,7 @@
   "discount": 21,
   "first_seen": "2026-11-18T18:17Z",
   "id": "marcus_miller_m6_headless_5_ts.htm",
-  "last_change": "2026-11-24T09:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 3055.0,
   "min_price": 3055.0,
   "missing_runs": 0,
@@ -18304,8 +18200,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm"
  },
  "marcus_miller_v3_4_new_gen_antique_white.htm": {
@@ -18393,7 +18289,7 @@
   "discount": 22,
   "first_seen": "2026-11-18T15:59Z",
   "id": "marcus_miller_v6_sandblasted_5_otb.htm",
-  "last_change": "2026-11-18T15:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 2190.0,
   "min_price": 2190.0,
   "missing_runs": 0,
@@ -18404,8 +18300,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/marcus_miller_v6_sandblasted_5_otb.htm"
  },
  "marcus_miller_v8_4_nt_lh.htm": {
@@ -18788,6 +18684,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitar_d35_sunburst.htm"
+ },
+ "martin_guitar_d_jr_e_streetmaster.htm": {
+  "badge": "",
+  "discount": 35,
+  "first_seen": "2026-11-24T15:59Z",
+  "id": "martin_guitar_d_jr_e_streetmaster.htm",
+  "last_change": "2026-11-24T15:59Z",
+  "max_price": 3069.0,
+  "min_price": 3069.0,
+  "missing_runs": 0,
+  "name": "Martin Guitar D Jr E StreetMaster New",
+  "price": 3069.0,
+  "ref_price": 4699.0,
+  "reported_price": 3069.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/martin_guitar_d_jr_e_streetmaster.htm"
  },
  "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
   "badge": "",
@@ -20212,27 +20128,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/music_man_stingray_4_special_hh_brule.htm"
- },
- "music_man_stingray_5_h_special_vsb.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "music_man_stingray_5_h_special_vsb.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 12290.0,
-  "min_price": 12190.0,
-  "missing_runs": 1,
-  "name": "Music Man Stingray 5 H Special VSB",
-  "price": 12290.0,
-  "ref_price": null,
-  "reported_price": 12190.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/music_man_stingray_5_h_special_vsb.htm"
  },
  "music_man_stingray_ii_cory_wong_model_cb.htm": {
   "badge": "",
@@ -21815,27 +21710,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/one_control_raspberry_booster_overdrive.htm"
- },
- "one_control_super_apricot_od_overdrive_624366.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "one_control_super_apricot_od_overdrive_624366.htm",
-  "last_change": "2026-11-24T03:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 215.0,
-  "min_price": 215.0,
-  "missing_runs": 1,
-  "name": "One Control Super Apricot OD - Overdrive",
-  "price": 215.0,
-  "ref_price": null,
-  "reported_price": 215.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm"
  },
  "oneodio_fusion_a70_black.htm": {
   "badge": "",
@@ -25951,7 +25825,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "soran_dual_stomp_pedal_lite.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 259.0,
   "min_price": 258.0,
   "missing_runs": 0,
@@ -25962,8 +25836,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/soran_dual_stomp_pedal_lite.htm"
  },
  "soundboks_4_black.htm": {
@@ -26391,7 +26265,7 @@
   "discount": 61,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ssl_connex.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-24T15:59Z",
   "max_price": 118.0,
   "min_price": 118.0,
   "missing_runs": 0,
@@ -26402,8 +26276,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ssl_connex.htm"
  },
  "ssl_fusion_vintage_drive.htm": {
@@ -30586,27 +30460,6 @@
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/thomann_kontrabass_rockabilly_01.htm"
  },
- "thomann_lap_pickup_cajon.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "thomann_lap_pickup_cajon.htm",
-  "last_change": "2026-11-20T21:59Z",
-  "last_seen": "2026-11-24T09:59Z",
-  "max_price": 398.0,
-  "min_price": 393.0,
-  "missing_runs": 1,
-  "name": "Thomann Lap Pickup Cajon",
-  "price": 398.0,
-  "ref_price": null,
-  "reported_price": 398.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/thomann_lap_pickup_cajon.htm"
- },
  "thomann_latin_expert_bongos.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -31666,6 +31519,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/tone_city_black_tea_distortion.htm"
+ },
+ "tone_city_holy_aura_distortion_boost.htm": {
+  "badge": "",
+  "discount": 40,
+  "first_seen": "2026-11-24T15:59Z",
+  "id": "tone_city_holy_aura_distortion_boost.htm",
+  "last_change": "2026-11-24T15:59Z",
+  "max_price": 259.0,
+  "min_price": 259.0,
+  "missing_runs": 0,
+  "name": "Tone City Holy Aura - Distortion / Boost",
+  "price": 259.0,
+  "ref_price": 432.0,
+  "reported_price": 259.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm"
  },
  "tone_city_nobleman_overdrive.htm": {
   "badge": "",
@@ -34050,6 +33923,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_ead50_drum_module.htm"
  },
+ "yamaha_ez_310.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-24T15:59Z",
+  "id": "yamaha_ez_310.htm",
+  "last_change": "2026-11-24T15:59Z",
+  "max_price": 722.0,
+  "min_price": 722.0,
+  "missing_runs": 0,
+  "name": "Yamaha EZ-310",
+  "price": 722.0,
+  "ref_price": null,
+  "reported_price": 722.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_ez_310.htm"
+ },
  "yamaha_genos_2_speaker_bundle.htm": {
   "badge": "",
   "discount": null,
@@ -34839,9 +34732,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "yamaha_tas3_c_natural.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T12:59Z",
   "max_price": 5899.0,
   "min_price": 5899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Yamaha TAS3 C Natural",
   "price": 5899.0,
   "ref_price": null,

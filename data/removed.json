@@ -51,6 +51,10 @@
   "price": 359.0,
   "removed_at": "2026-11-18T15:59Z"
  },
+ "birddog_max_white_bundle.htm": {
+  "price": 12290.0,
+  "removed_at": "2026-11-24T15:59Z"
+ },
  "black_swamp_percussion_lgtc2_tambourine.htm": {
   "price": 1045.0,
   "removed_at": "2026-11-17T15:59Z"
@@ -99,6 +103,10 @@
   "price": 3490.0,
   "removed_at": "2026-11-17T12:59Z"
  },
+ "dacarbo_unica_silver_bb_trumpet.htm": {
+  "price": 13190.0,
+  "removed_at": "2026-11-24T15:59Z"
+ },
  "dangelico_excel_exl1_dark_iced_tea.htm": {
   "price": 3699.0,
   "removed_at": "2026-11-20T06:59Z"
@@ -119,13 +127,13 @@
   "price": 1699.0,
   "removed_at": "2026-11-19T03:59Z"
  },
+ "dw_3002a_double_bass_drum_pedal.htm": {
+  "price": 1199.0,
+  "removed_at": "2026-11-24T15:59Z"
+ },
  "dw_5100_drummer_throne.htm": {
   "price": 535.0,
   "removed_at": "2026-11-22T21:59Z"
- },
- "elation_sdc_6_faderdesk_v2_black.htm": {
-  "price": 149.0,
-  "removed_at": "2026-11-20T16:00Z"
  },
  "electro_harmonix_deluxe_bass_big_muff_pi_2_fuzz.htm": {
   "price": 666.0,
@@ -166,6 +174,14 @@
  "esp_e_ii_m_ii_hst_p_msfmg.htm": {
   "price": 10555.0,
   "removed_at": "2026-11-24T12:59Z"
+ },
+ "esp_e_ii_viper_see_thru_bk_cherry.htm": {
+  "price": 8899.0,
+  "removed_at": "2026-11-24T15:59Z"
+ },
+ "esp_ltd_b_205dx_bb.htm": {
+  "price": 2150.0,
+  "removed_at": "2026-11-24T15:59Z"
  },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "price": 7222.0,
@@ -243,6 +259,10 @@
   "price": 17190.0,
   "removed_at": "2026-11-18T15:59Z"
  },
+ "gretsch_drums_14_x65_cat._bubinga_maple.htm": {
+  "price": 875.0,
+  "removed_at": "2026-11-24T15:59Z"
+ },
  "gretsch_us_custom_rock_set_white_glass.htm": {
   "price": 32690.0,
   "removed_at": "2026-11-19T18:27Z"
@@ -274,6 +294,10 @@
  "hils_hnb5_sunburst.htm": {
   "price": 1739.0,
   "removed_at": "2026-11-17T18:59Z"
+ },
+ "hils_hnt1r_ivory.htm": {
+  "price": 1444.0,
+  "removed_at": "2026-11-24T15:59Z"
  },
  "hils_hnt1r_metallic_ocean_blue.htm": {
   "price": 1444.0,
@@ -322,10 +346,6 @@
  "kala_ka_15s_blk_mahogany_soprano.htm": {
   "price": 171.0,
   "removed_at": "2026-11-23T00:59Z"
- },
- "kala_ukadelic_soprano_uku_bl.htm": {
-  "price": 87.0,
-  "removed_at": "2026-11-20T18:59Z"
  },
  "lakland_skyline_44_01_deluxe_4_nat.htm": {
   "price": 3490.0,
@@ -387,10 +407,6 @@
   "price": 1899.0,
   "removed_at": "2026-11-17T18:59Z"
  },
- "martin_guitar_d_jr_e_streetmaster.htm": {
-  "price": 2999.0,
-  "removed_at": "2026-11-19T09:59Z"
- },
  "martin_guitars_d35_ambertone.htm": {
   "price": 16090.0,
   "removed_at": "2026-11-23T00:59Z"
@@ -422,6 +438,10 @@
  "music_man_sabre_blackdraft.htm": {
   "price": 12990.0,
   "removed_at": "2026-11-22T21:59Z"
+ },
+ "music_man_stingray_5_h_special_vsb.htm": {
+  "price": 12290.0,
+  "removed_at": "2026-11-24T15:59Z"
  },
  "neotone_mutant_digital_handpan_ash.htm": {
   "price": 14890.0,
@@ -470,6 +490,10 @@
  "one_control_strawberry_red_4k_overdrive.htm": {
   "price": 259.0,
   "removed_at": "2026-11-24T12:59Z"
+ },
+ "one_control_super_apricot_od_overdrive_624366.htm": {
+  "price": 215.0,
+  "removed_at": "2026-11-24T15:59Z"
  },
  "prs_se_custom_24_s_h_vs_2025.htm": {
   "price": 3899.0,
@@ -643,6 +667,10 @@
   "price": 26690.0,
   "removed_at": "2026-11-17T15:59Z"
  },
+ "thomann_lap_pickup_cajon.htm": {
+  "price": 398.0,
+  "removed_at": "2026-11-24T15:59Z"
+ },
  "thomann_tongue_drum_12_lotus_m.htm": {
   "price": 218.0,
   "removed_at": "2026-11-16T11:46Z"
@@ -654,10 +682,6 @@
  "thon_mikes_joker_case.htm": {
   "price": 247.0,
   "removed_at": "2026-11-24T00:59Z"
- },
- "tone_city_holy_aura_distortion_boost.htm": {
-  "price": 258.0,
-  "removed_at": "2026-11-18T21:59Z"
  },
  "two_notes_revolt_guitar_preamp.htm": {
   "price": 879.0,
@@ -702,10 +726,6 @@
  "yamaha_cg102_nt.htm": {
   "price": 898.0,
   "removed_at": "2026-11-16T19:02Z"
- },
- "yamaha_ez_310.htm": {
-  "price": 715.0,
-  "removed_at": "2026-11-16T19:34Z"
  },
  "yamaha_hs_8_mp.htm": {
   "price": 1999.0,
