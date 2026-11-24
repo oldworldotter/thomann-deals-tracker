@@ -139,6 +139,10 @@
   "price": 344.0,
   "removed_at": "2026-11-21T00:59Z"
  },
+ "electro_harmonix_triangle_big_muff_fuzz.htm": {
+  "price": 309.0,
+  "removed_at": "2026-11-24T12:59Z"
+ },
  "epiphone_alex_lifeson_lp_custom_axcess.htm": {
   "price": 4399.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -154,6 +158,14 @@
  "epiphone_wilshire_p_90_ebony.htm": {
   "price": 1490.0,
   "removed_at": "2026-11-22T00:59Z"
+ },
+ "erica_synths_echolocator.htm": {
+  "price": 1790.0,
+  "removed_at": "2026-11-24T12:59Z"
+ },
+ "esp_e_ii_m_ii_hst_p_msfmg.htm": {
+  "price": 10555.0,
+  "removed_at": "2026-11-24T12:59Z"
  },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "price": 7222.0,
@@ -182,6 +194,10 @@
  "fender_rumble_40_v3_ivory.htm": {
   "price": 1499.0,
   "removed_at": "2026-11-20T00:46Z"
+ },
+ "fender_ultra_luxe_60s_custom_tele_lpb.htm": {
+  "price": 12666.0,
+  "removed_at": "2026-11-24T12:59Z"
  },
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
@@ -274,6 +290,10 @@
  "hils_next_hn5_met._emerald_green.htm": {
   "price": 1599.0,
   "removed_at": "2026-11-18T15:59Z"
+ },
+ "hils_next_hn7_ltd_g_tbk.htm": {
+  "price": 2444.0,
+  "removed_at": "2026-11-24T12:59Z"
  },
  "hk_audio_polar_12_mk2_bk_power_bundle.htm": {
   "price": 7399.0,
@@ -443,6 +463,14 @@
   "price": 258.0,
   "removed_at": "2026-11-18T21:59Z"
  },
+ "one_control_silver_bee_od_overdrive.htm": {
+  "price": 389.0,
+  "removed_at": "2026-11-24T12:59Z"
+ },
+ "one_control_strawberry_red_4k_overdrive.htm": {
+  "price": 259.0,
+  "removed_at": "2026-11-24T12:59Z"
+ },
  "prs_se_custom_24_s_h_vs_2025.htm": {
   "price": 3899.0,
   "removed_at": "2026-11-19T12:59Z"
@@ -510,6 +538,10 @@
  "sela_kalimba_10_green.htm": {
   "price": 39.0,
   "removed_at": "2026-11-18T21:59Z"
+ },
+ "sela_se_002a_casela_satin_nut_cajon.htm": {
+  "price": 599.0,
+  "removed_at": "2026-11-24T12:59Z"
  },
  "sela_se_241_kalimba_black_10.htm": {
   "price": 39.0,
@@ -587,6 +619,14 @@
   "price": 131.0,
   "removed_at": "2026-11-24T00:59Z"
  },
+ "takamine_ef341sc_w_softcase.htm": {
+  "price": 4799.0,
+  "removed_at": "2026-11-24T12:59Z"
+ },
+ "takamine_gc1ce_nat.htm": {
+  "price": 1269.0,
+  "removed_at": "2026-11-24T12:59Z"
+ },
  "the_box_pro_dsp_18_sub.htm": {
   "price": 1750.0,
   "removed_at": "2026-11-23T13:00Z"
@@ -626,10 +666,6 @@
  "varytec_hero_wash_300_fc.htm": {
   "price": 2190.0,
   "removed_at": "2026-11-19T16:00Z"
- },
- "varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm": {
-  "price": 374.0,
-  "removed_at": "2026-11-24T00:59Z"
  },
  "varytec_led_pad_7_7x10w_5in1_rgbwa.htm": {
   "price": 389.0,
