@@ -3,34 +3,32 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-25 05:00 CET · **1751** deals tracked of 1750 advertised · checks every **3 h**
+**Last check:** 2026-11-25 08:00 CET · **1751** deals tracked of 1750 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🔁 3 returned deals · ❌ 2 removed deals · 📦 1 stock changes → [full report](changes/2026-11-25T0400Z.md)
+✅ 4 back in stock · 📦 5 stock changes → [full report](changes/2026-11-25T0700Z.md)
 
-### 🔁 Returned deals (3)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Swiff Audio A10R Clip-on Tuner](https://www.thomann.pl/swiff_audio_a10r_clip_on_tuner.htm) | **48 zł** | 48 zł | ‑25% | 64 zł | Dostępny w magazynie | 2026‑11‑21 16:59 |
-| [Gibson Kirk Hammett "Greeny" LP Std.](https://www.thomann.pl/gibson_kirk_hammett_greeny_lp_std.htm) | **10 666 zł** | 10 590 zł | ‑10% | 11 790 zł | Dostępny w magazynie | 2026‑11‑19 19:27 |
-| [Yamaha CG102 NT](https://www.thomann.pl/yamaha_cg102_nt.htm) | **899 zł** | 898 zł |  |  | Dostępny w magazynie | 2026‑11‑16 20:02 |
-
-### ❌ Removed deals (2)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Warm Audio Foxy Tone Box Werewolf Fuzz](https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm) | 435 zł | ‑22% | 555 zł | Dostępny w magazynie |  |
-| [Epiphone 1960 Les Paul Special DC TVY](https://www.thomann.pl/epiphone_1960_les_paul_special_dc_tvy.htm) | 3 990 zł |  |  | Dostępny w magazynie |  |
-
-### 📦 Stock changes (1)
+### ✅ Back in stock (4)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Höfner Verythin CT Deluxe Special SB](https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm) | 2 175 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha P-145 B BT](https://www.thomann.pl/yamaha_p_145_b_bt.htm) | 1 550 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Radial Engineering Power-1](https://www.thomann.pl/radial_engineering_power_1.htm) | 568 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Yamaha P-225 WH](https://www.thomann.pl/yamaha_p_225_wh.htm) | 2 199 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (5)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [OXI Instruments One MKII Nostalgia](https://www.thomann.pl/oxi_instruments_one_mkii_nostalgia.htm) | 2 999 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Ape Labs ApeLight Maxi V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm) | 7 399 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
+| [Hils HNB3 Black](https://www.thomann.pl/hils_hnb3_black.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Swiff Audio WX502 Wireless System](https://www.thomann.pl/swiff_audio_wx502_wireless_system.htm) | 259 zł | Dostępny w magazynie | **Dostępny za 7–9 tygodnie** |
+| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

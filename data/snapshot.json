@@ -1512,7 +1512,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm",
-  "last_change": "2026-11-24T00:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 7399.0,
   "min_price": 7390.0,
   "missing_runs": 0,
@@ -1523,8 +1523,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm"
  },
  "ape_labs_lightcan_v2_tp_12_sb_c.htm": {
@@ -10284,7 +10284,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_bm_75_trans_red.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -10295,8 +10295,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_bm_75_trans_red.htm"
  },
  "harley_benton_cld_60smce_nt_bundle.htm": {
@@ -11684,7 +11684,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_baritone_ab.htm",
-  "last_change": "2026-11-24T15:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11695,8 +11695,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm"
  },
  "harley_benton_sc_custom_iii_gold_top.htm": {
@@ -12484,7 +12484,7 @@
   "discount": 33,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_hnb3_black.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 1444.0,
   "min_price": 1444.0,
   "missing_runs": 0,
@@ -12495,8 +12495,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_hnb3_black.htm"
  },
  "hils_hnb3_ivory.htm": {
@@ -21743,7 +21743,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/oxi_instruments_e16.htm"
  },
@@ -21772,7 +21772,7 @@
   "discount": null,
   "first_seen": "2026-11-18T18:17Z",
   "id": "oxi_instruments_one_mkii_nostalgia.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 2999.0,
   "min_price": 2999.0,
   "missing_runs": 0,
@@ -21783,8 +21783,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/oxi_instruments_one_mkii_nostalgia.htm"
  },
  "palmer_orbit_11_white.htm": {
@@ -22672,7 +22672,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "radial_engineering_power_1.htm",
-  "last_change": "2026-11-24T00:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 568.0,
   "min_price": 555.0,
   "missing_runs": 0,
@@ -22683,8 +22683,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/radial_engineering_power_1.htm"
  },
  "radial_engineering_pro_d2.htm": {
@@ -27899,7 +27899,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "swiff_audio_wx502_wireless_system.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 259.0,
   "min_price": 258.0,
   "missing_runs": 0,
@@ -27910,8 +27910,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 7–9 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/swiff_audio_wx502_wireless_system.htm"
  },
  "swiff_audio_wx503_wireless_system.htm": {
@@ -33802,7 +33802,7 @@
   "discount": 12,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_p_145_b_bt.htm",
-  "last_change": "2026-11-24T00:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 1550.0,
   "min_price": 1550.0,
   "missing_runs": 0,
@@ -33814,8 +33814,8 @@
    "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_p_145_b_bt.htm"
  },
  "yamaha_p_225_b.htm": {
@@ -33843,7 +33843,7 @@
   "discount": 12,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_p_225_wh.htm",
-  "last_change": "2026-11-24T00:59Z",
+  "last_change": "2026-11-25T07:00Z",
   "max_price": 2199.0,
   "min_price": 2199.0,
   "missing_runs": 0,
@@ -33854,8 +33854,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_p_225_wh.htm"
  },
  "yamaha_p_45_b.htm": {
