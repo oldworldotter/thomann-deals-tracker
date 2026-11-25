@@ -167,6 +167,10 @@
   "price": 1699.0,
   "removed_at": "2026-11-17T18:59Z"
  },
+ "epiphone_sheraton_natural.htm": {
+  "price": 2666.0,
+  "removed_at": "2026-11-25T21:59Z"
+ },
  "epiphone_wilshire_p_90_ebony.htm": {
   "price": 1490.0,
   "removed_at": "2026-11-22T00:59Z"
@@ -202,6 +206,10 @@
  "esp_ltd_tl_7_black.htm": {
   "price": 1648.0,
   "removed_at": "2026-11-21T00:59Z"
+ },
+ "eurolite_led_gf_100_gobo_flower.htm": {
+  "price": 398.0,
+  "removed_at": "2026-11-25T21:59Z"
  },
  "eurolite_led_z_20.htm": {
   "price": 173.0,
@@ -246,6 +254,10 @@
  "gibson_aj_anniversary_ltd_cb.htm": {
   "price": 22090.0,
   "removed_at": "2026-11-20T21:59Z"
+ },
+ "gibson_es_335_50s_vtb.htm": {
+  "price": 13290.0,
+  "removed_at": "2026-11-25T21:59Z"
  },
  "gibson_hummingbird_standard.htm": {
   "price": 11890.0,
@@ -351,9 +363,17 @@
   "price": 7399.0,
   "removed_at": "2026-11-23T18:59Z"
  },
+ "hoefner_shorty_bass_white.htm": {
+  "price": 655.0,
+  "removed_at": "2026-11-25T21:59Z"
+ },
  "hoefner_vintage_62_beatles_bass.htm": {
   "price": 10890.0,
   "removed_at": "2026-11-18T21:59Z"
+ },
+ "hohner_bravo_iii_96_silent_key_467995.htm": {
+  "price": 7899.0,
+  "removed_at": "2026-11-25T21:59Z"
  },
  "hugheskettner_tubemeister_deluxe_20.htm": {
   "price": 2175.0,
@@ -503,6 +523,10 @@
   "price": 485.0,
   "removed_at": "2026-11-19T16:00Z"
  },
+ "nux_metal_core_deluxe_mkii.htm": {
+  "price": 259.0,
+  "removed_at": "2026-11-25T21:59Z"
+ },
  "one_control_cranberry_overdrive_boost_568489.htm": {
   "price": 214.0,
   "removed_at": "2026-11-18T09:59Z"
@@ -595,6 +619,10 @@
   "price": 18890.0,
   "removed_at": "2026-11-23T22:00Z"
  },
+ "schagerl_james_morrison_trp._jm1_l.htm": {
+  "price": 5199.0,
+  "removed_at": "2026-11-25T21:59Z"
+ },
  "schecter_damien_platinum_6_fr_s_sbk.htm": {
   "price": 4333.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -626,6 +654,10 @@
  "sela_seed_shaker_mixed.htm": {
   "price": 83.0,
   "removed_at": "2026-11-17T15:59Z"
+ },
+ "sela_sepcab2_cabasa_115_mm.htm": {
+  "price": 77.0,
+  "removed_at": "2026-11-25T21:59Z"
  },
  "shure_glxd24_beta58.htm": {
   "price": 2890.0,
@@ -794,6 +826,10 @@
  "yamaha_bbne2_nathan_east_black.htm": {
   "price": 17990.0,
   "removed_at": "2026-11-18T12:59Z"
+ },
+ "yamaha_cg102_nt.htm": {
+  "price": 899.0,
+  "removed_at": "2026-11-25T21:59Z"
  },
  "yamaha_ez_310.htm": {
   "price": 722.0,
