@@ -2928,7 +2928,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 3–4 tygodnie",
+  "stock": "Dostępny za 2–3 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/block_and_block_beta_50_truss_lift_bundle.htm"
  },
@@ -4441,7 +4441,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xse1052_3p.htm",
-  "last_change": "2026-11-20T16:00Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 148.0,
   "min_price": 148.0,
   "missing_runs": 0,
@@ -4452,8 +4452,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xse1052_3p.htm"
  },
  "daddario_xse1149_3p.htm": {
@@ -5517,27 +5517,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/elation_limelight_par_l.htm"
  },
- "elation_sdc_6_faderdesk_v2_black.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-24T15:59Z",
-  "id": "elation_sdc_6_faderdesk_v2_black.htm",
-  "last_change": "2026-11-24T15:59Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 154.0,
-  "min_price": 154.0,
-  "missing_runs": 1,
-  "name": "Elation SDC-6 Faderdesk V2 black",
-  "price": 154.0,
-  "ref_price": null,
-  "reported_price": 154.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/elation_sdc_6_faderdesk_v2_black.htm"
- },
  "electro_harmonix_bender_royale_fuzz_black.htm": {
   "badge": "",
   "discount": null,
@@ -5884,9 +5863,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "epiphone_1960_les_paul_special_dc_tvy.htm",
   "last_change": "2026-11-21T21:46Z",
+  "last_seen": "2026-11-24T22:00Z",
   "max_price": 3990.0,
   "min_price": 3899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Epiphone 1960 Les Paul Special DC TVY",
   "price": 3990.0,
   "ref_price": null,
@@ -5917,27 +5897,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/epiphone_1962_es_335_reissue_vintage_bu.htm"
- },
- "epiphone_1963_firebird_i_silver_mist.htm": {
-  "badge": "",
-  "discount": 14,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "epiphone_1963_firebird_i_silver_mist.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 3899.0,
-  "min_price": 3899.0,
-  "missing_runs": 1,
-  "name": "Epiphone 1963 Firebird I Silver Mist",
-  "price": 3899.0,
-  "ref_price": 4555.0,
-  "reported_price": 3899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/epiphone_1963_firebird_i_silver_mist.htm"
  },
  "epiphone_broadway_wine_red.htm": {
   "badge": "",
@@ -6364,7 +6323,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "esp_eclipse_custom_db_black_satin.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 21090.0,
   "min_price": 20990.0,
   "missing_runs": 0,
@@ -6375,8 +6334,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_eclipse_custom_db_black_satin.htm"
  },
  "esp_eclipse_custom_tiger_eye_sb.htm": {
@@ -6484,7 +6443,7 @@
   "discount": 42,
   "first_seen": "2026-11-16T10:55Z",
   "id": "esp_ltd_ec_01_ft_black_fluence.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 4899.0,
   "min_price": 4899.0,
   "missing_runs": 0,
@@ -6495,8 +6454,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/esp_ltd_ec_01_ft_black_fluence.htm"
  },
  "esp_ltd_hh3_1000fr_metallic_silver.htm": {
@@ -9046,7 +9005,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "fun_generation_separ_hex_led_rgbaw_uv_bundle.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 1019.0,
   "min_price": 1019.0,
   "missing_runs": 0,
@@ -9057,8 +9016,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/fun_generation_separ_hex_led_rgbaw_uv_bundle.htm"
  },
  "furch_blue_plus_d_sw.htm": {
@@ -9621,27 +9580,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_les_paul_68_custom_reissue_eb.htm"
  },
- "gibson_les_paul_custom_70s_wine_red.htm": {
-  "badge": "",
-  "discount": 13,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "gibson_les_paul_custom_70s_wine_red.htm",
-  "last_change": "2026-11-24T19:00Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 13333.0,
-  "min_price": 13333.0,
-  "missing_runs": 1,
-  "name": "Gibson Les Paul Custom 70s Wine Red",
-  "price": 13333.0,
-  "ref_price": 15290.0,
-  "reported_price": 13333.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gibson_les_paul_custom_70s_wine_red.htm"
- },
  "gibson_les_paul_standard_60s_aaa_lb.htm": {
   "badge": "",
   "discount": null,
@@ -9761,27 +9699,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_les_paul_supreme_ebony.htm"
- },
- "gibson_lp_junior_57_singecut_tvy_vos.htm": {
-  "badge": "",
-  "discount": 19,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "gibson_lp_junior_57_singecut_tvy_vos.htm",
-  "last_change": "2026-11-18T18:17Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 12690.0,
-  "min_price": 12690.0,
-  "missing_runs": 1,
-  "name": "Gibson LP Junior 57 Singlecut TVY VOS",
-  "price": 12690.0,
-  "ref_price": 15690.0,
-  "reported_price": 12690.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/gibson_lp_junior_57_singecut_tvy_vos.htm"
  },
  "gibson_lp_junior_58_dc_tvy_vos_lh.htm": {
   "badge": "",
@@ -10262,27 +10179,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gretsch_strml_jet_clb_agd_wht.htm"
- },
- "guild_starfire_i_dc_cherry.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-23T16:00Z",
-  "id": "guild_starfire_i_dc_cherry.htm",
-  "last_change": "2026-11-23T16:00Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 1977.0,
-  "min_price": 1977.0,
-  "missing_runs": 1,
-  "name": "Guild Starfire I DC Cherry",
-  "price": 1977.0,
-  "ref_price": null,
-  "reported_price": 1977.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/guild_starfire_i_dc_cherry.htm"
  },
  "hanika_8_meister_concertguitar.htm": {
   "badge": "",
@@ -11749,7 +11645,7 @@
   "discount": 18,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_500_bk_w_soran_dual_stomp.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 999.0,
   "min_price": 999.0,
   "missing_runs": 0,
@@ -11760,8 +11656,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm"
  },
  "harley_benton_sc_500bk_w_marshall_mg15gfx.htm": {
@@ -11769,7 +11665,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_500bk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 1399.0,
   "min_price": 1390.0,
   "missing_runs": 0,
@@ -11780,8 +11676,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_sc_custom_iii_baritone_ab.htm": {
@@ -11809,7 +11705,7 @@
   "discount": 16,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_gold_top.htm",
-  "last_change": "2026-11-23T16:00Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 1090.0,
   "min_price": 1090.0,
   "missing_runs": 0,
@@ -11820,8 +11716,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm"
  },
  "harley_benton_sc_custom_iii_quilt_midnight.htm": {
@@ -15505,27 +15401,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/kala_ukadelic_bamboo_ukulele_sop.htm"
  },
- "kala_ukadelic_soprano_uku_bl.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-24T15:59Z",
-  "id": "kala_ukadelic_soprano_uku_bl.htm",
-  "last_change": "2026-11-24T15:59Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 88.0,
-  "min_price": 88.0,
-  "missing_runs": 1,
-  "name": "Kala Ukadelic Soprano Uku BL",
-  "price": 88.0,
-  "ref_price": null,
-  "reported_price": 88.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/kala_ukadelic_soprano_uku_bl.htm"
- },
  "karl_hoefner_h11_v_violin_4_4.htm": {
   "badge": "",
   "discount": 25,
@@ -18953,7 +18828,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "midas_m_32_live.htm",
-  "last_change": "2026-11-24T09:59Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 11790.0,
   "min_price": 11690.0,
   "missing_runs": 0,
@@ -18964,8 +18839,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 10–13 tygodnie",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/midas_m_32_live.htm"
  },
  "midas_mr_18.htm": {
@@ -25600,27 +25475,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sonor_14x05_prolite_snare_steel.htm"
  },
- "sonor_14x575_mom_snare_maple_rep.htm": {
-  "badge": "",
-  "discount": 40,
-  "first_seen": "2026-11-18T15:59Z",
-  "id": "sonor_14x575_mom_snare_maple_rep.htm",
-  "last_change": "2026-11-20T13:00Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 2199.0,
-  "min_price": 2199.0,
-  "missing_runs": 1,
-  "name": "Sonor 14\"x5.75\" MOM. Snare Maple REP",
-  "price": 2199.0,
-  "ref_price": 3666.0,
-  "reported_price": 2199.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sonor_14x575_mom_snare_maple_rep.htm"
- },
  "sonor_jojo_mayer_single_pedal.htm": {
   "badge": "",
   "discount": 18,
@@ -27266,7 +27120,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_tri_flat_par_profile_bundle.htm",
-  "last_change": "2026-11-18T18:17Z",
+  "last_change": "2026-11-25T00:57Z",
   "max_price": 1099.0,
   "min_price": 1090.0,
   "missing_runs": 0,
@@ -27277,8 +27131,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/stairville_tri_flat_par_profile_bundle.htm"
  },
  "stairville_wild_wash_9x3w_led_uv_bk_dmx.htm": {
@@ -31381,27 +31235,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/tone_city_black_tea_distortion.htm"
  },
- "tone_city_holy_aura_distortion_boost.htm": {
-  "badge": "",
-  "discount": 40,
-  "first_seen": "2026-11-24T15:59Z",
-  "id": "tone_city_holy_aura_distortion_boost.htm",
-  "last_change": "2026-11-24T15:59Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 259.0,
-  "min_price": 259.0,
-  "missing_runs": 1,
-  "name": "Tone City Holy Aura - Distortion / Boost",
-  "price": 259.0,
-  "ref_price": 432.0,
-  "reported_price": 259.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm"
- },
  "tone_city_nobleman_overdrive.htm": {
   "badge": "",
   "discount": null,
@@ -32484,27 +32317,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/varytec_led_hellball_3_rgb.htm"
  },
- "varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-24T12:59Z",
-  "id": "varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm",
-  "last_change": "2026-11-24T12:59Z",
-  "last_seen": "2026-11-24T19:00Z",
-  "max_price": 374.0,
-  "min_price": 374.0,
-  "missing_runs": 1,
-  "name": "Varytec LED Pad7 7x10W 6in1 RGBAWUV BL",
-  "price": 374.0,
-  "ref_price": null,
-  "reported_price": 374.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm"
- },
  "varytec_led_par_14x8w_rgbw_ip65.htm": {
   "badge": "",
   "discount": 15,
@@ -32561,7 +32373,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 11–14 tygodnie",
+  "stock": "Dostępny za 10–13 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/varytec_led_profile_mini_ip65_5600k_wh.htm"
  },
@@ -33111,9 +32923,10 @@
   "first_seen": "2026-11-24T03:59Z",
   "id": "warm_audio_foxy_tone_box_werewolf_fuzz.htm",
   "last_change": "2026-11-24T03:59Z",
+  "last_seen": "2026-11-24T22:00Z",
   "max_price": 435.0,
   "min_price": 435.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Warm Audio Foxy Tone Box Werewolf Fuzz",
   "price": 435.0,
   "ref_price": 555.0,
