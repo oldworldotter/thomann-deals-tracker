@@ -3,32 +3,59 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-25 08:00 CET · **1751** deals tracked of 1750 advertised · checks every **3 h**
+**Last check:** 2026-11-25 10:59 CET · **1749** deals tracked of 1748 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-✅ 4 back in stock · 📦 5 stock changes → [full report](changes/2026-11-25T0700Z.md)
+🆕 2 new deals · 💸 1 price drops · 🏷️ 2 discount changes · ✅ 10 back in stock · 📦 6 stock changes → [full report](changes/2026-11-25T0959Z.md)
 
-### ✅ Back in stock (4)
+### 🆕 New deals (2)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Harley Benton Kahuna CLU-30S Bundle](https://www.thomann.pl/harley_benton_kahuna_clu_30s_bundle.htm) | 261 zł | ‑7% | 281 zł | Dostępny w magazynie |  |
+| [iConnectivity PlayAUDIO2U](https://www.thomann.pl/iconnectivity_playaudio2u.htm) | 10 890 zł |  |  | Dostępny w magazynie |  |
+
+### 💸 Price drops (1)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [ADAM Audio T7V](https://www.thomann.pl/adam_t7v.htm) | 875 zł | **798 zł** | -8.8% | ‑7% | 859 zł | Dostępny w magazynie |
+
+### 🏷️ Discount changes (2)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [ADAM Audio T7V](https://www.thomann.pl/adam_t7v.htm) | 798 zł | none | **-7%** |
+| [Antares Harmony Engine](https://www.thomann.pl/antares_harmony_engine_evo.htm) | 499 zł | -54% | **none** |
+
+### ✅ Back in stock (10)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Yamaha P-145 B BT](https://www.thomann.pl/yamaha_p_145_b_bt.htm) | 1 550 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Radial Engineering Power-1](https://www.thomann.pl/radial_engineering_power_1.htm) | 568 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Yamaha P-225 WH](https://www.thomann.pl/yamaha_p_225_wh.htm) | 2 199 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Sterling StingRay Short RAYSS4 TLBL](https://www.thomann.pl/sterling_by_music_man_stingray_short_rayss4_tlbl.htm) | 2 899 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Shure MV7 Plus](https://www.thomann.pl/shure_mv7_plus.htm) | 1 299 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+| [Erica Synths Steampipe](https://www.thomann.pl/erica_synths_steampipe.htm) | 3 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [beyerdynamic DJ 300 PRO X Club](https://www.thomann.pl/beyerdynamic_dj_300_pro_x_club.htm) | 439 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton TB-70 SBK Deluxe Series](https://www.thomann.pl/harley_benton_tb_70_sbk_deluxe_series.htm) | 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Erica Synths Nightverb](https://www.thomann.pl/erica_synths_nightverb.htm) | 1 790 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [beyerdynamic DJ 300 PRO X](https://www.thomann.pl/beyerdynamic_dj_300_pro_x.htm) | 439 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 655 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Yamaha YDP-146 WH Arius Set](https://www.thomann.pl/yamaha_ydp_146_wh_arius_set.htm) | 3 890 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Fusion-III HSS Roasted FBB](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_fbb.htm) | 1 444 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (5)
+### 📦 Stock changes (6)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [OXI Instruments One MKII Nostalgia](https://www.thomann.pl/oxi_instruments_one_mkii_nostalgia.htm) | 2 999 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Ape Labs ApeLight Maxi V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm) | 7 399 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
-| [Hils HNB3 Black](https://www.thomann.pl/hils_hnb3_black.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Swiff Audio WX502 Wireless System](https://www.thomann.pl/swiff_audio_wx502_wireless_system.htm) | 259 zł | Dostępny w magazynie | **Dostępny za 7–9 tygodnie** |
-| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Midas M32 Live](https://www.thomann.pl/midas_m_32_live.htm) | 11 790 zł | Dostępny w magazynie | **Dostępny za 10–13 tygodnie** |
+| [Harley Benton TE-20HH LH w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_lh_w_soran_dual_stomp.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 711 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Stageworx BLS-315 Pro LS Bundle](https://www.thomann.pl/stageworx_bls_315_pro_ls_bundle.htm) | 198 zł | Dostępny w magazynie | **Dostępny za 6–8 tygodnie** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
