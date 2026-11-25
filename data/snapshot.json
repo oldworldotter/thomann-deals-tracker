@@ -5857,27 +5857,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/enttec_dmx_usb_pro_interface_bundle.htm"
  },
- "epiphone_1960_les_paul_special_dc_tvy.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "epiphone_1960_les_paul_special_dc_tvy.htm",
-  "last_change": "2026-11-21T21:46Z",
-  "last_seen": "2026-11-24T22:00Z",
-  "max_price": 3990.0,
-  "min_price": 3899.0,
-  "missing_runs": 1,
-  "name": "Epiphone 1960 Les Paul Special DC TVY",
-  "price": 3990.0,
-  "ref_price": null,
-  "reported_price": 3990.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/epiphone_1960_les_paul_special_dc_tvy.htm"
- },
  "epiphone_1962_es_335_reissue_vintage_bu.htm": {
   "badge": "",
   "discount": 12,
@@ -9499,6 +9478,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_johnny_cash_sj_200_vcs.htm"
+ },
+ "gibson_kirk_hammett_greeny_lp_std.htm": {
+  "badge": "",
+  "discount": 10,
+  "first_seen": "2026-11-25T04:00Z",
+  "id": "gibson_kirk_hammett_greeny_lp_std.htm",
+  "last_change": "2026-11-25T04:00Z",
+  "max_price": 10666.0,
+  "min_price": 10666.0,
+  "missing_runs": 0,
+  "name": "Gibson Kirk Hammett \"Greeny\" LP Std.",
+  "price": 10666.0,
+  "ref_price": 11790.0,
+  "reported_price": 10666.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/gibson_kirk_hammett_greeny_lp_std.htm"
  },
  "gibson_l_00_special_satin_natural.htm": {
   "badge": "",
@@ -13305,7 +13304,7 @@
   "discount": 16,
   "first_seen": "2026-11-18T18:17Z",
   "id": "hoefner_verythin_ct_deluxe_special_sb.htm",
-  "last_change": "2026-11-24T12:59Z",
+  "last_change": "2026-11-25T04:00Z",
   "max_price": 2175.0,
   "min_price": 2175.0,
   "missing_runs": 0,
@@ -13316,8 +13315,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm"
  },
  "hoefner_verythin_ct_special_brunette.htm": {
@@ -16817,7 +16816,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/lewitt_lct_140_air_matched_pair.htm"
  },
@@ -27835,6 +27834,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/studio_49_sxp1600_alto_xylophone.htm"
  },
+ "swiff_audio_a10r_clip_on_tuner.htm": {
+  "badge": "",
+  "discount": 25,
+  "first_seen": "2026-11-25T04:00Z",
+  "id": "swiff_audio_a10r_clip_on_tuner.htm",
+  "last_change": "2026-11-25T04:00Z",
+  "max_price": 48.0,
+  "min_price": 48.0,
+  "missing_runs": 0,
+  "name": "Swiff Audio A10R Clip-on Tuner",
+  "price": 48.0,
+  "ref_price": 64.0,
+  "reported_price": 48.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/swiff_audio_a10r_clip_on_tuner.htm"
+ },
  "swiff_audio_s100.htm": {
   "badge": "",
   "discount": 34,
@@ -32917,27 +32936,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/warm_audio_fluff_drive_limited_ed_white.htm"
  },
- "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
-  "badge": "",
-  "discount": 22,
-  "first_seen": "2026-11-24T03:59Z",
-  "id": "warm_audio_foxy_tone_box_werewolf_fuzz.htm",
-  "last_change": "2026-11-24T03:59Z",
-  "last_seen": "2026-11-24T22:00Z",
-  "max_price": 435.0,
-  "min_price": 435.0,
-  "missing_runs": 1,
-  "name": "Warm Audio Foxy Tone Box Werewolf Fuzz",
-  "price": 435.0,
-  "ref_price": 555.0,
-  "reported_price": 435.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm"
- },
  "warm_audio_pedal76_fet_ltd_compressor.htm": {
   "badge": "",
   "discount": null,
@@ -33298,6 +33296,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_c_2_x_sh3_pe_silent_grand.htm"
+ },
+ "yamaha_cg102_nt.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-25T04:00Z",
+  "id": "yamaha_cg102_nt.htm",
+  "last_change": "2026-11-25T04:00Z",
+  "max_price": 899.0,
+  "min_price": 899.0,
+  "missing_runs": 0,
+  "name": "Yamaha CG102 NT",
+  "price": 899.0,
+  "ref_price": null,
+  "reported_price": 899.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/yamaha_cg102_nt.htm"
  },
  "yamaha_cgs102.htm": {
   "badge": "",

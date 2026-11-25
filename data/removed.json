@@ -155,6 +155,10 @@
   "price": 309.0,
   "removed_at": "2026-11-24T12:59Z"
  },
+ "epiphone_1960_les_paul_special_dc_tvy.htm": {
+  "price": 3990.0,
+  "removed_at": "2026-11-25T04:00Z"
+ },
  "epiphone_1963_firebird_i_silver_mist.htm": {
   "price": 3899.0,
   "removed_at": "2026-11-25T00:57Z"
@@ -258,10 +262,6 @@
  "gibson_hummingbird_studio_ec_tbs.htm": {
   "price": 10490.0,
   "removed_at": "2026-11-21T12:59Z"
- },
- "gibson_kirk_hammett_greeny_lp_std.htm": {
-  "price": 10590.0,
-  "removed_at": "2026-11-19T18:27Z"
  },
  "gibson_les_paul_custom_70s_wine_red.htm": {
   "price": 13333.0,
@@ -691,10 +691,6 @@
   "price": 2999.0,
   "removed_at": "2026-11-17T03:59Z"
  },
- "swiff_audio_a10r_clip_on_tuner.htm": {
-  "price": 48.0,
-  "removed_at": "2026-11-21T15:59Z"
- },
  "swiff_audio_ws_70_wireless_system_602955.htm": {
   "price": 131.0,
   "removed_at": "2026-11-24T00:59Z"
@@ -771,6 +767,10 @@
   "price": 599.0,
   "removed_at": "2026-11-20T18:59Z"
  },
+ "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
+  "price": 435.0,
+  "removed_at": "2026-11-25T04:00Z"
+ },
  "warm_audio_wa76_d.htm": {
   "price": 2799.0,
   "removed_at": "2026-11-24T03:59Z"
@@ -786,10 +786,6 @@
  "yamaha_bbne2_nathan_east_black.htm": {
   "price": 17990.0,
   "removed_at": "2026-11-18T12:59Z"
- },
- "yamaha_cg102_nt.htm": {
-  "price": 898.0,
-  "removed_at": "2026-11-16T19:02Z"
  },
  "yamaha_ez_310.htm": {
   "price": 722.0,

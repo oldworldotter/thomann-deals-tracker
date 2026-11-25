@@ -3,46 +3,34 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-25 01:57 CET · **1748** deals tracked of 1747 advertised · checks every **3 h**
+**Last check:** 2026-11-25 05:00 CET · **1751** deals tracked of 1750 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 9 removed deals · ✅ 3 back in stock · 📦 6 stock changes → [full report](changes/2026-11-25T0057Z.md)
+🔁 3 returned deals · ❌ 2 removed deals · 📦 1 stock changes → [full report](changes/2026-11-25T0400Z.md)
 
-### ❌ Removed deals (9)
+### 🔁 Returned deals (3)
+
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Swiff Audio A10R Clip-on Tuner](https://www.thomann.pl/swiff_audio_a10r_clip_on_tuner.htm) | **48 zł** | 48 zł | ‑25% | 64 zł | Dostępny w magazynie | 2026‑11‑21 16:59 |
+| [Gibson Kirk Hammett "Greeny" LP Std.](https://www.thomann.pl/gibson_kirk_hammett_greeny_lp_std.htm) | **10 666 zł** | 10 590 zł | ‑10% | 11 790 zł | Dostępny w magazynie | 2026‑11‑19 19:27 |
+| [Yamaha CG102 NT](https://www.thomann.pl/yamaha_cg102_nt.htm) | **899 zł** | 898 zł |  |  | Dostępny w magazynie | 2026‑11‑16 20:02 |
+
+### ❌ Removed deals (2)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Sonor 14"x5.75" MOM. Snare Maple REP](https://www.thomann.pl/sonor_14x575_mom_snare_maple_rep.htm) | 2 199 zł | ‑40% | 3 666 zł | Dostępny w magazynie |  |
-| [Tone City Holy Aura - Distortion / Boost](https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm) | 259 zł | ‑40% | 432 zł | Dostępny w magazynie |  |
-| [Gibson LP Junior 57 Singlecut TVY VOS](https://www.thomann.pl/gibson_lp_junior_57_singecut_tvy_vos.htm) | 12 690 zł | ‑19% | 15 690 zł | Dostępny w magazynie |  |
-| [Epiphone 1963 Firebird I Silver Mist](https://www.thomann.pl/epiphone_1963_firebird_i_silver_mist.htm) | 3 899 zł | ‑14% | 4 555 zł | Dostępny w magazynie |  |
-| [Gibson Les Paul Custom 70s Wine Red](https://www.thomann.pl/gibson_les_paul_custom_70s_wine_red.htm) | 13 333 zł | ‑13% | 15 290 zł | Dostępny w magazynie |  |
-| [Elation SDC-6 Faderdesk V2 black](https://www.thomann.pl/elation_sdc_6_faderdesk_v2_black.htm) | 154 zł |  |  | Dostępny w magazynie |  |
-| [Guild Starfire I DC Cherry](https://www.thomann.pl/guild_starfire_i_dc_cherry.htm) | 1 977 zł |  |  | Dostępny w magazynie |  |
-| [Kala Ukadelic Soprano Uku BL](https://www.thomann.pl/kala_ukadelic_soprano_uku_bl.htm) | 88 zł |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
-| [Varytec LED Pad7 7x10W 6in1 RGBAWUV BL](https://www.thomann.pl/varytec_led_pad7_7x10w_6in1_rgbwauv_bl.htm) | 374 zł |  |  | Dostępny w magazynie |  |
+| [Warm Audio Foxy Tone Box Werewolf Fuzz](https://www.thomann.pl/warm_audio_foxy_tone_box_werewolf_fuzz.htm) | 435 zł | ‑22% | 555 zł | Dostępny w magazynie |  |
+| [Epiphone 1960 Les Paul Special DC TVY](https://www.thomann.pl/epiphone_1960_les_paul_special_dc_tvy.htm) | 3 990 zł |  |  | Dostępny w magazynie |  |
 
-### ✅ Back in stock (3)
+### 📦 Stock changes (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Midas M32 Live](https://www.thomann.pl/midas_m_32_live.htm) | 11 790 zł | Dostępny za 10–13 tygodnie | **Dostępny w magazynie** |
-| [ESP Eclipse Custom DB Black Satin](https://www.thomann.pl/esp_eclipse_custom_db_black_satin.htm) | 21 090 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
-| [Daddario XSE1052-3P](https://www.thomann.pl/daddario_xse1052_3p.htm) | 148 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
-
-### 📦 Stock changes (6)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Stairville Tri Flat PAR Profile Bundle](https://www.thomann.pl/stairville_tri_flat_par_profile_bundle.htm) | 1 099 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Fun Generation SePar Hex LED RGBAW UV Bundle](https://www.thomann.pl/fun_generation_separ_hex_led_rgbaw_uv_bundle.htm) | 1 019 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [ESP LTD EC-1000 FT Black Fluence](https://www.thomann.pl/esp_ltd_ec_01_ft_black_fluence.htm) | 4 899 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Höfner Verythin CT Deluxe Special SB](https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm) | 2 175 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
