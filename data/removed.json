@@ -51,10 +51,6 @@
   "price": 359.0,
   "removed_at": "2026-11-18T15:59Z"
  },
- "birddog_max_white_bundle.htm": {
-  "price": 12290.0,
-  "removed_at": "2026-11-24T15:59Z"
- },
  "black_swamp_percussion_lgtc2_tambourine.htm": {
   "price": 1045.0,
   "removed_at": "2026-11-17T15:59Z"
@@ -154,10 +150,6 @@
  "electro_harmonix_triangle_big_muff_fuzz.htm": {
   "price": 309.0,
   "removed_at": "2026-11-24T12:59Z"
- },
- "epiphone_1960_les_paul_special_dc_tvy.htm": {
-  "price": 3990.0,
-  "removed_at": "2026-11-25T04:00Z"
  },
  "epiphone_1963_firebird_i_silver_mist.htm": {
   "price": 3899.0,
@@ -431,6 +423,10 @@
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
  },
+ "m_audio_bx3.htm": {
+  "price": 309.0,
+  "removed_at": "2026-11-25T18:59Z"
+ },
  "mackie_thump_215.htm": {
   "price": 1325.0,
   "removed_at": "2026-11-24T06:59Z"
@@ -446,10 +442,6 @@
  "mapex_venus_5045_drum_set_bundle_vh.htm": {
   "price": 2599.0,
   "removed_at": "2026-11-21T09:59Z"
- },
- "marcus_miller_u7_4_sgm.htm": {
-  "price": 1739.0,
-  "removed_at": "2026-11-19T16:00Z"
  },
  "markbass_little_mark_tube_800.htm": {
   "price": 1899.0,
@@ -595,10 +587,6 @@
   "price": 10990.0,
   "removed_at": "2026-11-22T16:00Z"
  },
- "roland_tr_1000.htm": {
-  "price": 12290.0,
-  "removed_at": "2026-11-23T13:00Z"
- },
  "sandberg_california_central_5_pf_tsb.htm": {
   "price": 7799.0,
   "removed_at": "2026-11-23T00:59Z"
@@ -646,10 +634,6 @@
  "shure_slxd15_g59_643372.htm": {
   "price": 1745.0,
   "removed_at": "2026-11-19T12:59Z"
- },
- "shure_slxd25_sm58_g59.htm": {
-  "price": 1755.0,
-  "removed_at": "2026-11-24T00:59Z"
  },
  "solar_guitars_a1.7aan.htm": {
   "price": 5699.0,
@@ -699,9 +683,17 @@
   "price": 6999.0,
   "removed_at": "2026-11-23T22:00Z"
  },
+ "strymon_timeline_mx_multi_delay.htm": {
+  "price": 3298.0,
+  "removed_at": "2026-11-25T18:59Z"
+ },
  "suzuki_omnichord_om_108.htm": {
   "price": 2999.0,
   "removed_at": "2026-11-17T03:59Z"
+ },
+ "swiff_audio_a10r_clip_on_tuner.htm": {
+  "price": 48.0,
+  "removed_at": "2026-11-25T18:59Z"
  },
  "swiff_audio_ws_70_wireless_system_602955.htm": {
   "price": 131.0,
@@ -750,6 +742,10 @@
  "tone_city_holy_aura_distortion_boost.htm": {
   "price": 259.0,
   "removed_at": "2026-11-25T00:57Z"
+ },
+ "tone_king_imperial_tri_tube_preamp.htm": {
+  "price": 2399.0,
+  "removed_at": "2026-11-25T18:59Z"
  },
  "two_notes_revolt_guitar_preamp.htm": {
   "price": 879.0,
@@ -811,6 +807,10 @@
   "price": 2699.0,
   "removed_at": "2026-11-20T21:59Z"
  },
+ "yamaha_tag1_e_translucent_black.htm": {
+  "price": 2599.0,
+  "removed_at": "2026-11-25T18:59Z"
+ },
  "yamaha_tas3_c_natural.htm": {
   "price": 5899.0,
   "removed_at": "2026-11-24T19:00Z"
@@ -818,6 +818,10 @@
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "zoom_livetrak_l_6.htm": {
+  "price": 869.0,
+  "removed_at": "2026-11-25T18:59Z"
  },
  "zoom_v6_sp.htm": {
   "price": 879.0,
