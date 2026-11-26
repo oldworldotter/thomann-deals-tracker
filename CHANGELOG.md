@@ -2,6 +2,7 @@
 
 Newest first. One line per check that found changes.
 
+- **2026-11-26 19:59 CET**: ❌ 10 removed deals · 💸 1 price drops · 📈 89 price increases · 🏷️ 70 discount changes · 📦 5 stock changes → [details](changes/2026-11-26T1859Z.md)
 - **2026-11-26 17:00 CET**: 🆕 4 new deals · 🔁 5 returned deals · ❌ 12 removed deals · 📈 19 price increases · 🏷️ 6 discount changes · ✅ 21 back in stock · 📦 8 stock changes → [details](changes/2026-11-26T1600Z.md)
 - **2026-11-26 13:57 CET**: 🆕 9 new deals · ❌ 9 removed deals · ✅ 13 back in stock · 📦 3 stock changes → [details](changes/2026-11-26T1257Z.md)
 - **2026-11-26 11:00 CET**: 🆕 1 new deals · ❌ 3 removed deals · 📈 1 price increases · ✅ 16 back in stock · 📦 9 stock changes → [details](changes/2026-11-26T1000Z.md)
