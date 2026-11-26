@@ -3,66 +3,36 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-25 22:59 CET · **1835** deals tracked of 1835 advertised · checks every **3 h**
+**Last check:** 2026-11-26 02:00 CET · **1832** deals tracked of 1831 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 9 removed deals · 📈 88 price increases · 🏷️ 7 discount changes · 📦 5 stock changes → [full report](changes/2026-11-25T2159Z.md)
+❌ 2 removed deals · ✅ 5 back in stock · 📦 1 stock changes → [full report](changes/2026-11-26T0100Z.md)
 
-### ❌ Removed deals (9)
+### ❌ Removed deals (2)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Sela SEPCAB2 Cabasa 115 mm](https://www.thomann.pl/sela_sepcab2_cabasa_115_mm.htm) | 77 zł | ‑38% | 125 zł | Dostępny w magazynie |  |
-| [Schagerl James Morrison Trp. JM1-L](https://www.thomann.pl/schagerl_james_morrison_trp._jm1_l.htm) | 5 199 zł | ‑13% | 5 999 zł | Dostępny w magazynie |  |
-| [Epiphone Sheraton Natural](https://www.thomann.pl/epiphone_sheraton_natural.htm) | 2 666 zł |  |  | Dostępny w magazynie |  |
-| [Eurolite LED GF-100 Gobo Flower](https://www.thomann.pl/eurolite_led_gf_100_gobo_flower.htm) | 398 zł |  |  | Dostępny w magazynie |  |
-| [Gibson ES-335 50s VTB](https://www.thomann.pl/gibson_es_335_50s_vtb.htm) | 13 290 zł |  |  | Dostępny w magazynie |  |
-| [Höfner Shorty Bass White](https://www.thomann.pl/hoefner_shorty_bass_white.htm) | 655 zł |  |  | Dostępny w magazynie |  |
-| [Hohner Bravo III 96 silent key black](https://www.thomann.pl/hohner_bravo_iii_96_silent_key_467995.htm) | 7 899 zł |  |  | Dostępny w magazynie |  |
-| [Nux Metal Core Deluxe MKII](https://www.thomann.pl/nux_metal_core_deluxe_mkii.htm) | 259 zł |  |  | Dostępny w magazynie |  |
-| [Yamaha CG102 NT](https://www.thomann.pl/yamaha_cg102_nt.htm) | 899 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha HPH-MT5W](https://www.thomann.pl/yamaha_hph_mt5w.htm) | 431 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha Stage Custom Hip Shell Set NW](https://www.thomann.pl/yamaha_stage_custom_hip_shell_set_nw.htm) | 2 799 zł |  |  | Dostępny w magazynie |  |
 
-### 📈 Price increases (88)
-
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Aulos 302BS Elite Soprano Recorder](https://www.thomann.pl/aulos_302bs_elite_soprano_recorder.htm) | 30 zł | **31 zł** | +3.3% |  |  | Dostępny w magazynie |
-| [Hils HZB4 SBK](https://www.thomann.pl/hils_hzb4_sbk.htm) | 1 899 zł | **1 959 zł** | +3.2% |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |
-| [Hils Next HN5 Ivory](https://www.thomann.pl/hils_next_hn5_ivory.htm) | 1 899 zł | **1 959 zł** | +3.2% |  |  | Dostępny w magazynie |
-| [Daddario XSAPB1047-3P](https://www.thomann.pl/daddario_xsapb1047_3p.htm) | 189 zł | **195 zł** | +3.2% |  |  | Dostępny w magazynie |
-| [Gretsch STRML JET CLB AGD WHT](https://www.thomann.pl/gretsch_strml_jet_clb_agd_wht.htm) | 1 499 zł | **1 545 zł** | +3.1% |  |  | Dostępny w magazynie |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 499 zł | **1 545 zł** | +3.1% |  |  | Dostępny w magazynie |
-| [Martin Guitar 000-X2E LH](https://www.thomann.pl/martin_guitars_000_x2e_lh.htm) | 2 999 zł | **3 090 zł** | +3.0% |  |  | Dostępny w magazynie |
-| [Steinberg SpectraLayers Pro 13](https://www.thomann.pl/steinberg_spectralayers_pro_13.htm) | 666 zł | **685 zł** | +2.9% |  |  | Pobierz licencję |
-| [Slingerland 14"x6.5" Radio King Snare WMP](https://www.thomann.pl/slingerland_14x65_radio_king_snare_wmp.htm) | 3 599 zł | **3 699 zł** | +2.8% |  |  | Dostępny w magazynie |
-| [Sterling StingRay RAY34HH Charc Frost](https://www.thomann.pl/sterling_by_music_man_stingray_ray34hh_charc_frost.htm) | 4 222 zł | **4 333 zł** | +2.6% |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |
-
-…and 78 more in the full report.
-
-### 🏷️ Discount changes (7)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Laserworld CS-6000 micro](https://www.thomann.pl/laserworld_cs_6000_micro.htm) | 3 399 zł | -13% | **none** |
-| [Antelope Zenith 2](https://www.thomann.pl/antelope_zenith_2.htm) | 1 099 zł | -13% | **-14%** |
-| [BetterSax Classic Alto Saxophone](https://www.thomann.pl/bettersax_alto_saxophone.htm) | 2 899 zł | -24% | **-25%** |
-| [Schlagwerk CP2SONE SPL Birch Flame](https://www.thomann.pl/schlagwerk_cp2sone_spl_birch_flame.htm) | 748 zł | -26% | **none** |
-| [Gibson J-45 Standard VS 2026](https://www.thomann.pl/gibson_j_45_standard_vs_2026.htm) | 12 390 zł | -7% | **none** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 545 zł | -12% | **none** |
-| [iZotope Ozone 12 Advanced](https://www.thomann.pl/izotope_ozone_12_advanced.htm) | 1 444 zł | -28% | **-30%** |
-
-### 📦 Stock changes (5)
+### ✅ Back in stock (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Hils HZB4 SBK](https://www.thomann.pl/hils_hzb4_sbk.htm) | 1 959 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Hils Next HN4 Black](https://www.thomann.pl/hils_next_hn4_black.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Höfner Club Bass Ignition SE Sunburst](https://www.thomann.pl/hoefner_club_bass_ignition_se_sunburst.htm) | 1 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [MA Lighting grandMA3 onPC C+F Wing Bundle](https://www.thomann.pl/ma_lighting_grandma3_onpc_cf_wing_bundle.htm) | 45 590 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [LD Systems ANNY 8 Grey](https://www.thomann.pl/ld_systems_anny_8_grey.htm) | 1 899 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [PRS DGT 15 Head](https://www.thomann.pl/prs_dgt_15_head.htm) | 3 090 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Yamaha P-225 WH](https://www.thomann.pl/yamaha_p_225_wh.htm) | 2 199 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [LD Systems Maui 28 G3 MIX W](https://www.thomann.pl/ld_systems_maui_28_g3_mix_w.htm) | 6 999 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+
+### 📦 Stock changes (1)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

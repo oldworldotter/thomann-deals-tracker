@@ -6463,9 +6463,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "erica_synths_steampipe.htm",
   "last_change": "2026-11-25T09:59Z",
+  "last_seen": "2026-11-25T21:59Z",
   "max_price": 3999.0,
   "min_price": 3999.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Erica Synths Steampipe",
   "price": 3999.0,
   "ref_price": 4899.0,
@@ -12524,7 +12525,7 @@
   "discount": 16,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_gold_top.htm",
-  "last_change": "2026-11-25T18:59Z",
+  "last_change": "2026-11-26T01:00Z",
   "max_price": 1090.0,
   "min_price": 1090.0,
   "missing_runs": 0,
@@ -12535,8 +12536,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm"
  },
  "harley_benton_sc_custom_iii_quilt_midnight.htm": {
@@ -17526,9 +17527,10 @@
   "first_seen": "2026-11-25T18:59Z",
   "id": "lauten_audio_clarion_fc_357.htm",
   "last_change": "2026-11-25T18:59Z",
+  "last_seen": "2026-11-25T21:59Z",
   "max_price": 4222.0,
   "min_price": 4222.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Lauten Audio Clarion FC-357",
   "price": 4222.0,
   "ref_price": 5199.0,
@@ -17565,7 +17567,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_anny_8_grey.htm",
-  "last_change": "2026-11-20T13:00Z",
+  "last_change": "2026-11-26T01:00Z",
   "max_price": 1899.0,
   "min_price": 1899.0,
   "missing_runs": 0,
@@ -17576,8 +17578,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ld_systems_anny_8_grey.htm"
  },
  "ld_systems_anny_8_white.htm": {
@@ -17805,7 +17807,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_maui_28_g3_mix_w.htm",
-  "last_change": "2026-11-23T18:59Z",
+  "last_change": "2026-11-26T01:00Z",
   "max_price": 6999.0,
   "min_price": 6899.0,
   "missing_runs": 0,
@@ -17816,8 +17818,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ld_systems_maui_28_g3_mix_w.htm"
  },
  "ld_systems_maui_28_g3_white.htm": {
@@ -18705,7 +18707,7 @@
   "discount": null,
   "first_seen": "2026-11-18T18:17Z",
   "id": "ma_lighting_grandma3_onpc_cf_wing_bundle.htm",
-  "last_change": "2026-11-25T18:59Z",
+  "last_change": "2026-11-26T01:00Z",
   "max_price": 45590.0,
   "min_price": 44990.0,
   "missing_runs": 0,
@@ -18716,8 +18718,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ma_lighting_grandma3_onpc_cf_wing_bundle.htm"
  },
  "ma_lighting_grandma3_onpc_com_wing_bundle.htm": {
@@ -20078,7 +20080,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 6–8 tygodnie",
+  "stock": "Dostępny za 5–7 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/midas_legend_l10.htm"
  },
@@ -20098,7 +20100,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 10–13 tygodnie",
+  "stock": "Dostępny za 9–12 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/midas_m_32_live.htm"
  },
@@ -23652,7 +23654,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "prs_dgt_15_head.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-26T01:00Z",
   "max_price": 3090.0,
   "min_price": 3055.0,
   "missing_runs": 0,
@@ -23663,8 +23665,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/prs_dgt_15_head.htm"
  },
  "prs_fiore_hh_amaryllis.htm": {
@@ -26840,9 +26842,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "soma_warp.htm",
   "last_change": "2026-11-25T18:59Z",
+  "last_seen": "2026-11-25T21:59Z",
   "max_price": 2290.0,
   "min_price": 2290.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "SOMA Warp",
   "price": 2290.0,
   "ref_price": 2955.0,
@@ -35356,27 +35359,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_genos_2_speaker_bundle.htm"
  },
- "yamaha_hph_mt5w.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "yamaha_hph_mt5w.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-25T18:59Z",
-  "max_price": 431.0,
-  "min_price": 425.0,
-  "missing_runs": 1,
-  "name": "Yamaha HPH-MT5W",
-  "price": 431.0,
-  "ref_price": null,
-  "reported_price": 431.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/yamaha_hph_mt5w.htm"
- },
  "yamaha_hph_mt8.htm": {
   "badge": "",
   "discount": null,
@@ -35563,7 +35545,7 @@
   "discount": 12,
   "first_seen": "2026-11-18T21:59Z",
   "id": "yamaha_p_225_wh.htm",
-  "last_change": "2026-11-25T13:00Z",
+  "last_change": "2026-11-26T01:00Z",
   "max_price": 2199.0,
   "min_price": 2199.0,
   "missing_runs": 0,
@@ -35574,8 +35556,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_p_225_wh.htm"
  },
  "yamaha_p_45_b.htm": {
@@ -35899,27 +35881,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_seqtrak_orange.htm"
- },
- "yamaha_stage_custom_hip_shell_set_nw.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "yamaha_stage_custom_hip_shell_set_nw.htm",
-  "last_change": "2026-11-25T18:59Z",
-  "last_seen": "2026-11-25T18:59Z",
-  "max_price": 2799.0,
-  "min_price": 2790.0,
-  "missing_runs": 1,
-  "name": "Yamaha Stage Custom Hip Shell Set NW",
-  "price": 2799.0,
-  "ref_price": null,
-  "reported_price": 2790.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/yamaha_stage_custom_hip_shell_set_nw.htm"
  },
  "yamaha_stagepas_400bt.htm": {
   "badge": "GIVEAWAY",
