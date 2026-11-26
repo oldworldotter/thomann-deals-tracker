@@ -2,19 +2,22 @@
  "last_result": {
   "baseline": false,
   "counts": {
-   "added": 9,
-   "back_in_stock": 13,
-   "removed": 9,
-   "stock": 3
+   "added": 4,
+   "back_in_stock": 21,
+   "discount": 6,
+   "price_up": 19,
+   "removed": 12,
+   "returned": 5,
+   "stock": 8
   },
   "deals": 1832,
-  "expected": 1831,
+  "expected": 1830,
   "pages": 94,
   "partial": false,
-  "ts": "2026-11-26T12:57Z"
+  "ts": "2026-11-26T16:00Z"
  },
- "last_run": "2026-11-26T12:57:49+00:00",
- "last_scheduled_run": "2026-11-26T12:57:49+00:00",
+ "last_run": "2026-11-26T16:00:11+00:00",
+ "last_scheduled_run": "2026-11-26T16:00:11+00:00",
  "parser_version": 2,
- "runs": 87
+ "runs": 88
 }
