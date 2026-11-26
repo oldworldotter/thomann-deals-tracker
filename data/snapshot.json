@@ -1521,6 +1521,7 @@
   "ref_price": 1275.0,
   "reported_price": 1099.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -4581,7 +4582,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xsapb1152_3p.htm",
-  "last_change": "2026-11-25T18:59Z",
+  "last_change": "2026-11-26T07:00Z",
   "max_price": 198.0,
   "min_price": 195.0,
   "missing_runs": 0,
@@ -4592,8 +4593,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xsapb1152_3p.htm"
  },
  "daddario_xsapb1253_3p.htm": {
@@ -4601,7 +4602,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "daddario_xsapb1253_3p.htm",
-  "last_change": "2026-11-20T16:00Z",
+  "last_change": "2026-11-26T07:00Z",
   "max_price": 198.0,
   "min_price": 198.0,
   "missing_runs": 0,
@@ -4612,8 +4613,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xsapb1253_3p.htm"
  },
  "daddario_xsapb1356_3p.htm": {
@@ -4652,7 +4653,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xse0942_3p.htm"
  },
@@ -4692,7 +4693,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/daddario_xse1052_3p.htm"
  },
@@ -5202,9 +5203,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "digitech_dod_badder_monkey.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-26T03:59Z",
   "max_price": 488.0,
   "min_price": 485.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Digitech DOD Badder Monkey",
   "price": 488.0,
   "ref_price": null,
@@ -8951,6 +8953,7 @@
   "ref_price": null,
   "reported_price": 1190.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -8971,6 +8974,7 @@
   "ref_price": null,
   "reported_price": 2190.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -8991,6 +8995,7 @@
   "ref_price": null,
   "reported_price": 1655.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -9053,6 +9058,7 @@
   "ref_price": 1222.0,
   "reported_price": 999.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -9113,6 +9119,7 @@
   "ref_price": 195.0,
   "reported_price": 169.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -9153,6 +9160,7 @@
   "ref_price": null,
   "reported_price": 258.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -12384,7 +12392,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_rb_414cs_classic_series.htm",
-  "last_change": "2026-11-25T13:00Z",
+  "last_change": "2026-11-26T07:00Z",
   "max_price": 875.0,
   "min_price": 869.0,
   "missing_runs": 0,
@@ -12395,8 +12403,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm"
  },
  "harley_benton_rg_junior_bk_bundle_2.htm": {
@@ -12458,27 +12466,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_rg_junior_w_soran_tiny_stomp.htm"
- },
- "harley_benton_s_620_w_soran_dual_lite.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "harley_benton_s_620_w_soran_dual_lite.htm",
-  "last_change": "2026-11-24T15:59Z",
-  "last_seen": "2026-11-26T01:00Z",
-  "max_price": 1050.0,
-  "min_price": 1045.0,
-  "missing_runs": 1,
-  "name": "Harley Benton S-620 w/Soran Dual Lite",
-  "price": 1050.0,
-  "ref_price": null,
-  "reported_price": 1045.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny za 2–3 tygodnie",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/harley_benton_s_620_w_soran_dual_lite.htm"
  },
  "harley_benton_sc_200_bk_student_serie_bundle.htm": {
   "badge": "",
@@ -18702,7 +18689,7 @@
   "url": "https://www.thomann.pl/m_audio_keystation_49_mk3.htm"
  },
  "m_audio_m_track_duo.htm": {
-  "badge": "",
+  "badge": "Deal",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "m_audio_m_track_duo.htm",
@@ -18715,6 +18702,7 @@
   "ref_price": null,
   "reported_price": 198.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -20224,7 +20212,7 @@
   "url": "https://www.thomann.pl/midas_m_32_live.htm"
  },
  "midas_mr_18.htm": {
-  "badge": "GIVEAWAY",
+  "badge": "Deal",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "midas_mr_18.htm",
@@ -20237,7 +20225,7 @@
   "ref_price": null,
   "reported_price": 2990.0,
   "sections": [
-   "Przegląd wszystkich ofert"
+   "Polecane specjalnie dla Ciebie"
   ],
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
@@ -23602,6 +23590,7 @@
   "ref_price": null,
   "reported_price": 1190.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -23994,9 +23983,10 @@
   "first_seen": "2026-11-17T03:59Z",
   "id": "prs_se_custom_24_s_h_ca_2025.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-26T03:59Z",
   "max_price": 3990.0,
   "min_price": 3899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "PRS SE Custom 24 S/H CA 2025",
   "price": 3990.0,
   "ref_price": null,
@@ -25627,7 +25617,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sela_sepcab1_cabasa_60_mm.htm"
  },
@@ -26429,6 +26419,7 @@
   "ref_price": 622.0,
   "reported_price": 525.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -36541,27 +36532,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_ydp_s36_wh_arius_set.htm"
  },
- "yamaha_ydp_s36_wh_set.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-19T03:59Z",
-  "id": "yamaha_ydp_s36_wh_set.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-26T01:00Z",
-  "max_price": 3999.0,
-  "min_price": 3999.0,
-  "missing_runs": 1,
-  "name": "Yamaha YDP-S36 WH Arius Set",
-  "price": 3999.0,
-  "ref_price": null,
-  "reported_price": 3999.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/yamaha_ydp_s36_wh_set.htm"
- },
  "yamaha_ydp_s55_b_arius.htm": {
   "badge": "",
   "discount": null,
@@ -36896,6 +36866,7 @@
   "ref_price": null,
   "reported_price": 3090.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -36908,9 +36879,10 @@
   "first_seen": "2026-11-26T03:59Z",
   "id": "zoom_livetrak_l_6.htm",
   "last_change": "2026-11-26T03:59Z",
+  "last_seen": "2026-11-26T03:59Z",
   "max_price": 869.0,
   "min_price": 869.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Zoom LiveTrak L-6",
   "price": 869.0,
   "ref_price": null,

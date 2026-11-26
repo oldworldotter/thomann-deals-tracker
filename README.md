@@ -3,54 +3,33 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-26 04:59 CET · **1847** deals tracked of 1846 advertised · checks every **3 h**
+**Last check:** 2026-11-26 08:00 CET · **1844** deals tracked of 1842 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 5 new deals · 🔁 12 returned deals · ❌ 3 removed deals · ✅ 1 back in stock → [full report](changes/2026-11-26T0359Z.md)
+❌ 2 removed deals · ✅ 2 back in stock · 📦 1 stock changes → [full report](changes/2026-11-26T0700Z.md)
 
-### 🆕 New deals (5)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Kala KA-S Satin Mahogany Soprano](https://www.thomann.pl/kala_ka_s_satin_mahogany_soprano.htm) | 215 zł | ‑58% | 515 zł | Dostępny w magazynie |  |
-| [Blackstar Carry On Digital Flute, black](https://www.thomann.pl/blackstar_carry_on_digital_flute_black.htm) | 173 zł | ‑56% | 389 zł | Dostępny w magazynie |  |
-| [One Control Blackberry Bass OD Overdrive](https://www.thomann.pl/one_control_blackberry_bass_od_overdrive.htm) | 435 zł | ‑56% | 999 zł | Dostępny w magazynie |  |
-| [Aquarian 22" Super Kick Clear Bass Set](https://www.thomann.pl/aquarian_22_super_kick_clear_bass_set.htm) | 259 zł | ‑52% | 539 zł | Dostępny w magazynie |  |
-| [Yamaha YDP-S36 WH Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wh_arius_set.htm) | 3 999 zł |  |  | Dostępny w magazynie |  |
-
-### 🔁 Returned deals (12)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Eurolite LED Z-20](https://www.thomann.pl/eurolite_led_z_20.htm) | **173 zł** | 173 zł | ‑52% | 363 zł | Dostępny w magazynie | 2026‑11‑21 16:59 |
-| [Citadel Bus Driver](https://www.thomann.pl/citadel_bus_driver.htm) | **389 zł** | 389 zł | ‑44% | 689 zł | Dostępny w magazynie | 2026‑11‑18 19:17 |
-| [Tone City Holy Aura - Distortion / Boost](https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm) | **259 zł** | 259 zł | ‑40% | 432 zł | Dostępny w magazynie | 2026‑11‑25 01:57 |
-| [Cort X-700 Triality OP VB](https://www.thomann.pl/cort_x_700_triality_op_vb.htm) | **3 499 zł** | 3 490 zł | ‑38% | 5 599 zł | Dostępny w magazynie | 2026‑11‑17 13:59 |
-| [Hils Next HN4 Summer Sand](https://www.thomann.pl/hils_next_hn4_summer_sand.htm) | **1 599 zł** | 1 599 zł | ‑35% | 2 444 zł | Dostępny w magazynie | 2026‑11‑20 01:46 |
-| [Recording King RM-995E-BN](https://www.thomann.pl/recording_king_rm_995e_bn.htm) | **2 899 zł** | 2 899 zł | ‑25% | 3 890 zł | Dostępny w magazynie | 2026‑11‑17 19:59 |
-| [Strandberg Boden Standard N2.6T Fuchsia](https://www.thomann.pl/strandberg_boden_standard_n26t_fuchsia.htm) | **7 099 zł** | 6 999 zł | ‑18% | 8 699 zł | Dostępny w magazynie | 2026‑11‑23 23:00 |
-| [Zoom LiveTrak L-6](https://www.thomann.pl/zoom_livetrak_l_6.htm) | **869 zł** | 869 zł |  |  | Dostępny w magazynie | 2026‑11‑25 19:59 |
-| [Takamine EF341SC w/Softcase](https://www.thomann.pl/takamine_ef341sc_w_softcase.htm) | **5 699 zł** | 4 799 zł |  |  | dostępny w magazynie | 2026‑11‑24 13:59 |
-| [Walrus Audio Canvas Rehearsal](https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm) | **744 zł** | 744 zł |  |  | Dostępny w magazynie | 2026‑11‑23 01:59 |
-
-…and 2 more in the full report.
-
-### ❌ Removed deals (3)
+### ❌ Removed deals (2)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [SOMA Warp](https://www.thomann.pl/soma_warp.htm) | 2 290 zł | ‑23% | 2 955 zł | Dostępny w magazynie |  |
-| [Lauten Audio Clarion FC-357](https://www.thomann.pl/lauten_audio_clarion_fc_357.htm) | 4 222 zł | ‑19% | 5 199 zł | Dostępny w magazynie |  |
-| [Erica Synths Steampipe](https://www.thomann.pl/erica_synths_steampipe.htm) | 3 999 zł | ‑18% | 4 899 zł | Dostępny w magazynie |  |
+| [Harley Benton S-620 w/Soran Dual Lite](https://www.thomann.pl/harley_benton_s_620_w_soran_dual_lite.htm) | 1 050 zł |  |  | Dostępny za 2–3 tygodnie |  |
+| [Yamaha YDP-S36 WH Arius Set](https://www.thomann.pl/yamaha_ydp_s36_wh_set.htm) | 3 999 zł |  |  | Dostępny w magazynie |  |
 
-### ✅ Back in stock (1)
+### ✅ Back in stock (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [NANO Modules ONA](https://www.thomann.pl/nano_modules_ona.htm) | 549 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **dostępny w magazynie** |
+| [Daddario XSAPB1253-3P](https://www.thomann.pl/daddario_xsapb1253_3p.htm) | 198 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Daddario XSAPB1152-3P](https://www.thomann.pl/daddario_xsapb1152_3p.htm) | 198 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (1)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
