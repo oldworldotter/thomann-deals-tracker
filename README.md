@@ -3,64 +3,66 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-26 11:00 CET · **1835** deals tracked of 1835 advertised · checks every **3 h**
+**Last check:** 2026-11-26 13:57 CET · **1832** deals tracked of 1831 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 1 new deals · ❌ 3 removed deals · 📈 1 price increases · ✅ 16 back in stock · 📦 9 stock changes → [full report](changes/2026-11-26T1000Z.md)
+🆕 9 new deals · ❌ 9 removed deals · ✅ 13 back in stock · 📦 3 stock changes → [full report](changes/2026-11-26T1257Z.md)
 
-### 🆕 New deals (1)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Amaran Go Charcoal](https://www.thomann.pl/amaran_go_charcoal.htm) | 106 zł | ‑28% | 147 zł | Dostępny w magazynie |  |
-
-### ❌ Removed deals (3)
+### 🆕 New deals (9)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Digitech DOD Badder Monkey](https://www.thomann.pl/digitech_dod_badder_monkey.htm) | 488 zł |  |  | Dostępny w magazynie |  |
-| [PRS SE Custom 24 S/H CA 2025](https://www.thomann.pl/prs_se_custom_24_s_h_ca_2025.htm) | 3 990 zł |  |  | Dostępny za 1–2 tygodnie | GIVEAWAY |
-| [Zoom LiveTrak L-6](https://www.thomann.pl/zoom_livetrak_l_6.htm) | 869 zł |  |  | Dostępny w magazynie |  |
+| [Supro Airwave](https://www.thomann.pl/supro_airwave.htm) | 2 599 zł | ‑56% | 5 899 zł | dostępny w magazynie |  |
+| [Martin Guitar OM42](https://www.thomann.pl/martin_guitars_om42_605635.htm) | 26 590 zł | ‑24% | 34 790 zł | Dostępny w magazynie |  |
+| [Martin Guitar HD1228 LH](https://www.thomann.pl/martin_guitar_hd1228_lh.htm) | 15 890 zł | ‑22% | 20 290 zł | Dostępny w magazynie |  |
+| [Martin Guitar 00028 Sunburst LH](https://www.thomann.pl/martin_guitars_00028_sunburst_lh.htm) | 16 290 zł | ‑20% | 20 490 zł | Dostępny w magazynie |  |
+| [Martin Guitar D-18E Modern Deluxe](https://www.thomann.pl/martin_guitars_d18e_modern_deluxe.htm) | 18 990 zł | ‑18% | 23 090 zł | Dostępny w magazynie |  |
+| [Gibson LG-2 Faded Natural](https://www.thomann.pl/gibson_lg_2_faded_natural.htm) | 6 699 zł | ‑17% | 8 099 zł | Dostępny w magazynie |  |
+| [Martin Guitar OMJM John Mayer Lefthand](https://www.thomann.pl/martin_guitars_omjm_john_mayer_lefthand.htm) | 15 890 zł | ‑13% | 18 290 zł | Dostępny w magazynie |  |
+| [Gibson J-45 Studio Rosewood AN](https://www.thomann.pl/gibson_j_45_rw_modern_2019_an.htm) | 8 899 zł | ‑6% | 9 444 zł | Dostępny w magazynie |  |
+| [Stairville SonicPulse MH Wash 1208](https://www.thomann.pl/stairville_sonicpulse_mh_wash_1208.htm) | 845 zł |  |  | Dostępny w magazynie | GIVEAWAY |
 
-### 📈 Price increases (1)
+### ❌ Removed deals (9)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Bose S1 Pro Plus](https://www.thomann.pl/bose_s1_pro_566835.htm) | 2 899 zł | **2 999 zł** | +3.4% |  |  | Dostępny w magazynie |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Eurolite LED Z-20](https://www.thomann.pl/eurolite_led_z_20.htm) | 173 zł | ‑52% | 363 zł | Dostępny w magazynie |  |
+| [Zultan Aja Blaze Cymbal Set](https://www.thomann.pl/zultan_aja_blaze_cymbal_set.htm) | 1 299 zł | ‑13% | 1 499 zł | Dostępny w magazynie |  |
+| [Furch Blue Plus D-SW a](https://www.thomann.pl/furch_blue_plus_d_sw.htm) | 4 999 zł | ‑12% | 5 666 zł | Dostępny w magazynie |  |
+| [Ape Labs ApeLight Maxi V2 VV TP 6 SB G](https://www.thomann.pl/ape_labs_apelight_maxi_v2_vv_tp_6_sb_g.htm) | 7 399 zł |  |  | Dostępny w magazynie | GIVEAWAY |
+| [Martin Guitar D35 Sunburst](https://www.thomann.pl/martin_guitar_d35_sunburst.htm) | 16 290 zł |  |  | Dostępny w magazynie |  |
+| [Midas MR 18](https://www.thomann.pl/midas_mr_18.htm) | 2 999 zł |  |  | Dostępny w magazynie | Deal |
+| [Origin Effects Cali76 V2 Bass Compressor BK](https://www.thomann.pl/origin_effects_cali76_v2_bass_compressor_bk.htm) | 1 399 zł |  |  | Dostępny w magazynie |  |
+| [Shure SLXD25/SM58 G59](https://www.thomann.pl/shure_slxd25_sm58_g59.htm) | 1 755 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha EZ-310](https://www.thomann.pl/yamaha_ez_310.htm) | 722 zł |  |  | Dostępny w magazynie |  |
 
-### ✅ Back in stock (16)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Alfred Stingl by Höfner AS185 V1/4 Violin Set A.S.](https://www.thomann.pl/alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm) | 438 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Recording King RFM-3-BK Mandoline](https://www.thomann.pl/recording_king_rfm_3_bk_mandoline.htm) | 659 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Terre Shaman Drum Goat Skin Shorn 50](https://www.thomann.pl/terre_schamanentrommel_50cm.htm) | 261 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Alfred Stingl by Höfner AS160 V1/4 Violinset](https://www.thomann.pl/alfred_stingl_violinset_as_160_v_14.htm) | 525 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Varytec LED Profile Mini IP65 5600K wh](https://www.thomann.pl/varytec_led_profile_mini_ip65_5600k_wh.htm) | 485 zł | Dostępny za 10–13 tygodnie | **Dostępny w magazynie** |
-| [Terre Shaman Drum Goat Skin 50cm](https://www.thomann.pl/terre_shaman_drum_goat_skin.htm) | 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton TE-20HH LH w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_te_20hh_lh_w_soran_dual_stomp.htm) | 699 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Terre Djembe Carved Dragon 40cm](https://www.thomann.pl/terre_djembe_carved_dragon_40cm.htm) | 172 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Terre Djembe Carved Dragon 60cm](https://www.thomann.pl/terre_djembe_carved_dragon_60cm.htm) | 419 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Terre Shaman Drum Goat Tree Shorn 50](https://www.thomann.pl/terre_shaman_drum_goat_tree_shorn_50.htm) | 349 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-…and 6 more in the full report.
-
-### 📦 Stock changes (9)
+### ✅ Back in stock (13)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Recording King RM-995E-BN](https://www.thomann.pl/recording_king_rm_995e_bn.htm) | 2 899 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 545 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-400GT w/Marshall MG15G](https://www.thomann.pl/harley_benton_sc_400gt_w_marshall_mg15g.htm) | 1 079 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton R-458MN LH WH](https://www.thomann.pl/harley_benton_r_458mn_lh_wh.htm) | 699 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Block And Block OMEGA-30 Fork Lift 220k Bundle](https://www.thomann.pl/block_and_block_omega_30_fork_lift_220k_bundle.htm) | 16 690 zł | Dostępny w magazynie | **Dostępny za 8–10 tygodnie** |
-| [Harley Benton HBZ-2004 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2004.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ludwig LAS15FP Atlas Standard Pedal](https://www.thomann.pl/ludwig_las15fp_atlas_standard_pedal.htm) | 333 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Ludwig 13"x06" Supralite](https://www.thomann.pl/ludwig_13_x06_supralite.htm) | 879 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Ludwig 13"x07" Universal Brass Chrome](https://www.thomann.pl/ludwig_13_x07_universal_brass_chrome.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 738 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Kala KA C RW Mahogany Concert](https://www.thomann.pl/kala_ka_c_rw_mahogany_concert.htm) | 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Recording King RM-995E-BN](https://www.thomann.pl/recording_king_rm_995e_bn.htm) | 2 899 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 666 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-Modern Plus MN HSS LH SBK](https://www.thomann.pl/harley_benton_st_modern_plus_mn_hss_lh_sbk.htm) | 1 299 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Ludwig NeuSonic Fab 3pc Blue Sparkle](https://www.thomann.pl/ludwig_neusonic_fab_3pc_blue_sparkle.htm) | 9 699 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+…and 3 more in the full report.
+
+### 📦 Stock changes (3)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Marcus Miller V5 Alder-4 CGM](https://www.thomann.pl/marcus_miller_v5_alder_4_cgm.htm) | 1 766 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 655 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-Modern MN HSS FBB](https://www.thomann.pl/harley_benton_st_modern_mn_hss_fbb.htm) | 744 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
 
 <!-- DASHBOARD:END -->
 
