@@ -79,10 +79,6 @@
   "price": 299.0,
   "removed_at": "2026-11-17T09:59Z"
  },
- "citadel_bus_driver.htm": {
-  "price": 389.0,
-  "removed_at": "2026-11-18T18:17Z"
- },
  "cort_cm15_r_dark_blue.htm": {
   "price": 299.0,
   "removed_at": "2026-11-17T12:59Z"
@@ -94,10 +90,6 @@
  "cort_mr500e_open_pore_brown.htm": {
   "price": 869.0,
   "removed_at": "2026-11-16T19:34Z"
- },
- "cort_x_700_triality_op_vb.htm": {
-  "price": 3490.0,
-  "removed_at": "2026-11-17T12:59Z"
  },
  "dacarbo_unica_silver_bb_trumpet.htm": {
   "price": 13190.0,
@@ -179,6 +171,10 @@
   "price": 1790.0,
   "removed_at": "2026-11-24T12:59Z"
  },
+ "erica_synths_steampipe.htm": {
+  "price": 3999.0,
+  "removed_at": "2026-11-26T03:59Z"
+ },
  "esp_e_ii_m_ii_hst_p_msfmg.htm": {
   "price": 10555.0,
   "removed_at": "2026-11-24T12:59Z"
@@ -210,10 +206,6 @@
  "eurolite_led_gf_100_gobo_flower.htm": {
   "price": 398.0,
   "removed_at": "2026-11-25T21:59Z"
- },
- "eurolite_led_z_20.htm": {
-  "price": 173.0,
-  "removed_at": "2026-11-21T15:59Z"
  },
  "eve_audio_sc204.htm": {
   "price": 1045.0,
@@ -347,10 +339,6 @@
   "price": 1444.0,
   "removed_at": "2026-11-17T15:59Z"
  },
- "hils_next_hn4_summer_sand.htm": {
-  "price": 1599.0,
-  "removed_at": "2026-11-20T00:46Z"
- },
  "hils_next_hn5_met._emerald_green.htm": {
   "price": 1599.0,
   "removed_at": "2026-11-18T15:59Z"
@@ -395,10 +383,6 @@
   "price": 171.0,
   "removed_at": "2026-11-23T00:59Z"
  },
- "kala_ukadelic_soprano_uku_bl.htm": {
-  "price": 88.0,
-  "removed_at": "2026-11-25T00:57Z"
- },
  "lakland_skyline_44_01_deluxe_4_nat.htm": {
   "price": 3490.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -438,6 +422,10 @@
  "laserworld_cube_7_bundle.htm": {
   "price": 9999.0,
   "removed_at": "2026-11-19T16:00Z"
+ },
+ "lauten_audio_clarion_fc_357.htm": {
+  "price": 4222.0,
+  "removed_at": "2026-11-26T03:59Z"
  },
  "litecraft_beamx.12.htm": {
   "price": 1299.0,
@@ -599,10 +587,6 @@
   "price": 2899.0,
   "removed_at": "2026-11-18T18:17Z"
  },
- "recording_king_rm_995e_bn.htm": {
-  "price": 2899.0,
-  "removed_at": "2026-11-17T18:59Z"
- },
  "recording_king_ros_7_ts.htm": {
   "price": 433.0,
   "removed_at": "2026-11-19T16:00Z"
@@ -687,6 +671,10 @@
   "price": 4899.0,
   "removed_at": "2026-11-24T03:59Z"
  },
+ "soma_warp.htm": {
+  "price": 2290.0,
+  "removed_at": "2026-11-26T03:59Z"
+ },
  "sonor_13_x07_kompressor_snare_beech.htm": {
   "price": 1322.0,
   "removed_at": "2026-11-17T01:00Z"
@@ -711,10 +699,6 @@
   "price": 7499.0,
   "removed_at": "2026-11-18T12:59Z"
  },
- "strandberg_boden_standard_n26t_fuchsia.htm": {
-  "price": 6999.0,
-  "removed_at": "2026-11-23T22:00Z"
- },
  "strymon_timeline_mx_multi_delay.htm": {
   "price": 3298.0,
   "removed_at": "2026-11-25T18:59Z"
@@ -730,10 +714,6 @@
  "swiff_audio_ws_70_wireless_system_602955.htm": {
   "price": 131.0,
   "removed_at": "2026-11-24T00:59Z"
- },
- "takamine_ef341sc_w_softcase.htm": {
-  "price": 4799.0,
-  "removed_at": "2026-11-24T12:59Z"
  },
  "takamine_gc1ce_nat.htm": {
   "price": 1269.0,
@@ -771,10 +751,6 @@
   "price": 247.0,
   "removed_at": "2026-11-24T00:59Z"
  },
- "tone_city_holy_aura_distortion_boost.htm": {
-  "price": 259.0,
-  "removed_at": "2026-11-25T00:57Z"
- },
  "tone_king_imperial_tri_tube_preamp.htm": {
   "price": 2399.0,
   "removed_at": "2026-11-25T18:59Z"
@@ -794,10 +770,6 @@
  "varytec_led_pad_7_7x10w_5in1_rgbwa.htm": {
   "price": 389.0,
   "removed_at": "2026-11-20T21:59Z"
- },
- "walrus_audio_canvas_rehearsal.htm": {
-  "price": 744.0,
-  "removed_at": "2026-11-23T00:59Z"
  },
  "walrus_audio_sloe_multi_texture_reverb.htm": {
   "price": 777.0,
@@ -831,10 +803,6 @@
   "price": 899.0,
   "removed_at": "2026-11-25T21:59Z"
  },
- "yamaha_ez_310.htm": {
-  "price": 722.0,
-  "removed_at": "2026-11-24T22:00Z"
- },
  "yamaha_hph_mt5w.htm": {
   "price": 431.0,
   "removed_at": "2026-11-26T01:00Z"
@@ -862,10 +830,6 @@
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,
   "removed_at": "2026-11-18T00:59Z"
- },
- "zoom_livetrak_l_6.htm": {
-  "price": 869.0,
-  "removed_at": "2026-11-25T18:59Z"
  },
  "zoom_v6_sp.htm": {
   "price": 879.0,
