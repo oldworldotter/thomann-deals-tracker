@@ -111,6 +111,10 @@
   "price": 3699.0,
   "removed_at": "2026-11-20T06:59Z"
  },
+ "dangelico_excel_exl1_dark_iced_tea_burst.htm": {
+  "price": 3699.0,
+  "removed_at": "2026-11-27T00:59Z"
+ },
  "dangelico_excel_style_b_amber.htm": {
   "price": 3699.0,
   "removed_at": "2026-11-19T12:59Z"
@@ -250,6 +254,10 @@
  "focal_alpha_65_evo.htm": {
   "price": 1433.0,
   "removed_at": "2026-11-26T16:00Z"
+ },
+ "focal_alpha_80_evo.htm": {
+  "price": 1329.0,
+  "removed_at": "2026-11-27T00:59Z"
  },
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
@@ -511,6 +519,10 @@
   "price": 2175.0,
   "removed_at": "2026-11-24T19:00Z"
  },
+ "mapex_13_x55_dl_cherry_bomb_nsw.htm": {
+  "price": 1299.0,
+  "removed_at": "2026-11-27T00:59Z"
+ },
  "mapex_saturn_evo_maple_stage_pt.htm": {
   "price": 7799.0,
   "removed_at": "2026-11-20T13:00Z"
@@ -727,6 +739,10 @@
   "price": 39.0,
   "removed_at": "2026-11-18T21:59Z"
  },
+ "sela_kalimba_21_solid_maple.htm": {
+  "price": 169.0,
+  "removed_at": "2026-11-27T00:59Z"
+ },
  "sela_se_002a_casela_satin_nut_cajon.htm": {
   "price": 599.0,
   "removed_at": "2026-11-24T12:59Z"
@@ -770,6 +786,10 @@
  "solar_guitars_a2.6_ln.htm": {
   "price": 2866.0,
   "removed_at": "2026-11-25T13:00Z"
+ },
+ "solar_guitars_a2.7_c.htm": {
+  "price": 2959.0,
+  "removed_at": "2026-11-27T00:59Z"
  },
  "solar_guitars_ab2.7blue_burst_thomann_ltd.htm": {
   "price": 2666.0,
@@ -851,6 +871,10 @@
   "price": 1166.0,
   "removed_at": "2026-11-26T16:00Z"
  },
+ "terre_shaman_drum_goat_skin.htm": {
+  "price": 299.0,
+  "removed_at": "2026-11-27T00:59Z"
+ },
  "the_box_pro_dsp_18_sub.htm": {
   "price": 1750.0,
   "removed_at": "2026-11-23T13:00Z"
@@ -910,6 +934,10 @@
  "walrus_audio_sloe_multi_texture_reverb.htm": {
   "price": 777.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "warm_audio_centavo_overdrive.htm": {
+  "price": 599.0,
+  "removed_at": "2026-11-27T00:59Z"
  },
  "warm_audio_foxy_tone_box_werewolf_fuzz.htm": {
   "price": 435.0,

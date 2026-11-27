@@ -3,84 +3,65 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-26 22:59 CET · **1822** deals tracked of 1820 advertised · checks every **3 h**
+**Last check:** 2026-11-27 01:59 CET · **1827** deals tracked of 1825 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 3 new deals · ❌ 6 removed deals · 📈 41 price increases · 🏷️ 28 discount changes · ✅ 5 back in stock · 📦 3 stock changes → [full report](changes/2026-11-26T2159Z.md)
+🆕 9 new deals · ❌ 7 removed deals · ✅ 7 back in stock · 📦 9 stock changes → [full report](changes/2026-11-27T0059Z.md)
 
-### 🆕 New deals (3)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Sonor Vintage Benny Greb Shell Set](https://www.thomann.pl/sonor_vintage_benny_greb_shell_set.htm) | 9 899 zł | ‑19% | 12 290 zł | Dostępny w magazynie |  |
-| [Neural DSP Quad Cortex All Black LTD](https://www.thomann.pl/neural_dsp_quad_cortex_all_black_ltd.htm) | 7 399 zł |  |  | Dostępny w magazynie | Deal |
-| [Neural DSP Nano Cortex All Black LTD](https://www.thomann.pl/neural_dsp_nano_cortex_all_black_ltd.htm) | 2 555 zł |  |  | Dostępny w magazynie |  |
-
-### ❌ Removed deals (6)
+### 🆕 New deals (9)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [One Control Blue Bee OD 4K Mini](https://www.thomann.pl/one_control_blue_bee_od_4k_mini.htm) | 435 zł | ‑54% | 955 zł | Dostępny w magazynie |  |
-| [Tone City Holy Aura - Distortion / Boost](https://www.thomann.pl/tone_city_holy_aura_distortion_boost.htm) | 259 zł | ‑40% | 432 zł | Dostępny w magazynie |  |
-| [Erica Synths Nightverb](https://www.thomann.pl/erica_synths_nightverb.htm) | 1 790 zł |  |  | Dostępny w magazynie |  |
-| [Marcus Miller U7-4 SGM](https://www.thomann.pl/marcus_miller_u7_4_sgm.htm) | 1 750 zł |  |  | Dostępny w magazynie |  |
-| [Martin Guitar SC-13E MOD Ziricote Burst Sp](https://www.thomann.pl/martin_guitar_sc_13e_mod_ziricote_burst_sp.htm) | 7 899 zł |  |  | Dostępny w magazynie |  |
-| [Solar Guitars V1.6ASVART Canibalismo BOPM](https://www.thomann.pl/solar_guitars_v16asvart_canibalismo_bopm.htm) | 6 222 zł |  |  | Dostępny w magazynie |  |
+| [Vengeance-Sound VPS Avenger 2](https://www.thomann.pl/vengeance_sound_vps_avenger_2.htm) | 479 zł | ‑50% | 949 zł | Pobierz licencję |  |
+| [Mapex Saturn Evolution Maple-MZ](https://www.thomann.pl/mapex_saturn_evolution_maple_mz.htm) | 5 699 zł | ‑49% | 11 190 zł | Dostępny w magazynie |  |
+| [Pittsburgh Modular Taiga Keyboard](https://www.thomann.pl/pittsburgh_modular_taiga_keyboard.htm) | 3 499 zł | ‑30% | 4 999 zł | Dostępny w magazynie |  |
+| [Pittsburgh Modular Voltage Lab 2](https://www.thomann.pl/pittsburgh_modular_voltage_lab_2.htm) | 6 599 zł | ‑18% | 7 999 zł | Dostępny w magazynie |  |
+| [ASM Hydrasynth Keyboard](https://www.thomann.pl/asm_hydrasynth_keyboard.htm) | 4 799 zł | ‑13% | 5 498 zł | Dostępny w magazynie |  |
+| [ASM Leviasynth Desktop](https://www.thomann.pl/asm_leviasynth_desktop.htm) | 7 899 zł | ‑12% | 8 999 zł | Dostępny w magazynie |  |
+| [ASM Hydrasynth Desktop](https://www.thomann.pl/asm_hydrasynth_desktop.htm) | 3 099 zł | ‑9% | 3 399 zł | Dostępny w magazynie |  |
+| [ASM Hydrasynth Explorer](https://www.thomann.pl/asm_hydrasynth_explorer.htm) | 2 299 zł | ‑8% | 2 499 zł | Dostępny w magazynie |  |
+| [ASM Leviasynth Keyboard](https://www.thomann.pl/asm_leviasynth_keyboard.htm) | 10 790 zł | ‑8% | 11 790 zł | Dostępny w magazynie |  |
 
-### 📈 Price increases (41)
+### ❌ Removed deals (7)
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [Gibson Les Paul Supreme Ebony](https://www.thomann.pl/gibson_les_paul_supreme_ebony.htm) | 14 690 zł | **15 390 zł** | +4.8% |  |  | Dostępny w magazynie |
-| [Gibson Marcus King ES-345 Sixties Ch.](https://www.thomann.pl/gibson_marcus_king_es_345_sixties_ch.htm) | 14 690 zł | **15 390 zł** | +4.8% |  |  | Dostępny w magazynie |
-| [Gibson 59 Les Paul Standard RT DS](https://www.thomann.pl/gibson_59_les_paul_standard_rt_ds.htm) | 29 390 zł | **30 790 zł** | +4.8% |  |  | Dostępny w magazynie |
-| [Gibson Les Paul Standard 60s AAA LB](https://www.thomann.pl/gibson_les_paul_standard_60s_aaa_lb.htm) | 10 590 zł | **11 090 zł** | +4.7% |  |  | Dostępny w magazynie |
-| [Gibson Les Paul 59 HPT MF #5](https://www.thomann.pl/gibson_70th_les_paul_59_hpt_mf_5.htm) | 29 890 zł | **31 290 zł** | +4.7% |  |  | Dostępny w magazynie |
-| [Gibson 1963 Dove LA Dark Natural #1](https://www.thomann.pl/gibson_1963_dove_la_dark_natural_1.htm) | 28 190 zł | **29 490 zł** | +4.6% |  |  | Dostępny w magazynie |
-| [Gibson SJ-200 Standard Classic White](https://www.thomann.pl/gibson_sj_200_standard_classic_white.htm) | 23 790 zł | **24 890 zł** | +4.6% |  |  | Dostępny w magazynie |
-| [Gibson Les Paul 68 Custom R EB LH](https://www.thomann.pl/gibson_les_paul_68_custom_r_eb_lh.htm) | 23 790 zł | **24 890 zł** | +4.6% |  |  | Dostępny w magazynie |
-| [Gibson LP Special 60 TV Yellow VOS](https://www.thomann.pl/gibson_lp_special_60_tv_yellow_vos.htm) | 15 690 zł | **16 390 zł** | +4.5% |  |  | Dostępny w magazynie |
-| [Gibson ES-335 60s Vintage Burst](https://www.thomann.pl/gibson_es_335_60s_vintage_burst.htm) | 13 190 zł | **13 790 zł** | +4.5% |  |  | Dostępny w magazynie |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [Sela Kalimba 21 Solid Maple](https://www.thomann.pl/sela_kalimba_21_solid_maple.htm) | 169 zł | ‑54% | 368 zł | Dostępny w magazynie |  |
+| [Terre Shaman Drum Goat Skin 50cm](https://www.thomann.pl/terre_shaman_drum_goat_skin.htm) | 299 zł | ‑46% | 555 zł | Dostępny w magazynie |  |
+| [Mapex 13"x5,5" DL Cherry Bomb NSW](https://www.thomann.pl/mapex_13_x55_dl_cherry_bomb_nsw.htm) | 1 299 zł | ‑35% | 1 990 zł | Dostępny w magazynie |  |
+| [Warm Audio Centavo Overdrive](https://www.thomann.pl/warm_audio_centavo_overdrive.htm) | 599 zł | ‑19% | 738 zł | Dostępny w magazynie |  |
+| [DAngelico Excel EXL1 Dark Iced Tea Burst](https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea_burst.htm) | 3 699 zł | ‑15% | 4 333 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) |  |
+| [Focal Alpha 80 Evo](https://www.thomann.pl/focal_alpha_80_evo.htm) | 1 329 zł |  |  | Dostępny w magazynie |  |
+| [Solar Guitars A2.7C](https://www.thomann.pl/solar_guitars_a2.7_c.htm) | 2 959 zł |  |  | Dostępny w magazynie |  |
 
-…and 31 more in the full report.
-
-### 🏷️ Discount changes (28)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Gibson LG-2 Faded Natural](https://www.thomann.pl/gibson_lg_2_faded_natural.htm) | 6 899 zł | -17% | **none** |
-| [Godin 5th Ave Jumbo P90 Harvest Gold](https://www.thomann.pl/godin_5th_ave_jumbo_p90_harvest_gold.htm) | 4 399 zł | -14% | **-15%** |
-| [Global Truss Flexi Tower Set Bundle](https://www.thomann.pl/global_truss_flexi_tower_set_bundle.htm) | 6 999 zł | -7% | **none** |
-| [Harley Benton G212Plus LTD V30UK](https://www.thomann.pl/harley_benton_g212plus_ltd_v30uk.htm) | 1 549 zł | -9% | **none** |
-| [ESP LTD SN-1000HT QM DBSB](https://www.thomann.pl/esp_ltd_sn_1000ht_qm_dbsb.htm) | 6 790 zł | -12% | **none** |
-| [ESP LTD MT-I Mick Thomson BLKS](https://www.thomann.pl/esp_ltd_mt_i_mick_thomson_blks.htm) | 7 333 zł | -8% | **none** |
-| [ESP LTD ARROW-400 CM](https://www.thomann.pl/esp_ltd_arrow_400_cm.htm) | 3 990 zł | -9% | **none** |
-| [Stairville HL-x90 RGB WW Bundle](https://www.thomann.pl/stairville_hl_x90_rgb_ww_bundle.htm) | 1 999 zł | -12% | **none** |
-| [IK Multimedia ToneX Board](https://www.thomann.pl/ik_multimedia_tonex_board.htm) | 4 299 zł | -11% | **none** |
-| [Varytec Mirror Ball 30 + Case Bundle](https://www.thomann.pl/varytec_mirror_ball_30_case_bundle.htm) | 339 zł | -14% | **none** |
-
-…and 18 more in the full report.
-
-### ✅ Back in stock (5)
+### ✅ Back in stock (7)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 875 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton TB-70VS LH Deluxe Series](https://www.thomann.pl/harley_benton_tb_70vs_lh_deluxe_series.htm) | 777 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Kala KA-MRT-PUR-C Concert Ukulele](https://www.thomann.pl/kala_ka_mrt_pur_c_concert_ukulele.htm) | 169 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Pearl Midtown Matte Red](https://www.thomann.pl/pearl_midtown_matte_red.htm) | 2 290 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
-| [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Kupo CT-40MKB Bundle](https://www.thomann.pl/kupo_ct_40mkb_bundle.htm) | 999 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [PRS SE A20E Antique White](https://www.thomann.pl/prs_se_a20e_antique_white.htm) | 1 490 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Soran Dual Stomp Pedal Lite](https://www.thomann.pl/soran_dual_stomp_pedal_lite.htm) | 259 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Harley Benton ST-20SB w/Soran Dual Lite](https://www.thomann.pl/harley_benton_st_20sb_w_soran_dual_lite.htm) | 599 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Harley Benton SC-400 GT w/Soran Dual Lite](https://www.thomann.pl/harley_benton_sc_400_gt_w_soran_dual_lite.htm) | 875 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [Harley Benton JB-20 CA w/Soran Dual Lite](https://www.thomann.pl/harley_benton_jb_20_ca_w_soran_dual_lite.htm) | 744 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
+| [ESP Eclipse Custom Tiger Eye SB](https://www.thomann.pl/esp_eclipse_custom_tiger_eye_sb.htm) | 26 490 zł | Dostępny za 1–2 tygodnie | **dostępny w magazynie** |
 
-### 📦 Stock changes (3)
+### 📦 Stock changes (9)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Hils HNB5 Black](https://www.thomann.pl/hils_hnb5_black.htm) | 2 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton PJ4-SBK w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm) | 744 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [ADJ Fog Fury Jett Bundle](https://www.thomann.pl/adj_fog_fury_jett_bundle_set.htm) | 3 666 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Supro Airwave](https://www.thomann.pl/supro_airwave.htm) | 2 599 zł | dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Darkglass Anagram](https://www.thomann.pl/darkglass_anagram.htm) | 4 590 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [EV ZLX 12P G2 Stereo Stand Bundle](https://www.thomann.pl/ev_zlx_12p_g2_stereo_stand_bundle.htm) | 4 499 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton RB-414CS Classic Series](https://www.thomann.pl/harley_benton_rb_414cs_classic_series.htm) | 875 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Thomann SL 5 Soprano Trombone](https://www.thomann.pl/thomann_sl5_zugtrompete.htm) | 579 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [beyerdynamic DJ 300 PRO X](https://www.thomann.pl/beyerdynamic_dj_300_pro_x.htm) | 439 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Sequential Fourm](https://www.thomann.pl/sequential_fourm.htm) | 2 899 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
