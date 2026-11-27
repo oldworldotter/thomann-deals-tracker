@@ -1788,6 +1788,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/arturia_keylab_61_mk3_ultra.htm"
  },
+ "arturia_keylab_mkii_49_white.htm": {
+  "badge": "",
+  "discount": 8,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "arturia_keylab_mkii_49_white.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 888.0,
+  "min_price": 888.0,
+  "missing_runs": 0,
+  "name": "Arturia KeyLab MkII 49 White",
+  "price": 888.0,
+  "ref_price": 966.0,
+  "reported_price": 888.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/arturia_keylab_mkii_49_white.htm"
+ },
  "arturia_pigments_download.htm": {
   "badge": "",
   "discount": null,
@@ -3152,6 +3172,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/black_swamp_percussion_s3td_tambourine.htm"
+ },
+ "blackstar_carry_on_digital_flute_black.htm": {
+  "badge": "",
+  "discount": 56,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "blackstar_carry_on_digital_flute_black.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 173.0,
+  "min_price": 173.0,
+  "missing_runs": 0,
+  "name": "Blackstar Carry On Digital Flute, black",
+  "price": 173.0,
+  "ref_price": 392.0,
+  "reported_price": 173.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/blackstar_carry_on_digital_flute_black.htm"
  },
  "block_and_block_beta_50_truss_lift_bundle.htm": {
   "badge": "",
@@ -6736,27 +6776,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_ltd_arrow_qm_dark_brown_burst.htm"
- },
- "esp_ltd_ec_01_ft_black.htm": {
-  "badge": "",
-  "discount": 30,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "esp_ltd_ec_01_ft_black.htm",
-  "last_change": "2026-11-23T22:00Z",
-  "last_seen": "2026-11-26T21:59Z",
-  "max_price": 3111.0,
-  "min_price": 3111.0,
-  "missing_runs": 1,
-  "name": "ESP LTD EC-01 FT Black",
-  "price": 3111.0,
-  "ref_price": 4444.0,
-  "reported_price": 3111.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/esp_ltd_ec_01_ft_black.htm"
  },
  "esp_ltd_ec_01_ft_black_fluence.htm": {
   "badge": "",
@@ -13481,6 +13500,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hercules_dj_control_inpulse_t7.htm"
  },
+ "heritage_guitar_h_150_custom_core_dlb.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "heritage_guitar_h_150_custom_core_dlb.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 15090.0,
+  "min_price": 15090.0,
+  "missing_runs": 0,
+  "name": "Heritage Guitar H-150 Custom Core LB",
+  "price": 15090.0,
+  "ref_price": null,
+  "reported_price": 15090.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/heritage_guitar_h_150_custom_core_dlb.htm"
+ },
  "heritage_musical_spoon_medium_blue.htm": {
   "badge": "",
   "discount": null,
@@ -16202,6 +16241,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/joyo_r_29_gloam_sub_octave_fuzz.htm"
  },
+ "kala_ka_15s_blk_mahogany_soprano.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "kala_ka_15s_blk_mahogany_soprano.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 171.0,
+  "min_price": 171.0,
+  "missing_runs": 0,
+  "name": "Kala KA-15S BLK Mahogany Soprano",
+  "price": 171.0,
+  "ref_price": null,
+  "reported_price": 171.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/kala_ka_15s_blk_mahogany_soprano.htm"
+ },
  "kala_ka_20ce_concert_ukulele.htm": {
   "badge": "",
   "discount": null,
@@ -18862,6 +18921,27 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/mackie_thump_15v4.htm"
  },
+ "mackie_thump_215.htm": {
+  "badge": "Deal",
+  "discount": null,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "mackie_thump_215.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 1325.0,
+  "min_price": 1325.0,
+  "missing_runs": 0,
+  "name": "Mackie Thump 215",
+  "price": 1325.0,
+  "ref_price": null,
+  "reported_price": 1325.0,
+  "sections": [
+   "Przegląd wszystkich ofert",
+   "Wyróżnione okazje"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/mackie_thump_215.htm"
+ },
  "mackie_thump_sub_go.htm": {
   "badge": "",
   "discount": 24,
@@ -19643,27 +19723,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitar_sce_all_satin_black_bs.htm"
- },
- "martin_guitars_00028_sunburst.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "martin_guitars_00028_sunburst.htm",
-  "last_change": "2026-11-25T21:59Z",
-  "last_seen": "2026-11-26T21:59Z",
-  "max_price": 16290.0,
-  "min_price": 16090.0,
-  "missing_runs": 1,
-  "name": "Martin Guitar 00028 Sunburst",
-  "price": 16290.0,
-  "ref_price": null,
-  "reported_price": 16290.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/martin_guitars_00028_sunburst.htm"
  },
  "martin_guitars_00028_sunburst_lh.htm": {
   "badge": "",
@@ -21109,6 +21168,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/music_man_stingray_4_special_hh_brule.htm"
+ },
+ "music_man_stingray_5_h_special_vsb.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "music_man_stingray_5_h_special_vsb.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 12290.0,
+  "min_price": 12290.0,
+  "missing_runs": 0,
+  "name": "Music Man Stingray 5 H Special VSB",
+  "price": 12290.0,
+  "ref_price": null,
+  "reported_price": 12290.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/music_man_stingray_5_h_special_vsb.htm"
  },
  "music_man_stingray_ii_cory_wong_model_cb.htm": {
   "badge": "",
@@ -22652,6 +22731,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/omnitronic_pm_202f_headphone_bundle.htm"
+ },
+ "one_control_granith_grey_booster_574721.htm": {
+  "badge": "",
+  "discount": 57,
+  "first_seen": "2026-11-27T03:59Z",
+  "id": "one_control_granith_grey_booster_574721.htm",
+  "last_change": "2026-11-27T03:59Z",
+  "max_price": 215.0,
+  "min_price": 215.0,
+  "missing_runs": 0,
+  "name": "One Control Granith Grey Booster",
+  "price": 215.0,
+  "ref_price": 499.0,
+  "reported_price": 215.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/one_control_granith_grey_booster_574721.htm"
  },
  "one_control_jubilee_red_aiab.htm": {
   "badge": "",
@@ -24349,7 +24448,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/reloop_rp_5000_mk4_cyber_bundle.htm"
  },
@@ -29200,27 +29299,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/sterling_by_music_man_stingray_short_rayss4_tlbl.htm"
  },
- "sterling_stingray_short_rayss4_frd.htm": {
-  "badge": "",
-  "discount": 16,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "sterling_stingray_short_rayss4_frd.htm",
-  "last_change": "2026-11-23T16:00Z",
-  "last_seen": "2026-11-26T21:59Z",
-  "max_price": 2899.0,
-  "min_price": 2899.0,
-  "missing_runs": 1,
-  "name": "Sterling StingRay Short RAYSS4 FRD",
-  "price": 2899.0,
-  "ref_price": 3444.0,
-  "reported_price": 2899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/sterling_stingray_short_rayss4_frd.htm"
- },
  "steven_slate_audio_vsx_immersion_one.htm": {
   "badge": "",
   "discount": 30,
@@ -30888,9 +30966,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "the_loar_lm_110e_brb.htm",
   "last_change": "2026-11-25T18:59Z",
+  "last_seen": "2026-11-27T00:59Z",
   "max_price": 1099.0,
   "min_price": 1090.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "The Loar LM-110E-BRB",
   "price": 1099.0,
   "ref_price": null,
@@ -36568,27 +36647,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/zoom_g2_four_guitar_multi_effect.htm"
- },
- "zoom_livetrak_l_20.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "zoom_livetrak_l_20.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-26T21:59Z",
-  "max_price": 3090.0,
-  "min_price": 2999.0,
-  "missing_runs": 1,
-  "name": "Zoom LiveTrak L-20",
-  "price": 3090.0,
-  "ref_price": null,
-  "reported_price": 3090.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/zoom_livetrak_l_20.htm"
  },
  "zoom_m2_mictrak.htm": {
   "badge": "",

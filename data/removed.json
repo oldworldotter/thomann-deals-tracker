@@ -39,10 +39,6 @@
   "price": 3899.0,
   "removed_at": "2026-11-23T03:59Z"
  },
- "arturia_keylab_mkii_49_white.htm": {
-  "price": 879.0,
-  "removed_at": "2026-11-20T13:00Z"
- },
  "avantone_mixcubes_active_white.htm": {
   "price": 1490.0,
   "removed_at": "2026-11-20T21:59Z"
@@ -62,10 +58,6 @@
  "black_swamp_percussion_lgtd1_tambourine.htm": {
   "price": 977.0,
   "removed_at": "2026-11-23T22:00Z"
- },
- "blackstar_carry_on_digital_flute_black.htm": {
-  "price": 173.0,
-  "removed_at": "2026-11-26T16:00Z"
  },
  "blackstar_carry_on_digital_flute_white.htm": {
   "price": 172.0,
@@ -215,6 +207,10 @@
   "price": 2150.0,
   "removed_at": "2026-11-24T15:59Z"
  },
+ "esp_ltd_ec_01_ft_black.htm": {
+  "price": 3111.0,
+  "removed_at": "2026-11-27T03:59Z"
+ },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "price": 7222.0,
   "removed_at": "2026-11-20T06:59Z"
@@ -359,10 +355,6 @@
   "price": 2799.0,
   "removed_at": "2026-11-26T16:00Z"
  },
- "heritage_guitar_h_150_custom_core_dlb.htm": {
-  "price": 15090.0,
-  "removed_at": "2026-11-21T12:59Z"
- },
  "heritage_guitar_h_150_custom_core_gold_top.htm": {
   "price": 14490.0,
   "removed_at": "2026-11-19T12:59Z"
@@ -430,10 +422,6 @@
  "kala_ka_15_c_mahogany_concert.htm": {
   "price": 239.0,
   "removed_at": "2026-11-18T15:59Z"
- },
- "kala_ka_15s_blk_mahogany_soprano.htm": {
-  "price": 171.0,
-  "removed_at": "2026-11-23T00:59Z"
  },
  "kala_ka_s_satin_mahogany_soprano.htm": {
   "price": 215.0,
@@ -511,10 +499,6 @@
   "price": 1090.0,
   "removed_at": "2026-11-26T16:00Z"
  },
- "mackie_thump_215.htm": {
-  "price": 1325.0,
-  "removed_at": "2026-11-24T06:59Z"
- },
  "mapex_12_x55_dl_warbird_snare_drum.htm": {
   "price": 2175.0,
   "removed_at": "2026-11-24T19:00Z"
@@ -550,6 +534,10 @@
  "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
   "price": 7899.0,
   "removed_at": "2026-11-26T21:59Z"
+ },
+ "martin_guitars_00028_sunburst.htm": {
+  "price": 16290.0,
+  "removed_at": "2026-11-27T03:59Z"
  },
  "martin_guitars_d35_ambertone.htm": {
   "price": 16090.0,
@@ -595,10 +583,6 @@
   "price": 12990.0,
   "removed_at": "2026-11-22T21:59Z"
  },
- "music_man_stingray_5_h_special_vsb.htm": {
-  "price": 12290.0,
-  "removed_at": "2026-11-24T15:59Z"
- },
  "neotone_mutant_digital_handpan_ash.htm": {
   "price": 14890.0,
   "removed_at": "2026-11-22T12:59Z"
@@ -630,10 +614,6 @@
  "one_control_dyna_red_distortion_4k_ng.htm": {
   "price": 433.0,
   "removed_at": "2026-11-17T15:59Z"
- },
- "one_control_granith_grey_booster_574721.htm": {
-  "price": 214.0,
-  "removed_at": "2026-11-19T16:00Z"
  },
  "one_control_honey_bee_od_overdrive_624367.htm": {
   "price": 433.0,
@@ -823,6 +803,10 @@
   "price": 11990.0,
   "removed_at": "2026-11-22T21:59Z"
  },
+ "sterling_stingray_short_rayss4_frd.htm": {
+  "price": 2899.0,
+  "removed_at": "2026-11-27T03:59Z"
+ },
  "strandberg_boden_bass_standard_4_na.htm": {
   "price": 7290.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -998,6 +982,10 @@
  "zoom_g_11_guitar_multi_effect.htm": {
   "price": 1699.0,
   "removed_at": "2026-11-18T00:59Z"
+ },
+ "zoom_livetrak_l_20.htm": {
+  "price": 3090.0,
+  "removed_at": "2026-11-27T03:59Z"
  },
  "zoom_livetrak_l_6.htm": {
   "price": 869.0,
