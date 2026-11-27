@@ -3,34 +3,44 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-27 04:59 CET · **1833** deals tracked of 1831 advertised · checks every **3 h**
+**Last check:** 2026-11-27 08:00 CET · **1829** deals tracked of 1828 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🔁 7 returned deals · ❌ 4 removed deals → [full report](changes/2026-11-27T0359Z.md)
+❌ 1 removed deals · ✅ 8 back in stock · 📦 7 stock changes → [full report](changes/2026-11-27T0700Z.md)
 
-### 🔁 Returned deals (7)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [One Control Granith Grey Booster](https://www.thomann.pl/one_control_granith_grey_booster_574721.htm) | **215 zł** | 214 zł | ‑57% | 499 zł | Dostępny w magazynie | 2026‑11‑19 17:00 |
-| [Blackstar Carry On Digital Flute, black](https://www.thomann.pl/blackstar_carry_on_digital_flute_black.htm) | **173 zł** | 173 zł | ‑56% | 392 zł | Dostępny w magazynie | 2026‑11‑26 17:00 |
-| [Arturia KeyLab MkII 49 White](https://www.thomann.pl/arturia_keylab_mkii_49_white.htm) | **888 zł** | 879 zł | ‑8% | 966 zł | Dostępny w magazynie | 2026‑11‑20 14:00 |
-| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | **1 325 zł** | 1 325 zł |  |  | Dostępny w magazynie | 2026‑11‑24 07:59 |
-| [Kala KA-15S BLK Mahogany Soprano](https://www.thomann.pl/kala_ka_15s_blk_mahogany_soprano.htm) | **171 zł** | 171 zł |  |  | Dostępny w magazynie | 2026‑11‑23 01:59 |
-| [Music Man Stingray 5 H Special VSB](https://www.thomann.pl/music_man_stingray_5_h_special_vsb.htm) | **12 290 zł** | 12 290 zł |  |  | Dostępny w magazynie | 2026‑11‑24 16:59 |
-| [Heritage Guitar H-150 Custom Core LB](https://www.thomann.pl/heritage_guitar_h_150_custom_core_dlb.htm) | **15 090 zł** | 15 090 zł |  |  | Dostępny za 2–3 tygodnie | 2026‑11‑21 13:59 |
-
-### ❌ Removed deals (4)
+### ❌ Removed deals (1)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [ESP LTD EC-01 FT Black](https://www.thomann.pl/esp_ltd_ec_01_ft_black.htm) | 3 111 zł | ‑30% | 4 444 zł | Dostępny w magazynie |  |
-| [Sterling StingRay Short RAYSS4 FRD](https://www.thomann.pl/sterling_stingray_short_rayss4_frd.htm) | 2 899 zł | ‑16% | 3 444 zł | Dostępny w magazynie |  |
-| [Martin Guitar 00028 Sunburst](https://www.thomann.pl/martin_guitars_00028_sunburst.htm) | 16 290 zł |  |  | Dostępny w magazynie |  |
-| [Zoom LiveTrak L-20](https://www.thomann.pl/zoom_livetrak_l_20.htm) | 3 090 zł |  |  | Dostępny w magazynie |  |
+| [The Loar LM-110E-BRB](https://www.thomann.pl/the_loar_lm_110e_brb.htm) | 1 099 zł |  |  | Dostępny w magazynie |  |
+
+### ✅ Back in stock (8)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [EV ZLX 12P G2 Stereo Stand Bundle](https://www.thomann.pl/ev_zlx_12p_g2_stereo_stand_bundle.htm) | 4 499 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [beyerdynamic DT 72 IE](https://www.thomann.pl/beyerdynamic_dt_72_ie.htm) | 1 990 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton JB-62CC OW](https://www.thomann.pl/harley_benton_jb_62cc_ow.htm) | 611 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton PJ4-SBK w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm) | 744 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [DAS Audio Vantec-12A](https://www.thomann.pl/das_audio_vantec_12a.htm) | 4 399 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Flamma FA05 Electric Guitar Combo](https://www.thomann.pl/flamma_fa05_electric_guitar_combo.htm) | 259 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+| [Expert Sleepers Disting NT](https://www.thomann.pl/expert_sleepers_disting_nt.htm) | 2 399 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [LD Systems Maui 11 G3 Mix W](https://www.thomann.pl/ld_systems_maui_11_g3_mix_w.htm) | 5 444 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+
+### 📦 Stock changes (7)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 749 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 545 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Karl Höfner H4/5 DM Cello 4/4](https://www.thomann.pl/hoefner_h_45_dm_cello_44.htm) | 10 990 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton BM-75 Trans Red Deluxe Series](https://www.thomann.pl/harley_benton_bm_75_trans_red.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

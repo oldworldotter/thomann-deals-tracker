@@ -413,6 +413,7 @@
   "ref_price": 777.0,
   "reported_price": 599.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -2976,7 +2977,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "beyerdynamic_dt_72_ie.htm",
-  "last_change": "2026-11-26T16:00Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 1990.0,
   "min_price": 1959.0,
   "missing_runs": 0,
@@ -2987,8 +2988,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/beyerdynamic_dt_72_ie.htm"
  },
  "beyerdynamic_dt_73_ie.htm": {
@@ -3045,6 +3046,7 @@
   "ref_price": null,
   "reported_price": 798.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert",
    "Wyróżnione okazje"
   ],
@@ -3149,7 +3151,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/birddog_max_white_bundle.htm"
  },
@@ -4961,7 +4963,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "das_audio_vantec_12a.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 4399.0,
   "min_price": 4333.0,
   "missing_runs": 0,
@@ -4972,8 +4974,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/das_audio_vantec_12a.htm"
  },
  "das_audio_vantec_20a.htm": {
@@ -7183,7 +7185,7 @@
   "discount": 8,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ev_zlx_12p_g2_stereo_stand_bundle.htm",
-  "last_change": "2026-11-27T00:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 4499.0,
   "min_price": 4499.0,
   "missing_runs": 0,
@@ -7194,8 +7196,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ev_zlx_12p_g2_stereo_stand_bundle.htm"
  },
  "ev_zlx_15p_g2_stereo_stand_bundle.htm": {
@@ -7403,7 +7405,7 @@
   "discount": 20,
   "first_seen": "2026-11-16T10:55Z",
   "id": "expert_sleepers_disting_nt.htm",
-  "last_change": "2026-11-20T00:46Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 2399.0,
   "min_price": 2399.0,
   "missing_runs": 0,
@@ -7414,8 +7416,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/expert_sleepers_disting_nt.htm"
  },
  "fabfilter_pro_bundle.htm": {
@@ -8203,7 +8205,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "flamma_fa05_electric_guitar_combo.htm",
-  "last_change": "2026-11-25T18:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 259.0,
   "min_price": 258.0,
   "missing_runs": 0,
@@ -8214,8 +8216,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/flamma_fa05_electric_guitar_combo.htm"
  },
  "flamma_fb200_effect_strip.htm": {
@@ -9041,7 +9043,7 @@
   "url": "https://www.thomann.pl/focusrite_scarlett_4i4_4th_generation.htm"
  },
  "focusrite_scarlett_solo_4th_gen.htm": {
-  "badge": "",
+  "badge": "Deal",
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "focusrite_scarlett_solo_4th_gen.htm",
@@ -9054,6 +9056,7 @@
   "ref_price": null,
   "reported_price": 475.0,
   "sections": [
+   "Polecane specjalnie dla Ciebie",
    "Przegląd wszystkich ofert"
   ],
   "stock": "Dostępny w magazynie",
@@ -10825,7 +10828,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_bm_75_trans_red.htm",
-  "last_change": "2026-11-26T12:57Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 1190.0,
   "min_price": 1177.0,
   "missing_runs": 0,
@@ -10836,8 +10839,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_bm_75_trans_red.htm"
  },
  "harley_benton_cld_60smce_nt_bundle.htm": {
@@ -11365,7 +11368,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_eb_fblb.htm",
-  "last_change": "2026-11-26T16:00Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11376,8 +11379,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm"
  },
  "harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm": {
@@ -11385,7 +11388,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm",
-  "last_change": "2026-11-26T16:00Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 1545.0,
   "min_price": 1499.0,
   "missing_runs": 0,
@@ -11396,8 +11399,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_fbb.htm": {
@@ -11845,7 +11848,7 @@
   "discount": 12,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_hbz2005.htm",
-  "last_change": "2026-11-25T18:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
   "missing_runs": 0,
@@ -11856,8 +11859,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_hbz2005.htm"
  },
  "harley_benton_het_550_bk.htm": {
@@ -11945,7 +11948,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_jb_62cc_ow.htm",
-  "last_change": "2026-11-26T18:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 611.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11956,8 +11959,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_jb_62cc_ow.htm"
  },
  "harley_benton_kahuna_c_dolphin.htm": {
@@ -12185,7 +12188,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_pj4_sbk_w_soran_tiny_stomp.htm",
-  "last_change": "2026-11-26T21:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 744.0,
   "min_price": 739.0,
   "missing_runs": 0,
@@ -12196,8 +12199,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/harley_benton_pj4_sbk_w_soran_tiny_stomp.htm"
  },
  "harley_benton_pj_5_sbk_deluxe_series.htm": {
@@ -12725,7 +12728,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_active_sbk_bundle_package.htm",
-  "last_change": "2026-11-26T18:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 749.0,
   "min_price": 735.0,
   "missing_runs": 0,
@@ -12736,8 +12739,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm"
  },
  "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm": {
@@ -12745,7 +12748,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-26T12:57Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 1269.0,
   "min_price": 1259.0,
   "missing_runs": 0,
@@ -12756,8 +12759,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_st_20hss_ca_w_marshall_mg15gfx.htm": {
@@ -14125,7 +14128,7 @@
   "discount": 23,
   "first_seen": "2026-11-25T18:59Z",
   "id": "hoefner_h_45_dm_cello_44.htm",
-  "last_change": "2026-11-26T16:00Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 10990.0,
   "min_price": 10990.0,
   "missing_runs": 0,
@@ -14136,8 +14139,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hoefner_h_45_dm_cello_44.htm"
  },
  "hoefner_hct_leader.htm": {
@@ -17726,7 +17729,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "ld_systems_maui_11_g3_mix_w.htm",
-  "last_change": "2026-11-26T18:59Z",
+  "last_change": "2026-11-27T07:00Z",
   "max_price": 5444.0,
   "min_price": 5333.0,
   "missing_runs": 0,
@@ -17737,8 +17740,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/ld_systems_maui_11_g3_mix_w.htm"
  },
  "ld_systems_maui_11_g3_white.htm": {
@@ -18927,9 +18930,10 @@
   "first_seen": "2026-11-27T03:59Z",
   "id": "mackie_thump_215.htm",
   "last_change": "2026-11-27T03:59Z",
+  "last_seen": "2026-11-27T03:59Z",
   "max_price": 1325.0,
   "min_price": 1325.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Mackie Thump 215",
   "price": 1325.0,
   "ref_price": null,
@@ -22637,9 +22641,10 @@
   "first_seen": "2026-11-26T16:00Z",
   "id": "nux_metal_core_deluxe_mkii.htm",
   "last_change": "2026-11-26T16:00Z",
+  "last_seen": "2026-11-27T03:59Z",
   "max_price": 259.0,
   "min_price": 259.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Nux Metal Core Deluxe MKII",
   "price": 259.0,
   "ref_price": null,
@@ -22878,9 +22883,10 @@
   "first_seen": "2026-11-26T16:00Z",
   "id": "one_control_super_apricot_od_overdrive_624366.htm",
   "last_change": "2026-11-26T16:00Z",
+  "last_seen": "2026-11-27T03:59Z",
   "max_price": 215.0,
   "min_price": 215.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "One Control Super Apricot OD - Overdrive",
   "price": 215.0,
   "ref_price": null,
@@ -30960,27 +30966,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/the_box_six_mix_singer_start_set.htm"
  },
- "the_loar_lm_110e_brb.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-18T18:17Z",
-  "id": "the_loar_lm_110e_brb.htm",
-  "last_change": "2026-11-25T18:59Z",
-  "last_seen": "2026-11-27T00:59Z",
-  "max_price": 1099.0,
-  "min_price": 1090.0,
-  "missing_runs": 1,
-  "name": "The Loar LM-110E-BRB",
-  "price": 1099.0,
-  "ref_price": null,
-  "reported_price": 1090.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/the_loar_lm_110e_brb.htm"
- },
  "the_t.bone_free2b.htm": {
   "badge": "",
   "discount": null,
@@ -36374,9 +36359,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_yfl_212.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-27T03:59Z",
   "max_price": 2699.0,
   "min_price": 2699.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Yamaha YFL-212 Flute",
   "price": 2699.0,
   "ref_price": null,
