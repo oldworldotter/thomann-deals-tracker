@@ -39,9 +39,17 @@
   "price": 3899.0,
   "removed_at": "2026-11-23T03:59Z"
  },
+ "aquarian_22_super_kick_clear_bass_set.htm": {
+  "price": 259.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
  "arturia_keylab_mkii_49_white.htm": {
   "price": 888.0,
   "removed_at": "2026-11-27T12:59Z"
+ },
+ "austrian_audio_hi_x15.htm": {
+  "price": 349.0,
+  "removed_at": "2026-11-27T21:59Z"
  },
  "avantone_mixcubes_active_white.htm": {
   "price": 1490.0,
@@ -62,6 +70,10 @@
  "black_swamp_percussion_lgtd1_tambourine.htm": {
   "price": 977.0,
   "removed_at": "2026-11-23T22:00Z"
+ },
+ "blackstar_carry_on_digital_flute_black.htm": {
+  "price": 173.0,
+  "removed_at": "2026-11-27T21:59Z"
  },
  "blackstar_carry_on_digital_flute_white.htm": {
   "price": 172.0,
@@ -395,6 +407,10 @@
   "price": 15090.0,
   "removed_at": "2026-11-21T19:00Z"
  },
+ "heritage_musical_spoon_medium_blue.htm": {
+  "price": 129.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
  "hils_hnb5_sunburst.htm": {
   "price": 1739.0,
   "removed_at": "2026-11-17T18:59Z"
@@ -446,6 +462,10 @@
  "hugheskettner_tubemeister_deluxe_20.htm": {
   "price": 2175.0,
   "removed_at": "2026-11-20T13:00Z"
+ },
+ "ik_multimedia_irig_pads.htm": {
+  "price": 215.0,
+  "removed_at": "2026-11-27T21:59Z"
  },
  "jbl_305p_mkiii.htm": {
   "price": 849.0,
@@ -703,6 +723,10 @@
   "price": 259.0,
   "removed_at": "2026-11-27T15:59Z"
  },
+ "one_control_octave_up_fuzz.htm": {
+  "price": 568.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
  "one_control_pale_blue_compressor_eq.htm": {
   "price": 433.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -815,6 +839,10 @@
   "price": 5444.0,
   "removed_at": "2026-11-19T00:37Z"
  },
+ "sela_harmony_chimes_9_dark.htm": {
+  "price": 299.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
  "sela_kalimba_10_green.htm": {
   "price": 39.0,
   "removed_at": "2026-11-18T21:59Z"
@@ -919,6 +947,14 @@
   "price": 1799.0,
   "removed_at": "2026-11-27T18:59Z"
  },
+ "source_audio_gemini_chorus.htm": {
+  "price": 568.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
+ "sterling_by_music_man_stingray_short_rayss4_tlbl.htm": {
+  "price": 2959.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
  "sterling_stingray_short_rayss4_frd.htm": {
   "price": 2899.0,
   "removed_at": "2026-11-27T03:59Z"
@@ -943,9 +979,17 @@
   "price": 7099.0,
   "removed_at": "2026-11-26T18:59Z"
  },
+ "strandberg_boden_standard_n27_teal.htm": {
+  "price": 7599.0,
+  "removed_at": "2026-11-27T21:59Z"
+ },
  "strymon_timeline_mx_multi_delay.htm": {
   "price": 3298.0,
   "removed_at": "2026-11-25T18:59Z"
+ },
+ "supro_airwave.htm": {
+  "price": 2599.0,
+  "removed_at": "2026-11-27T21:59Z"
  },
  "suzuki_omnichord_om_108.htm": {
   "price": 2999.0,
@@ -1102,6 +1146,10 @@
  "yamaha_hs_8_mp.htm": {
   "price": 1999.0,
   "removed_at": "2026-11-17T09:59Z"
+ },
+ "yamaha_psr_sx600.htm": {
+  "price": 2699.0,
+  "removed_at": "2026-11-27T21:59Z"
  },
  "yamaha_seqtrak_black.htm": {
   "price": 1044.0,

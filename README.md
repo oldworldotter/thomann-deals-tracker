@@ -3,85 +3,48 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-27 19:59 CET · **1800** deals tracked of 1800 advertised · checks every **3 h**
+**Last check:** 2026-11-27 22:59 CET · **1794** deals tracked of 1796 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 3 new deals · ❌ 7 removed deals · 📈 20 price increases · 🏷️ 19 discount changes · ✅ 3 back in stock · 📦 5 stock changes → [full report](changes/2026-11-27T1859Z.md)
+❌ 12 removed deals · 🏷️ 2 discount changes · 📦 6 stock changes → [full report](changes/2026-11-27T2159Z.md)
 
-### 🆕 New deals (3)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Teenage Engineering CM-15 Black](https://www.thomann.pl/teenage_engineering_cm_15_black.htm) | 3 990 zł | ‑23% | 5 199 zł | Dostępny w magazynie |  |
-| [Teenage Engineering TP-7 Black](https://www.thomann.pl/teenage_engineering_tp_7_black.htm) | 4 899 zł | ‑22% | 6 290 zł | Dostępny w magazynie |  |
-| [Teenage Engineering OB-4 black](https://www.thomann.pl/teenage_engineering_ob_4_black.htm) | 1 799 zł | ‑22% | 2 299 zł | Dostępny w magazynie |  |
-
-### ❌ Removed deals (7)
+### ❌ Removed deals (12)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Pigtronix Gatekeeper Micro Pedal](https://www.thomann.pl/pigtronix_gatekeeper_micro_pedal.htm) | 198 zł | ‑48% | 384 zł | Dostępny w magazynie |  |
-| [Yamaha TAG1 E Natural](https://www.thomann.pl/yamaha_tag1_e_natural.htm) | 2 599 zł | ‑28% | 3 599 zł | Dostępny w magazynie |  |
-| [Höfner Shorty Bass White](https://www.thomann.pl/hoefner_shorty_bass_white.htm) | 655 zł |  |  | Dostępny w magazynie |  |
-| [Luxibel B EXPO 100 MWW Bundle](https://www.thomann.pl/luxibel_b_expo_100_mww_bundle.htm) | 1 535 zł |  |  | Dostępny w magazynie |  |
-| [Soundcraft EFX12](https://www.thomann.pl/soundcraft_efx12_mkii.htm) | 1 799 zł |  |  | Dostępny w magazynie |  |
-| [Takamine GN51CE-BSB-2](https://www.thomann.pl/takamine_gn51ce_bsb_2.htm) | 1 888 zł |  |  | Dostępny w magazynie |  |
-| [Yamaha TAS3 C Sand Burst](https://www.thomann.pl/yamaha_tas3_c_sand_burst.htm) | 5 899 zł |  |  | Dostępny w magazynie |  |
+| [Blackstar Carry On Digital Flute, black](https://www.thomann.pl/blackstar_carry_on_digital_flute_black.htm) | 173 zł | ‑56% | 392 zł | Dostępny w magazynie |  |
+| [Supro Airwave](https://www.thomann.pl/supro_airwave.htm) | 2 599 zł | ‑56% | 5 899 zł | Dostępny za 1–2 tygodnie |  |
+| [Aquarian 22" Super Kick Clear Bass Set](https://www.thomann.pl/aquarian_22_super_kick_clear_bass_set.htm) | 259 zł | ‑52% | 545 zł | Dostępny w magazynie |  |
+| [Sela Harmony Chimes 9 Dark](https://www.thomann.pl/sela_harmony_chimes_9_dark.htm) | 299 zł | ‑47% | 568 zł | Dostępny w magazynie |  |
+| [Yamaha PSR-SX600](https://www.thomann.pl/yamaha_psr_sx600.htm) | 2 699 zł | ‑14% | 3 150 zł | Dostępny w magazynie |  |
+| [Austrian Audio Hi-X15](https://www.thomann.pl/austrian_audio_hi_x15.htm) | 349 zł |  |  | Dostępny w magazynie |  |
+| [Heritage Musical Spoon Medium Blue](https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm) | 129 zł |  |  | Dostępny w magazynie |  |
+| [IK Multimedia iRig Pads](https://www.thomann.pl/ik_multimedia_irig_pads.htm) | 215 zł |  |  | Dostępny w magazynie |  |
+| [One Control Octave Up Fuzz](https://www.thomann.pl/one_control_octave_up_fuzz.htm) | 568 zł |  |  | Dostępny w magazynie |  |
+| [Source Audio Gemini Chorus](https://www.thomann.pl/source_audio_gemini_chorus.htm) | 568 zł |  |  | Dostępny w magazynie |  |
 
-### 📈 Price increases (20)
+…and 2 more in the full report.
 
-| Product | Was | Now | Change | Discount | 30-day best | Stock |
-|---|--:|--:|--:|--:|--:|---|
-| [EV Everse 8](https://www.thomann.pl/ev_everse_8.htm) | 3 199 zł | **3 290 zł** | +2.8% |  |  | Dostępny w magazynie |
-| [Daddario XPND 1 Pedalboard Bundle](https://www.thomann.pl/daddario_xpnd_1_pedalboard_bundle.htm) | 599 zł | **615 zł** | +2.7% |  |  | Dostępny w magazynie |
-| [Universal Audio Volt 276 USB Recording Studio](https://www.thomann.pl/universal_audio_volt_276.htm) | 968 zł | **990 zł** | +2.3% |  |  | Dostępny w magazynie |
-| [Shure GLXD16+](https://www.thomann.pl/shure_glxd16_561243.htm) | 2 499 zł | **2 555 zł** | +2.2% |  |  | Dostępny w magazynie |
-| [Chauvet DJ GigBAR Move + ILS](https://www.thomann.pl/chauvet_dj_gigbar_move_ils.htm) | 4 999 zł | **5 099 zł** | +2.0% |  |  | Dostępny w magazynie |
-| [Daddario PW-IRMM-01 Micro Mute Sensor](https://www.thomann.pl/daddario_pw_irmm_01_micro_mute_sensor.htm) | 388 zł | **395 zł** | +1.8% |  |  | Dostępny w magazynie |
-| [Slate Digital ML-2A](https://www.thomann.pl/slate_digital_ml_2a.htm) | 1 169 zł | **1 190 zł** | +1.8% |  |  | Dostępny w magazynie |
-| [Celemony Melodyne 5 essential](https://www.thomann.pl/celemony_melodyne_5_essential.htm) | 109 zł | **111 zł** | +1.8% |  |  | Pobierz licencję |
-| [ifi Audio GO link 2 Max](https://www.thomann.pl/ifi_audio_go_link_2_max.htm) | 388 zł | **395 zł** | +1.8% |  |  | Dostępny w magazynie |
-| [dB Technologies IG3T the box pro A121 PowerSet](https://www.thomann.pl/db_technologies_ig3t_the_box_pro_a121_powerset.htm) | 29 690 zł | **30 190 zł** | +1.7% |  |  | Dostępny w magazynie |
-
-…and 10 more in the full report.
-
-### 🏷️ Discount changes (19)
+### 🏷️ Discount changes (2)
 
 | Product | Price | Discount was | Discount now |
 |---|--:|--:|--:|
-| [Schagerl TR-620L Bb-Trumpet](https://www.thomann.pl/schagerl_tr_620l_bb_trumpet.htm) | 3 399 zł | -17% | **-19%** |
-| [Steven Slate Audio VSX Immersion One](https://www.thomann.pl/steven_slate_audio_vsx_immersion_one.htm) | 2 499 zł | -30% | **-31%** |
-| [ChamSys QuickQ 20 Tour Bundle](https://www.thomann.pl/chamsys_quickq_20_tour_bundle.htm) | 12 390 zł | -6% | **none** |
-| [Stageworx BLS-315 Pro LS Bundle](https://www.thomann.pl/stageworx_bls_315_pro_ls_bundle.htm) | 198 zł | -18% | **-19%** |
-| [SSL Connex](https://www.thomann.pl/ssl_connex.htm) | 119 zł | -61% | **none** |
-| [Stairville Remus QuadZoom 610](https://www.thomann.pl/stairville_remus_quadzoom_610.htm) | 555 zł | -14% | **-15%** |
-| [beyerdynamic DT 1990 Pro MKII](https://www.thomann.pl/beyerdynamic_dt_1990_pro_mkii.htm) | 2 199 zł | -6% | **-8%** |
-| [Digitech DOD Mini Volume Pedal](https://www.thomann.pl/digitech_dod_mini_volume_pedal.htm) | 345 zł | -24% | **-25%** |
-| [Celemony Melodyne 5 studio UG Bundle](https://www.thomann.pl/celemony_melodyne_5_studio_ug_bundle.htm) | 1 099 zł | -59% | **none** |
-| [Celemony Melodyne 5 editor UG Bundle](https://www.thomann.pl/celemony_melodyne_5_editor_ug_bundle.htm) | 749 zł | -47% | **none** |
+| [Schagerl Meister Double Trumpet Case](https://www.thomann.pl/schagerl_meister_double_trumpet_case.htm) | 999 zł | -15% | **-16%** |
+| [Yamaha TAG1 C Natural](https://www.thomann.pl/yamaha_tag1_c_natural.htm) | 4 499 zł | -20% | **-21%** |
 
-…and 9 more in the full report.
-
-### ✅ Back in stock (3)
+### 📦 Stock changes (6)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 749 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Harley Benton EX-84 Modern BK](https://www.thomann.pl/harley_benton_het_550_bk.htm) | 1 190 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-
-### 📦 Stock changes (5)
-
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Hils Next HN3 Met. Emerald Green](https://www.thomann.pl/hils_next_hn3_met._emerald_green.htm) | 1 469 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Fusion-III HSH EB FBLB w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm) | 1 545 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Global Truss Speaker Mount for F31-45](https://www.thomann.pl/global_truss_speaker_mount_for_f31_45.htm) | 345 zł | Dostępny w magazynie | **Dostępny za 4–5 tygodnie** |
-| [Hotone Ampero II Press](https://www.thomann.pl/hotone_ampero_press_ii.htm) | 259 zł | Dostępny w magazynie | **Dostępny za 4–5 tygodnie** |
-| [Harley Benton Fusion-III HSH EB FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN6 Ultra Violet](https://www.thomann.pl/hils_next_hn6_ultra_violet.htm) | 2 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Höfner Verythin CT Deluxe Special SB](https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm) | 2 199 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 222 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBV 990SKL 4/4 Electric Violin](https://www.thomann.pl/harley_benton_hbv_990skl_4_4_electric_violin.htm) | 568 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Kahuna CLU-50T](https://www.thomann.pl/harley_benton_kahuna_clu_50t.htm) | 389 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 
