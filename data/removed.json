@@ -431,6 +431,10 @@
   "price": 6999.0,
   "removed_at": "2026-11-27T15:59Z"
  },
+ "hoefner_shorty_bass_white.htm": {
+  "price": 655.0,
+  "removed_at": "2026-11-27T18:59Z"
+ },
  "hoefner_vintage_62_beatles_bass.htm": {
   "price": 10890.0,
   "removed_at": "2026-11-18T21:59Z"
@@ -530,6 +534,10 @@
  "litecraft_beamx.12.htm": {
   "price": 1299.0,
   "removed_at": "2026-11-16T19:34Z"
+ },
+ "luxibel_b_expo_100_mww_bundle.htm": {
+  "price": 1535.0,
+  "removed_at": "2026-11-27T18:59Z"
  },
  "m_audio_bx3.htm": {
   "price": 309.0,
@@ -723,6 +731,10 @@
   "price": 3333.0,
   "removed_at": "2026-11-26T16:00Z"
  },
+ "pigtronix_gatekeeper_micro_pedal.htm": {
+  "price": 198.0,
+  "removed_at": "2026-11-27T18:59Z"
+ },
  "prs_mark_tremonti_stoptail_ct.htm": {
   "price": 19790.0,
   "removed_at": "2026-11-24T22:00Z"
@@ -903,6 +915,10 @@
   "price": 11990.0,
   "removed_at": "2026-11-22T21:59Z"
  },
+ "soundcraft_efx12_mkii.htm": {
+  "price": 1799.0,
+  "removed_at": "2026-11-27T18:59Z"
+ },
  "sterling_stingray_short_rayss4_frd.htm": {
   "price": 2899.0,
   "removed_at": "2026-11-27T03:59Z"
@@ -958,6 +974,10 @@
  "takamine_gc3ce_cedar_natural.htm": {
   "price": 1599.0,
   "removed_at": "2026-11-27T15:59Z"
+ },
+ "takamine_gn51ce_bsb_2.htm": {
+  "price": 1888.0,
+  "removed_at": "2026-11-27T18:59Z"
  },
  "takamine_gn71ce_2_bsb.htm": {
   "price": 1999.0,
@@ -1091,6 +1111,10 @@
   "price": 2799.0,
   "removed_at": "2026-11-26T01:00Z"
  },
+ "yamaha_tag1_e_natural.htm": {
+  "price": 2599.0,
+  "removed_at": "2026-11-27T18:59Z"
+ },
  "yamaha_tag1_e_translucent_black.htm": {
   "price": 2599.0,
   "removed_at": "2026-11-25T18:59Z"
@@ -1098,6 +1122,10 @@
  "yamaha_tas3_c_natural.htm": {
   "price": 5899.0,
   "removed_at": "2026-11-24T19:00Z"
+ },
+ "yamaha_tas3_c_sand_burst.htm": {
+  "price": 5899.0,
+  "removed_at": "2026-11-27T18:59Z"
  },
  "yamaha_ydp_s36_wh_set.htm": {
   "price": 3999.0,
