@@ -3,66 +3,89 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-27 11:00 CET · **1815** deals tracked of 1814 advertised · checks every **3 h**
+**Last check:** 2026-11-27 13:59 CET · **1812** deals tracked of 1813 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🆕 3 new deals · 🔁 1 returned deals · ❌ 3 removed deals · 💸 1 price drops · ✅ 3 back in stock · 📦 12 stock changes → [full report](changes/2026-11-27T1000Z.md)
+🆕 9 new deals · ❌ 19 removed deals · 💸 1 price drops · 📈 1 price increases · 🏷️ 1 discount changes · ✅ 5 back in stock · 📦 11 stock changes → [full report](changes/2026-11-27T1259Z.md)
 
-### 🆕 New deals (3)
-
-| Product | Price | Discount | 30-day best | Stock | Badge |
-|---|--:|--:|--:|---|---|
-| [Teenage Engineering OP-XY](https://www.thomann.pl/teenage_engineering_op_xy.htm) | 7 499 zł | ‑16% | 8 899 zł | Dostępny w magazynie |  |
-| [Bach TR-501 Student](https://www.thomann.pl/bach_tr501_student.htm) | 2 090 zł | ‑16% | 2 490 zł | Dostępny w magazynie |  |
-| [Serato Sample](https://www.thomann.pl/serato_sample.htm) | 262 zł |  |  | Pobierz licencję |  |
-
-### 🔁 Returned deals (1)
-
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Laserworld DS-3000RGB MK5](https://www.thomann.pl/laserworld_ds_3000rgb_mk5.htm) | **4 399 zł** | 4 399 zł |  |  | dostępny w magazynie | 2026‑11‑26 19:59 |
-
-### ❌ Removed deals (3)
+### 🆕 New deals (9)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Mackie Thump 215](https://www.thomann.pl/mackie_thump_215.htm) | 1 325 zł |  |  | Dostępny w magazynie | Deal |
-| [Nux Metal Core Deluxe MKII](https://www.thomann.pl/nux_metal_core_deluxe_mkii.htm) | 259 zł |  |  | Dostępny w magazynie |  |
-| [One Control Super Apricot OD - Overdrive](https://www.thomann.pl/one_control_super_apricot_od_overdrive_624366.htm) | 215 zł |  |  | Dostępny w magazynie |  |
+| [Citadel Particle Drive](https://www.thomann.pl/citadel_particle_drive.htm) | 333 zł | ‑49% | 649 zł | Dostępny w magazynie |  |
+| [Citadel Planetary Phase](https://www.thomann.pl/citadel_planetary_phase.htm) | 333 zł | ‑49% | 649 zł | Dostępny w magazynie |  |
+| [Citadel Overtuber](https://www.thomann.pl/citadel_overtuber.htm) | 555 zł | ‑47% | 1 044 zł | Dostępny w magazynie |  |
+| [Citadel Vector](https://www.thomann.pl/citadel_vector.htm) | 333 zł | ‑44% | 599 zł | Dostępny w magazynie |  |
+| [Citadel Plutonium Overdrive](https://www.thomann.pl/citadel_plutonium_overdrive.htm) | 333 zł | ‑44% | 599 zł | Dostępny w magazynie |  |
+| [Hollyland Solidcom SE Pro 9S](https://www.thomann.pl/hollyland_solidcom_se_pro_9s.htm) | 5 599 zł | ‑19% | 6 899 zł | Dostępny w magazynie |  |
+| [Hollyland LARK M2 Mini Combo](https://www.thomann.pl/hollyland_lark_m2_mini_combo.htm) | 339 zł | ‑18% | 411 zł | Dostępny w magazynie |  |
+| [Hollyland LARK MAX 2 Solo](https://www.thomann.pl/hollyland_lark_max_2_solo.htm) | 569 zł | ‑17% | 689 zł | Dostępny w magazynie |  |
+| [Hollyland LARK M2 with USB-C Plug](https://www.thomann.pl/hollyland_lark_m2_with_usb_c_plug.htm) | 293 zł | ‑12% | 333 zł | Dostępny w magazynie |  |
+
+### ❌ Removed deals (19)
+
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [One Control Granith Grey Booster](https://www.thomann.pl/one_control_granith_grey_booster_574721.htm) | 215 zł | ‑57% | 499 zł | Dostępny w magazynie |  |
+| [Mapex Saturn Evolution Maple-MZ](https://www.thomann.pl/mapex_saturn_evolution_maple_mz.htm) | 5 699 zł | ‑49% | 11 190 zł | Dostępny w magazynie |  |
+| [Torso Electronics T1 White](https://www.thomann.pl/torso_electronics_t1_white.htm) | 1 990 zł | ‑17% | 2 399 zł | Dostępny w magazynie |  |
+| [Takamine GN71CE BSB](https://www.thomann.pl/takamine_gn71ce_2_bsb.htm) | 1 999 zł | ‑16% | 2 390 zł | Dostępny w magazynie |  |
+| [Manuel Rodriguez Cafe Cortado Curly Walnut](https://www.thomann.pl/manuel_rodriguez_cafe_cortado_curly_walnut.htm) | 4 799 zł | ‑14% | 5 599 zł | Dostępny w magazynie |  |
+| [Arturia KeyLab MkII 49 White](https://www.thomann.pl/arturia_keylab_mkii_49_white.htm) | 888 zł | ‑8% | 966 zł | Dostępny w magazynie |  |
+| [B&S BS210-1-0 Prodige Bb- Trp. Set](https://www.thomann.pl/bs_bs210_1_0_prodige_bb_trp._set.htm) | 3 222 zł |  |  | Dostępny w magazynie |  |
+| [B&S BS210-1-0 Prodige Bb- Trumpet](https://www.thomann.pl/bs_bs210_1_0_prodige_bb_trumpet.htm) | 3 090 zł |  |  | Dostępny w magazynie |  |
+| [dB Technologies Opera 12](https://www.thomann.pl/db_technologies_opera_12.htm) | 1 650 zł |  |  | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | GIVEAWAY |
+| [Electro Harmonix Pico Shimmer Reverb](https://www.thomann.pl/electro_harmonix_pico_shimmer_reverb.htm) | 579 zł |  |  | Dostępny w magazynie |  |
+
+…and 9 more in the full report.
 
 ### 💸 Price drops (1)
 
 | Product | Was | Now | Change | Discount | 30-day best | Stock |
 |---|--:|--:|--:|--:|--:|---|
-| [LD Systems ANNY 8 White](https://www.thomann.pl/ld_systems_anny_8_white.htm) | 1 899 zł | **1 869 zł** | -1.6% |  |  | Dostępny w magazynie |
+| [Hercules DJ Control Inpulse T7](https://www.thomann.pl/hercules_dj_control_inpulse_t7.htm) | 1 955 zł | **1 890 zł** | -3.3% |  |  | Dostępny w magazynie |
 
-### ✅ Back in stock (3)
+### 📈 Price increases (1)
+
+| Product | Was | Now | Change | Discount | 30-day best | Stock |
+|---|--:|--:|--:|--:|--:|---|
+| [Citadel Dynazero](https://www.thomann.pl/citadel_dynazero.htm) | 389 zł | **395 zł** | +1.5% |  |  | Dostępny w magazynie |
+
+### 🏷️ Discount changes (1)
+
+| Product | Price | Discount was | Discount now |
+|---|--:|--:|--:|
+| [Citadel Dynazero](https://www.thomann.pl/citadel_dynazero.htm) | 395 zł | -44% | **none** |
+
+### ✅ Back in stock (5)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Hils HZB4 SBK](https://www.thomann.pl/hils_hzb4_sbk.htm) | 1 959 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Breedlove Discovery S Concert Mahogany](https://www.thomann.pl/breedlove_discovery_s_concert_mahogany.htm) | 875 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Thomann Student Pro Viola Set 16"](https://www.thomann.pl/thomann_student_pro_viola_set_16.htm) | 666 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-500 BK w/Soran Dual Stomp](https://www.thomann.pl/harley_benton_sc_500_bk_w_soran_dual_stomp.htm) | 999 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 749 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton SC-500BK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_sc_500bk_w_marshall_mg15gfx.htm) | 1 399 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Harley Benton HBWY-25 BKS w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_hbwy_25_bks_w_soran_tiny_stomp.htm) | 655 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (12)
+### 📦 Stock changes (11)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Alfred Stingl by Höfner AS185 V1/4 Violin Set A.S.](https://www.thomann.pl/alfred_stingl_by_hoefner_as185_v1_4_violin_set_as.htm) | 438 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Marcus Miller M6 Headless 5 TS](https://www.thomann.pl/marcus_miller_m6_headless_5_ts.htm) | 3 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-Custom III Baritone AB](https://www.thomann.pl/harley_benton_sc_custom_iii_baritone_ab.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Ableton Move - Live Standard Bundle](https://www.thomann.pl/ableton_move_live_standard_bundle.htm) | 2 444 zł | Dostępny w magazynie | **wyprzedany** |
-| [Harley Benton DC-200 CH w/Soran Tiny Stomp](https://www.thomann.pl/harley_benton_dc_200_ch_w_soran_tiny_stomp.htm) | 655 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [ESP SN-201 HT BK](https://www.thomann.pl/esp_sn_201_ht_bk.htm) | 1 555 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton DC-200CH w/Marshall MG10G](https://www.thomann.pl/harley_benton_dc_200ch_w_marshall_mg10g.htm) | 777 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Mooer Hornet 15i Modeling Amp White](https://www.thomann.pl/mooer_hornet_05i_modeling_amp_white.htm) | 353 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Harley Benton EX-84 Modern BK](https://www.thomann.pl/harley_benton_het_550_bk.htm) | 1 190 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Kala KA-20CE Concert Ukulele](https://www.thomann.pl/kala_ka_20ce_concert_ukulele.htm) | 215 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Harley Benton HBV 990BCF 4/4 Electric Violin](https://www.thomann.pl/harley_benton_hbv_990bcf_4_4_electric_violin.htm) | 588 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ludwig 13"x07" Universal Brass Chrome](https://www.thomann.pl/ludwig_13_x07_universal_brass_chrome.htm) | 1 299 zł | Dostępny w magazynie | **Dostępny za 2–3 tygodnie** |
+| [Alfred Stingl by Höfner AS160 V1/4 Violinset](https://www.thomann.pl/alfred_stingl_violinset_as_160_v_14.htm) | 525 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ableton Move - Live Standard Bundle](https://www.thomann.pl/ableton_move_live_standard_bundle.htm) | 2 444 zł | wyprzedany | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton Fusion-III HSS Roasted w/Safe](https://www.thomann.pl/harley_benton_fusion_iii_hss_roasted_w_safe.htm) | 1 666 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Eurolite LED TMH-X4 Tour Pack 4in1](https://www.thomann.pl/eurolite_led_tmh_x4_tour_pack_4in1.htm) | 8 890 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Breedlove Discovery S Conc 12-St CE BS](https://www.thomann.pl/breedlove_discovery_s_conc_12_st_ce_bs.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Ableton Push 3 - Live Suite Bundle](https://www.thomann.pl/ableton_push_3_live_suite_bundle.htm) | 4 899 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Audix OMX-E](https://www.thomann.pl/audix_omx_e.htm) | 333 zł | Dostępny w magazynie | **Dostępny za 3–4 tygodnie** |
+| [LD Systems Maui 11 G3 Mix W](https://www.thomann.pl/ld_systems_maui_11_g3_mix_w.htm) | 5 444 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
-…and 2 more in the full report.
+…and 1 more in the full report.
 
 <!-- DASHBOARD:END -->
 
