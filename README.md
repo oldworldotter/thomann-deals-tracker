@@ -3,40 +3,37 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-28 11:00 CET · **1794** deals tracked of 1794 advertised · checks every **3 h**
+**Last check:** 2026-11-28 14:00 CET · **1785** deals tracked of 1785 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 3 removed deals · ✅ 1 back in stock · 📦 8 stock changes → [full report](changes/2026-11-28T1000Z.md)
+❌ 6 removed deals · ✅ 1 back in stock · 📦 2 stock changes → [full report](changes/2026-11-28T1300Z.md)
 
-### ❌ Removed deals (3)
+### ❌ Removed deals (6)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [ESP LTD EC-1000 FT Black Fluence](https://www.thomann.pl/esp_ltd_ec_01_ft_black_fluence.htm) | 4 899 zł | ‑42% | 8 444 zł | Dostępny za 1–2 tygodnie |  |
-| [Focal Alpha 80 Evo](https://www.thomann.pl/focal_alpha_80_evo.htm) | 1 329 zł |  |  | Dostępny w magazynie |  |
-| [Tone City Substation Multi-Power Supply](https://www.thomann.pl/tone_city_substation_multi_power_supply.htm) | 171 zł |  |  | Dostępny w magazynie |  |
+| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | 1 299 zł | ‑22% | 1 655 zł | Dostępny w magazynie |  |
+| [DAngelico Excel EXL1 Dark Iced Tea Burst](https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea_burst.htm) | 3 699 zł | ‑15% | 4 333 zł | Dostępny w magazynie |  |
+| [Kala KA-TEAK-S Soprano Ukulele](https://www.thomann.pl/kala_ka_teak_s_soprano_ukulele.htm) | 154 zł |  |  | Dostępny w magazynie |  |
+| [Solar Guitars A2.6C](https://www.thomann.pl/solar_guitars_a2.6_c_g2.htm) | 2 990 zł |  |  | Dostępny w magazynie |  |
+| [Supro Delta King 12 CE](https://www.thomann.pl/supro_delta_king_12_combo_emerland.htm) | 1 769 zł |  |  | dostępny w magazynie |  |
+| [Yamaha Reface CP](https://www.thomann.pl/yamaha_reface_cp.htm) | 1 359 zł |  |  | Dostępny w magazynie |  |
 
 ### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [ESP SN-201 HT BK](https://www.thomann.pl/esp_sn_201_ht_bk.htm) | 1 555 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+| [Harley Benton Kahuna CLU-50T](https://www.thomann.pl/harley_benton_kahuna_clu_50t.htm) | 389 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
 
-### 📦 Stock changes (8)
+### 📦 Stock changes (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Citadel Planetary Phase](https://www.thomann.pl/citadel_planetary_phase.htm) | 333 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Hils HZB4 SBK](https://www.thomann.pl/hils_hzb4_sbk.htm) | 1 959 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha CLP-875 WH](https://www.thomann.pl/yamaha_clp_875_wh.htm) | 13 080 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
-| [Recording King RM-999E-RN](https://www.thomann.pl/recording_king_rm_999e_rn.htm) | 2 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 719 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton CLP-12SM BRS Solid Top](https://www.thomann.pl/harley_benton_clp_12sm_brs_solid_top.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton CLD-60SMCE NT w/Bag](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle.htm) | 549 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Citadel Dynazero](https://www.thomann.pl/citadel_dynazero.htm) | 395 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Recording King RM-999E-AB](https://www.thomann.pl/recording_king_rm_999e_ab.htm) | 3 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

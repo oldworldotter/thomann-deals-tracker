@@ -135,6 +135,10 @@
   "price": 3699.0,
   "removed_at": "2026-11-20T06:59Z"
  },
+ "dangelico_excel_exl1_dark_iced_tea_burst.htm": {
+  "price": 3699.0,
+  "removed_at": "2026-11-28T13:00Z"
+ },
  "dangelico_excel_style_b_amber.htm": {
   "price": 3699.0,
   "removed_at": "2026-11-19T12:59Z"
@@ -375,6 +379,10 @@
   "price": 1977.0,
   "removed_at": "2026-11-25T00:57Z"
  },
+ "harley_benton_fusion_iii_hsh_roasted_fblb.htm": {
+  "price": 1299.0,
+  "removed_at": "2026-11-28T13:00Z"
+ },
  "harley_benton_fusion_iv_hh_mn_otc.htm": {
   "price": 1499.0,
   "removed_at": "2026-11-19T21:59Z"
@@ -490,6 +498,10 @@
  "kala_ka_s_satin_mahogany_soprano.htm": {
   "price": 215.0,
   "removed_at": "2026-11-26T16:00Z"
+ },
+ "kala_ka_teak_s_soprano_ukulele.htm": {
+  "price": 154.0,
+  "removed_at": "2026-11-28T13:00Z"
  },
  "kala_ukadelic_soprano_uku_bl.htm": {
   "price": 88.0,
@@ -899,6 +911,10 @@
   "price": 5699.0,
   "removed_at": "2026-11-20T21:59Z"
  },
+ "solar_guitars_a2.6_c_g2.htm": {
+  "price": 2990.0,
+  "removed_at": "2026-11-28T13:00Z"
+ },
  "solar_guitars_a2.6_ln.htm": {
   "price": 2866.0,
   "removed_at": "2026-11-25T13:00Z"
@@ -990,6 +1006,10 @@
  "supro_airwave.htm": {
   "price": 2599.0,
   "removed_at": "2026-11-27T21:59Z"
+ },
+ "supro_delta_king_12_combo_emerland.htm": {
+  "price": 1769.0,
+  "removed_at": "2026-11-28T13:00Z"
  },
  "suzuki_omnichord_om_108.htm": {
   "price": 2999.0,
@@ -1162,6 +1182,10 @@
  "yamaha_psr_sx600.htm": {
   "price": 2699.0,
   "removed_at": "2026-11-27T21:59Z"
+ },
+ "yamaha_reface_cp.htm": {
+  "price": 1359.0,
+  "removed_at": "2026-11-28T13:00Z"
  },
  "yamaha_seqtrak_black.htm": {
   "price": 1044.0,
