@@ -5201,3 +5201,7 @@ ts,id,event,price,discount,stock_state
 2026-11-28T04:00Z,harley_benton_fusion_iii_hsh_roasted_fblb.htm,returned,1299.0,22,in_stock
 2026-11-28T04:00Z,martin_guitar_sc_13e_mod_ziricote_burst_sp.htm,returned,7899.0,,in_stock
 2026-11-28T04:00Z,km_12197.htm,removed,171.0,,in_stock
+2026-11-28T07:00Z,stairville_hl_x90_rgb_ww_bundle.htm,returned,1999.0,,out
+2026-11-28T07:00Z,harley_benton_pj_5_sbk_deluxe_series.htm,stock,568.0,,delayed
+2026-11-28T07:00Z,harley_benton_sc_custom_iii_gold_top.htm,stock,1090.0,16,delayed
+2026-11-28T07:00Z,thomann_student_pro_viola_set_16.htm,stock,666.0,21,delayed

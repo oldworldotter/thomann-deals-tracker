@@ -6765,9 +6765,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "esp_ltd_ec_01_ft_black_fluence.htm",
   "last_change": "2026-11-25T00:57Z",
+  "last_seen": "2026-11-28T04:00Z",
   "max_price": 4899.0,
   "min_price": 4899.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "ESP LTD EC-1000 FT Black Fluence",
   "price": 4899.0,
   "ref_price": 8444.0,
@@ -8826,9 +8827,10 @@
   "first_seen": "2026-11-27T15:59Z",
   "id": "focal_alpha_80_evo.htm",
   "last_change": "2026-11-27T15:59Z",
+  "last_seen": "2026-11-28T04:00Z",
   "max_price": 1329.0,
   "min_price": 1329.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Focal Alpha 80 Evo",
   "price": 1329.0,
   "ref_price": null,
@@ -10459,7 +10461,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 4–5 tygodnie",
+  "stock": "Dostępny za 1–2 tygodnie",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/global_truss_speaker_mount_for_f31_45.htm"
  },
@@ -12208,7 +12210,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_pj_5_sbk_deluxe_series.htm",
-  "last_change": "2026-11-20T21:59Z",
+  "last_change": "2026-11-28T07:00Z",
   "max_price": 568.0,
   "min_price": 555.0,
   "missing_runs": 0,
@@ -12219,8 +12221,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_pj_5_sbk_deluxe_series.htm"
  },
  "harley_benton_pj_75ow_vintage.htm": {
@@ -12588,7 +12590,7 @@
   "discount": 16,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_sc_custom_iii_gold_top.htm",
-  "last_change": "2026-11-27T15:59Z",
+  "last_change": "2026-11-28T07:00Z",
   "max_price": 1090.0,
   "min_price": 1090.0,
   "missing_runs": 0,
@@ -12599,8 +12601,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm"
  },
  "harley_benton_sc_custom_iii_quilt_midnight.htm": {
@@ -27740,6 +27742,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/stairville_hl_x180_cw_ww.htm"
  },
+ "stairville_hl_x90_rgb_ww_bundle.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-28T07:00Z",
+  "id": "stairville_hl_x90_rgb_ww_bundle.htm",
+  "last_change": "2026-11-28T07:00Z",
+  "max_price": 1999.0,
+  "min_price": 1999.0,
+  "missing_runs": 0,
+  "name": "Stairville HL-x90 RGB WW Bundle",
+  "price": 1999.0,
+  "ref_price": null,
+  "reported_price": 1999.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "wyprzedany",
+  "stock_state": "out",
+  "url": "https://www.thomann.pl/stairville_hl_x90_rgb_ww_bundle.htm"
+ },
  "stairville_hz_1500_pro_hazer_dmx_bundle.htm": {
   "badge": "",
   "discount": 10,
@@ -31605,7 +31627,7 @@
   "discount": 21,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_student_pro_viola_set_16.htm",
-  "last_change": "2026-11-27T10:00Z",
+  "last_change": "2026-11-28T07:00Z",
   "max_price": 666.0,
   "min_price": 666.0,
   "missing_runs": 0,
@@ -31616,8 +31638,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/thomann_student_pro_viola_set_16.htm"
  },
  "thomann_studio_table_xl_mkii_black.htm": {
@@ -32406,9 +32428,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "tone_city_substation_multi_power_supply.htm",
   "last_change": "2026-11-23T18:59Z",
+  "last_seen": "2026-11-28T04:00Z",
   "max_price": 171.0,
   "min_price": 170.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Tone City Substation Multi-Power Supply",
   "price": 171.0,
   "ref_price": null,
