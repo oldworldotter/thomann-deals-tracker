@@ -1,4 +1,8 @@
 {
+ "alesis_nitro_ultimate_drum_kit_bundle.htm": {
+  "price": 3499.0,
+  "removed_at": "2026-11-28T01:00Z"
+ },
  "alesis_strike_multipad.htm": {
   "price": 1990.0,
   "removed_at": "2026-11-22T00:59Z"
@@ -294,6 +298,10 @@
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
   "removed_at": "2026-11-18T15:59Z"
+ },
+ "fun_generation_led_puck_one_set_of_2.htm": {
+  "price": 219.0,
+  "removed_at": "2026-11-28T01:00Z"
  },
  "fun_generation_led_puck_one_set_of_4_bundle.htm": {
   "price": 399.0,
@@ -895,6 +903,10 @@
   "price": 499.0,
   "removed_at": "2026-11-27T12:59Z"
  },
+ "smoke_factory_tour_hazer_iis.htm": {
+  "price": 5099.0,
+  "removed_at": "2026-11-28T01:00Z"
+ },
  "solar_guitars_a1.7aan.htm": {
   "price": 5699.0,
   "removed_at": "2026-11-20T21:59Z"
@@ -950,6 +962,10 @@
  "source_audio_gemini_chorus.htm": {
   "price": 568.0,
   "removed_at": "2026-11-27T21:59Z"
+ },
+ "stairville_hl_x90_rgb_ww_bundle.htm": {
+  "price": 1999.0,
+  "removed_at": "2026-11-28T01:00Z"
  },
  "sterling_by_music_man_stingray_short_rayss4_tlbl.htm": {
   "price": 2959.0,
@@ -1103,6 +1119,10 @@
   "price": 389.0,
   "removed_at": "2026-11-20T21:59Z"
  },
+ "walrus_audio_canvas_rehearsal.htm": {
+  "price": 744.0,
+  "removed_at": "2026-11-28T01:00Z"
+ },
  "walrus_audio_sloe_multi_texture_reverb.htm": {
   "price": 777.0,
   "removed_at": "2026-11-18T00:59Z"
@@ -1142,6 +1162,10 @@
  "yamaha_hph_mt5w.htm": {
   "price": 431.0,
   "removed_at": "2026-11-26T01:00Z"
+ },
+ "yamaha_hph_mt8.htm": {
+  "price": 749.0,
+  "removed_at": "2026-11-28T01:00Z"
  },
  "yamaha_hs_8_mp.htm": {
   "price": 1999.0,

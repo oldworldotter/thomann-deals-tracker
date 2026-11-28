@@ -3,48 +3,46 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-27 22:59 CET · **1794** deals tracked of 1796 advertised · checks every **3 h**
+**Last check:** 2026-11-28 02:00 CET · **1793** deals tracked of 1793 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 12 removed deals · 🏷️ 2 discount changes · 📦 6 stock changes → [full report](changes/2026-11-27T2159Z.md)
+❌ 6 removed deals · ✅ 2 back in stock · 📦 10 stock changes → [full report](changes/2026-11-28T0100Z.md)
 
-### ❌ Removed deals (12)
+### ❌ Removed deals (6)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Blackstar Carry On Digital Flute, black](https://www.thomann.pl/blackstar_carry_on_digital_flute_black.htm) | 173 zł | ‑56% | 392 zł | Dostępny w magazynie |  |
-| [Supro Airwave](https://www.thomann.pl/supro_airwave.htm) | 2 599 zł | ‑56% | 5 899 zł | Dostępny za 1–2 tygodnie |  |
-| [Aquarian 22" Super Kick Clear Bass Set](https://www.thomann.pl/aquarian_22_super_kick_clear_bass_set.htm) | 259 zł | ‑52% | 545 zł | Dostępny w magazynie |  |
-| [Sela Harmony Chimes 9 Dark](https://www.thomann.pl/sela_harmony_chimes_9_dark.htm) | 299 zł | ‑47% | 568 zł | Dostępny w magazynie |  |
-| [Yamaha PSR-SX600](https://www.thomann.pl/yamaha_psr_sx600.htm) | 2 699 zł | ‑14% | 3 150 zł | Dostępny w magazynie |  |
-| [Austrian Audio Hi-X15](https://www.thomann.pl/austrian_audio_hi_x15.htm) | 349 zł |  |  | Dostępny w magazynie |  |
-| [Heritage Musical Spoon Medium Blue](https://www.thomann.pl/heritage_musical_spoon_medium_blue.htm) | 129 zł |  |  | Dostępny w magazynie |  |
-| [IK Multimedia iRig Pads](https://www.thomann.pl/ik_multimedia_irig_pads.htm) | 215 zł |  |  | Dostępny w magazynie |  |
-| [One Control Octave Up Fuzz](https://www.thomann.pl/one_control_octave_up_fuzz.htm) | 568 zł |  |  | Dostępny w magazynie |  |
-| [Source Audio Gemini Chorus](https://www.thomann.pl/source_audio_gemini_chorus.htm) | 568 zł |  |  | Dostępny w magazynie |  |
+| [Alesis Nitro Ultimate Drum Kit Bundle](https://www.thomann.pl/alesis_nitro_ultimate_drum_kit_bundle.htm) | 3 499 zł |  |  | Dostępny w magazynie |  |
+| [Fun Generation LED Puck ONE Set of 2](https://www.thomann.pl/fun_generation_led_puck_one_set_of_2.htm) | 219 zł |  |  | Dostępny w magazynie |  |
+| [Smoke Factory Tour Hazer II-S](https://www.thomann.pl/smoke_factory_tour_hazer_iis.htm) | 5 099 zł |  |  | Dostępny w magazynie | GIVEAWAY |
+| [Stairville HL-x90 RGB WW Bundle](https://www.thomann.pl/stairville_hl_x90_rgb_ww_bundle.htm) | 1 999 zł |  |  | wyprzedany |  |
+| [Walrus Audio Canvas Rehearsal](https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm) | 744 zł |  |  | Dostępny w magazynie |  |
+| [Yamaha HPH-MT8](https://www.thomann.pl/yamaha_hph_mt8.htm) | 749 zł |  |  | Dostępny w magazynie |  |
 
-…and 2 more in the full report.
-
-### 🏷️ Discount changes (2)
-
-| Product | Price | Discount was | Discount now |
-|---|--:|--:|--:|
-| [Schagerl Meister Double Trumpet Case](https://www.thomann.pl/schagerl_meister_double_trumpet_case.htm) | 999 zł | -15% | **-16%** |
-| [Yamaha TAG1 C Natural](https://www.thomann.pl/yamaha_tag1_c_natural.htm) | 4 499 zł | -20% | **-21%** |
-
-### 📦 Stock changes (6)
+### ✅ Back in stock (2)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Hils Next HN6 Ultra Violet](https://www.thomann.pl/hils_next_hn6_ultra_violet.htm) | 2 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Höfner Verythin CT Deluxe Special SB](https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm) | 2 199 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-Custom III Quilt Midnight](https://www.thomann.pl/harley_benton_sc_custom_iii_quilt_midnight.htm) | 1 222 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton HBV 990SKL 4/4 Electric Violin](https://www.thomann.pl/harley_benton_hbv_990skl_4_4_electric_violin.htm) | 568 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton HBZ-2005 Deluxe Series](https://www.thomann.pl/harley_benton_hbz2005.htm) | 1 299 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton Kahuna CLU-50T](https://www.thomann.pl/harley_benton_kahuna_clu_50t.htm) | 389 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN6 Ultra Violet](https://www.thomann.pl/hils_next_hn6_ultra_violet.htm) | 2 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| [Höfner Verythin CT Deluxe Special SB](https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm) | 2 199 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+
+### 📦 Stock changes (10)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Yamaha PSR-E583](https://www.thomann.pl/yamaha_psr_e583.htm) | 1 799 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Stairville BEL4 Battery Event Ligh Bundle](https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm) | 974 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 749 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha PSR-E483 Bag Bundle](https://www.thomann.pl/yamaha_psr_e483_bag_bundle.htm) | 1 539 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Hils Next HN4 Ivory](https://www.thomann.pl/hils_next_hn4_ivory.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton TB-70VS LH Deluxe Series](https://www.thomann.pl/harley_benton_tb_70vs_lh_deluxe_series.htm) | 777 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton GS-Travel-E Mahogany](https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Audio-Technica ATH-M50XBT2](https://www.thomann.pl/audio_technica_ath_m50_xbt2.htm) | 722 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha PSR-E483](https://www.thomann.pl/yamaha_psr_e483.htm) | 1 359 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

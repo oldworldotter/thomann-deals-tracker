@@ -925,27 +925,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/alesis_nitro_max_kit.htm"
  },
- "alesis_nitro_ultimate_drum_kit_bundle.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "alesis_nitro_ultimate_drum_kit_bundle.htm",
-  "last_change": "2026-11-26T18:59Z",
-  "last_seen": "2026-11-27T18:59Z",
-  "max_price": 3499.0,
-  "min_price": 3444.0,
-  "missing_runs": 1,
-  "name": "Alesis Nitro Ultimate Drum Kit Bundle",
-  "price": 3499.0,
-  "ref_price": null,
-  "reported_price": 3499.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/alesis_nitro_ultimate_drum_kit_bundle.htm"
- },
  "alesis_samplepad_4.htm": {
   "badge": "",
   "discount": null,
@@ -2026,7 +2005,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/audio_technica_ath_m20xbt_wh.htm"
  },
@@ -2035,7 +2014,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "audio_technica_ath_m50_xbt2.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 722.0,
   "min_price": 715.0,
   "missing_runs": 0,
@@ -2046,8 +2025,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/audio_technica_ath_m50_xbt2.htm"
  },
  "audiomodern_riffer_4.htm": {
@@ -9324,27 +9303,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/fun_generation_led_pot_strobe_100.htm"
  },
- "fun_generation_led_puck_one_set_of_2.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "fun_generation_led_puck_one_set_of_2.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-27T18:59Z",
-  "max_price": 219.0,
-  "min_price": 218.0,
-  "missing_runs": 1,
-  "name": "Fun Generation LED Puck ONE Set of 2",
-  "price": 219.0,
-  "ref_price": null,
-  "reported_price": 218.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/fun_generation_led_puck_one_set_of_2.htm"
- },
  "fun_generation_magic_sky_led_bundle.htm": {
   "badge": "",
   "discount": null,
@@ -11530,7 +11488,7 @@
   "discount": 13,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_gs_travel_e_mahogany.htm",
-  "last_change": "2026-11-27T15:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 599.0,
   "min_price": 599.0,
   "missing_runs": 0,
@@ -11541,8 +11499,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm"
  },
  "harley_benton_guitartech_service_station.htm": {
@@ -12630,7 +12588,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_active_sbk_bundle_package.htm",
-  "last_change": "2026-11-27T18:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 749.0,
   "min_price": 735.0,
   "missing_runs": 0,
@@ -12641,8 +12599,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm"
  },
  "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm": {
@@ -12650,7 +12608,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm",
-  "last_change": "2026-11-27T18:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 1269.0,
   "min_price": 1259.0,
   "missing_runs": 0,
@@ -12661,8 +12619,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm"
  },
  "harley_benton_st_20hss_ca_w_marshall_mg15gfx.htm": {
@@ -12930,7 +12888,7 @@
   "discount": 10,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_tb_70vs_lh_deluxe_series.htm",
-  "last_change": "2026-11-26T21:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 777.0,
   "min_price": 777.0,
   "missing_runs": 0,
@@ -12941,8 +12899,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_tb_70vs_lh_deluxe_series.htm"
  },
  "harley_benton_te_20_bk_lefthand_std._1.htm": {
@@ -13730,7 +13688,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "hils_next_hn4_ivory.htm",
-  "last_change": "2026-11-26T10:00Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 1755.0,
   "min_price": 1745.0,
   "missing_runs": 0,
@@ -13741,8 +13699,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_next_hn4_ivory.htm"
  },
  "hils_next_hn5_ivory.htm": {
@@ -13810,7 +13768,7 @@
   "discount": 29,
   "first_seen": "2026-11-25T18:59Z",
   "id": "hils_next_hn6_ultra_violet.htm",
-  "last_change": "2026-11-27T21:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
   "missing_runs": 0,
@@ -13821,8 +13779,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hils_next_hn6_ultra_violet.htm"
  },
  "hitnmix_ripx_daw.htm": {
@@ -14250,7 +14208,7 @@
   "discount": null,
   "first_seen": "2026-11-18T18:17Z",
   "id": "hoefner_verythin_ct_deluxe_special_sb.htm",
-  "last_change": "2026-11-27T21:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 2199.0,
   "min_price": 2175.0,
   "missing_runs": 0,
@@ -14261,8 +14219,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm"
  },
  "hoefner_verythin_ct_special_brunette.htm": {
@@ -16732,9 +16690,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "km_12197.htm",
   "last_change": "2026-11-16T10:55Z",
+  "last_seen": "2026-11-27T21:59Z",
   "max_price": 171.0,
   "min_price": 170.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "K&M 12197",
   "price": 171.0,
   "ref_price": null,
@@ -26082,27 +26041,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/slingerland_14x65_radio_king_snare_wmp.htm"
  },
- "smoke_factory_tour_hazer_iis.htm": {
-  "badge": "GIVEAWAY",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "smoke_factory_tour_hazer_iis.htm",
-  "last_change": "2026-11-20T18:59Z",
-  "last_seen": "2026-11-27T18:59Z",
-  "max_price": 5099.0,
-  "min_price": 4999.0,
-  "missing_runs": 1,
-  "name": "Smoke Factory Tour Hazer II-S",
-  "price": 5099.0,
-  "ref_price": null,
-  "reported_price": 5099.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/smoke_factory_tour_hazer_iis.htm"
- },
  "solar_guitars_a1.7_vinter_pearl_white_matte.htm": {
   "badge": "",
   "discount": null,
@@ -27228,7 +27166,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "stairville_bel4_battery_event_ligh_bundle.htm",
-  "last_change": "2026-11-24T00:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 974.0,
   "min_price": 968.0,
   "missing_runs": 0,
@@ -27239,8 +27177,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm"
  },
  "stairville_bel4_battery_event_light_4x15w.htm": {
@@ -27662,27 +27600,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/stairville_hl_x180_cw_ww.htm"
- },
- "stairville_hl_x90_rgb_ww_bundle.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "stairville_hl_x90_rgb_ww_bundle.htm",
-  "last_change": "2026-11-26T21:59Z",
-  "last_seen": "2026-11-27T18:59Z",
-  "max_price": 1999.0,
-  "min_price": 1990.0,
-  "missing_runs": 1,
-  "name": "Stairville HL-x90 RGB WW Bundle",
-  "price": 1999.0,
-  "ref_price": null,
-  "reported_price": 1990.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "wyprzedany",
-  "stock_state": "out",
-  "url": "https://www.thomann.pl/stairville_hl_x90_rgb_ww_bundle.htm"
  },
  "stairville_hz_1500_pro_hazer_dmx_bundle.htm": {
   "badge": "",
@@ -33905,27 +33822,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/vic_firth_sti_tommy_igoe_signature.htm"
  },
- "walrus_audio_canvas_rehearsal.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-26T03:59Z",
-  "id": "walrus_audio_canvas_rehearsal.htm",
-  "last_change": "2026-11-26T03:59Z",
-  "last_seen": "2026-11-27T18:59Z",
-  "max_price": 744.0,
-  "min_price": 744.0,
-  "missing_runs": 1,
-  "name": "Walrus Audio Canvas Rehearsal",
-  "price": 744.0,
-  "ref_price": null,
-  "reported_price": 744.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm"
- },
  "walrus_audio_canvas_stereo.htm": {
   "badge": "",
   "discount": null,
@@ -34767,27 +34663,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_genos_2_speaker_bundle.htm"
  },
- "yamaha_hph_mt8.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "yamaha_hph_mt8.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-27T18:59Z",
-  "max_price": 749.0,
-  "min_price": 744.0,
-  "missing_runs": 1,
-  "name": "Yamaha HPH-MT8",
-  "price": 749.0,
-  "ref_price": null,
-  "reported_price": 744.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/yamaha_hph_mt8.htm"
- },
  "yamaha_my16_dante_aud2.htm": {
   "badge": "",
   "discount": null,
@@ -35037,7 +34912,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_psr_e483.htm",
-  "last_change": "2026-11-21T21:46Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 1359.0,
   "min_price": 1333.0,
   "missing_runs": 0,
@@ -35048,8 +34923,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_psr_e483.htm"
  },
  "yamaha_psr_e483_bag_bundle.htm": {
@@ -35057,7 +34932,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_psr_e483_bag_bundle.htm",
-  "last_change": "2026-11-20T18:59Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 1539.0,
   "min_price": 1529.0,
   "missing_runs": 0,
@@ -35068,8 +34943,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_psr_e483_bag_bundle.htm"
  },
  "yamaha_psr_e583.htm": {
@@ -35077,7 +34952,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "yamaha_psr_e583.htm",
-  "last_change": "2026-11-16T10:55Z",
+  "last_change": "2026-11-28T01:00Z",
   "max_price": 1799.0,
   "min_price": 1790.0,
   "missing_runs": 0,
@@ -35088,8 +34963,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_psr_e583.htm"
  },
  "yamaha_psr_sx720_bench_bundle.htm": {
