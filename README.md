@@ -3,46 +3,38 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-28 02:00 CET · **1793** deals tracked of 1793 advertised · checks every **3 h**
+**Last check:** 2026-11-28 05:00 CET · **1802** deals tracked of 1802 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-❌ 6 removed deals · ✅ 2 back in stock · 📦 10 stock changes → [full report](changes/2026-11-28T0100Z.md)
+🆕 2 new deals · 🔁 7 returned deals · ❌ 1 removed deals → [full report](changes/2026-11-28T0400Z.md)
 
-### ❌ Removed deals (6)
+### 🆕 New deals (2)
 
 | Product | Price | Discount | 30-day best | Stock | Badge |
 |---|--:|--:|--:|---|---|
-| [Alesis Nitro Ultimate Drum Kit Bundle](https://www.thomann.pl/alesis_nitro_ultimate_drum_kit_bundle.htm) | 3 499 zł |  |  | Dostępny w magazynie |  |
-| [Fun Generation LED Puck ONE Set of 2](https://www.thomann.pl/fun_generation_led_puck_one_set_of_2.htm) | 219 zł |  |  | Dostępny w magazynie |  |
-| [Smoke Factory Tour Hazer II-S](https://www.thomann.pl/smoke_factory_tour_hazer_iis.htm) | 5 099 zł |  |  | Dostępny w magazynie | GIVEAWAY |
-| [Stairville HL-x90 RGB WW Bundle](https://www.thomann.pl/stairville_hl_x90_rgb_ww_bundle.htm) | 1 999 zł |  |  | wyprzedany |  |
-| [Walrus Audio Canvas Rehearsal](https://www.thomann.pl/walrus_audio_canvas_rehearsal.htm) | 744 zł |  |  | Dostępny w magazynie |  |
-| [Yamaha HPH-MT8](https://www.thomann.pl/yamaha_hph_mt8.htm) | 749 zł |  |  | Dostępny w magazynie |  |
+| [Dixon PP-PCPD1 Precision Coil Pedal](https://www.thomann.pl/dixon_pp_pcpd1_precision_coil_pedal.htm) | 1 299 zł | ‑37% | 2 075 zł | Dostępny w magazynie |  |
+| [Gibson Hummingbird Faded VS](https://www.thomann.pl/gibson_hummingbird_faded_vs.htm) | 11 555 zł |  |  | Dostępny w magazynie |  |
 
-### ✅ Back in stock (2)
+### 🔁 Returned deals (7)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Hils Next HN6 Ultra Violet](https://www.thomann.pl/hils_next_hn6_ultra_violet.htm) | 2 599 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
-| [Höfner Verythin CT Deluxe Special SB](https://www.thomann.pl/hoefner_verythin_ct_deluxe_special_sb.htm) | 2 199 zł | Krótki czas oczekiwania (zazwyczaj 2-5 dni) | **Dostępny w magazynie** |
+| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
+|---|--:|--:|--:|--:|---|---|
+| [Citadel Bus Driver](https://www.thomann.pl/citadel_bus_driver.htm) | **395 zł** | 389 zł | ‑43% | 698 zł | Dostępny za 1–2 tygodnie | 2026‑11‑26 17:00 |
+| [Electro Harmonix LPB-3 Boost & EQ](https://www.thomann.pl/electro_harmonix_lpb_3_boost_eq.htm) | **444 zł** | 444 zł | ‑33% | 666 zł | Dostępny w magazynie | 2026‑11‑20 01:46 |
+| [Harley Benton Fusion-III HSH Roasted FBLB](https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm) | **1 299 zł** | 1 299 zł | ‑22% | 1 655 zł | Dostępny w magazynie | 2026‑11‑22 16:10 |
+| [DAngelico Excel EXL1 Dark Iced Tea Burst](https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea_burst.htm) | **3 699 zł** | 3 699 zł | ‑15% | 4 333 zł | Dostępny w magazynie | 2026‑11‑27 01:59 |
+| [Gibson Les Paul 68 Custom Reissue EB](https://www.thomann.pl/gibson_les_paul_68_custom_reissue_eb.htm) | **25 690 zł** | 25 690 zł |  |  | Dostępny w magazynie | 2026‑11‑27 13:59 |
+| [Zoom LiveTrak L-6](https://www.thomann.pl/zoom_livetrak_l_6.htm) | **869 zł** | 869 zł |  |  | Dostępny za 2–3 tygodnie | 2026‑11‑26 11:00 |
+| [Martin Guitar SC-13E MOD Ziricote Burst Sp](https://www.thomann.pl/martin_guitar_sc_13e_mod_ziricote_burst_sp.htm) | **7 899 zł** | 7 899 zł |  |  | Dostępny w magazynie | 2026‑11‑26 22:59 |
 
-### 📦 Stock changes (10)
+### ❌ Removed deals (1)
 
-| Product | Price | Was | Now |
-|---|--:|---|---|
-| [Yamaha PSR-E583](https://www.thomann.pl/yamaha_psr_e583.htm) | 1 799 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Stairville BEL4 Battery Event Ligh Bundle](https://www.thomann.pl/stairville_bel4_battery_event_ligh_bundle.htm) | 974 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton ST-20HH Active SBK Bundle](https://www.thomann.pl/harley_benton_st_20hh_active_sbk_bundle_package.htm) | 749 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha PSR-E483 Bag Bundle](https://www.thomann.pl/yamaha_psr_e483_bag_bundle.htm) | 1 539 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton ST-20HH SBK w/Marshall MG15GFX](https://www.thomann.pl/harley_benton_st_20hh_sbk_w_marshall_mg15gfx.htm) | 1 269 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Hils Next HN4 Ivory](https://www.thomann.pl/hils_next_hn4_ivory.htm) | 1 755 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton TB-70VS LH Deluxe Series](https://www.thomann.pl/harley_benton_tb_70vs_lh_deluxe_series.htm) | 777 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton GS-Travel-E Mahogany](https://www.thomann.pl/harley_benton_gs_travel_e_mahogany.htm) | 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Audio-Technica ATH-M50XBT2](https://www.thomann.pl/audio_technica_ath_m50_xbt2.htm) | 722 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Yamaha PSR-E483](https://www.thomann.pl/yamaha_psr_e483.htm) | 1 359 zł | dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [K&M 12197](https://www.thomann.pl/km_12197.htm) | 171 zł |  |  | Dostępny w magazynie |  |
 
 <!-- DASHBOARD:END -->
 

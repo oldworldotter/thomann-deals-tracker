@@ -4378,6 +4378,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/cincinnati_washboards_pro_black_edition.htm"
  },
+ "citadel_bus_driver.htm": {
+  "badge": "",
+  "discount": 43,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "citadel_bus_driver.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 395.0,
+  "min_price": 395.0,
+  "missing_runs": 0,
+  "name": "Citadel Bus Driver",
+  "price": 395.0,
+  "ref_price": 698.0,
+  "reported_price": 395.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/citadel_bus_driver.htm"
+ },
  "citadel_dynazero.htm": {
   "badge": "",
   "discount": null,
@@ -4797,6 +4817,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/dan_clark_audio_aeon_2_open_back.htm"
+ },
+ "dangelico_excel_exl1_dark_iced_tea_burst.htm": {
+  "badge": "",
+  "discount": 15,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "dangelico_excel_exl1_dark_iced_tea_burst.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 3699.0,
+  "min_price": 3699.0,
+  "missing_runs": 0,
+  "name": "DAngelico Excel EXL1 Dark Iced Tea Burst",
+  "price": 3699.0,
+  "ref_price": 4333.0,
+  "reported_price": 3699.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/dangelico_excel_exl1_dark_iced_tea_burst.htm"
  },
  "darkglass_anagram.htm": {
   "badge": "",
@@ -5277,6 +5317,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/digitech_whammy_hammer_on.htm"
+ },
+ "dixon_pp_pcpd1_precision_coil_pedal.htm": {
+  "badge": "",
+  "discount": 37,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "dixon_pp_pcpd1_precision_coil_pedal.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 1299.0,
+  "min_price": 1299.0,
+  "missing_runs": 0,
+  "name": "Dixon PP-PCPD1 Precision Coil Pedal",
+  "price": 1299.0,
+  "ref_price": 2075.0,
+  "reported_price": 1299.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/dixon_pp_pcpd1_precision_coil_pedal.htm"
  },
  "dixon_psn_9_drum_throne.htm": {
   "badge": "",
@@ -5898,6 +5958,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/electro_harmonix_deluxe_big_muff_pi_2_fuzz.htm"
+ },
+ "electro_harmonix_lpb_3_boost_eq.htm": {
+  "badge": "",
+  "discount": 33,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "electro_harmonix_lpb_3_boost_eq.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 444.0,
+  "min_price": 444.0,
+  "missing_runs": 0,
+  "name": "Electro Harmonix LPB-3 Boost & EQ",
+  "price": 444.0,
+  "ref_price": 666.0,
+  "reported_price": 444.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/electro_harmonix_lpb_3_boost_eq.htm"
  },
  "electro_harmonix_pico_atomic_cluster.htm": {
   "badge": "",
@@ -9743,6 +9823,26 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_es_335_60s_vintage_burst.htm"
  },
+ "gibson_hummingbird_faded_vs.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "gibson_hummingbird_faded_vs.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 11555.0,
+  "min_price": 11555.0,
+  "missing_runs": 0,
+  "name": "Gibson Hummingbird Faded VS",
+  "price": 11555.0,
+  "ref_price": null,
+  "reported_price": 11555.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/gibson_hummingbird_faded_vs.htm"
+ },
  "gibson_j_185_century_12_fret_eb.htm": {
   "badge": "",
   "discount": null,
@@ -9962,6 +10062,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/gibson_les_paul_68_custom_r_eb_lh.htm"
+ },
+ "gibson_les_paul_68_custom_reissue_eb.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "gibson_les_paul_68_custom_reissue_eb.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 25690.0,
+  "min_price": 25690.0,
+  "missing_runs": 0,
+  "name": "Gibson Les Paul 68 Custom Reissue EB",
+  "price": 25690.0,
+  "ref_price": null,
+  "reported_price": 25690.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/gibson_les_paul_68_custom_reissue_eb.htm"
  },
  "gibson_les_paul_standard_60s_aaa_lb.htm": {
   "badge": "",
@@ -11282,6 +11402,26 @@
   "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
   "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_eb_fblb_w_safe.htm"
+ },
+ "harley_benton_fusion_iii_hsh_roasted_fblb.htm": {
+  "badge": "",
+  "discount": 22,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "harley_benton_fusion_iii_hsh_roasted_fblb.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 1299.0,
+  "min_price": 1299.0,
+  "missing_runs": 0,
+  "name": "Harley Benton Fusion-III HSH Roasted FBLB",
+  "price": 1299.0,
+  "ref_price": 1655.0,
+  "reported_price": 1299.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/harley_benton_fusion_iii_hsh_roasted_fblb.htm"
  },
  "harley_benton_fusion_iii_hss_roasted_fbb.htm": {
   "badge": "",
@@ -16684,27 +16824,6 @@
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/km_107_spezialnotenpult_2.htm"
  },
- "km_12197.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "km_12197.htm",
-  "last_change": "2026-11-16T10:55Z",
-  "last_seen": "2026-11-27T21:59Z",
-  "max_price": 171.0,
-  "min_price": 170.0,
-  "missing_runs": 1,
-  "name": "K&M 12197",
-  "price": 171.0,
-  "ref_price": null,
-  "reported_price": 170.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/km_12197.htm"
- },
  "km_21010_microphone_stand.htm": {
   "badge": "GIVEAWAY",
   "discount": null,
@@ -19446,6 +19565,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/martin_guitar_hd1228_lh.htm"
+ },
+ "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 7899.0,
+  "min_price": 7899.0,
+  "missing_runs": 0,
+  "name": "Martin Guitar SC-13E MOD Ziricote Burst Sp",
+  "price": 7899.0,
+  "ref_price": null,
+  "reported_price": 7899.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
+  "url": "https://www.thomann.pl/martin_guitar_sc_13e_mod_ziricote_burst_sp.htm"
  },
  "martin_guitar_sce_all_satin_black_bs.htm": {
   "badge": "",
@@ -35847,6 +35986,26 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/zoom_g2_four_guitar_multi_effect.htm"
+ },
+ "zoom_livetrak_l_6.htm": {
+  "badge": "",
+  "discount": null,
+  "first_seen": "2026-11-28T04:00Z",
+  "id": "zoom_livetrak_l_6.htm",
+  "last_change": "2026-11-28T04:00Z",
+  "max_price": 869.0,
+  "min_price": 869.0,
+  "missing_runs": 0,
+  "name": "Zoom LiveTrak L-6",
+  "price": 869.0,
+  "ref_price": null,
+  "reported_price": 869.0,
+  "sections": [
+   "Przegląd wszystkich ofert"
+  ],
+  "stock": "Dostępny za 2–3 tygodnie",
+  "stock_state": "delayed",
+  "url": "https://www.thomann.pl/zoom_livetrak_l_6.htm"
  },
  "zoom_m2_mictrak.htm": {
   "badge": "",

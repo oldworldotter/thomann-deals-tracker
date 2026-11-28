@@ -111,10 +111,6 @@
   "price": 299.0,
   "removed_at": "2026-11-17T09:59Z"
  },
- "citadel_bus_driver.htm": {
-  "price": 389.0,
-  "removed_at": "2026-11-26T16:00Z"
- },
  "cort_cm15_r_dark_blue.htm": {
   "price": 299.0,
   "removed_at": "2026-11-17T12:59Z"
@@ -138,10 +134,6 @@
  "dangelico_excel_exl1_dark_iced_tea.htm": {
   "price": 3699.0,
   "removed_at": "2026-11-20T06:59Z"
- },
- "dangelico_excel_exl1_dark_iced_tea_burst.htm": {
-  "price": 3699.0,
-  "removed_at": "2026-11-27T00:59Z"
  },
  "dangelico_excel_style_b_amber.htm": {
   "price": 3699.0,
@@ -182,10 +174,6 @@
  "electro_harmonix_deluxe_bass_big_muff_pi_2_fuzz.htm": {
   "price": 666.0,
   "removed_at": "2026-11-23T22:00Z"
- },
- "electro_harmonix_lpb_3_boost_eq.htm": {
-  "price": 444.0,
-  "removed_at": "2026-11-20T00:46Z"
  },
  "electro_harmonix_percolator_overdrive_fuzz.htm": {
   "price": 344.0,
@@ -339,10 +327,6 @@
   "price": 10666.0,
   "removed_at": "2026-11-25T13:00Z"
  },
- "gibson_les_paul_68_custom_reissue_eb.htm": {
-  "price": 25690.0,
-  "removed_at": "2026-11-27T12:59Z"
- },
  "gibson_les_paul_custom_70s_wine_red.htm": {
   "price": 13333.0,
   "removed_at": "2026-11-25T00:57Z"
@@ -382,10 +366,6 @@
  "guild_starfire_i_dc_cherry.htm": {
   "price": 1977.0,
   "removed_at": "2026-11-25T00:57Z"
- },
- "harley_benton_fusion_iii_hsh_roasted_fblb.htm": {
-  "price": 1299.0,
-  "removed_at": "2026-11-22T15:10Z"
  },
  "harley_benton_fusion_iv_hh_mn_otc.htm": {
   "price": 1499.0,
@@ -507,6 +487,10 @@
   "price": 88.0,
   "removed_at": "2026-11-26T16:00Z"
  },
+ "km_12197.htm": {
+  "price": 171.0,
+  "removed_at": "2026-11-28T04:00Z"
+ },
  "korg_pa_1000.htm": {
   "price": 7499.0,
   "removed_at": "2026-11-26T18:59Z"
@@ -622,10 +606,6 @@
  "martin_guitar_d_jr_e_streetmaster.htm": {
   "price": 3069.0,
   "removed_at": "2026-11-24T22:00Z"
- },
- "martin_guitar_sc_13e_mod_ziricote_burst_sp.htm": {
-  "price": 7899.0,
-  "removed_at": "2026-11-26T21:59Z"
  },
  "martin_guitars_00028_sunburst.htm": {
   "price": 16290.0,
@@ -1210,10 +1190,6 @@
  "zoom_livetrak_l_20.htm": {
   "price": 3090.0,
   "removed_at": "2026-11-27T03:59Z"
- },
- "zoom_livetrak_l_6.htm": {
-  "price": 869.0,
-  "removed_at": "2026-11-26T10:00Z"
  },
  "zoom_v6_sp.htm": {
   "price": 879.0,
