@@ -243,6 +243,10 @@
   "price": 3111.0,
   "removed_at": "2026-11-27T03:59Z"
  },
+ "esp_ltd_ec_01_ft_black_fluence.htm": {
+  "price": 4899.0,
+  "removed_at": "2026-11-28T10:00Z"
+ },
  "esp_ltd_mt_i_mick_thomson_sig.htm": {
   "price": 7222.0,
   "removed_at": "2026-11-20T06:59Z"
@@ -282,6 +286,10 @@
  "focal_alpha_65_evo.htm": {
   "price": 1433.0,
   "removed_at": "2026-11-26T16:00Z"
+ },
+ "focal_alpha_80_evo.htm": {
+  "price": 1329.0,
+  "removed_at": "2026-11-28T10:00Z"
  },
  "focusrite_scarlett_solo_3rd_gen.htm": {
   "price": 388.0,
@@ -1070,6 +1078,10 @@
  "tone_city_holy_aura_distortion_boost.htm": {
   "price": 259.0,
   "removed_at": "2026-11-26T21:59Z"
+ },
+ "tone_city_substation_multi_power_supply.htm": {
+  "price": 171.0,
+  "removed_at": "2026-11-28T10:00Z"
  },
  "tone_king_imperial_tri_tube_preamp.htm": {
   "price": 2399.0,

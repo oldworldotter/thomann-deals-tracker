@@ -3,27 +3,40 @@
 Tracks **every** deal on [thomann.pl Cyber Deals](https://www.thomann.pl/special_cyber-deals.html) (all pages behind "Pokaż więcej") and reports what changed since the last check: new and removed deals, price drops and rises, discount changes, and stock changes. It runs for free on GitHub Actions and writes plain Markdown, so you can read it on any phone.
 
 <!-- DASHBOARD:START -->
-**Last check:** 2026-11-28 08:00 CET · **1800** deals tracked of 1800 advertised · checks every **3 h**
+**Last check:** 2026-11-28 11:00 CET · **1794** deals tracked of 1794 advertised · checks every **3 h**
 
 📋 [All deals](deals.md) · 👀 [Watchlist](watchlist.md) (0) · 🕘 [Change log](CHANGELOG.md) · ⚙️ [Settings](config.yml)
 
 ## Latest changes
 
-🔁 1 returned deals · 📦 3 stock changes → [full report](changes/2026-11-28T0700Z.md)
+❌ 3 removed deals · ✅ 1 back in stock · 📦 8 stock changes → [full report](changes/2026-11-28T1000Z.md)
 
-### 🔁 Returned deals (1)
+### ❌ Removed deals (3)
 
-| Product | Price | Price when removed | Discount | 30-day best | Stock | Removed |
-|---|--:|--:|--:|--:|---|---|
-| [Stairville HL-x90 RGB WW Bundle](https://www.thomann.pl/stairville_hl_x90_rgb_ww_bundle.htm) | **1 999 zł** | 1 999 zł |  |  | wyprzedany | 2026‑11‑28 02:00 |
+| Product | Price | Discount | 30-day best | Stock | Badge |
+|---|--:|--:|--:|---|---|
+| [ESP LTD EC-1000 FT Black Fluence](https://www.thomann.pl/esp_ltd_ec_01_ft_black_fluence.htm) | 4 899 zł | ‑42% | 8 444 zł | Dostępny za 1–2 tygodnie |  |
+| [Focal Alpha 80 Evo](https://www.thomann.pl/focal_alpha_80_evo.htm) | 1 329 zł |  |  | Dostępny w magazynie |  |
+| [Tone City Substation Multi-Power Supply](https://www.thomann.pl/tone_city_substation_multi_power_supply.htm) | 171 zł |  |  | Dostępny w magazynie |  |
 
-### 📦 Stock changes (3)
+### ✅ Back in stock (1)
 
 | Product | Price | Was | Now |
 |---|--:|---|---|
-| [Harley Benton PJ-5 SBK Deluxe Series](https://www.thomann.pl/harley_benton_pj_5_sbk_deluxe_series.htm) | 568 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Harley Benton SC-Custom III Gold Top](https://www.thomann.pl/harley_benton_sc_custom_iii_gold_top.htm) | 1 090 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
-| [Thomann Student Pro Viola Set 16"](https://www.thomann.pl/thomann_student_pro_viola_set_16.htm) | 666 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [ESP SN-201 HT BK](https://www.thomann.pl/esp_sn_201_ht_bk.htm) | 1 555 zł | Dostępny za 1–2 tygodnie | **Dostępny w magazynie** |
+
+### 📦 Stock changes (8)
+
+| Product | Price | Was | Now |
+|---|--:|---|---|
+| [Citadel Planetary Phase](https://www.thomann.pl/citadel_planetary_phase.htm) | 333 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Hils HZB4 SBK](https://www.thomann.pl/hils_hzb4_sbk.htm) | 1 959 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Yamaha CLP-875 WH](https://www.thomann.pl/yamaha_clp_875_wh.htm) | 13 080 zł | Dostępny w magazynie | **Dostępny za 1–2 tygodnie** |
+| [Recording King RM-999E-RN](https://www.thomann.pl/recording_king_rm_999e_rn.htm) | 2 599 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton CLD-60SMCE NT Bundle](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm) | 549 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Thomann FL-200 Flute](https://www.thomann.pl/thomann_fls_querfloete.htm) | 719 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton CLP-12SM BRS Solid Top](https://www.thomann.pl/harley_benton_clp_12sm_brs_solid_top.htm) | 999 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
+| [Harley Benton CLD-60SMCE NT w/Bag](https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle.htm) | 549 zł | Dostępny w magazynie | **Krótki czas oczekiwania (zazwyczaj 2-5 dni)** |
 
 <!-- DASHBOARD:END -->
 

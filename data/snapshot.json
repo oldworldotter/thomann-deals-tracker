@@ -4463,7 +4463,7 @@
   "discount": 49,
   "first_seen": "2026-11-27T12:59Z",
   "id": "citadel_planetary_phase.htm",
-  "last_change": "2026-11-27T12:59Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 333.0,
   "min_price": 333.0,
   "missing_runs": 0,
@@ -4474,8 +4474,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/citadel_planetary_phase.htm"
  },
  "citadel_plutonium_overdrive.htm": {
@@ -4824,9 +4824,10 @@
   "first_seen": "2026-11-28T04:00Z",
   "id": "dangelico_excel_exl1_dark_iced_tea_burst.htm",
   "last_change": "2026-11-28T04:00Z",
+  "last_seen": "2026-11-28T07:00Z",
   "max_price": 3699.0,
   "min_price": 3699.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "DAngelico Excel EXL1 Dark Iced Tea Burst",
   "price": 3699.0,
   "ref_price": 4333.0,
@@ -6695,7 +6696,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_eclipse_custom_tiger_eye_sb.htm"
  },
@@ -6758,27 +6759,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_ltd_arrow_qm_dark_brown_burst.htm"
- },
- "esp_ltd_ec_01_ft_black_fluence.htm": {
-  "badge": "",
-  "discount": 42,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "esp_ltd_ec_01_ft_black_fluence.htm",
-  "last_change": "2026-11-25T00:57Z",
-  "last_seen": "2026-11-28T04:00Z",
-  "max_price": 4899.0,
-  "min_price": 4899.0,
-  "missing_runs": 1,
-  "name": "ESP LTD EC-1000 FT Black Fluence",
-  "price": 4899.0,
-  "ref_price": 8444.0,
-  "reported_price": 4899.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
-  "url": "https://www.thomann.pl/esp_ltd_ec_01_ft_black_fluence.htm"
  },
  "esp_ltd_hh3_1000fr_metallic_silver.htm": {
   "badge": "",
@@ -6925,7 +6905,7 @@
   "discount": 42,
   "first_seen": "2026-11-16T10:55Z",
   "id": "esp_sn_201_ht_bk.htm",
-  "last_change": "2026-11-27T10:00Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 1555.0,
   "min_price": 1555.0,
   "missing_runs": 0,
@@ -6936,8 +6916,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny za 1–2 tygodnie",
-  "stock_state": "delayed",
+  "stock": "Dostępny w magazynie",
+  "stock_state": "in_stock",
   "url": "https://www.thomann.pl/esp_sn_201_ht_bk.htm"
  },
  "eurolite_led_kls_laser_bar_air_bundle.htm": {
@@ -8820,27 +8800,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/flyht_pro_wp_safe_box_8_ip65.htm"
- },
- "focal_alpha_80_evo.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-27T15:59Z",
-  "id": "focal_alpha_80_evo.htm",
-  "last_change": "2026-11-27T15:59Z",
-  "last_seen": "2026-11-28T04:00Z",
-  "max_price": 1329.0,
-  "min_price": 1329.0,
-  "missing_runs": 1,
-  "name": "Focal Alpha 80 Evo",
-  "price": 1329.0,
-  "ref_price": null,
-  "reported_price": 1329.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/focal_alpha_80_evo.htm"
  },
  "focal_alpha_twin_evo.htm": {
   "badge": "",
@@ -10850,7 +10809,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_cld_60smce_nt_bundle.htm",
-  "last_change": "2026-11-23T06:59Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 549.0,
   "min_price": 545.0,
   "missing_runs": 0,
@@ -10861,8 +10820,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle.htm"
  },
  "harley_benton_cld_60smce_nt_bundle_set.htm": {
@@ -10870,7 +10829,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_cld_60smce_nt_bundle_set.htm",
-  "last_change": "2026-11-23T06:59Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 549.0,
   "min_price": 545.0,
   "missing_runs": 0,
@@ -10881,8 +10840,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_cld_60smce_nt_bundle_set.htm"
  },
  "harley_benton_clf_50e_black_metallic.htm": {
@@ -10930,7 +10889,7 @@
   "discount": 8,
   "first_seen": "2026-11-16T10:55Z",
   "id": "harley_benton_clp_12sm_brs_solid_top.htm",
-  "last_change": "2026-11-24T19:00Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 999.0,
   "min_price": 999.0,
   "missing_runs": 0,
@@ -10941,8 +10900,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/harley_benton_clp_12sm_brs_solid_top.htm"
  },
  "harley_benton_ctg_20_usb_clip_tuner.htm": {
@@ -11411,9 +11370,10 @@
   "first_seen": "2026-11-28T04:00Z",
   "id": "harley_benton_fusion_iii_hsh_roasted_fblb.htm",
   "last_change": "2026-11-28T04:00Z",
+  "last_seen": "2026-11-28T07:00Z",
   "max_price": 1299.0,
   "min_price": 1299.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Harley Benton Fusion-III HSH Roasted FBLB",
   "price": 1299.0,
   "ref_price": 1655.0,
@@ -13710,7 +13670,7 @@
   "discount": null,
   "first_seen": "2026-11-18T18:17Z",
   "id": "hils_hzb4_sbk.htm",
-  "last_change": "2026-11-27T10:00Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 1959.0,
   "min_price": 1899.0,
   "missing_runs": 0,
@@ -13721,8 +13681,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/hils_hzb4_sbk.htm"
  },
  "hils_hzb4_ssv.htm": {
@@ -16432,9 +16392,10 @@
   "first_seen": "2026-11-16T10:55Z",
   "id": "kala_ka_teak_s_soprano_ukulele.htm",
   "last_change": "2026-11-20T21:59Z",
+  "last_seen": "2026-11-28T07:00Z",
   "max_price": 154.0,
   "min_price": 153.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Kala KA-TEAK-S Soprano Ukulele",
   "price": 154.0,
   "ref_price": null,
@@ -21368,7 +21329,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
+  "stock": "dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/nano_modules_ona.htm"
  },
@@ -24060,7 +24021,7 @@
   "discount": 33,
   "first_seen": "2026-11-25T18:59Z",
   "id": "recording_king_rm_999e_rn.htm",
-  "last_change": "2026-11-26T16:00Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 2599.0,
   "min_price": 2599.0,
   "missing_runs": 0,
@@ -24071,8 +24032,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/recording_king_rm_999e_rn.htm"
  },
  "recording_king_rr_41e_vs_resonatorrattlesnake.htm": {
@@ -24151,7 +24112,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/reloop_rp_5000_mk4_cyber_bundle.htm"
  },
@@ -26228,9 +26189,10 @@
   "first_seen": "2026-11-18T18:17Z",
   "id": "solar_guitars_a2.6_c_g2.htm",
   "last_change": "2026-11-25T18:59Z",
+  "last_seen": "2026-11-28T07:00Z",
   "max_price": 2990.0,
   "min_price": 2939.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Solar Guitars A2.6C",
   "price": 2990.0,
   "ref_price": null,
@@ -28948,9 +28910,10 @@
   "first_seen": "2026-11-26T16:00Z",
   "id": "supro_delta_king_12_combo_emerland.htm",
   "last_change": "2026-11-26T16:00Z",
+  "last_seen": "2026-11-28T07:00Z",
   "max_price": 1769.0,
   "min_price": 1769.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Supro Delta King 12 CE",
   "price": 1769.0,
   "ref_price": null,
@@ -31147,7 +31110,7 @@
   "discount": null,
   "first_seen": "2026-11-16T10:55Z",
   "id": "thomann_fls_querfloete.htm",
-  "last_change": "2026-11-27T18:59Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 719.0,
   "min_price": 699.0,
   "missing_runs": 0,
@@ -31158,8 +31121,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Krótki czas oczekiwania (zazwyczaj 2-5 dni)",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/thomann_fls_querfloete.htm"
  },
  "thomann_gcl_422_mkii_bb_clarinet.htm": {
@@ -32421,27 +32384,6 @@
   "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/tone_city_nobleman_overdrive.htm"
- },
- "tone_city_substation_multi_power_supply.htm": {
-  "badge": "",
-  "discount": null,
-  "first_seen": "2026-11-16T10:55Z",
-  "id": "tone_city_substation_multi_power_supply.htm",
-  "last_change": "2026-11-23T18:59Z",
-  "last_seen": "2026-11-28T04:00Z",
-  "max_price": 171.0,
-  "min_price": 170.0,
-  "missing_runs": 1,
-  "name": "Tone City Substation Multi-Power Supply",
-  "price": 171.0,
-  "ref_price": null,
-  "reported_price": 170.0,
-  "sections": [
-   "Przegląd wszystkich ofert"
-  ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
-  "url": "https://www.thomann.pl/tone_city_substation_multi_power_supply.htm"
  },
  "tone_king_imperial_mk_ii_trq.htm": {
   "badge": "",
@@ -34610,7 +34552,7 @@
   "discount": 9,
   "first_seen": "2026-11-23T00:59Z",
   "id": "yamaha_clp_875_wh.htm",
-  "last_change": "2026-11-23T00:59Z",
+  "last_change": "2026-11-28T10:00Z",
   "max_price": 13080.0,
   "min_price": 13080.0,
   "missing_runs": 0,
@@ -34621,8 +34563,8 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "Dostępny w magazynie",
-  "stock_state": "in_stock",
+  "stock": "Dostępny za 1–2 tygodnie",
+  "stock_state": "delayed",
   "url": "https://www.thomann.pl/yamaha_clp_875_wh.htm"
  },
  "yamaha_csp_255_b.htm": {
@@ -35002,7 +34944,7 @@
   "sections": [
    "Przegląd wszystkich ofert"
   ],
-  "stock": "dostępny w magazynie",
+  "stock": "Dostępny w magazynie",
   "stock_state": "in_stock",
   "url": "https://www.thomann.pl/yamaha_p_225_wh.htm"
  },
@@ -35275,9 +35217,10 @@
   "first_seen": "2026-11-17T01:00Z",
   "id": "yamaha_reface_cp.htm",
   "last_change": "2026-11-24T19:00Z",
+  "last_seen": "2026-11-28T07:00Z",
   "max_price": 1359.0,
   "min_price": 1333.0,
-  "missing_runs": 0,
+  "missing_runs": 1,
   "name": "Yamaha Reface CP",
   "price": 1359.0,
   "ref_price": null,
